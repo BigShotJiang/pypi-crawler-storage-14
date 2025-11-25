@@ -1,0 +1,11 @@
+{
+  "name": "scTOP",
+  "version": "2.0.3",
+  "summary": "A package for analyzing cell type using single-cell RNA-sequencing data.",
+  "author": "Maria Yampolskaya, Huan Souza",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/Emergent-Behaviors-in-Biology/scTOP",
+  "download_filename": "sctop-2.0.3.tar.gz",
+  "download_time": "2025-11-25T22:48:52.848354",
+  "package_url": "https://pypi.org/project/scTOP/"
+}

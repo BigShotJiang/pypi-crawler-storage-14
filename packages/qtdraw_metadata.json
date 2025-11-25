@@ -1,11 +1,11 @@
 {
   "name": "qtdraw",
-  "version": "2.5.0",
+  "version": "2.5.1",
   "summary": "3D drawing tool for molecules and crystals based on Pyvista and PySide6.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "qtdraw-2.5.0.tar.gz",
-  "download_time": "2025-11-25T15:52:03.131976",
+  "download_filename": "qtdraw-2.5.1.tar.gz",
+  "download_time": "2025-11-25T22:48:45.988576",
   "package_url": "https://pypi.org/project/qtdraw/"
 }

@@ -1,22 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-25T22:33:54.353392
+- **Download Time**: 2025-11-25T22:49:14.716985
 - **Total Packages**: 87
-- **Total Size**: 37.03 MB
+- **Total Size**: 40.31 MB
 
 ## Packages List
+- inatinqperf
+- seleniumbase
+- whisperlivekit
+- cf-basic-signal
+- carbonarc
+- portman-cli
+- jobsync
+- tt-smi
+- gw-agn-watcher
+- rowdybottypiper
+- tap-pushbullet
+- uniPairs
+- ngcsdk
+- cao-lang
+- docuai
+- play-launch
+- jupyter-ai-magics
+- jupyter-ai
+- pulumi-gcp
+- bibtheque
+- apple-search-ads-client
+- datajunction
+- secator
+- datajunction-reflection
+- datajunction-query
+- datajunction-server
+- msfabric-devops
+- galaxy-importer
+- decomp2dbg
+- arcade-serve
+- freemad
+- qtdraw
+- paqpy
+- neurovolume
+- locaria-integrated-testing
+- pandarm
+- curllm
+- astropy
+- janela
+- msgtrace-sdk
+- docent-python
+- nominal-api-protos
+- nominal-api
+- aind-data-schema
+- scTOP
+- fathom-python
 - kaqing
 - streamlit-mermaid-interactive
 - memobj
 - crispr-millipede
 - wave-lang
-- rowdybottypiper
 - headson
-- gw-agn-watcher
 - roomsearch
 - baseapp-ai-langkit
-- neurovolume
 - c2cwsgiutils
 - llm-orchestra
 - dataspace-client
@@ -35,7 +78,6 @@
 - modal
 - python-clamd
 - tinycwrap
-- apple-search-ads-client
 - dspy-cli
 - trly-checkmate
 - fleet-python
@@ -51,45 +93,3 @@
 - swmm-pandas
 - memmachine
 - gpp-client
-- phasic
-- pysilica
-- GoekenDataScience
-- d-units-translation
-- pico-fastapi
-- nvflare
-- etielle
-- rav
-- pretty-warnings
-- gocharts
-- curllm
-- typst-pagemaker
-- webgestaltpy
-- findllm
-- psr-cloud
-- django-nativemojo
-- ilt-panphon
-- synthea-pydantic
-- ucapi-framework
-- pokerkit
-- netbox-sitemap
-- msfabric-devops
-- dt31
-- regula-documentreader-webclient
-- spectralio
-- kanjiba
-- traffic-anomaly
-- wlkngkr
-- sigil-pipeline
-- sigilderg-finetuner
-- human-eval-rust
-- kfp-kubernetes
-- kfp-pipeline-spec
-- kfp
-- s2t
-- metaflow
-- metaflow-stubs
-- kfp-server-api
-- rge256-core
-- phonecodes
-- gmail-archiver-cli
-- fastapi-easylimiter

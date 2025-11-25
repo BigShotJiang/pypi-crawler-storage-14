@@ -1,11 +1,11 @@
 {
   "name": "gw-agn-watcher",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "Python tools for GW AGN follow-up",
   "author": "Hemanth Kumar",
   "license": "MIT",
   "home_page": "https://github.com/Hemanthb1/GW_AGN_watcher",
-  "download_filename": "gw_agn_watcher-0.2.6.tar.gz",
-  "download_time": "2025-11-25T22:33:09.785151",
+  "download_filename": "gw_agn_watcher-0.2.7.tar.gz",
+  "download_time": "2025-11-25T22:48:32.846167",
   "package_url": "https://pypi.org/project/gw-agn-watcher/"
 }

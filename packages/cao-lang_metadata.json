@@ -1,0 +1,11 @@
+{
+  "name": "cao-lang",
+  "version": "0.3.0",
+  "summary": "The node based 'language' that governs the actors of the game Cao-Lo",
+  "author": "Daniel Kiss",
+  "license": null,
+  "home_page": "https://github.com/caolo-game/cao-lang",
+  "download_filename": "cao_lang-0.3.0.tar.gz",
+  "download_time": "2025-11-25T22:48:35.443966",
+  "package_url": "https://pypi.org/project/cao-lang/"
+}
