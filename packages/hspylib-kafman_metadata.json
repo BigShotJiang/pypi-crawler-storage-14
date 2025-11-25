@@ -1,0 +1,11 @@
+{
+  "name": "hspylib-kafman",
+  "version": "0.9.155",
+  "summary": "HsPyLib - Apache Kafka Manager",
+  "author": "Hugo Saporetti Junior",
+  "license": "MIT",
+  "home_page": "https://github.com/yorevs/hspylib",
+  "download_filename": "hspylib_kafman-0.9.155.tar.gz",
+  "download_time": "2025-11-25T21:46:32.277136",
+  "package_url": "https://pypi.org/project/hspylib-kafman/"
+}

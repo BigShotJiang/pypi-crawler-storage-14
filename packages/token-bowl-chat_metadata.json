@@ -1,11 +1,11 @@
 {
   "name": "token-bowl-chat",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "summary": "A fully type-hinted Python client for the Token Bowl Chat Server API with sync and async support and real-time messaging via WebSocket",
   "author": "Token Bowl Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "token_bowl_chat-4.0.1.tar.gz",
-  "download_time": "2025-11-25T19:46:47.267653",
+  "download_filename": "token_bowl_chat-4.0.2.tar.gz",
+  "download_time": "2025-11-25T21:46:31.212406",
   "package_url": "https://pypi.org/project/token-bowl-chat/"
 }

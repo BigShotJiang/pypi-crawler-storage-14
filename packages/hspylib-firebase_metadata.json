@@ -1,0 +1,11 @@
+{
+  "name": "hspylib-firebase",
+  "version": "0.9.156",
+  "summary": "HsPyLib - Firebase integration",
+  "author": "Hugo Saporetti Junior",
+  "license": "MIT",
+  "home_page": "https://github.com/yorevs/hspylib",
+  "download_filename": "hspylib_firebase-0.9.156.tar.gz",
+  "download_time": "2025-11-25T21:46:34.885533",
+  "package_url": "https://pypi.org/project/hspylib-firebase/"
+}

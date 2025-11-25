@@ -1,15 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-25T21:38:59.426570
-- **Total Packages**: 89
-- **Total Size**: 20.91 MB
+- **Download Time**: 2025-11-25T21:47:05.458394
+- **Total Packages**: 91
+- **Total Size**: 18.21 MB
 
 ## Packages List
+- localsage
+- kaqing
+- jacobi-yaskawa-driver
+- jacobi-universal-driver
+- jacobi-simulated-driver
+- jacobi-fanuc-driver
+- autohive-integrations-sdk
+- jacobi-doosan-driver
+- jacobi-abb-driver
+- PyIRTAM
+- ScriptCollection
+- primitive
+- xu60
+- ndevio
+- vivarium-cluster-tools
+- pymobiledevice3
+- gocam
+- tap-socketdev
+- e-models
+- hc-slack-migration
+- tap-belvo
+- openhexa.sdk
+- odoo14-addon-l10n-fr-fec-oca
+- tap-fedidb
+- token-bowl-chat
+- network-visualization
+- hspylib-kafman
+- webcurses
+- fificore
+- hspylib
+- hspylib-hqt
+- hspylib-firebase
 - hspylib-datasource
 - hspylib-clitt
 - odoo-addon-account-partner-required
-- netbox-sitemap
 - mito-ai
 - carconnectivity-connector-volkswagen
 - nek5000reader
@@ -20,7 +51,6 @@
 - corylus
 - bpo
 - kanjiba
-- fificore
 - orb-billing
 - crypticorn
 - algokit-utils
@@ -67,31 +97,3 @@
 - deltafi
 - dv-launcher
 - gensh-cli
-- openforis-whisp
-- janela
-- cjm-transcription-job-manager
-- cellphe
-- unimpeded
-- jax-pyjit
-- cgrtools-plus
-- pyhdl-if
-- peritype
-- tt-smi
-- kaqing
-- noqa-runner
-- celltypist2
-- fluidattacks-core
-- amati
-- django-azure-communication-email
-- itac-pylib
-- matgl
-- galago-tools
-- policyengine-us
-- climdata
-- BudapestMetroDisplay
-- natstat-cli
-- inceptum
-- openhands-tools
-- openhands-agent-server
-- openhands-sdk
-- openhands-workspace

@@ -1,0 +1,11 @@
+{
+  "name": "tap-socketdev",
+  "version": "0.4.5",
+  "summary": "Singer tap for Socket, built with the Meltano SDK for Singer Taps.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tap_socketdev-0.4.5.tar.gz",
+  "download_time": "2025-11-25T21:46:27.528057",
+  "package_url": "https://pypi.org/project/tap-socketdev/"
+}
