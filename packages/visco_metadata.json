@@ -1,0 +1,11 @@
+{
+  "name": "visco",
+  "version": "0.1.9",
+  "summary": "A tool for compressing visibility data using singular value decomposition (SVD)",
+  "author": "Mukundi Ramanyimi",
+  "license": "GNU GPL v3",
+  "home_page": null,
+  "download_filename": "visco-0.1.9.tar.gz",
+  "download_time": "2025-11-25T13:06:26.114883",
+  "package_url": "https://pypi.org/project/visco/"
+}

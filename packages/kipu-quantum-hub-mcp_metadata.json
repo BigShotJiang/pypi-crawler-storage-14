@@ -1,11 +1,11 @@
 {
   "name": "kipu-quantum-hub-mcp",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Kipu Quantum Hub MCP Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kipu_quantum_hub_mcp-1.2.0.tar.gz",
-  "download_time": "2025-11-25T11:28:19.015150",
+  "download_filename": "kipu_quantum_hub_mcp-1.2.1.tar.gz",
+  "download_time": "2025-11-25T13:06:41.016048",
   "package_url": "https://pypi.org/project/kipu-quantum-hub-mcp/"
 }

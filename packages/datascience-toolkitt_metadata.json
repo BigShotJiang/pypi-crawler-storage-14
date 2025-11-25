@@ -1,0 +1,11 @@
+{
+  "name": "datascience-toolkitt",
+  "version": "1.0.0",
+  "summary": "All assignment programs packaged into one toolkit",
+  "author": "Anirudha",
+  "license": "MIT",
+  "home_page": "https://github.com/Aniudupa15/datascience_toolkit",
+  "download_filename": "datascience_toolkitt-1.0.0.tar.gz",
+  "download_time": "2025-11-25T13:06:20.921579",
+  "package_url": "https://pypi.org/project/datascience-toolkitt/"
+}

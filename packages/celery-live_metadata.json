@@ -1,0 +1,11 @@
+{
+  "name": "celery-live",
+  "version": "0.1.1",
+  "summary": "A readiness and liveness probe service for Celery",
+  "author": "James Hardy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "celery_live-0.1.1.tar.gz",
+  "download_time": "2025-11-25T13:06:29.692727",
+  "package_url": "https://pypi.org/project/celery-live/"
+}

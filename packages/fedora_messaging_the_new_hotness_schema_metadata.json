@@ -1,0 +1,11 @@
+{
+  "name": "fedora_messaging_the_new_hotness_schema",
+  "version": "1.3.0",
+  "summary": "JSON schema definitions for messages published by the-new-hotness",
+  "author": "Fedora Infrastructure Team",
+  "license": "GPL-2.0-or-later",
+  "home_page": "https://github.com/fedora-infra/the-new-hotness-messages",
+  "download_filename": "fedora_messaging_the_new_hotness_schema-1.3.0.tar.gz",
+  "download_time": "2025-11-25T13:06:40.504597",
+  "package_url": "https://pypi.org/project/fedora_messaging_the_new_hotness_schema/"
+}

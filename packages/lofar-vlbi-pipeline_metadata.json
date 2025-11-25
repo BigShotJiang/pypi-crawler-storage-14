@@ -1,0 +1,11 @@
+{
+  "name": "lofar-vlbi-pipeline",
+  "version": "2025.12.1",
+  "summary": "lofar-vlbi-pipeline containing the cli tool plot_field",
+  "author": "James Petley, Frist Sweijen, Leah Morabito",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lofar_vlbi_pipeline-2025.12.1.tar.gz",
+  "download_time": "2025-11-25T13:06:44.667246",
+  "package_url": "https://pypi.org/project/lofar-vlbi-pipeline/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tensorcircuit-nightly",
+  "version": "1.4.0.dev20251125",
+  "summary": "High performance unified quantum computing framework for the NISQ era",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tensorcircuit_nightly-1.4.0.dev20251125.tar.gz",
+  "download_time": "2025-11-25T13:06:22.474741",
+  "package_url": "https://pypi.org/project/tensorcircuit-nightly/"
+}

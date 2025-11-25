@@ -1,0 +1,11 @@
+{
+  "name": "drow-aio",
+  "version": "0.0.1",
+  "summary": "Prometheus http query client for asyncio",
+  "author": "Elephant Liu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "drow_aio-0.0.1.tar.gz",
+  "download_time": "2025-11-25T13:06:15.266021",
+  "package_url": "https://pypi.org/project/drow-aio/"
+}
