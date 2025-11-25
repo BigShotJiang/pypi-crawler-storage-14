@@ -1,0 +1,11 @@
+{
+  "name": "heart-centered-prompts",
+  "version": "0.3.0",
+  "summary": "Heart-centered system prompts for AI assistants",
+  "author": "TechnickAI",
+  "license": "MIT",
+  "home_page": "https://github.com/technickai/heart-centered-prompts",
+  "download_filename": "heart_centered_prompts-0.3.0.tar.gz",
+  "download_time": "2025-11-25T20:11:11.175855",
+  "package_url": "https://pypi.org/project/heart-centered-prompts/"
+}

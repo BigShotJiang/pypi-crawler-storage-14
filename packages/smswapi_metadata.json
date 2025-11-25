@@ -1,0 +1,11 @@
+{
+  "name": "smswapi",
+  "version": "1.0.0",
+  "summary": "A Python wrapper for the SMSWapi WhatsApp API",
+  "author": "Eduard Balasea",
+  "license": null,
+  "home_page": "https://smswapi.com/",
+  "download_filename": "smswapi-1.0.0.tar.gz",
+  "download_time": "2025-11-25T20:11:14.286180",
+  "package_url": "https://pypi.org/project/smswapi/"
+}

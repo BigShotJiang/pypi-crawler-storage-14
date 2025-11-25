@@ -1,0 +1,11 @@
+{
+  "name": "pyinfra-net",
+  "version": "0.1.1",
+  "summary": "Netmiko connector and facts/operations for network devices for pyinfra",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyinfra_net-0.1.1.tar.gz",
+  "download_time": "2025-11-25T20:10:57.495736",
+  "package_url": "https://pypi.org/project/pyinfra-net/"
+}

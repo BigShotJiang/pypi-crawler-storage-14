@@ -1,0 +1,11 @@
+{
+  "name": "ikabot",
+  "version": "7.2.3",
+  "summary": null,
+  "author": "physics-sp",
+  "license": "MIT",
+  "home_page": "https://github.com/Ikabot-Collective/ikabot",
+  "download_filename": "ikabot-7.2.3.tar.gz",
+  "download_time": "2025-11-25T20:10:40.244711",
+  "package_url": "https://pypi.org/project/ikabot/"
+}

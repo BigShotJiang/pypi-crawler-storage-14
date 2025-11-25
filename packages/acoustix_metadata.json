@@ -1,0 +1,11 @@
+{
+  "name": "acoustix",
+  "version": "1.0.0",
+  "summary": "Dynamic acoustic simulation for robotic navigation and localization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "acoustix-1.0.0.tar.gz",
+  "download_time": "2025-11-25T20:11:12.978668",
+  "package_url": "https://pypi.org/project/acoustix/"
+}

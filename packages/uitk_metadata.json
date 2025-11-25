@@ -1,0 +1,11 @@
+{
+  "name": "uitk",
+  "version": "1.0.34",
+  "summary": "UITK is dynamic UI loader designed to manage multiple UI from one central switchboard.  Leverages naming convention to dynamically load UI files, register custom widgets, auto connect slots, set styles, restore and sync states, etc.",
+  "author": "Ryan Simpson",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/m3trik/uitk",
+  "download_filename": "uitk-1.0.34.tar.gz",
+  "download_time": "2025-11-25T20:11:19.752904",
+  "package_url": "https://pypi.org/project/uitk/"
+}

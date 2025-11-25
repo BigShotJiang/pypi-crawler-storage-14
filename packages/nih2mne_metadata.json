@@ -1,0 +1,11 @@
+{
+  "name": "nih2mne",
+  "version": "0.4.1",
+  "summary": "General integration functions for mne and mne-bids for NIH users",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nih2mne-0.4.1.tar.gz",
+  "download_time": "2025-11-25T20:11:01.010457",
+  "package_url": "https://pypi.org/project/nih2mne/"
+}
