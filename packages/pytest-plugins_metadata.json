@@ -1,0 +1,11 @@
+{
+  "name": "pytest-plugins",
+  "version": "1.0.11",
+  "summary": "A Python package for managing pytest plugins.",
+  "author": "Avi Zaguri",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytest_plugins-1.0.11.tar.gz",
+  "download_time": "2025-11-25T19:08:17.377757",
+  "package_url": "https://pypi.org/project/pytest-plugins/"
+}

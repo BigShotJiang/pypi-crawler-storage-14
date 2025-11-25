@@ -1,0 +1,11 @@
+{
+  "name": "krb5",
+  "version": "0.9.0",
+  "summary": "Kerberos API bindings for Python",
+  "author": "Jordan Borean",
+  "license": "MIT",
+  "home_page": "https://github.com/jborean93/pykrb5",
+  "download_filename": "krb5-0.9.0.tar.gz",
+  "download_time": "2025-11-25T19:08:54.482932",
+  "package_url": "https://pypi.org/project/krb5/"
+}

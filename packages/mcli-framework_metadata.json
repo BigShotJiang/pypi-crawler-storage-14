@@ -1,11 +1,11 @@
 {
   "name": "mcli-framework",
-  "version": "7.19.4",
+  "version": "7.19.5",
   "summary": "Portable workflow framework - transform any script into a versioned, schedulable command. Store in ~/.mcli/workflows/, version with lockfile, run as daemon or cron job.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcli_framework-7.19.4.tar.gz",
-  "download_time": "2025-11-25T10:12:32.394930",
+  "download_filename": "mcli_framework-7.19.5.tar.gz",
+  "download_time": "2025-11-25T19:08:22.829042",
   "package_url": "https://pypi.org/project/mcli-framework/"
 }

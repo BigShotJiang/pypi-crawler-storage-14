@@ -1,0 +1,11 @@
+{
+  "name": "pioreactor-calibration-shrinkage",
+  "version": "1.1.0",
+  "summary": "Fuse multiple calibrations into better calibrations",
+  "author": "Pioreactor",
+  "license": "MIT",
+  "home_page": "https://github.com/Pioreactor/pioreactor-calibration-shrinkage",
+  "download_filename": "pioreactor_calibration_shrinkage-1.1.0.tar.gz",
+  "download_time": "2025-11-25T19:08:47.153898",
+  "package_url": "https://pypi.org/project/pioreactor-calibration-shrinkage/"
+}
