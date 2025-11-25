@@ -1,0 +1,11 @@
+{
+  "name": "log2discord",
+  "version": "1.0.4",
+  "summary": "A logging handler that outputs logs to a Discord webhook.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "log2discord-1.0.4.tar.gz",
+  "download_time": "2025-11-25T15:52:05.750937",
+  "package_url": "https://pypi.org/project/log2discord/"
+}

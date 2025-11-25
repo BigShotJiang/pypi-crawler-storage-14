@@ -1,0 +1,11 @@
+{
+  "name": "vfuzztrie",
+  "version": "0.1.3",
+  "summary": "Fuzzy prefix search implementation for Rust and Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vfuzztrie-0.1.3.tar.gz",
+  "download_time": "2025-11-25T15:51:44.097505",
+  "package_url": "https://pypi.org/project/vfuzztrie/"
+}

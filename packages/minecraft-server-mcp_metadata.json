@@ -1,0 +1,11 @@
+{
+  "name": "minecraft-server-mcp",
+  "version": "0.1.2",
+  "summary": "Model Context Protocol server for Minecraft server management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "minecraft_server_mcp-0.1.2.tar.gz",
+  "download_time": "2025-11-25T15:51:46.174564",
+  "package_url": "https://pypi.org/project/minecraft-server-mcp/"
+}

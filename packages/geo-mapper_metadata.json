@@ -1,0 +1,11 @@
+{
+  "name": "geo-mapper",
+  "version": "0.1.0b2",
+  "summary": "CLI to map CSV/Excel rows onto German NUTS/LAU geodata with interactive helpers.",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "geo_mapper-0.1.0b2.tar.gz",
+  "download_time": "2025-11-25T15:51:38.808963",
+  "package_url": "https://pypi.org/project/geo-mapper/"
+}
