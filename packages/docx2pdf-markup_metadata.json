@@ -1,0 +1,11 @@
+{
+  "name": "docx2pdf-markup",
+  "version": "0.1.9",
+  "summary": "Convert docx to pdf on Windows or macOS directly using Microsoft Word (must be installed). Fork with --hide-markup option to hide comments and revisions.",
+  "author": "Trong",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "docx2pdf_markup-0.1.9.tar.gz",
+  "download_time": "2025-11-25T09:36:06.641659",
+  "package_url": "https://pypi.org/project/docx2pdf-markup/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scrapy-delta-guard",
+  "version": "1.0.0",
+  "summary": "A Scrapy extension to detect data changes (deltas) between scraped items and a database.",
+  "author": "Abdul Nazar",
+  "license": null,
+  "home_page": "https://github.com/nazaradn/scrapy-delta-guard",
+  "download_filename": "scrapy_delta_guard-1.0.0.tar.gz",
+  "download_time": "2025-11-25T09:35:46.445176",
+  "package_url": "https://pypi.org/project/scrapy-delta-guard/"
+}

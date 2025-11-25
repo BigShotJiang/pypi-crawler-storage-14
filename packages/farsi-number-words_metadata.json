@@ -1,0 +1,11 @@
+{
+  "name": "farsi-number-words",
+  "version": "1.0.0",
+  "summary": "Complete Persian number to words converter with multiple output formats",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/farsi-number-words",
+  "download_filename": "farsi_number_words-1.0.0.tar.gz",
+  "download_time": "2025-11-25T09:35:49.939260",
+  "package_url": "https://pypi.org/project/farsi-number-words/"
+}

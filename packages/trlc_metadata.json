@@ -1,0 +1,11 @@
+{
+  "name": "trlc",
+  "version": "2.0.3",
+  "summary": "Treat Requirements Like Code",
+  "author": "Bayerische Motoren Werke Aktiengesellschaft (BMW AG)",
+  "license": "GNU General Public License v3",
+  "home_page": "https://github.com/bmw-software-engineering/trlc",
+  "download_filename": "trlc-2.0.3-py3-none-any.whl",
+  "download_time": "2025-11-25T09:36:10.140500",
+  "package_url": "https://pypi.org/project/trlc/"
+}

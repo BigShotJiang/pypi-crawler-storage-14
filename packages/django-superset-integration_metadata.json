@@ -1,0 +1,11 @@
+{
+  "name": "django-superset-integration",
+  "version": "0.1.20",
+  "summary": "A Django app to integrate Apache Superset dashboards into a Django application",
+  "author": "Alica Burlot",
+  "license": null,
+  "home_page": "https://github.com/B-Alica/django-superset-integration",
+  "download_filename": "django_superset_integration-0.1.20.tar.gz",
+  "download_time": "2025-11-25T09:35:36.562607",
+  "package_url": "https://pypi.org/project/django-superset-integration/"
+}

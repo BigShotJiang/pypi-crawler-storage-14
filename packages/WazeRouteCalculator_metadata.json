@@ -1,0 +1,11 @@
+{
+  "name": "WazeRouteCalculator",
+  "version": "0.16",
+  "summary": "Calculate actual route time and distance with waze api.",
+  "author": "Balint Kovacs",
+  "license": "GNU GPL v3",
+  "home_page": "https://github.com/kovacsbalu/WazeRouteCalculator",
+  "download_filename": "wazeroutecalculator-0.16.tar.gz",
+  "download_time": "2025-11-25T09:35:52.800941",
+  "package_url": "https://pypi.org/project/WazeRouteCalculator/"
+}

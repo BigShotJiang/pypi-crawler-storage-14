@@ -1,0 +1,11 @@
+{
+  "name": "dhcptool",
+  "version": "2025.11.25.2",
+  "summary": "支持发送TA类型地址",
+  "author": "mf.liang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dhcptool-2025.11.25.2.tar.gz",
+  "download_time": "2025-11-25T09:36:06.066631",
+  "package_url": "https://pypi.org/project/dhcptool/"
+}

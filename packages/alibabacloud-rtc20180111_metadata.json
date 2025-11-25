@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-rtc20180111",
+  "version": "5.3.2",
+  "summary": "Alibaba Cloud Real-Time Communication (20180111) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_rtc20180111-5.3.2.tar.gz",
+  "download_time": "2025-11-25T09:36:11.903561",
+  "package_url": "https://pypi.org/project/alibabacloud-rtc20180111/"
+}
