@@ -1,11 +1,11 @@
 {
   "name": "pythermacell",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Python client library for Thermacell IoT devices using ESP RainMaker API",
   "author": "Bryan Li",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pythermacell-0.2.0.tar.gz",
-  "download_time": "2025-11-25T15:34:04.320024",
+  "download_filename": "pythermacell-0.2.1.tar.gz",
+  "download_time": "2025-11-25T16:44:33.610343",
   "package_url": "https://pypi.org/project/pythermacell/"
 }

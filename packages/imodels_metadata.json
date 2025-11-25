@@ -1,0 +1,11 @@
+{
+  "name": "imodels",
+  "version": "2.0.4",
+  "summary": "Implementations of various interpretable models",
+  "author": "Keyan Nasseri, Matthew Epland, Yan Shuo Tan, Omer Ronen, Tiffany Tang, Abhineet Agarwal, Theo Saarinen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "imodels-2.0.4.tar.gz",
+  "download_time": "2025-11-25T16:44:32.585182",
+  "package_url": "https://pypi.org/project/imodels/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "phandas",
+  "version": "0.15.0",
+  "summary": "A multi-factor quantitative trading framework for cryptocurrency markets.",
+  "author": "Phantom Management",
+  "license": null,
+  "home_page": "https://github.com/quantbai/phandas",
+  "download_filename": "phandas-0.15.0.tar.gz",
+  "download_time": "2025-11-25T16:44:36.692001",
+  "package_url": "https://pypi.org/project/phandas/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "isoext",
+  "version": "0.5.1",
+  "summary": "A collection of algorithms for iso-sufrace extraction on GPU. Supports pytorch.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "isoext-0.5.1.tar.gz",
+  "download_time": "2025-11-25T16:44:21.773296",
+  "package_url": "https://pypi.org/project/isoext/"
+}

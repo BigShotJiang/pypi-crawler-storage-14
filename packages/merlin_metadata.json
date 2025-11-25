@@ -1,0 +1,11 @@
+{
+  "name": "merlin",
+  "version": "1.13.0",
+  "summary": "The building blocks of workflows!",
+  "author": "Merlin Dev team",
+  "license": "MIT",
+  "home_page": "https://github.com/LLNL/merlin",
+  "download_filename": "merlin-1.13.0.tar.gz",
+  "download_time": "2025-11-25T16:44:16.058094",
+  "package_url": "https://pypi.org/project/merlin/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pandasaurus-cxg",
+  "version": "0.2.5",
+  "summary": "Ontology enrichment tool for CxG standard AnnData files.",
+  "author": "Ugur Bayindir",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "home_page": null,
+  "download_filename": "pandasaurus_cxg-0.2.5.tar.gz",
+  "download_time": "2025-11-25T16:44:02.063253",
+  "package_url": "https://pypi.org/project/pandasaurus-cxg/"
+}

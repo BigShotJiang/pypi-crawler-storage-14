@@ -1,0 +1,11 @@
+{
+  "name": "pyreadr",
+  "version": "0.5.4",
+  "summary": "Reads/writes R RData and Rds files into/from pandas data frames.",
+  "author": "Otto Fajardo",
+  "license": "AGPL-3.0-or-later",
+  "home_page": "https://github.com/ofajardo/pyreadr",
+  "download_filename": "pyreadr-0.5.4.tar.gz",
+  "download_time": "2025-11-25T16:44:06.763366",
+  "package_url": "https://pypi.org/project/pyreadr/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wetraffic-sdk",
+  "version": "1.2.0",
+  "summary": "Wetraffic SDK",
+  "author": "Trafficlab",
+  "license": "MIT",
+  "home_page": "https://github.com/trafficlabsrl/wetraffic-sdk",
+  "download_filename": "wetraffic_sdk-1.2.0.tar.gz",
+  "download_time": "2025-11-25T16:44:41.817408",
+  "package_url": "https://pypi.org/project/wetraffic-sdk/"
+}

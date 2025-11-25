@@ -1,0 +1,11 @@
+{
+  "name": "mocap-object-detection",
+  "version": "2.4.1",
+  "summary": null,
+  "author": "move.ai",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mocap_object_detection-2.4.1-py3-none-any.whl",
+  "download_time": "2025-11-25T16:44:42.885896",
+  "package_url": "https://pypi.org/project/mocap-object-detection/"
+}

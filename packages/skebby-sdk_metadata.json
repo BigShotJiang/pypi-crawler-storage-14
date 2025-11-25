@@ -1,0 +1,11 @@
+{
+  "name": "skebby-sdk",
+  "version": "1.0.0",
+  "summary": "A comprehensive Python SDK for the Skebby SMS API",
+  "author": "Valeriy Glavatskyy",
+  "license": "MIT",
+  "home_page": "https://github.com/valeriyglavatskyy/skebby-sdk",
+  "download_filename": "skebby_sdk-1.0.0.tar.gz",
+  "download_time": "2025-11-25T16:44:22.798784",
+  "package_url": "https://pypi.org/project/skebby-sdk/"
+}

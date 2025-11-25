@@ -1,0 +1,11 @@
+{
+  "name": "rgbd-depth",
+  "version": "1.0.2",
+  "summary": "Optimized RGB-D depth refinement using Vision Transformers with CUDA, MPS, and CPU support",
+  "author": "ByteDance Research",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rgbd_depth-1.0.2.tar.gz",
+  "download_time": "2025-11-25T16:44:36.179246",
+  "package_url": "https://pypi.org/project/rgbd-depth/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "grapa",
+  "version": "0.7.1.0.post1",
+  "summary": "Grapa - graphing and photovoltaics analysis",
+  "author": "Romain Carron",
+  "license": "MIT",
+  "home_page": "https://github.com/carronr/grapa/",
+  "download_filename": "grapa-0.7.1.0.post1.tar.gz",
+  "download_time": "2025-11-25T16:44:35.154364",
+  "package_url": "https://pypi.org/project/grapa/"
+}

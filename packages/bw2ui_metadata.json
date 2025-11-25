@@ -1,11 +1,11 @@
 {
   "name": "bw2ui",
-  "version": "0.47.2",
+  "version": "0.47.3",
   "summary": "A command line user interface, part of the Brightway2 LCA framework https://brightway.dev.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bw2ui-0.47.2.tar.gz",
-  "download_time": "2025-11-25T10:12:43.873705",
+  "download_filename": "bw2ui-0.47.3.tar.gz",
+  "download_time": "2025-11-25T16:44:31.547038",
   "package_url": "https://pypi.org/project/bw2ui/"
 }

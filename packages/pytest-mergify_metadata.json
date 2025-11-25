@@ -1,0 +1,11 @@
+{
+  "name": "pytest-mergify",
+  "version": "2025.11.25.1",
+  "summary": "Pytest plugin for Mergify",
+  "author": "Julien Danjou",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "pytest_mergify-2025.11.25.1.tar.gz",
+  "download_time": "2025-11-25T16:44:11.401397",
+  "package_url": "https://pypi.org/project/pytest-mergify/"
+}
