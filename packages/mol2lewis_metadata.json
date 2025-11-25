@@ -1,0 +1,11 @@
+{
+  "name": "mol2lewis",
+  "version": "1.0.3",
+  "summary": "Convert chemical identifiers (SMILES, CID, InChI, formulas) to ChemFig LaTeX with Lewis structures",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mol2lewis-1.0.3.tar.gz",
+  "download_time": "2025-11-25T20:34:24.298068",
+  "package_url": "https://pypi.org/project/mol2lewis/"
+}

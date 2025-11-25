@@ -1,0 +1,11 @@
+{
+  "name": "ngawari",
+  "version": "0.1.15",
+  "summary": "A simple and functional toolkit for working with data in VTK.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ngawari-0.1.15.tar.gz",
+  "download_time": "2025-11-25T20:34:02.310745",
+  "package_url": "https://pypi.org/project/ngawari/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "minecode-pipelines",
+  "version": "0.0.1b26",
+  "summary": "A library for mining packageURLs and package metadata from ecosystem repositories.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "minecode_pipelines-0.0.1b26.tar.gz",
+  "download_time": "2025-11-25T20:34:27.404376",
+  "package_url": "https://pypi.org/project/minecode-pipelines/"
+}

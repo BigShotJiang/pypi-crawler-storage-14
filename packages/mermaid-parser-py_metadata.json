@@ -1,0 +1,11 @@
+{
+  "name": "mermaid-parser-py",
+  "version": "0.0.4",
+  "summary": "Parse Mermaid into manipulable Python objects",
+  "author": "Boqi Chen",
+  "license": "MIT",
+  "home_page": "https://github.com/20001LastOrder/mermaid-parser-py",
+  "download_filename": "mermaid_parser_py-0.0.4.tar.gz",
+  "download_time": "2025-11-25T20:34:21.208373",
+  "package_url": "https://pypi.org/project/mermaid-parser-py/"
+}

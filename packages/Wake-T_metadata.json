@@ -1,0 +1,11 @@
+{
+  "name": "Wake-T",
+  "version": "0.9.1",
+  "summary": "A fast particle tracking code for plasma accelerators.",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "wake_t-0.9.1.tar.gz",
+  "download_time": "2025-11-25T20:34:10.079782",
+  "package_url": "https://pypi.org/project/Wake-T/"
+}

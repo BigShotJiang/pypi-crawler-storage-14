@@ -1,0 +1,11 @@
+{
+  "name": "network-visualization",
+  "version": "1.0.2",
+  "summary": "Tools for visualizing and analyzing electrical grid network topology",
+  "author": "Ricardo Energy Model Team",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/yourusername/network_visualization",
+  "download_filename": "network_visualization-1.0.2.tar.gz",
+  "download_time": "2025-11-25T20:34:03.346712",
+  "package_url": "https://pypi.org/project/network-visualization/"
+}

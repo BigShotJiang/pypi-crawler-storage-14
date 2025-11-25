@@ -1,0 +1,11 @@
+{
+  "name": "anc",
+  "version": "0.4.22",
+  "summary": "cli",
+  "author": "xxx AI Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/a7n-global/infra",
+  "download_filename": "anc-0.4.22.tar.gz",
+  "download_time": "2025-11-25T20:34:35.642142",
+  "package_url": "https://pypi.org/project/anc/"
+}
