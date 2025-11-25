@@ -1,11 +1,11 @@
 {
   "name": "mbu-process-dashboard-shared-components",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Repo containing functionality related to the process dashboard",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mbu_process_dashboard_shared_components-1.1.0.tar.gz",
-  "download_time": "2025-11-25T10:40:15.698058",
+  "download_filename": "mbu_process_dashboard_shared_components-1.1.1.tar.gz",
+  "download_time": "2025-11-25T11:28:28.848695",
   "package_url": "https://pypi.org/project/mbu-process-dashboard-shared-components/"
 }
