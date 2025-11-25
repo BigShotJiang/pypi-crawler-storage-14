@@ -1,11 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-25T19:30:43.185541
-- **Total Packages**: 82
-- **Total Size**: 14.99 MB
+- **Download Time**: 2025-11-25T19:36:40.432149
+- **Total Packages**: 85
+- **Total Size**: 37.27 MB
 
 ## Packages List
+- mcp-json-yaml-toml
+- import-surgeon
+- weconnect-solarmanager
+- geminiai-cli
+- openedx-authz
+- ivrit
+- ligo.skymap
+- enterprise-docs
+- meshcore-cli
+- vulkanlabs-vulkan-engine
+- wem2ogg
+- vulkanlabs-vulkan
+- duplifinder
+- pulumi-mongodbatlas
+- dhruv13x
+- twpt-cli
+- probelab
+- libinephany
+- gaussian-splatting
+- json-repair
+- rtsp-network-scanner
+- dhruv
+- zadar-applications
+- worker-automate-hub
+- cjm-fasthtml-plugin-protocols
+- repo-ctx
+- pycarlo
+- create-dump
+- lxst
+- collective.listmonk
+- neuralpiano
+- comfyui-workflow-templates
+- comfyui-workflow-templates-media-image
+- comfyui-workflow-templates-core
+- toctoc-controller-router-sdk
 - memorymanagement
 - biomechzoo
 - mdk-mugen
@@ -19,13 +54,8 @@
 - pytest-crap
 - dbt-meta
 - steely
-- twpt-cli
-- rtsp-network-scanner
 - langchain-oci
-- meshcore-cli
 - ff-storage
-- pulumi-mongodbatlas
-- mcp-json-yaml-toml
 - redisvl
 - snpraefentia
 - osia
@@ -49,7 +79,6 @@
 - ansys-rocky-core
 - coaiapy
 - cpp-linter-hooks
-- neuralpiano
 - plot3d
 - pyfrontkit
 - kaqing
@@ -62,29 +91,3 @@
 - dotbins
 - insta-checker-speed
 - python-ics
-- pymoogo
-- athena-intelligence
-- pytest-dynamic-parameterize
-- check-zpools
-- pnl-watchdog
-- agentc-llamaindex
-- agentc-langgraph
-- Kpa
-- agentc-langchain
-- agentc-core
-- agentc-cli
-- agentc
-- recipe-scrapers-gregbiv-fork
-- warn-transformer
-- aboutcode.federated
-- rs-rocket
-- doroutes
-- pytest-plugins
-- superdroid
-- tonic-textual
-- alibabacloud-polardbx20200202
-- google-maps-mcp-server
-- ccxt
-- mosaic-dataset
-- imio.schedule
-- kucoin-futures-api

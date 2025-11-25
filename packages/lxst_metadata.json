@@ -1,0 +1,11 @@
+{
+  "name": "lxst",
+  "version": "0.4.3",
+  "summary": "Lightweight Extensible Signal Transport for Reticulum",
+  "author": "Mark Qvist",
+  "license": null,
+  "home_page": "https://git.unsigned.io/markqvist/lxst",
+  "download_filename": "lxst-0.4.3-py3-none-any.whl",
+  "download_time": "2025-11-25T19:36:09.031785",
+  "package_url": "https://pypi.org/project/lxst/"
+}
