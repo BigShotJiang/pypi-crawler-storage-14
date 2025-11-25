@@ -1,0 +1,11 @@
+{
+  "name": "openstack-lb-info",
+  "version": "0.2.2",
+  "summary": "A script to display OpenStack Load Balancer resource details.",
+  "author": "Thobias Salazar Trevisan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openstack_lb_info-0.2.2.tar.gz",
+  "download_time": "2025-11-25T18:15:11.064802",
+  "package_url": "https://pypi.org/project/openstack-lb-info/"
+}

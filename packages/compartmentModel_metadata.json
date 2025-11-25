@@ -1,0 +1,11 @@
+{
+  "name": "compartmentModel",
+  "version": "1.12",
+  "summary": "A command line utility to estimate parameters for Compartment Model. For more details see documentation and Dutta et al, Gen Res, 2023.",
+  "author": "Lab of Michael J. Guertin",
+  "license": "MIT",
+  "home_page": "https://github.com/guertinlab",
+  "download_filename": "compartmentmodel-1.12.tar.gz",
+  "download_time": "2025-11-25T18:14:48.480520",
+  "package_url": "https://pypi.org/project/compartmentModel/"
+}

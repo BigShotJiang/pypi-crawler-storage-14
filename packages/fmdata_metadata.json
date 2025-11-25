@@ -1,0 +1,11 @@
+{
+  "name": "fmdata",
+  "version": "0.1.2",
+  "summary": "fmdata is a wrapper around the FileMaker Data API.",
+  "author": "Lorenzo De Siena",
+  "license": null,
+  "home_page": "https://github.com/Fenix22/python-fmdata",
+  "download_filename": "fmdata-0.1.2.tar.gz",
+  "download_time": "2025-11-25T18:14:44.527525",
+  "package_url": "https://pypi.org/project/fmdata/"
+}

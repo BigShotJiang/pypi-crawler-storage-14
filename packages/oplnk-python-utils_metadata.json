@@ -1,11 +1,11 @@
 {
   "name": "oplnk-python-utils",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "summary": "Reusable utilities for caching, data manipulation, parsing, and MongoDB query building",
   "author": "OpenLink SpA",
   "license": "MIT",
   "home_page": "https://github.com/openlinkspa/oplnk-python-utils",
-  "download_filename": "oplnk_python_utils-1.2.4.tar.gz",
-  "download_time": "2025-11-25T17:40:49.197962",
+  "download_filename": "oplnk_python_utils-1.2.5.tar.gz",
+  "download_time": "2025-11-25T18:15:12.793014",
   "package_url": "https://pypi.org/project/oplnk-python-utils/"
 }
