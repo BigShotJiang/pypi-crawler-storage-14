@@ -1,0 +1,11 @@
+{
+  "name": "datasette-llm-accountant",
+  "version": "0.1a1",
+  "summary": "Accounting for LLM token usage",
+  "author": "Simon Willison",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datasette_llm_accountant-0.1a1.tar.gz",
+  "download_time": "2025-11-25T23:09:27.720997",
+  "package_url": "https://pypi.org/project/datasette-llm-accountant/"
+}

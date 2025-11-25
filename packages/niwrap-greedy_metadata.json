@@ -1,0 +1,11 @@
+{
+  "name": "niwrap-greedy",
+  "version": "0.8.0",
+  "summary": "Neuroimaging wrappers.",
+  "author": "CMI DAIR",
+  "license": null,
+  "home_page": null,
+  "download_filename": "niwrap_greedy-0.8.0.tar.gz",
+  "download_time": "2025-11-25T23:09:32.720883",
+  "package_url": "https://pypi.org/project/niwrap-greedy/"
+}

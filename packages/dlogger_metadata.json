@@ -1,0 +1,11 @@
+{
+  "name": "dlogger",
+  "version": "1.0.3",
+  "summary": "Dynamic Console Logger for Python with colored output, custom icons, and other features.",
+  "author": "Douxxtech",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/dpipstudio/dlogger",
+  "download_filename": "dlogger-1.0.3.tar.gz",
+  "download_time": "2025-11-25T23:09:39.414931",
+  "package_url": "https://pypi.org/project/dlogger/"
+}
