@@ -1,0 +1,11 @@
+{
+  "name": "zxp2boriel",
+  "version": "0.1.0",
+  "summary": "Convert ZX-Paintbrush (.zxp) files to Boriel Basic",
+  "author": "Raül Torralba",
+  "license": null,
+  "home_page": "https://github.com/rtorralba/zxp2boriel",
+  "download_filename": "zxp2boriel-0.1.0.tar.gz",
+  "download_time": "2025-11-25T23:46:41.173650",
+  "package_url": "https://pypi.org/project/zxp2boriel/"
+}
