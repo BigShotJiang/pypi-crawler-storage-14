@@ -1,0 +1,11 @@
+{
+  "name": "agrifrika-shared",
+  "version": "0.3.4",
+  "summary": "Shared utilities and models for Agrifrika microservices",
+  "author": "Agrifrika Team",
+  "license": "MIT",
+  "home_page": "https://github.com/agrifrika/agrifrika-backend",
+  "download_filename": "agrifrika_shared-0.3.4.tar.gz",
+  "download_time": "2025-11-25T13:54:18.500382",
+  "package_url": "https://pypi.org/project/agrifrika-shared/"
+}

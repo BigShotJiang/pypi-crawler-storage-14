@@ -1,0 +1,11 @@
+{
+  "name": "gibr",
+  "version": "0.10.1",
+  "summary": "A Git CLI tool for intelligently creating branch names",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gibr-0.10.1.tar.gz",
+  "download_time": "2025-11-25T13:54:08.152915",
+  "package_url": "https://pypi.org/project/gibr/"
+}

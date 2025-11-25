@@ -1,0 +1,11 @@
+{
+  "name": "kubeflow",
+  "version": "0.2.1",
+  "summary": "Kubeflow Python SDK to manage ML workloads and to interact with Kubeflow APIs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kubeflow-0.2.1-py3-none-any.whl",
+  "download_time": "2025-11-25T13:54:16.433331",
+  "package_url": "https://pypi.org/project/kubeflow/"
+}

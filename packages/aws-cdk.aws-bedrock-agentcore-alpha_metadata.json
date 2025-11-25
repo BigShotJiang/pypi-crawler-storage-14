@@ -5,7 +5,7 @@
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/aws/aws-cdk",
-  "download_filename": "aws_cdk_aws_bedrock_agentcore_alpha-2.229.1a0-py3-none-any.whl",
-  "download_time": "2025-11-25T13:43:43.256267",
+  "download_filename": "aws_cdk_aws_bedrock_agentcore_alpha-2.229.1a0.tar.gz",
+  "download_time": "2025-11-25T13:54:38.107757",
   "package_url": "https://pypi.org/project/aws-cdk.aws-bedrock-agentcore-alpha/"
 }
