@@ -1,0 +1,11 @@
+{
+  "name": "bio-curve-fit",
+  "version": "1.1.2",
+  "summary": "Curve fitting algorithms for bio-assays with scikit-learn api",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bio_curve_fit-1.1.2.tar.gz",
+  "download_time": "2025-11-25T11:09:35.425701",
+  "package_url": "https://pypi.org/project/bio-curve-fit/"
+}

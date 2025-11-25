@@ -1,0 +1,11 @@
+{
+  "name": "termitunnel-cli",
+  "version": "0.1.0",
+  "summary": "A P2P chat tunnel using WireGuard for private, terminal-based communication.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "termitunnel_cli-0.1.0.tar.gz",
+  "download_time": "2025-11-25T11:09:42.966663",
+  "package_url": "https://pypi.org/project/termitunnel-cli/"
+}

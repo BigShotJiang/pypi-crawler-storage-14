@@ -1,0 +1,11 @@
+{
+  "name": "bbc-pole",
+  "version": "0.1.0",
+  "summary": "Pole is a high-level `vault` tool for more conveniently finding and reading secrets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bbc_pole-0.1.0.tar.gz",
+  "download_time": "2025-11-25T11:09:15.087739",
+  "package_url": "https://pypi.org/project/bbc-pole/"
+}

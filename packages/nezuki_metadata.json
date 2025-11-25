@@ -1,11 +1,11 @@
 {
   "name": "nezuki",
-  "version": "2.2.7",
+  "version": "2.2.8",
   "summary": "Un pacchetto per la gestione della domotica e servizi server",
   "author": "Sergio Catacci",
   "license": null,
   "home_page": "https://github.com/KingKaitoKid/Nezuki",
-  "download_filename": "nezuki-2.2.7.tar.gz",
-  "download_time": "2025-11-25T10:53:56.617276",
+  "download_filename": "nezuki-2.2.8.tar.gz",
+  "download_time": "2025-11-25T11:09:38.495399",
   "package_url": "https://pypi.org/project/nezuki/"
 }

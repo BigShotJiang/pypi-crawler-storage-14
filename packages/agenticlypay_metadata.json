@@ -1,11 +1,11 @@
 {
   "name": "agenticlypay",
-  "version": "0.5.1",
+  "version": "0.5.3",
   "summary": "Python library for processing agentic payments (ACP, AP2, x402) via Stripe with automated Square-managed payouts",
   "author": null,
-  "license": "All Rights Reserved",
+  "license": null,
   "home_page": null,
-  "download_filename": "agenticlypay-0.5.1.tar.gz",
-  "download_time": "2025-11-25T09:35:39.441022",
+  "download_filename": "agenticlypay-0.5.3.tar.gz",
+  "download_time": "2025-11-25T11:09:27.367751",
   "package_url": "https://pypi.org/project/agenticlypay/"
 }
