@@ -1,0 +1,11 @@
+{
+  "name": "html-to-adf",
+  "version": "0.1.2",
+  "summary": "Convert HTML to Atlassian Document Format (ADF) for Jira and Confluence.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "html_to_adf-0.1.2.tar.gz",
+  "download_time": "2025-11-25T21:02:10.636447",
+  "package_url": "https://pypi.org/project/html-to-adf/"
+}

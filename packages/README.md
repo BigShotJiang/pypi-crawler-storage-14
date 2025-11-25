@@ -1,11 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-25T20:50:42.726964
-- **Total Packages**: 82
-- **Total Size**: 25.69 MB
+- **Download Time**: 2025-11-25T21:02:58.515615
+- **Total Packages**: 90
+- **Total Size**: 8.22 MB
 
 ## Packages List
+- telliot-feeds
+- inceptum
+- netscaler-certbot-hook
+- kusari-inspector-mcp
+- mcp-pyrunner
+- mpneuralnetwork
+- anndata-mcp
+- vsstubs
+- soccernetpro
+- html-to-adf
+- nobs
+- network-visualization
+- cz-benchmarks
+- cybrid-api-id-python
+- satori-ci
+- vellum-workflow-server
+- cybrid-api-organization-python
+- minimal-timer
+- pyrodigal-rv
+- GEOS5FP
+- dv-launcher
+- project-vault
+- socketsecurity
+- twist-innovation-api
+- bag-nl
+- MinecraftDockerCLI
+- leadguru-jobs
+- figlinq
+- kanjiba
+- qilbeedb
+- pinviz
+- ekogram
+- astreum
+- pyhdl-if
+- eywa-client
+- cloudos-cli
+- jn-cli
+- texer
+- markdown-latex-prerender
+- rge256-core
 - myfy
 - myfy-frontend
 - serieux
@@ -16,7 +56,6 @@
 - python-ragdoll
 - pyluwen
 - vaapi
-- minimal-timer
 - dbt-meta
 - findllm
 - gensh-cli
@@ -33,7 +72,6 @@
 - consoul
 - pydotcompute
 - cites-model
-- mcp-pyrunner
 - multi-llm-orchestrator
 - amplicon-coverage-inspector
 - dapr-agents
@@ -42,7 +80,6 @@
 - marimo-base
 - types-boto3
 - types-boto3-lite
-- bag-nl
 - boto3-stubs
 - boto3-stubs-lite
 - types-boto3-route53
@@ -59,32 +96,3 @@
 - microchip-emc2305
 - pi-zero-pytorch
 - tetgen
-- glossing
-- internet-computer-wallet
-- streamlit-mermaid-interactive
-- portkey-ai
-- ngawari
-- langgraph
-- network-visualization
-- cicada-mcp
-- botocore-stubs
-- mcp-json-yaml-toml
-- lenlab
-- apple-search-ads-client
-- pr-assistant-cli
-- rge256-core
-- pixi-kernel
-- FastRAMQPI
-- SimpleFramework
-- pyproximal
-- Wake-T
-- fastapi-errors-plus
-- depydency
-- deepface-facescore
-- fastlifeweb
-- c2cgeoportal-admin
-- c2cgeoportal-geoportal
-- c2cgeoportal-commons
-- worker-automate-hub
-- jetio
-- flet-charts

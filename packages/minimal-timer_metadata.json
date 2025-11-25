@@ -1,11 +1,11 @@
 {
   "name": "minimal-timer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A minimalist command-line timer with smart time parsing and system integration",
   "author": "Danil Kodolov",
   "license": "GPL-3.0",
   "home_page": "https://github.com/dandaniel5/minimal-timer",
-  "download_filename": "minimal_timer-1.0.3.tar.gz",
-  "download_time": "2025-11-25T20:50:00.019852",
+  "download_filename": "minimal_timer-1.0.4.tar.gz",
+  "download_time": "2025-11-25T21:02:15.463424",
   "package_url": "https://pypi.org/project/minimal-timer/"
 }

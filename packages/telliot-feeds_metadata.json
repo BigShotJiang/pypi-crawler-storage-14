@@ -1,0 +1,11 @@
+{
+  "name": "telliot-feeds",
+  "version": "0.4.14",
+  "summary": "Tools for interacting with Tellor Protocol smart contracts.",
+  "author": "Tellor Development Community",
+  "license": "MIT",
+  "home_page": "https://github.com/tellor-io/telliot-feeds",
+  "download_filename": "telliot_feeds-0.4.14.tar.gz",
+  "download_time": "2025-11-25T21:02:05.199714",
+  "package_url": "https://pypi.org/project/telliot-feeds/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "markdown-latex-prerender",
+  "version": "0.1.1",
+  "summary": "An extension to python-markdown that replaces inline latex with prerendered SVGs",
+  "author": "Anton Lydike",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "markdown_latex_prerender-0.1.1.tar.gz",
+  "download_time": "2025-11-25T21:02:28.148259",
+  "package_url": "https://pypi.org/project/markdown-latex-prerender/"
+}
