@@ -1,0 +1,11 @@
+{
+  "name": "marketplace-handler",
+  "version": "3.0.12",
+  "summary": "Module to interact with marketplaces",
+  "author": "derijabyla",
+  "license": null,
+  "home_page": "https://github.com/derijablya/marketplace-interface",
+  "download_filename": "marketplace_handler-3.0.12.tar.gz",
+  "download_time": "2025-11-25T16:58:45.532178",
+  "package_url": "https://pypi.org/project/marketplace-handler/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gsply",
+  "version": "0.2.10",
+  "summary": "Ultra-fast Gaussian Splatting PLY I/O library - pure Python with NumPy and Numba. Features 11x faster GPU transfers and automatic format state tracking for seamless conversions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gsply-0.2.10.tar.gz",
+  "download_time": "2025-11-25T16:58:21.701104",
+  "package_url": "https://pypi.org/project/gsply/"
+}

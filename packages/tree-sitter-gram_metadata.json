@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-gram",
+  "version": "0.2.2",
+  "summary": "Gram grammar for tree-sitter",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tree_sitter_gram-0.2.2.tar.gz",
+  "download_time": "2025-11-25T16:58:27.332335",
+  "package_url": "https://pypi.org/project/tree-sitter-gram/"
+}

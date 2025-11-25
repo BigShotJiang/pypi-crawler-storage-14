@@ -1,0 +1,11 @@
+{
+  "name": "legend-pygeom-hpges",
+  "version": "0.9.0",
+  "summary": "Geometry management for LEGEND HPGe detectors",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "legend_pygeom_hpges-0.9.0.tar.gz",
+  "download_time": "2025-11-25T16:58:29.948178",
+  "package_url": "https://pypi.org/project/legend-pygeom-hpges/"
+}

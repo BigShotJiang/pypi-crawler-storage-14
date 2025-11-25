@@ -1,0 +1,11 @@
+{
+  "name": "pystlogic",
+  "version": "0.1.3.post4",
+  "summary": "A library for efficiently working with Signal Temporal Logic (STL) and its quantitative semantics.",
+  "author": "Anand Balakrishnan",
+  "license": null,
+  "home_page": "https://github.com/davidhjp01/pystlogic",
+  "download_filename": "pystlogic-0.1.3.post4-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-25T16:58:32.026903",
+  "package_url": "https://pypi.org/project/pystlogic/"
+}

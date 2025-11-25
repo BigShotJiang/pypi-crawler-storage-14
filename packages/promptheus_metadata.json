@@ -1,0 +1,11 @@
+{
+  "name": "promptheus",
+  "version": "0.2.4",
+  "summary": "AI-powered prompt engineering CLI tool",
+  "author": "Promptheus Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/abhichandra21/Promptheus",
+  "download_filename": "promptheus-0.2.4.tar.gz",
+  "download_time": "2025-11-25T16:58:34.592438",
+  "package_url": "https://pypi.org/project/promptheus/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gen-data-model",
+  "version": "2.3.7",
+  "summary": "Python App/Tool/Script Utilities",
+  "author": "Vladimir Roncevic",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://vroncevic.github.io/gen_data_model/",
+  "download_filename": "gen_data_model-2.3.7.tar.gz",
+  "download_time": "2025-11-25T16:58:35.623691",
+  "package_url": "https://pypi.org/project/gen-data-model/"
+}
