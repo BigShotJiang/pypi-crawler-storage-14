@@ -1,0 +1,11 @@
+{
+  "name": "pebble-tool",
+  "version": "5.0.15",
+  "summary": "Tool for interacting with pebbles.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pebble_tool-5.0.15.tar.gz",
+  "download_time": "2025-11-25T21:28:42.975849",
+  "package_url": "https://pypi.org/project/pebble-tool/"
+}

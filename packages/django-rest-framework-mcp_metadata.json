@@ -1,0 +1,11 @@
+{
+  "name": "django-rest-framework-mcp",
+  "version": "0.1.0a4",
+  "summary": "Expose Django REST Framework APIs as MCP servers for LLMs",
+  "author": "Django REST Framework MCP Contributors",
+  "license": null,
+  "home_page": "https://github.com/zacharypodbela/django-rest-framework-mcp",
+  "download_filename": "django_rest_framework_mcp-0.1.0a4.tar.gz",
+  "download_time": "2025-11-25T21:28:45.556102",
+  "package_url": "https://pypi.org/project/django-rest-framework-mcp/"
+}

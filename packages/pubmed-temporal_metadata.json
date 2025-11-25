@@ -1,0 +1,11 @@
+{
+  "name": "pubmed-temporal",
+  "version": "1.1.2",
+  "summary": "Build PubMed temporal graph dataset using data from the PubMed API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pubmed_temporal-1.1.2.tar.gz",
+  "download_time": "2025-11-25T21:28:44.269797",
+  "package_url": "https://pypi.org/project/pubmed-temporal/"
+}

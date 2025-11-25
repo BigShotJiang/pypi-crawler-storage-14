@@ -1,0 +1,11 @@
+{
+  "name": "simforge-py",
+  "version": "0.1.0",
+  "summary": "Simforge client for provider-based API calls",
+  "author": "Harvest Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "simforge_py-0.1.0.tar.gz",
+  "download_time": "2025-11-25T21:28:46.186309",
+  "package_url": "https://pypi.org/project/simforge-py/"
+}

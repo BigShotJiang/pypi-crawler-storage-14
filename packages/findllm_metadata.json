@@ -1,11 +1,11 @@
 {
   "name": "findllm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Detect AI-generated text using GPT-2 token prediction analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "findllm-0.1.0.tar.gz",
-  "download_time": "2025-11-25T20:50:01.752114",
+  "download_filename": "findllm-0.1.1.tar.gz",
+  "download_time": "2025-11-25T21:28:48.125011",
   "package_url": "https://pypi.org/project/findllm/"
 }
