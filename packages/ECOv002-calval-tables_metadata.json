@@ -1,11 +1,11 @@
 {
   "name": "ECOv002-calval-tables",
-  "version": "1.10.0",
+  "version": "1.11.0",
   "summary": "Priestley-Taylor Jet Propulsion Laboratory Soil Moisutre Evapotranspiration Model",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ecov002_calval_tables-1.10.0.tar.gz",
-  "download_time": "2025-11-25T18:45:17.958797",
+  "download_filename": "ecov002_calval_tables-1.11.0.tar.gz",
+  "download_time": "2025-11-25T18:55:35.650644",
   "package_url": "https://pypi.org/project/ECOv002-calval-tables/"
 }
