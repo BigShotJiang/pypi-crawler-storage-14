@@ -1,0 +1,11 @@
+{
+  "name": "fleet-python",
+  "version": "0.2.74",
+  "summary": "Python SDK for Fleet environments",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fleet_python-0.2.74.tar.gz",
+  "download_time": "2025-11-25T22:33:23.094690",
+  "package_url": "https://pypi.org/project/fleet-python/"
+}

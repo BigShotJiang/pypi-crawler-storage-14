@@ -1,0 +1,11 @@
+{
+  "name": "kfp",
+  "version": "2.15.1",
+  "summary": "Kubeflow Pipelines SDK",
+  "author": "The Kubeflow Authors",
+  "license": null,
+  "home_page": "https://github.com/kubeflow/pipelines",
+  "download_filename": "kfp-2.15.1.tar.gz",
+  "download_time": "2025-11-25T22:33:49.235755",
+  "package_url": "https://pypi.org/project/kfp/"
+}

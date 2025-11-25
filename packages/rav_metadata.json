@@ -1,0 +1,11 @@
+{
+  "name": "rav",
+  "version": "0.2.0",
+  "summary": "A cross-platform Python CLI to shortcut tp command-line commands. Inspired by Makefiles and npm scripts.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rav-0.2.0.tar.gz",
+  "download_time": "2025-11-25T22:33:34.008123",
+  "package_url": "https://pypi.org/project/rav/"
+}

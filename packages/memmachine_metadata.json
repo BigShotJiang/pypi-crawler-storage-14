@@ -1,0 +1,11 @@
+{
+  "name": "memmachine",
+  "version": "0.1.10",
+  "summary": "MemMachine is an open-source memory layer for AI agents, giving your creations short-term, long-term, and personalization memory, enabling them to learn, adapt, and remember.",
+  "author": "MemMachine",
+  "license": null,
+  "home_page": null,
+  "download_filename": "memmachine-0.1.10.tar.gz",
+  "download_time": "2025-11-25T22:33:29.140568",
+  "package_url": "https://pypi.org/project/memmachine/"
+}

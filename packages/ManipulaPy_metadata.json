@@ -1,0 +1,11 @@
+{
+  "name": "ManipulaPy",
+  "version": "1.2.0",
+  "summary": "A comprehensive Python package for robotic manipulator analysis and control",
+  "author": "Mohamed Aboelnasr",
+  "license": "AGPL-3.0-or-later",
+  "home_page": "https://github.com/boelnasr/ManipulaPy",
+  "download_filename": "manipulapy-1.2.0-py3-none-any.whl",
+  "download_time": "2025-11-25T22:33:27.027504",
+  "package_url": "https://pypi.org/project/ManipulaPy/"
+}

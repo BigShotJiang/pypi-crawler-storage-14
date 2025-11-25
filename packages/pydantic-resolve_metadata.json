@@ -1,11 +1,11 @@
 {
   "name": "pydantic-resolve",
-  "version": "1.13.5",
-  "summary": "A business model friendly data orchestration tool, simple way to implement the core concept of clean architecture.",
+  "version": "2.0.0",
+  "summary": "pydantic-resolve turns pydantic from a static data container into a powerful composable component.",
   "author": "tangkikodo",
   "license": "MIT",
   "home_page": "https://github.com/allmonday/pydantic_resolve",
-  "download_filename": "pydantic_resolve-1.13.5.tar.gz",
-  "download_time": "2025-11-25T14:35:07.569322",
+  "download_filename": "pydantic_resolve-2.0.0.tar.gz",
+  "download_time": "2025-11-25T22:33:14.008155",
   "package_url": "https://pypi.org/project/pydantic-resolve/"
 }

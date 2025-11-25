@@ -1,0 +1,11 @@
+{
+  "name": "tinycwrap",
+  "version": "0.0.2",
+  "summary": "Lightweight C-to-Python wrapper generator using CFFI and NumPy",
+  "author": "TinyCWrap Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tinycwrap-0.0.2.tar.gz",
+  "download_time": "2025-11-25T22:33:20.850724",
+  "package_url": "https://pypi.org/project/tinycwrap/"
+}

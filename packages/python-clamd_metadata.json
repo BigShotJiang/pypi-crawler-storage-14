@@ -1,11 +1,11 @@
 {
   "name": "python-clamd",
-  "version": "0.0.1.dev0",
+  "version": "0.0.2.dev0",
   "summary": "Updated Clamd is a python interface to Clamd (Clamav daemon).",
   "author": "janus-sama",
   "license": "LGPL-2.1-only",
   "home_page": "https://github.com/janus-sama/python_clamd",
-  "download_filename": "python_clamd-0.0.1.dev0.tar.gz",
-  "download_time": "2025-11-25T22:09:36.057415",
+  "download_filename": "python_clamd-0.0.2.dev0.tar.gz",
+  "download_time": "2025-11-25T22:33:20.324091",
   "package_url": "https://pypi.org/project/python-clamd/"
 }
