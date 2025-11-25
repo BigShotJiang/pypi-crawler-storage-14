@@ -1,0 +1,11 @@
+{
+  "name": "gen-dbus",
+  "version": "1.1.5",
+  "summary": "Generating DBus modules",
+  "author": "Vladimir Roncevic",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://vroncevic.github.io/gen_dbus",
+  "download_filename": "gen_dbus-1.1.5.tar.gz",
+  "download_time": "2025-11-25T17:16:22.917607",
+  "package_url": "https://pypi.org/project/gen-dbus/"
+}

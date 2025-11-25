@@ -1,0 +1,11 @@
+{
+  "name": "derpy-tool",
+  "version": "0.3.1",
+  "summary": "A simple container tool, made with AI, for building, managing, and distributing OCI-compliant container images",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "derpy_tool-0.3.1.tar.gz",
+  "download_time": "2025-11-25T17:16:28.078889",
+  "package_url": "https://pypi.org/project/derpy-tool/"
+}

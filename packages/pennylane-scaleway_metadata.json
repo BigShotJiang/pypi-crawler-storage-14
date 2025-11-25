@@ -1,0 +1,11 @@
+{
+  "name": "pennylane-scaleway",
+  "version": "0.2.1",
+  "summary": "A Pennylane-compatible package to run pennylane circuits on Scaleway Quantum as a Service",
+  "author": "The Scaleway Developers",
+  "license": "Apache 2",
+  "home_page": null,
+  "download_filename": "pennylane_scaleway-0.2.1.tar.gz",
+  "download_time": "2025-11-25T17:16:50.821997",
+  "package_url": "https://pypi.org/project/pennylane-scaleway/"
+}

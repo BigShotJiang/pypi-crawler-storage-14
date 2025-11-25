@@ -1,11 +1,11 @@
 {
   "name": "imbi",
-  "version": "0.25.1",
+  "version": "0.25.2",
   "summary": "Imbi is a DevOps Service Management Platform designed to provide an efficient way to manage a large environment that contains many services and applications.",
   "author": "Gavin M. Roy",
   "license": "BSD 3-Clause License",
   "home_page": "https://github.com/aweber/imbi",
-  "download_filename": "imbi-0.25.1.tar.gz",
-  "download_time": "2025-11-25T16:58:19.624096",
+  "download_filename": "imbi-0.25.2.tar.gz",
+  "download_time": "2025-11-25T17:16:19.321514",
   "package_url": "https://pypi.org/project/imbi/"
 }

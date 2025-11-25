@@ -1,0 +1,11 @@
+{
+  "name": "funnelius",
+  "version": "0.0.6",
+  "summary": "Funnelius is an open-source Python library designed to analyze and visualize complex, non-linear user funnels.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "funnelius-0.0.6.tar.gz",
+  "download_time": "2025-11-25T17:16:34.768209",
+  "package_url": "https://pypi.org/project/funnelius/"
+}

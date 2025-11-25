@@ -1,0 +1,11 @@
+{
+  "name": "tellaro-query-language",
+  "version": "0.2.6",
+  "summary": "A flexible, human-friendly query language for searching and filtering structured data",
+  "author": "Justin Henderson",
+  "license": "Proprietary",
+  "home_page": "https://github.com/tellaro/tellaro-query-language",
+  "download_filename": "tellaro_query_language-0.2.6.tar.gz",
+  "download_time": "2025-11-25T17:16:27.561204",
+  "package_url": "https://pypi.org/project/tellaro-query-language/"
+}

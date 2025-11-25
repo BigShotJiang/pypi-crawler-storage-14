@@ -1,0 +1,11 @@
+{
+  "name": "legend-pygeom-tools",
+  "version": "0.0.25",
+  "summary": "Python tools to handle Monte Carlo simulation geometry",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "legend_pygeom_tools-0.0.25.tar.gz",
+  "download_time": "2025-11-25T17:16:36.316863",
+  "package_url": "https://pypi.org/project/legend-pygeom-tools/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rtsp-network-scanner",
-  "version": "1.0.6",
-  "summary": "Network RTSP stream scanner and debugger",
+  "version": "1.1.1",
+  "summary": "Scan networks for RTSP cameras, test streams, discover channels",
   "author": "Sanjay H",
   "license": null,
   "home_page": "https://github.com/sssanjaya/rtsp-network-scanner",
-  "download_filename": "rtsp_network_scanner-1.0.6-py3-none-any.whl",
-  "download_time": "2025-11-25T16:58:16.502314",
+  "download_filename": "rtsp_network_scanner-1.1.1-py3-none-any.whl",
+  "download_time": "2025-11-25T17:16:23.430428",
   "package_url": "https://pypi.org/project/rtsp-network-scanner/"
 }
