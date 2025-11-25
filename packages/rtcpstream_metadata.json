@@ -1,0 +1,11 @@
+{
+  "name": "rtcpstream",
+  "version": "1.6.3",
+  "summary": "fix http error for python 3.11+ ",
+  "author": "JackFridge",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rtcpstream-1.6.3.tar.gz",
+  "download_time": "2025-11-25T21:38:28.548159",
+  "package_url": "https://pypi.org/project/rtcpstream/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "bag-nl",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "BAG tools",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bag_nl-0.2.4.tar.gz",
-  "download_time": "2025-11-25T21:29:01.753822",
+  "download_filename": "bag_nl-0.2.5.tar.gz",
+  "download_time": "2025-11-25T21:38:16.728325",
   "package_url": "https://pypi.org/project/bag-nl/"
 }

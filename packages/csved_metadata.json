@@ -1,0 +1,11 @@
+{
+  "name": "csved",
+  "version": "0.0.2",
+  "summary": "csv file editor with cli and api",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "csved-0.0.2.tar.gz",
+  "download_time": "2025-11-25T21:38:31.359351",
+  "package_url": "https://pypi.org/project/csved/"
+}

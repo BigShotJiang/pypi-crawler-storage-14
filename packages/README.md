@@ -1,15 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-25T21:29:41.167717
-- **Total Packages**: 95
-- **Total Size**: 26.21 MB
+- **Download Time**: 2025-11-25T21:38:59.426570
+- **Total Packages**: 89
+- **Total Size**: 20.91 MB
 
 ## Packages List
-- edgefirst-validator
+- hspylib-datasource
+- hspylib-clitt
+- odoo-addon-account-partner-required
+- netbox-sitemap
+- mito-ai
+- carconnectivity-connector-volkswagen
+- nek5000reader
+- mitosheet
+- ursa-ai
+- bag-nl
+- kuzu-memory
+- corylus
+- bpo
 - kanjiba
+- fificore
+- orb-billing
+- crypticorn
+- algokit-utils
+- base-api-utils
+- rowdybottypiper
+- letta-client
+- oarepo-runtime
+- airweave-sdk
+- rcsb-embedding-model
+- typst-pagemaker
+- project-vault
+- gp-libs
+- micantis
+- publicdotcom-py
+- python-ragdoll
+- rtcpstream
+- vsdebug
+- qBitrr2
+- phasic
+- wagtail-dsfr
+- csved
+- edgefirst-validator
 - curllm
 - streamlit-mermaid-interactive
+- temporalio
 - msgtrace-sdk
 - ipykernel-helper
 - bandwidth-sdk
@@ -30,7 +66,6 @@
 - aiinbx
 - deltafi
 - dv-launcher
-- project-vault
 - gensh-cli
 - openforis-whisp
 - janela
@@ -39,11 +74,8 @@
 - unimpeded
 - jax-pyjit
 - cgrtools-plus
-- kuzu-memory
 - pyhdl-if
 - peritype
-- bag-nl
-- corylus
 - tt-smi
 - kaqing
 - noqa-runner
@@ -63,41 +95,3 @@
 - openhands-agent-server
 - openhands-sdk
 - openhands-workspace
-- letschatty
-- livekit-plugins-upliftai
-- livekit-plugins-ultravox
-- livekit-plugins-turn-detector
-- livekit-plugins-tavus
-- livekit-plugins-spitch
-- livekit-plugins-speechmatics
-- livekit-plugins-speechify
-- livekit-plugins-soniox
-- livekit-plugins-smallestai
-- livekit-plugins-simli
-- livekit-plugins-silero
-- livekit-plugins-sarvam
-- livekit-plugins-rtzr
-- livekit-plugins-rime
-- livekit-plugins-resemble
-- livekit-plugins-openai
-- livekit-plugins-nvidia
-- livekit-plugins-nltk
-- livekit-plugins-neuphonic
-- livekit-plugins-mistralai
-- livekit-plugins-minimax-ai
-- livekit-plugins-minimal
-- livekit-plugins-lmnt
-- livekit-plugins-langchain
-- livekit-plugins-inworld
-- livekit-plugins-hume
-- livekit-plugins-hedra
-- livekit-plugins-groq
-- livekit-plugins-google
-- livekit-plugins-gladia
-- livekit-plugins-fishaudio
-- livekit-plugins-fireworksai
-- livekit-plugins-fal
-- livekit-plugins-elevenlabs
-- livekit-plugins-deepgram
-- livekit-plugins-clova
-- livekit-plugins-cartesia

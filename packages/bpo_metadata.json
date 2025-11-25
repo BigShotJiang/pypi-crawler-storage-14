@@ -1,11 +1,11 @@
 {
   "name": "bpo",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "CLI to optimize prompts with AWS Bedrock",
   "author": "Michael Rowlinson",
   "license": null,
   "home_page": null,
-  "download_filename": "bpo-0.3.0.tar.gz",
-  "download_time": "2025-11-25T17:49:13.689240",
+  "download_filename": "bpo-0.4.0.tar.gz",
+  "download_time": "2025-11-25T21:38:18.429217",
   "package_url": "https://pypi.org/project/bpo/"
 }
