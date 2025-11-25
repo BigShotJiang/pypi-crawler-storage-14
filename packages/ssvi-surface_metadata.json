@@ -1,0 +1,11 @@
+{
+  "name": "ssvi-surface",
+  "version": "1.1.1",
+  "summary": "SSVI (Stochastic Volatility Inspired) model for implied volatility surface modeling",
+  "author": "Jeremy Cochoy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ssvi_surface-1.1.1.tar.gz",
+  "download_time": "2025-11-25T10:54:11.265135",
+  "package_url": "https://pypi.org/project/ssvi-surface/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tablemcp",
+  "version": "0.1.0",
+  "summary": "MCP server that converts Excel files to Markdown tables",
+  "author": "Jamie",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tablemcp-0.1.0.tar.gz",
+  "download_time": "2025-11-25T10:54:10.041533",
+  "package_url": "https://pypi.org/project/tablemcp/"
+}

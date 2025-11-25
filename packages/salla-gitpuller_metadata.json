@@ -1,0 +1,11 @@
+{
+  "name": "salla-gitpuller",
+  "version": "1.0.3",
+  "summary": "A lightweight utility to git pull a repository using SSH deploy keys stored in environment variables",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "salla_gitpuller-1.0.3.tar.gz",
+  "download_time": "2025-11-25T10:53:54.674515",
+  "package_url": "https://pypi.org/project/salla-gitpuller/"
+}

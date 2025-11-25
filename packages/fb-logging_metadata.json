@@ -1,0 +1,11 @@
+{
+  "name": "fb-logging",
+  "version": "1.3.7",
+  "summary": "@summary: Python modules to extend the logging mechanism in Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fb_logging-1.3.7.tar.gz",
+  "download_time": "2025-11-25T10:54:10.624229",
+  "package_url": "https://pypi.org/project/fb-logging/"
+}

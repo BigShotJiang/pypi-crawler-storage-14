@@ -1,11 +1,11 @@
 {
   "name": "coinalyze-pandas",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Pandas Client to Coinalyze REST API",
   "author": "lucas.jamar@spqhi.com",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "coinalyze_pandas-0.1.1.tar.gz",
-  "download_time": "2025-11-25T09:50:55.322235",
+  "download_filename": "coinalyze_pandas-0.1.2.tar.gz",
+  "download_time": "2025-11-25T10:53:41.932858",
   "package_url": "https://pypi.org/project/coinalyze-pandas/"
 }

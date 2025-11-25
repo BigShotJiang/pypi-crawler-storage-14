@@ -1,0 +1,11 @@
+{
+  "name": "irrapy2",
+  "version": "0.1.0",
+  "summary": "A unified multi-source solar radiation and ground meteorological data downloader with forecasting tools.",
+  "author": "Peiyu Lin,Xixi Sun",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/raabitt/irradpy2",
+  "download_filename": "irrapy2-0.1.0.tar.gz",
+  "download_time": "2025-11-25T10:53:26.662051",
+  "package_url": "https://pypi.org/project/irrapy2/"
+}

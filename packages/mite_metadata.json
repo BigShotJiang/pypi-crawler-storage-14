@@ -1,0 +1,11 @@
+{
+  "name": "mite",
+  "version": "2.6.1",
+  "summary": "A Python Performance Testing Framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mite-2.6.1.tar.gz",
+  "download_time": "2025-11-25T10:53:36.777716",
+  "package_url": "https://pypi.org/project/mite/"
+}

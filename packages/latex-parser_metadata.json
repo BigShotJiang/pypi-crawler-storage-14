@@ -1,0 +1,11 @@
+{
+  "name": "latex-parser",
+  "version": "0.1.0",
+  "summary": "A package converting physics-style LaTeX to quantum simulation backends (QuTiP, NumPy, JAX).",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "latex_parser-0.1.0.tar.gz",
+  "download_time": "2025-11-25T10:54:06.992903",
+  "package_url": "https://pypi.org/project/latex-parser/"
+}
