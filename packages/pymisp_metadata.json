@@ -1,0 +1,11 @@
+{
+  "name": "pymisp",
+  "version": "2.5.17.3",
+  "summary": "Python API for MISP.",
+  "author": "Raphaël Vinot",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymisp-2.5.17.3.tar.gz",
+  "download_time": "2025-11-25T13:43:46.350184",
+  "package_url": "https://pypi.org/project/pymisp/"
+}

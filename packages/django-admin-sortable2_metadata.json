@@ -1,0 +1,11 @@
+{
+  "name": "django-admin-sortable2",
+  "version": "2.3",
+  "summary": "Generic drag-and-drop sorting for the List, the Stacked- and the Tabular-Inlines Views in the Django Admin",
+  "author": "Jacob Rief",
+  "license": "MIT",
+  "home_page": "https://github.com/jrief/django-admin-sortable2",
+  "download_filename": "django_admin_sortable2-2.3.tar.gz",
+  "download_time": "2025-11-25T13:44:15.929128",
+  "package_url": "https://pypi.org/project/django-admin-sortable2/"
+}

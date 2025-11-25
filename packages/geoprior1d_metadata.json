@@ -1,0 +1,11 @@
+{
+  "name": "geoprior1d",
+  "version": "0.9.9",
+  "summary": "1D geological prior generator for stochastic lithology and resistivity modeling",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "geoprior1d-0.9.9.tar.gz",
+  "download_time": "2025-11-25T13:43:53.629080",
+  "package_url": "https://pypi.org/project/geoprior1d/"
+}

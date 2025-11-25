@@ -1,11 +1,11 @@
 {
   "name": "ppplca",
-  "version": "0.2.36",
+  "version": "0.2.37",
   "summary": null,
   "author": "Armin Siegrist",
   "license": "MIT",
   "home_page": "https://github.com/siegarmi/ppplca",
-  "download_filename": "ppplca-0.2.36.tar.gz",
-  "download_time": "2025-11-25T13:06:12.193345",
+  "download_filename": "ppplca-0.2.37.tar.gz",
+  "download_time": "2025-11-25T13:44:05.114240",
   "package_url": "https://pypi.org/project/ppplca/"
 }

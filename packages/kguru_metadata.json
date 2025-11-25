@@ -1,11 +1,11 @@
 {
   "name": "kguru",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "An AI agent platform for Python with domain-specific knowledge capabilities",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kguru-0.1.0.tar.gz",
-  "download_time": "2025-11-25T13:06:19.897854",
+  "download_filename": "kguru-0.1.3.tar.gz",
+  "download_time": "2025-11-25T13:44:06.649721",
   "package_url": "https://pypi.org/project/kguru/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "flagflow",
+  "version": "0.0.4",
+  "summary": "Simple workflow-based flag updater CLI",
+  "author": "Abhishek Tadkod",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flagflow-0.0.4.tar.gz",
+  "download_time": "2025-11-25T13:44:00.369283",
+  "package_url": "https://pypi.org/project/flagflow/"
+}

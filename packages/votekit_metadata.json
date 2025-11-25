@@ -1,0 +1,11 @@
+{
+  "name": "votekit",
+  "version": "3.3.1",
+  "summary": "A Swiss army knife for computational social choice research.",
+  "author": "MGGG",
+  "license": null,
+  "home_page": "https://github.com/mggg/VoteKit",
+  "download_filename": "votekit-3.3.1.tar.gz",
+  "download_time": "2025-11-25T13:43:59.340857",
+  "package_url": "https://pypi.org/project/votekit/"
+}

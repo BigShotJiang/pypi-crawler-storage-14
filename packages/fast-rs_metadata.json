@@ -1,0 +1,11 @@
+{
+  "name": "fast-rs",
+  "version": "1.0.0",
+  "summary": "Fast sphericity and roundness in 2D and 3D using local thickness",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fast_rs-1.0.0.tar.gz",
+  "download_time": "2025-11-25T13:44:12.809172",
+  "package_url": "https://pypi.org/project/fast-rs/"
+}

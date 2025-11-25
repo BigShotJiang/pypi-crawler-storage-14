@@ -1,0 +1,11 @@
+{
+  "name": "tabtune",
+  "version": "0.1.4",
+  "summary": "TabTune: A Unified Library for Inference and Fine-Tuning Tabular Foundation Models",
+  "author": "Aditya Tanna, Pratinav Seth, Mohamed Bouadi, Utsav Avaiya, Vinay Kumar Sankarapu",
+  "license": "MIT",
+  "home_page": "https://github.com/Lexsi-Labs/TabTune",
+  "download_filename": "tabtune-0.1.4.tar.gz",
+  "download_time": "2025-11-25T13:43:47.911000",
+  "package_url": "https://pypi.org/project/tabtune/"
+}

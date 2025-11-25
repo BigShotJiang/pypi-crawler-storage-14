@@ -1,11 +1,11 @@
 {
   "name": "deepface-facescore",
-  "version": "0.1.1",
-  "summary": null,
+  "version": "0.1.2",
+  "summary": "DeepFace Face Score Library",
   "author": "Your Name",
   "license": null,
   "home_page": null,
-  "download_filename": "deepface_facescore-0.1.1.tar.gz",
-  "download_time": "2025-11-25T10:53:30.408994",
+  "download_filename": "deepface_facescore-0.1.2.tar.gz",
+  "download_time": "2025-11-25T13:44:07.678046",
   "package_url": "https://pypi.org/project/deepface-facescore/"
 }
