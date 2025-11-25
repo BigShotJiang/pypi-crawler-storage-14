@@ -1,11 +1,11 @@
 {
   "name": "langquality",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Language Quality Toolkit for Low-Resource Languages",
   "author": "LangQuality Community",
   "license": "MIT",
   "home_page": "https://github.com/langquality/langquality",
-  "download_filename": "langquality-1.0.0.tar.gz",
-  "download_time": "2025-11-25T09:51:16.134010",
+  "download_filename": "langquality-1.0.1.tar.gz",
+  "download_time": "2025-11-25T10:40:20.909436",
   "package_url": "https://pypi.org/project/langquality/"
 }

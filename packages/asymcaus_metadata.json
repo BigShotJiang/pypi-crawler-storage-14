@@ -1,0 +1,11 @@
+{
+  "name": "asymcaus",
+  "version": "2.0.0",
+  "summary": "Asymmetric Causality Testing - Implementation of Hatemi-J (2012) test",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "asymcaus-2.0.0.tar.gz",
+  "download_time": "2025-11-25T10:40:18.324916",
+  "package_url": "https://pypi.org/project/asymcaus/"
+}

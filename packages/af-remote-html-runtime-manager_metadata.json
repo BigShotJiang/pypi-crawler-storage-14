@@ -1,0 +1,11 @@
+{
+  "name": "af-remote-html-runtime-manager",
+  "version": "5.0.5",
+  "summary": "AristaFlow BPM RuntimeManager/RemoteHTMLRuntimeManager REST Client",
+  "author": "AristaFlow GmbH",
+  "license": null,
+  "home_page": null,
+  "download_filename": "af_remote_html_runtime_manager-5.0.5.tar.gz",
+  "download_time": "2025-11-25T10:40:09.575725",
+  "package_url": "https://pypi.org/project/af-remote-html-runtime-manager/"
+}

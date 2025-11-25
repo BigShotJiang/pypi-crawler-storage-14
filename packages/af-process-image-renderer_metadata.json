@@ -1,0 +1,11 @@
+{
+  "name": "af-process-image-renderer",
+  "version": "4.0.5",
+  "summary": "AristaFlow BPM ProcessImageRenderer/ProcessImageRenderer REST Client",
+  "author": "AristaFlow GmbH",
+  "license": null,
+  "home_page": null,
+  "download_filename": "af_process_image_renderer-4.0.5.tar.gz",
+  "download_time": "2025-11-25T10:40:10.596821",
+  "package_url": "https://pypi.org/project/af-process-image-renderer/"
+}

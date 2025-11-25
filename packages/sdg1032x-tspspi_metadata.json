@@ -1,0 +1,11 @@
+{
+  "name": "sdg1032x-tspspi",
+  "version": "0.0.1a2",
+  "summary": "Unofficial library to control SDG1032X arbitrary waveform generators",
+  "author": "Thomas Spielauer",
+  "license": null,
+  "home_page": "https://github.com/tspspi/pysdg1032x",
+  "download_filename": "sdg1032x_tspspi-0.0.1a2.tar.gz",
+  "download_time": "2025-11-25T10:39:50.514782",
+  "package_url": "https://pypi.org/project/sdg1032x-tspspi/"
+}

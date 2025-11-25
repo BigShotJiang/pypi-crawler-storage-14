@@ -1,0 +1,11 @@
+{
+  "name": "sensirion-shdlc-driver",
+  "version": "1.0.1",
+  "summary": "Base Driver for Communicating With SHDLC Devices",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sensirion_shdlc_driver-1.0.1.tar.gz",
+  "download_time": "2025-11-25T10:40:21.419425",
+  "package_url": "https://pypi.org/project/sensirion-shdlc-driver/"
+}

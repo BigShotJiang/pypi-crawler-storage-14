@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mail-cc-and-to-text",
+  "version": "16.0.1.0.5",
+  "summary": "Mail with CC and TO text fields without res_partner model dependency\".",
+  "author": "Som It Cooperatiu SCCL, Som Connexió SCCL, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://gitlab.com/somitcoop/erp-research/odoo-helpdesk",
+  "download_filename": "odoo_addon_mail_cc_and_to_text-16.0.1.0.5.tar.gz",
+  "download_time": "2025-11-25T10:39:45.844740",
+  "package_url": "https://pypi.org/project/odoo-addon-mail-cc-and-to-text/"
+}

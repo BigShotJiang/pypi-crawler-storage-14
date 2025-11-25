@@ -1,0 +1,11 @@
+{
+  "name": "cprdspy",
+  "version": "0.2.4",
+  "summary": "CPR可视化工具包 - 基于Plotly和Matplotlib的圈点圆可视化Python工具包",
+  "author": "lbylzk8",
+  "license": "MIT",
+  "home_page": "https://github.com/lbylzk8/cprdspy",
+  "download_filename": "cprdspy-0.2.4.tar.gz",
+  "download_time": "2025-11-25T10:39:44.316333",
+  "package_url": "https://pypi.org/project/cprdspy/"
+}

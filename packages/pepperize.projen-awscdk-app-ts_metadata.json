@@ -1,0 +1,11 @@
+{
+  "name": "pepperize.projen-awscdk-app-ts",
+  "version": "0.0.792",
+  "summary": "This project provides a projen project type providing presets for an AWS CDK construct library project",
+  "author": "Patrick Florek<patrick.florek@gmail.com>",
+  "license": "MIT",
+  "home_page": "https://github.com/pepperize/projen-awscdk-app-ts.git",
+  "download_filename": "pepperize_projen_awscdk_app_ts-0.0.792.tar.gz",
+  "download_time": "2025-11-25T10:40:17.812363",
+  "package_url": "https://pypi.org/project/pepperize.projen-awscdk-app-ts/"
+}

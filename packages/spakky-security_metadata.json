@@ -1,0 +1,11 @@
+{
+  "name": "spakky-security",
+  "version": "3.0.0",
+  "summary": "Security utilities plugin for Spakky framework",
+  "author": "Spakky",
+  "license": "LGPL-2.1-or-later",
+  "home_page": null,
+  "download_filename": "spakky_security-3.0.0.tar.gz",
+  "download_time": "2025-11-25T10:40:06.266978",
+  "package_url": "https://pypi.org/project/spakky-security/"
+}
