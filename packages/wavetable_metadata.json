@@ -1,0 +1,11 @@
+{
+  "name": "wavetable",
+  "version": "0.1.2",
+  "summary": "A Python library to log audio files and their spectrograms into a single HTML file for easy inspection.",
+  "author": "Bernardo Torres",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wavetable-0.1.2.tar.gz",
+  "download_time": "2025-11-25T16:13:11.958533",
+  "package_url": "https://pypi.org/project/wavetable/"
+}

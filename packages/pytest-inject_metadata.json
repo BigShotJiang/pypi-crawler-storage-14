@@ -1,0 +1,11 @@
+{
+  "name": "pytest-inject",
+  "version": "0.1.0",
+  "summary": "A pytest plugin that allows you to inject arguments into fixtures and parametrized tests using pytest command-line options.",
+  "author": "Liad Inon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_inject-0.1.0.tar.gz",
+  "download_time": "2025-11-25T16:13:15.584218",
+  "package_url": "https://pypi.org/project/pytest-inject/"
+}

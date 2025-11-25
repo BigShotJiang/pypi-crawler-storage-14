@@ -1,0 +1,11 @@
+{
+  "name": "ipysigma",
+  "version": "0.24.6",
+  "summary": "A Jupyter widget using sigma.js to render interactive networks.",
+  "author": "Guillaume Plique",
+  "license": "MIT",
+  "home_page": "https://github.com/medialab/ipysigma",
+  "download_filename": "ipysigma-0.24.6.tar.gz",
+  "download_time": "2025-11-25T16:13:11.316220",
+  "package_url": "https://pypi.org/project/ipysigma/"
+}

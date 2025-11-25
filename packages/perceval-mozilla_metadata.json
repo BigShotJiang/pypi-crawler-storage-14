@@ -1,11 +1,11 @@
 {
   "name": "perceval-mozilla",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "summary": "Bundle of Perceval backends for Mozilla ecosystem.",
   "author": "GrimoireLab Developers",
   "license": "GPL-3.0+",
   "home_page": "https://chaoss.github.io/grimoirelab/",
-  "download_filename": "perceval_mozilla-1.2.3.tar.gz",
-  "download_time": "2025-11-25T11:38:03.263490",
+  "download_filename": "perceval_mozilla-1.2.4.tar.gz",
+  "download_time": "2025-11-25T16:13:13.215462",
   "package_url": "https://pypi.org/project/perceval-mozilla/"
 }

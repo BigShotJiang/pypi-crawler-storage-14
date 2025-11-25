@@ -1,0 +1,11 @@
+{
+  "name": "collective.ckeditortemplates",
+  "version": "0.10.0",
+  "summary": "Plone templates for ckeditor",
+  "author": "IMIO",
+  "license": "gpl",
+  "home_page": "https://github.com/collective/collective.ckeditortemplates",
+  "download_filename": "collective_ckeditortemplates-0.10.0.tar.gz",
+  "download_time": "2025-11-25T16:13:22.443940",
+  "package_url": "https://pypi.org/project/collective.ckeditortemplates/"
+}
