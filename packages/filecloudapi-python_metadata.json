@@ -1,0 +1,11 @@
+{
+  "name": "filecloudapi-python",
+  "version": "0.5.0",
+  "summary": "A Python library to connect to a Filecloud server",
+  "author": "FileCloud",
+  "license": "Apache-2.0",
+  "home_page": "https://pypi.org/project/filecloudapi-python",
+  "download_filename": "filecloudapi_python-0.5.0.tar.gz",
+  "download_time": "2025-11-25T09:51:28.605245",
+  "package_url": "https://pypi.org/project/filecloudapi-python/"
+}

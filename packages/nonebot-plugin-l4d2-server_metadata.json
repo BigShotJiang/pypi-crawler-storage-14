@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-l4d2-server",
+  "version": "1.2.0",
+  "summary": "L4D2 server related operations plugin for NoneBot2",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_l4d2_server-1.2.0.tar.gz",
+  "download_time": "2025-11-25T09:50:58.072092",
+  "package_url": "https://pypi.org/project/nonebot-plugin-l4d2-server/"
+}

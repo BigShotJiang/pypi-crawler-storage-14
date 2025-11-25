@@ -1,0 +1,11 @@
+{
+  "name": "prompteer",
+  "version": "0.3.0",
+  "summary": "A lightweight file-based prompt manager for LLM workflows. Simple, scalable, and version-control friendly.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "prompteer-0.3.0.tar.gz",
+  "download_time": "2025-11-25T09:50:59.603009",
+  "package_url": "https://pypi.org/project/prompteer/"
+}

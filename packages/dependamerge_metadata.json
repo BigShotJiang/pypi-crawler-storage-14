@@ -1,0 +1,11 @@
+{
+  "name": "dependamerge",
+  "version": "0.1.17",
+  "summary": "Bulk pull request management tool for GitHub organisations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dependamerge-0.1.17.tar.gz",
+  "download_time": "2025-11-25T09:51:27.017602",
+  "package_url": "https://pypi.org/project/dependamerge/"
+}

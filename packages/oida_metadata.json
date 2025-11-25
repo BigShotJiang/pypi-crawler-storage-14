@@ -1,0 +1,11 @@
+{
+  "name": "oida",
+  "version": "0.3.0",
+  "summary": "Oida is Oda's linter that enforces code style and modularization in our Django projects.",
+  "author": "Oda",
+  "license": "MIT",
+  "home_page": "https://github.com/kolonialno/oida",
+  "download_filename": "oida-0.3.0.tar.gz",
+  "download_time": "2025-11-25T09:51:07.477077",
+  "package_url": "https://pypi.org/project/oida/"
+}

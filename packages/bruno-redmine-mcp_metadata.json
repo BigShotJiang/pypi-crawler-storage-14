@@ -1,0 +1,11 @@
+{
+  "name": "bruno-redmine-mcp",
+  "version": "0.0.6",
+  "summary": "Redmine MCP server for Claude Code - manage Redmine issues via MCP tools",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bruno_redmine_mcp-0.0.6.tar.gz",
+  "download_time": "2025-11-25T09:50:56.973854",
+  "package_url": "https://pypi.org/project/bruno-redmine-mcp/"
+}

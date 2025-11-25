@@ -1,0 +1,11 @@
+{
+  "name": "daliuge-common",
+  "version": "6.4.1",
+  "summary": "Data Activated 流 (flow) Graph Engine - Common functionality",
+  "author": "ICRAR DIA Group",
+  "license": "LGPLv2+",
+  "home_page": "https://daliuge.icrar.org/",
+  "download_filename": "daliuge_common-6.4.1.tar.gz",
+  "download_time": "2025-11-25T09:51:11.064894",
+  "package_url": "https://pypi.org/project/daliuge-common/"
+}

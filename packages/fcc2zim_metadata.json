@@ -1,0 +1,11 @@
+{
+  "name": "fcc2zim",
+  "version": "2.0.3",
+  "summary": "Make ZIM files from freeCodeCamp courses",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "fcc2zim-2.0.3.tar.gz",
+  "download_time": "2025-11-25T09:50:55.881547",
+  "package_url": "https://pypi.org/project/fcc2zim/"
+}

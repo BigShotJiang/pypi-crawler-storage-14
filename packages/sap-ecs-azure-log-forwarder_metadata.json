@@ -1,0 +1,11 @@
+{
+  "name": "sap-ecs-azure-log-forwarder",
+  "version": "1.2.3",
+  "summary": "A package to consume events from an Azure storage queue, process log files, and forward them to a HTTP endpoint or file.",
+  "author": "SAP SE",
+  "license": "SAP DEVELOPER LICENSE AGREEMENT",
+  "home_page": "https://www.sap.com/",
+  "download_filename": "sap_ecs_azure_log_forwarder-1.2.3-py3-none-any.whl",
+  "download_time": "2025-11-25T09:51:08.499312",
+  "package_url": "https://pypi.org/project/sap-ecs-azure-log-forwarder/"
+}

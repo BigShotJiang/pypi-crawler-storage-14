@@ -1,0 +1,11 @@
+{
+  "name": "swh.storage",
+  "version": "4.1.1",
+  "summary": "Software Heritage storage manager",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "swh_storage-4.1.1.tar.gz",
+  "download_time": "2025-11-25T09:51:23.899911",
+  "package_url": "https://pypi.org/project/swh.storage/"
+}

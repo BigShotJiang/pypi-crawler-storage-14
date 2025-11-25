@@ -1,0 +1,11 @@
+{
+  "name": "tomwer",
+  "version": "1.6.5",
+  "summary": "Tomography workflow tools",
+  "author": "Henri Payno, Pierre Paleo, Pierre-Olivier Autran, Jérôme Lesaint, Alessandro Mirone",
+  "license": "MIT",
+  "home_page": "https://gitlab.esrf.fr/tomotools/tomwer",
+  "download_filename": "tomwer-1.6.5.tar.gz",
+  "download_time": "2025-11-25T09:51:03.287881",
+  "package_url": "https://pypi.org/project/tomwer/"
+}
