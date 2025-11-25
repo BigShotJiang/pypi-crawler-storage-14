@@ -1,0 +1,11 @@
+{
+  "name": "code-spy",
+  "version": "0.6.0",
+  "summary": "Watches for file changes & runs tasks against your Python code.",
+  "author": "Joe Gasewicz",
+  "license": null,
+  "home_page": "https://github.com/joegasewicz/dev-runner",
+  "download_filename": "code_spy-0.6.0.tar.gz",
+  "download_time": "2025-11-25T20:50:23.774508",
+  "package_url": "https://pypi.org/project/code-spy/"
+}

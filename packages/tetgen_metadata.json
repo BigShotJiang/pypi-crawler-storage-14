@@ -1,0 +1,11 @@
+{
+  "name": "tetgen",
+  "version": "0.7.0",
+  "summary": "Python interface to tetgen",
+  "author": "PyVista Developers",
+  "license": null,
+  "home_page": "https://github.com/pyvista/tetgen",
+  "download_filename": "tetgen-0.7.0.tar.gz",
+  "download_time": "2025-11-25T20:50:25.661006",
+  "package_url": "https://pypi.org/project/tetgen/"
+}

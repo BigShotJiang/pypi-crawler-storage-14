@@ -1,11 +1,11 @@
 {
   "name": "cites-model",
-  "version": "1.7.10",
+  "version": "1.7.11",
   "summary": "CITES Data Model",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cites_model-1.7.10.tar.gz",
-  "download_time": "2025-11-25T20:10:52.288735",
+  "download_filename": "cites_model-1.7.11.tar.gz",
+  "download_time": "2025-11-25T20:50:10.319938",
   "package_url": "https://pypi.org/project/cites-model/"
 }

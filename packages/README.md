@@ -1,14 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-25T20:34:37.676476
-- **Total Packages**: 70
-- **Total Size**: 18.4 MB
+- **Download Time**: 2025-11-25T20:50:42.726964
+- **Total Packages**: 82
+- **Total Size**: 25.69 MB
 
 ## Packages List
+- myfy
+- myfy-frontend
+- serieux
+- myfy-cli
+- myfy-web
+- vellum-ai
+- myfy-core
+- python-ragdoll
+- pyluwen
+- vaapi
+- minimal-timer
+- dbt-meta
+- findllm
+- gensh-cli
+- pylxpweb
+- spectuel-engine-utils
+- neurovolume
+- zensical
+- anylogic-export
+- max-div
+- types-lxml
+- types-lxml-multi-subclass
+- pyuiua
+- zscaler-sdk-python
+- consoul
+- pydotcompute
+- cites-model
+- mcp-pyrunner
+- multi-llm-orchestrator
+- amplicon-coverage-inspector
+- dapr-agents
+- yt-channel-downloader
+- slack-github-triager-core
+- marimo-base
+- types-boto3
+- types-boto3-lite
+- bag-nl
+- boto3-stubs
+- boto3-stubs-lite
+- types-boto3-route53
+- mypy-boto3-route53
+- types-boto3-ec2
+- types-boto3-organizations
+- types-boto3-network-firewall
+- mypy-boto3-ec2
+- mypy-boto3-organizations
+- mypy-boto3-network-firewall
+- videostream
+- splunk-soar-sdk
+- code-spy
+- microchip-emc2305
+- pi-zero-pytorch
+- tetgen
 - glossing
 - internet-computer-wallet
-- python-ragdoll
 - streamlit-mermaid-interactive
 - portkey-ai
 - ngawari
@@ -36,43 +88,3 @@
 - worker-automate-hub
 - jetio
 - flet-charts
-- bluetti-bt-lib
-- texer
-- boto3
-- pyqcm
-- KekikStream
-- awscli
-- moose-lib
-- ceylonai-next
-- microchip-emc2305
-- mermaid-parser-py
-- tastytrade-cli
-- aframexr
-- corylus
-- animate-sh
-- pytest-case-provider
-- mol2lewis
-- neuro-san
-- MinecraftDockerCLI
-- eywa-client
-- grain
-- ert
-- minecode-pipelines
-- torram
-- animate-py
-- repo-ctx
-- minimal-timer
-- gmail-archiver-cli
-- oldaplib
-- dqn-ale-spaceinvaders
-- roboto
-- figlinq
-- twpt-cli
-- zadar-applications
-- janela
-- cloud-governance
-- bim2rdf
-- anc
-- codeprinter2
-- knowledge-stack
-- tentacletk

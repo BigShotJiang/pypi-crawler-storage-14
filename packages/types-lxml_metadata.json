@@ -1,0 +1,11 @@
+{
+  "name": "types-lxml",
+  "version": "2025.11.25",
+  "summary": "Complete lxml external type annotation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_lxml-2025.11.25.tar.gz",
+  "download_time": "2025-11-25T20:50:06.814496",
+  "package_url": "https://pypi.org/project/types-lxml/"
+}
