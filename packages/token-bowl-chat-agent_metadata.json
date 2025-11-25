@@ -1,0 +1,11 @@
+{
+  "name": "token-bowl-chat-agent",
+  "version": "1.0.0",
+  "summary": "LangChain-powered intelligent agent for Token Bowl Chat servers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "token_bowl_chat_agent-1.0.0.tar.gz",
+  "download_time": "2025-11-25T22:09:34.902487",
+  "package_url": "https://pypi.org/project/token-bowl-chat-agent/"
+}

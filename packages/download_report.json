@@ -1,8 +1,13 @@
 {
-  "download_time": "2025-11-25T21:47:05.458394",
-  "total_packages_downloaded": 91,
-  "total_size_mb": 18.21,
+  "download_time": "2025-11-25T22:10:25.539057",
+  "total_packages_downloaded": 92,
+  "total_size_mb": 1.36,
   "packages": [
+    "simplebench",
+    "pydev-toy",
+    "token-bowl-chat-agent",
+    "pygiskit",
+    "python-clamd",
     "localsage",
     "kaqing",
     "jacobi-yaskawa-driver",
@@ -89,10 +94,6 @@
     "ucapi-framework",
     "chess-scoresheet-generator",
     "saber-query",
-    "yarngpt-sdk",
-    "aiinbx",
-    "deltafi",
-    "dv-launcher",
-    "gensh-cli"
+    "yarngpt-sdk"
   ]
 }

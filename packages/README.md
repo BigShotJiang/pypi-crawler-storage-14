@@ -1,11 +1,16 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-25T21:47:05.458394
-- **Total Packages**: 91
-- **Total Size**: 18.21 MB
+- **Download Time**: 2025-11-25T22:10:25.539057
+- **Total Packages**: 92
+- **Total Size**: 1.36 MB
 
 ## Packages List
+- simplebench
+- pydev-toy
+- token-bowl-chat-agent
+- pygiskit
+- python-clamd
 - localsage
 - kaqing
 - jacobi-yaskawa-driver
@@ -93,7 +98,3 @@
 - chess-scoresheet-generator
 - saber-query
 - yarngpt-sdk
-- aiinbx
-- deltafi
-- dv-launcher
-- gensh-cli
