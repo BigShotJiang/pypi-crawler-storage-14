@@ -1,0 +1,11 @@
+{
+  "name": "jupyter-serial-scheduler",
+  "version": "0.2.0",
+  "summary": "A tool to execute Jupyter Notebooks sequentially with resource isolation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jupyter_serial_scheduler-0.2.0.tar.gz",
+  "download_time": "2025-11-25T14:10:35.185305",
+  "package_url": "https://pypi.org/project/jupyter-serial-scheduler/"
+}

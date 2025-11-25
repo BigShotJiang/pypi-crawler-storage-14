@@ -1,0 +1,11 @@
+{
+  "name": "flask-pydantic-spec",
+  "version": "0.8.7",
+  "summary": "generate OpenAPI document and validate request & response with Python annotations.",
+  "author": "Chris Gearing, Simon Hayward, Rob Young, Donald Fleming",
+  "license": null,
+  "home_page": "https://github.com/turner-townsend/flask-pydantic-spec",
+  "download_filename": "flask_pydantic_spec-0.8.7.tar.gz",
+  "download_time": "2025-11-25T14:10:30.478229",
+  "package_url": "https://pypi.org/project/flask-pydantic-spec/"
+}

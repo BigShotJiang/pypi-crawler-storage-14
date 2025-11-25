@@ -1,0 +1,11 @@
+{
+  "name": "neighborhood-correlation",
+  "version": "2.2.1",
+  "summary": "Protein sequence similarity assessment by assessing variance of sequences' scores to _other_ sequences",
+  "author": null,
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "neighborhood_correlation-2.2.1.tar.gz",
+  "download_time": "2025-11-25T14:10:37.277557",
+  "package_url": "https://pypi.org/project/neighborhood-correlation/"
+}

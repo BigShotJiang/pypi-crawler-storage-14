@@ -1,0 +1,11 @@
+{
+  "name": "nba-sheet-cleaner",
+  "version": "0.1.1",
+  "summary": "Automate cleaning NBA projection sheets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nba_sheet_cleaner-0.1.1.tar.gz",
+  "download_time": "2025-11-25T14:10:47.791284",
+  "package_url": "https://pypi.org/project/nba-sheet-cleaner/"
+}

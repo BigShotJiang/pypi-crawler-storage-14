@@ -1,0 +1,11 @@
+{
+  "name": "erosolar",
+  "version": "1.1.6",
+  "summary": "Unified AI Agent Framework - Multi-provider CLI with schema-driven tools, code intelligence, and Alpha Zero competitive RL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "erosolar-1.1.6.tar.gz",
+  "download_time": "2025-11-25T14:10:17.852359",
+  "package_url": "https://pypi.org/project/erosolar/"
+}

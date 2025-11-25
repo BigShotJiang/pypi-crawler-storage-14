@@ -1,11 +1,11 @@
 {
   "name": "bafpipe",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "summary": "Automated deconvolution and analysis of Bruker mass spectra datasets using UniDec",
   "author": "Lawrence Collins",
   "license": null,
   "home_page": "https://github.com/lawrencecollins/bafpipe",
-  "download_filename": "bafpipe-1.0.4.tar.gz",
-  "download_time": "2025-11-25T13:43:50.023061",
+  "download_filename": "bafpipe-1.0.7.tar.gz",
+  "download_time": "2025-11-25T14:10:40.456074",
   "package_url": "https://pypi.org/project/bafpipe/"
 }

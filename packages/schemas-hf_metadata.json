@@ -1,0 +1,11 @@
+{
+  "name": "schemas-hf",
+  "version": "0.1.3",
+  "summary": "Dataclass schemas for local Hugging Face datasets",
+  "author": "Yales",
+  "license": null,
+  "home_page": null,
+  "download_filename": "schemas_hf-0.1.3.tar.gz",
+  "download_time": "2025-11-25T14:10:48.311231",
+  "package_url": "https://pypi.org/project/schemas-hf/"
+}
