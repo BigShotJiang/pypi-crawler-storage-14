@@ -1,11 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-25T11:47:36.576190
-- **Total Packages**: 85
-- **Total Size**: 2.45 MB
+- **Download Time**: 2025-11-25T12:19:32.255826
+- **Total Packages**: 77
+- **Total Size**: 37.97 MB
 
 ## Packages List
+- nvfuser-cu130
+- unicourt
+- svc-infra
+- mts-gendoc-cobol
+- changepacks
+- AOT-biomaps
+- py-obsidian-tools
+- jsonpath-python
+- otel-logger
+- py-ezl
+- tyco
+- PyAlgoEngine
+- fckitlib
+- eckitlib
+- eckit
+- eccodeslib
+- fr24sdk
+- prismarine
+- mbu-process-dashboard-shared-components
+- dq-validation
+- stackit-intake
+- llmbrix
+- datatailr
+- dragon-ml-toolbox
+- chakpy
+- iris-vector-rag
+- comfyui-workflow-templates
+- comfyui-workflow-templates-core
+- phonexia-replay-attack-detection-client
+- allooptim
+- fanda
+- darkweb_api
+- rhythmic_segments
+- policyengine-us
+- ara-cli
+- pyfmto
+- npyt
+- skeliner
+- stainwarpy
+- chartmogul
+- tisa-finance
+- ccs-digitalmarketplace-test-utils
+- questions-mcp-server
+- sequifier
+- tencent-wedata-auto-ml
 - mgnify-pipelines-toolkit
 - superagentx
 - haiku.rag
@@ -14,7 +59,6 @@
 - deepsights-api
 - pgfast
 - crabdeposit
-- AOT-biomaps
 - persian-date-manager
 - fixation-target
 - mcp-skillset
@@ -22,7 +66,6 @@
 - mostlyai
 - cosmicfrog
 - openframe-criteria-set-protocol
-- questions-mcp-server
 - new-pykube
 - tuya2mqtt
 - kendrick
@@ -34,60 +77,9 @@
 - arc-method
 - noqa-runner
 - cyberlicensing
-- prismarine
 - pytemporal
-- mts-gendoc-cobol
-- svc-infra
 - py-yt-search
 - irradpy2
 - orq-ai-sdk
-- mbu-process-dashboard-shared-components
 - legit-api-client
 - glidergun
-- entangled-cli
-- tencent-wedata-auto-ml
-- perceval-mozilla
-- nonebot-plugin-templates-draw
-- langchain-hana
-- spicelab
-- perceval-opnfv
-- perceval-weblate
-- graal
-- smle
-- perceval-puppet
-- rediacc
-- intellif-aihub
-- tree-sitter-analyzer
-- mteb
-- wmain
-- weerlive-api
-- sufix
-- jee-data-base
-- peewee-migrate
-- winipyside
-- ou-container-builder
-- cycode
-- semantics.py3
-- cereslib
-- npyosmium
-- perceval
-- arshai
-- pyvrp
-- port-ocean
-- dbt2pdf
-- aipyapp
-- mecab-python3
-- arx-x5-sdk
-- rheopy
-- kipu-quantum-hub-mcp
-- stainwarpy
-- kidash
-- xparse-pipeline
-- grimoirelab-toolkit
-- bibtheque
-- tf-keras-nightly
-- winidjango
-- mini-apigw
-- redbrick-sdk
-- optimum-rbln
-- CourierOptimizer-ACIT4420

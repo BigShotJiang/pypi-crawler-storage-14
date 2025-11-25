@@ -1,0 +1,11 @@
+{
+  "name": "llmbrix",
+  "version": "0.1.4",
+  "summary": "Low abstraction agentic LLM framework.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llmbrix-0.1.4.tar.gz",
+  "download_time": "2025-11-25T12:18:55.602523",
+  "package_url": "https://pypi.org/project/llmbrix/"
+}

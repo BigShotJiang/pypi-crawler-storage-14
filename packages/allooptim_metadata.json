@@ -1,0 +1,11 @@
+{
+  "name": "allooptim",
+  "version": "0.3.5",
+  "summary": "Scientific portfolio optimization for institutional investors",
+  "author": "Jonas ten Haaf",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "allooptim-0.3.5.tar.gz",
+  "download_time": "2025-11-25T12:19:01.184393",
+  "package_url": "https://pypi.org/project/allooptim/"
+}

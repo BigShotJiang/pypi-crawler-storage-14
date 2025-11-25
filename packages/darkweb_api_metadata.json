@@ -1,0 +1,11 @@
+{
+  "name": "darkweb_api",
+  "version": "2.0.0",
+  "summary": "Dark Web API to build the query parameter and get the search results from WEBZ server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "darkweb_api-2.0.0.tar.gz",
+  "download_time": "2025-11-25T12:19:02.544233",
+  "package_url": "https://pypi.org/project/darkweb_api/"
+}
