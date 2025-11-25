@@ -1,0 +1,11 @@
+{
+  "name": "conan",
+  "version": "2.23.0",
+  "summary": "Conan C/C++ package manager",
+  "author": "JFrog LTD",
+  "license": "MIT",
+  "home_page": "https://conan.io",
+  "download_filename": "conan-2.23.0.tar.gz",
+  "download_time": "2025-11-25T17:49:11.303576",
+  "package_url": "https://pypi.org/project/conan/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dedupe-fork-eccovia",
+  "version": "2.0.14",
+  "summary": "A python library for accurate and scaleable data deduplication and entity-resolution",
+  "author": "Forest Gregg",
+  "license": null,
+  "home_page": "https://github.com/tigerang22/dedupe",
+  "download_filename": "dedupe_fork_eccovia-2.0.14.tar.gz",
+  "download_time": "2025-11-25T17:49:10.064237",
+  "package_url": "https://pypi.org/project/dedupe-fork-eccovia/"
+}

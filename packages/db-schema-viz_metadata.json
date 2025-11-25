@@ -1,11 +1,11 @@
 {
   "name": "db-schema-viz",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Interactive database schema visualization utils for Python notebooks (Jupyter, Marimo)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "db_schema_viz-0.1.0.tar.gz",
-  "download_time": "2025-11-25T15:10:36.143895",
+  "download_filename": "db_schema_viz-0.2.0.tar.gz",
+  "download_time": "2025-11-25T17:49:05.167628",
   "package_url": "https://pypi.org/project/db-schema-viz/"
 }

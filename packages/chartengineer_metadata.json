@@ -1,11 +1,11 @@
 {
   "name": "chartengineer",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Plotly and Pandas wrapper for quick and modern chart building.",
   "author": "Brandyn Hamilton",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "chartengineer-0.1.6.tar.gz",
-  "download_time": "2025-11-25T17:16:59.039602",
+  "download_filename": "chartengineer-0.1.7.tar.gz",
+  "download_time": "2025-11-25T17:49:14.299233",
   "package_url": "https://pypi.org/project/chartengineer/"
 }

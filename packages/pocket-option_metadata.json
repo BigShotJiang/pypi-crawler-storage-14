@@ -1,0 +1,11 @@
+{
+  "name": "pocket-option",
+  "version": "0.1.5",
+  "summary": "Async API client for Pocket Option platform",
+  "author": "Yury \"lordralinc\" Yushmanov",
+  "license": null,
+  "home_page": "https://github.com/lordralinc/pocket_option",
+  "download_filename": "pocket_option-0.1.5.tar.gz",
+  "download_time": "2025-11-25T17:49:07.040379",
+  "package_url": "https://pypi.org/project/pocket-option/"
+}

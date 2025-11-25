@@ -1,11 +1,11 @@
 {
   "name": "coderunnernew",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "summary": "Lightweight package to store and retrieve code answers by program number.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "coderunnernew-0.1.4.tar.gz",
-  "download_time": "2025-11-25T17:40:26.964030",
+  "download_filename": "coderunnernew-0.2.0.tar.gz",
+  "download_time": "2025-11-25T17:49:12.521073",
   "package_url": "https://pypi.org/project/coderunnernew/"
 }
