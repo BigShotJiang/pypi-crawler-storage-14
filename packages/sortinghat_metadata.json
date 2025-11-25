@@ -1,11 +1,11 @@
 {
   "name": "sortinghat",
-  "version": "1.12.2",
+  "version": "1.12.3",
   "summary": "A tool to manage identities.",
   "author": "GrimoireLab Developers",
   "license": "GPL-3.0+",
   "home_page": "https://chaoss.github.io/grimoirelab/",
-  "download_filename": "sortinghat-1.12.2.tar.gz",
-  "download_time": "2025-11-25T14:10:13.118120",
+  "download_filename": "sortinghat-1.12.3.tar.gz",
+  "download_time": "2025-11-25T15:11:03.886905",
   "package_url": "https://pypi.org/project/sortinghat/"
 }
