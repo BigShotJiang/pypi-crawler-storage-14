@@ -1,0 +1,11 @@
+{
+  "name": "litellm-utils",
+  "version": "1.0.0",
+  "summary": "Lightweight Python wrapper for LiteLLM with simplified interface for 100+ AI providers. Supports text, images, and documents with conversation management.",
+  "author": "Viktor Sharha",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "litellm_utils-1.0.0.tar.gz",
+  "download_time": "2025-11-25T14:51:18.515958",
+  "package_url": "https://pypi.org/project/litellm-utils/"
+}

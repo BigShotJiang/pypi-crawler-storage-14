@@ -1,0 +1,11 @@
+{
+  "name": "mcl-tool",
+  "version": "0.3.0",
+  "summary": "My Command Line: A personal generic customizable CLI tool",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcl_tool-0.3.0.tar.gz",
+  "download_time": "2025-11-25T14:51:10.277664",
+  "package_url": "https://pypi.org/project/mcl-tool/"
+}

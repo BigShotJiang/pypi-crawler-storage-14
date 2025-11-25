@@ -1,11 +1,11 @@
 {
   "name": "questions-mcp-server",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "summary": "题目管理与检索系统 MCP Server - 基于 FastMCP 框架",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "questions_mcp_server-1.0.9.tar.gz",
-  "download_time": "2025-11-25T14:10:47.269579",
+  "download_filename": "questions_mcp_server-1.0.10.tar.gz",
+  "download_time": "2025-11-25T14:51:37.289824",
   "package_url": "https://pypi.org/project/questions-mcp-server/"
 }

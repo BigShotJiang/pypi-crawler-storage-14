@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-adapter-satori",
+  "version": "0.13.8",
+  "summary": "Satori Protocol Adapter for Nonebot2",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_adapter_satori-0.13.8.tar.gz",
+  "download_time": "2025-11-25T14:51:24.729650",
+  "package_url": "https://pypi.org/project/nonebot-adapter-satori/"
+}
