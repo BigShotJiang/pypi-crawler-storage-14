@@ -1,22 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-25T11:38:39.824290
+- **Download Time**: 2025-11-25T11:47:36.576190
 - **Total Packages**: 85
-- **Total Size**: 33.92 MB
+- **Total Size**: 2.45 MB
 
 ## Packages List
+- mgnify-pipelines-toolkit
+- superagentx
+- haiku.rag
+- drun
+- haiku.rag-slim
+- deepsights-api
+- pgfast
+- crabdeposit
+- AOT-biomaps
+- persian-date-manager
+- fixation-target
+- mcp-skillset
+- django-bulk-drf
+- mostlyai
+- cosmicfrog
+- openframe-criteria-set-protocol
+- questions-mcp-server
+- new-pykube
+- tuya2mqtt
+- kendrick
+- clerk-sdk
+- caddy-tui
+- ctyun-zos-sdk
+- cymeta
+- parallaxapis-sdk-py
+- arc-method
+- noqa-runner
 - cyberlicensing
 - prismarine
 - pytemporal
 - mts-gendoc-cobol
 - svc-infra
-- AOT-biomaps
-- drun
 - py-yt-search
 - irradpy2
 - orq-ai-sdk
-- persian-date-manager
 - mbu-process-dashboard-shared-components
 - legit-api-client
 - glidergun
@@ -30,7 +54,6 @@
 - perceval-weblate
 - graal
 - smle
-- questions-mcp-server
 - perceval-puppet
 - rediacc
 - intellif-aihub
@@ -68,26 +91,3 @@
 - redbrick-sdk
 - optimum-rbln
 - CourierOptimizer-ACIT4420
-- doordeck-headless-sdk
-- datarobot-pulumi-utils
-- bin2hex
-- apex-saas-framework
-- tuya2mqtt
-- iatoolkit
-- noqa-runner
-- pydpm-xl
-- frogml
-- vrt-lss-universal
-- vrt-lss-studio
-- vrt-lss-routing
-- vrt-lss-registry
-- vrt-lss-packer
-- vrt-lss-agro
-- vrt-lss-account
-- tg-signer
-- quapp-qiskit
-- django-bulk-drf
-- arthur-client
-- infrahub-testcontainers
-- uvbox
-- infrahub-server

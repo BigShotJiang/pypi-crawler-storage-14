@@ -1,0 +1,11 @@
+{
+  "name": "clerk-sdk",
+  "version": "0.4.15",
+  "summary": "Library for interacting with Clerk",
+  "author": "F-ONE Group",
+  "license": null,
+  "home_page": "https://github.com/F-ONE-Group/clerk_pypi",
+  "download_filename": "clerk_sdk-0.4.15.tar.gz",
+  "download_time": "2025-11-25T11:47:01.645120",
+  "package_url": "https://pypi.org/project/clerk-sdk/"
+}
