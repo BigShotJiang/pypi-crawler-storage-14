@@ -1,0 +1,11 @@
+{
+  "name": "bin2hex",
+  "version": "2.5.0",
+  "summary": "bin2hex is an utility to convert binary file to multiple types of hexadecimal text file",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bin2hex-2.5.0.tar.gz",
+  "download_time": "2025-11-25T11:38:28.891432",
+  "package_url": "https://pypi.org/project/bin2hex/"
+}

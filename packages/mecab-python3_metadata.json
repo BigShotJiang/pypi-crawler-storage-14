@@ -1,0 +1,11 @@
+{
+  "name": "mecab-python3",
+  "version": "1.0.12",
+  "summary": "Python wrapper for the MeCab morphological analyzer for Japanese",
+  "author": null,
+  "license": "BSD",
+  "home_page": "https://github.com/SamuraiT/mecab-python3",
+  "download_filename": "mecab_python3-1.0.12.tar.gz",
+  "download_time": "2025-11-25T11:38:19.483237",
+  "package_url": "https://pypi.org/project/mecab-python3/"
+}

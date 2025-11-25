@@ -1,0 +1,11 @@
+{
+  "name": "persian-date-manager",
+  "version": "1.1.1",
+  "summary": "Complete Persian date and time management with Keybit.ir API",
+  "author": "Mobin Irandoust",
+  "license": null,
+  "home_page": "https://github.com/yourusername/persian-date-manager",
+  "download_filename": "persian_date_manager-1.1.1.tar.gz",
+  "download_time": "2025-11-25T11:38:00.130936",
+  "package_url": "https://pypi.org/project/persian-date-manager/"
+}

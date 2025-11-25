@@ -1,0 +1,11 @@
+{
+  "name": "rheopy",
+  "version": "0.2.0",
+  "summary": "Concurrent HTTP download orchestration with async I/O",
+  "author": "plutopulp",
+  "license": "MIT",
+  "home_page": "https://github.com/plutopulp/rheo",
+  "download_filename": "rheopy-0.2.0.tar.gz",
+  "download_time": "2025-11-25T11:38:20.555291",
+  "package_url": "https://pypi.org/project/rheopy/"
+}

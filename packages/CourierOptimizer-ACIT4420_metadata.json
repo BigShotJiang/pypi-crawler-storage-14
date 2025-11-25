@@ -1,11 +1,11 @@
 {
   "name": "CourierOptimizer-ACIT4420",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "summary": "Courier Optimizer for ACIT4420",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "courieroptimizer_acit4420-0.0.2.tar.gz",
-  "download_time": "2025-11-25T11:09:39.134834",
+  "download_filename": "courieroptimizer_acit4420-0.0.5.tar.gz",
+  "download_time": "2025-11-25T11:38:27.317789",
   "package_url": "https://pypi.org/project/CourierOptimizer-ACIT4420/"
 }
