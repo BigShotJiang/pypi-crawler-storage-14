@@ -1,0 +1,11 @@
+{
+  "name": "pymandua",
+  "version": "0.2.0",
+  "summary": "Uma biblioteca para scraping com lógica fuzzy e conversão de HTML e conteúdos ao seu redor, lidando com reatividade do javascript para Markdown focado em LLMs. Adicionado com um pipeline RAG.",
+  "author": "Marcos Henrique Maimoni Campanella",
+  "license": "MIT",
+  "home_page": "https://github.com/seuusuario/web-scraper-with-ai",
+  "download_filename": "pymandua-0.2.0.tar.gz",
+  "download_time": "2025-11-25T23:29:15.667794",
+  "package_url": "https://pypi.org/project/pymandua/"
+}

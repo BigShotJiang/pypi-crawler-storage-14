@@ -1,11 +1,11 @@
 {
   "name": "pytest-crap",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "pytest plugin that calculates CRAP scores to guide test writing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_crap-0.1.0.tar.gz",
-  "download_time": "2025-11-25T19:30:02.951999",
+  "download_filename": "pytest_crap-0.2.0.tar.gz",
+  "download_time": "2025-11-25T23:29:09.476386",
   "package_url": "https://pypi.org/project/pytest-crap/"
 }
