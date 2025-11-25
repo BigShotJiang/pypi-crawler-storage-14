@@ -1,0 +1,11 @@
+{
+  "name": "pymoto",
+  "version": "2.0.0",
+  "summary": "A modular approach to topology optimization",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pymoto-2.0.0.tar.gz",
+  "download_time": "2025-11-25T15:33:39.778412",
+  "package_url": "https://pypi.org/project/pymoto/"
+}

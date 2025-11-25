@@ -1,0 +1,11 @@
+{
+  "name": "diffpy.srxplanargui",
+  "version": "1.0.0rc3",
+  "summary": "xPDFsuite, a software for PDF transformation and visualization.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "diffpy_srxplanargui-1.0.0rc3.tar.gz",
+  "download_time": "2025-11-25T15:34:17.834979",
+  "package_url": "https://pypi.org/project/diffpy.srxplanargui/"
+}

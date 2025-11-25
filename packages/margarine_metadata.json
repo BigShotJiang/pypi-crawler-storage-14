@@ -1,0 +1,11 @@
+{
+  "name": "margarine",
+  "version": "1.4.0",
+  "summary": "margarine: Posterior Sampling and Marginal Bayesian Statistics ",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "margarine-1.4.0.tar.gz",
+  "download_time": "2025-11-25T15:34:09.537806",
+  "package_url": "https://pypi.org/project/margarine/"
+}

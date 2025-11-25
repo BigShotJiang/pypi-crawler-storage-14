@@ -1,0 +1,11 @@
+{
+  "name": "cg-plot-capture",
+  "version": "1.0.0",
+  "summary": "Capture and send matplotlib plots via send_file",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cg_plot_capture-1.0.0.tar.gz",
+  "download_time": "2025-11-25T15:33:47.531970",
+  "package_url": "https://pypi.org/project/cg-plot-capture/"
+}

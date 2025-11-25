@@ -1,0 +1,11 @@
+{
+  "name": "auglab",
+  "version": "20251125",
+  "summary": "AugLab investigates the influence of different data augmentation strategies on MRI training performance.",
+  "author": "Hendrik Möller",
+  "license": null,
+  "home_page": null,
+  "download_filename": "auglab-20251125.tar.gz",
+  "download_time": "2025-11-25T15:34:01.430657",
+  "package_url": "https://pypi.org/project/auglab/"
+}

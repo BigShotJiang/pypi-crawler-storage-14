@@ -1,11 +1,11 @@
 {
   "name": "sphinx-doc",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Automated Sphinx documentation generator for SystemVerilog and Python UVM testbenches",
   "author": "Sanjay Singh",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/sphinx-doc",
-  "download_filename": "sphinx_doc-1.0.4.tar.gz",
-  "download_time": "2025-11-25T13:54:05.029997",
+  "download_filename": "sphinx_doc-1.0.5.tar.gz",
+  "download_time": "2025-11-25T15:33:55.611821",
   "package_url": "https://pypi.org/project/sphinx-doc/"
 }
