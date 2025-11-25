@@ -1,11 +1,11 @@
 {
   "name": "pytots",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "A lightweight tool that helps you convert Python types to TypeScript types",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytots-0.3.1.tar.gz",
-  "download_time": "2025-11-25T13:54:15.923029",
+  "download_filename": "pytots-0.3.2.tar.gz",
+  "download_time": "2025-11-25T17:40:27.475376",
   "package_url": "https://pypi.org/project/pytots/"
 }

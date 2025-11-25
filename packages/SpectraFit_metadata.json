@@ -1,0 +1,11 @@
+{
+  "name": "SpectraFit",
+  "version": "1.4.2",
+  "summary": "Fast fitting of 2D- and 3D-Spectra with established routines",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spectrafit-1.4.2.tar.gz",
+  "download_time": "2025-11-25T17:40:48.686541",
+  "package_url": "https://pypi.org/project/SpectraFit/"
+}

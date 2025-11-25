@@ -1,0 +1,11 @@
+{
+  "name": "NeuralNetworks",
+  "version": "0.1.6",
+  "summary": "Multi-Layer Perceptrons with Fourier encoding, visualization and PyTorch compilation",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "neuralnetworks-0.1.6.tar.gz",
+  "download_time": "2025-11-25T17:41:04.497459",
+  "package_url": "https://pypi.org/project/NeuralNetworks/"
+}

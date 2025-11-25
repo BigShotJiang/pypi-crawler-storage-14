@@ -1,0 +1,11 @@
+{
+  "name": "jsmfsb",
+  "version": "1.1.6",
+  "summary": "Python+JAX code relating to the textbook, Stochastic modelling for systems biology, third edition",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jsmfsb-1.1.6.tar.gz",
+  "download_time": "2025-11-25T17:40:23.319028",
+  "package_url": "https://pypi.org/project/jsmfsb/"
+}

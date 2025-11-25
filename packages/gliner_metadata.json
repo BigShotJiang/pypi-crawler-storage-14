@@ -1,0 +1,11 @@
+{
+  "name": "gliner",
+  "version": "0.2.23",
+  "summary": "Generalist model for NER (Extract any entity types from texts)",
+  "author": "Urchade Zaratiana, Nadi Tomeh, Pierre Holat, Thierry Charnois",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gliner-0.2.23.tar.gz",
+  "download_time": "2025-11-25T17:40:39.412552",
+  "package_url": "https://pypi.org/project/gliner/"
+}

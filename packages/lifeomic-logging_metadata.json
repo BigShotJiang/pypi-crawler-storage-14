@@ -1,0 +1,11 @@
+{
+  "name": "lifeomic-logging",
+  "version": "0.4.1",
+  "summary": "LifeOmic Python Logging Library.",
+  "author": "LifeOmic Development",
+  "license": "MIT",
+  "home_page": "https://github.com/lifeomic/logging-py",
+  "download_filename": "lifeomic_logging-0.4.1.tar.gz",
+  "download_time": "2025-11-25T17:40:46.639728",
+  "package_url": "https://pypi.org/project/lifeomic-logging/"
+}

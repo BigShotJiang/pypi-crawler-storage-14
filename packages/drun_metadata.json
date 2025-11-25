@@ -1,11 +1,11 @@
 {
   "name": "drun",
-  "version": "6.1.0",
-  "summary": "Minimal HTTP API test runner (MVP)",
+  "version": "6.1.1",
+  "summary": "Easy-to-use API testing with DevOps automation support",
   "author": "Drun Team",
   "license": null,
   "home_page": null,
-  "download_filename": "drun-6.1.0.tar.gz",
-  "download_time": "2025-11-25T17:16:31.684988",
+  "download_filename": "drun-6.1.1.tar.gz",
+  "download_time": "2025-11-25T17:40:43.003862",
   "package_url": "https://pypi.org/project/drun/"
 }
