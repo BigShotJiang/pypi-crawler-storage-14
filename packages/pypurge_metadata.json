@@ -1,0 +1,11 @@
+{
+  "name": "pypurge",
+  "version": "3.0.2",
+  "summary": "Safe Python project cleanup utility — purge caches, build artifacts, test leftovers, and env clutter with smart protection.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pypurge-3.0.2.tar.gz",
+  "download_time": "2025-11-25T19:46:39.807652",
+  "package_url": "https://pypi.org/project/pypurge/"
+}

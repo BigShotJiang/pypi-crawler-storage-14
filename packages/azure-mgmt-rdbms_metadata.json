@@ -1,0 +1,11 @@
+{
+  "name": "azure-mgmt-rdbms",
+  "version": "10.1.1",
+  "summary": "Microsoft Azure Rdbms Management Client Library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "azure_mgmt_rdbms-10.1.1.tar.gz",
+  "download_time": "2025-11-25T19:46:36.165578",
+  "package_url": "https://pypi.org/project/azure-mgmt-rdbms/"
+}

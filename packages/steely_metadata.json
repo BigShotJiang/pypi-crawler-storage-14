@@ -1,11 +1,11 @@
 {
   "name": "steely",
-  "version": "1.0.0.0",
-  "summary": "While the poor people sleeping, in the shade of the light, all the stars come out at night. :star:",
-  "author": "Steely Tools - Tom Neto",
-  "license": null,
-  "home_page": "https://github.com/tomneto",
-  "download_filename": "steely-1.0.0.0-py3-none-any.whl",
-  "download_time": "2025-11-25T19:30:04.547905",
+  "version": "1.0.0.1",
+  "summary": "A Python debugging and analysis toolkit with beautiful, colorful terminal output. Provides decorators for automatic logging, execution timing, and real-time variable tracking.",
+  "author": "Steely Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "steely-1.0.0.1-py3-none-any.whl",
+  "download_time": "2025-11-25T19:46:39.286660",
   "package_url": "https://pypi.org/project/steely/"
 }
