@@ -1,0 +1,11 @@
+{
+  "name": "nrp-devtools",
+  "version": "12.0.6",
+  "summary": "NRP repository development tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nrp_devtools-12.0.6.tar.gz",
+  "download_time": "2025-11-25T10:12:18.857056",
+  "package_url": "https://pypi.org/project/nrp-devtools/"
+}

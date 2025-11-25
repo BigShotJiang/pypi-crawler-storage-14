@@ -1,0 +1,11 @@
+{
+  "name": "markdown-gfm-admonition",
+  "version": "0.2.0",
+  "summary": "GFM admonition syntax for Python Markdown",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "markdown_gfm_admonition-0.2.0.tar.gz",
+  "download_time": "2025-11-25T10:11:52.166406",
+  "package_url": "https://pypi.org/project/markdown-gfm-admonition/"
+}

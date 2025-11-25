@@ -1,0 +1,11 @@
+{
+  "name": "solvebio",
+  "version": "2.33.0",
+  "summary": "The SolveBio Python client (DEPRECATED)",
+  "author": "Solve, Inc.",
+  "license": null,
+  "home_page": "https://github.com/solvebio/solvebio-python",
+  "download_filename": "solvebio-2.33.0.tar.gz",
+  "download_time": "2025-11-25T10:12:28.878835",
+  "package_url": "https://pypi.org/project/solvebio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jupyter-vscode-proxy",
+  "version": "0.7",
+  "summary": "VS Code extension for Jupyter",
+  "author": null,
+  "license": "BSD-3-clause",
+  "home_page": null,
+  "download_filename": "jupyter_vscode_proxy-0.7.tar.gz",
+  "download_time": "2025-11-25T10:11:58.502920",
+  "package_url": "https://pypi.org/project/jupyter-vscode-proxy/"
+}

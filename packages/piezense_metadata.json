@@ -1,0 +1,11 @@
+{
+  "name": "piezense",
+  "version": "0.0.12",
+  "summary": "A Python package for interfacing with PieZense pneumatic systems",
+  "author": "Haptica Robotics",
+  "license": "LicenseRef-Proprietary",
+  "home_page": "https://github.com/haptica-robotics/piezense",
+  "download_filename": "piezense-0.0.12.tar.gz",
+  "download_time": "2025-11-25T10:12:03.961886",
+  "package_url": "https://pypi.org/project/piezense/"
+}

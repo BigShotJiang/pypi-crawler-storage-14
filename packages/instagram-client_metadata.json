@@ -1,0 +1,11 @@
+{
+  "name": "instagram-client",
+  "version": "0.2.5",
+  "summary": "Instagram official api 2.0 client by robosell.uz",
+  "author": "Abdulvoris",
+  "license": null,
+  "home_page": "https://github.com/RoboSell-organization/instagram-client",
+  "download_filename": "instagram_client-0.2.5.tar.gz",
+  "download_time": "2025-11-25T10:12:28.337767",
+  "package_url": "https://pypi.org/project/instagram-client/"
+}

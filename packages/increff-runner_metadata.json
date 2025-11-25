@@ -1,0 +1,11 @@
+{
+  "name": "increff-runner",
+  "version": "12.6",
+  "summary": "Algo Runner For Increff CaaS",
+  "author": "Unnikrishnan A S",
+  "license": null,
+  "home_page": null,
+  "download_filename": "increff_runner-12.6-py3-none-any.whl",
+  "download_time": "2025-11-25T10:11:57.400972",
+  "package_url": "https://pypi.org/project/increff-runner/"
+}

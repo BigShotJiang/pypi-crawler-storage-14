@@ -1,11 +1,11 @@
 {
   "name": "rediacc",
-  "version": "0.2.64",
+  "version": "0.2.65",
   "summary": "CLI for Rediacc infrastructure protection platform",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rediacc-0.2.64.tar.gz",
-  "download_time": "2025-11-25T09:51:10.035267",
+  "download_filename": "rediacc-0.2.65.tar.gz",
+  "download_time": "2025-11-25T10:12:11.830343",
   "package_url": "https://pypi.org/project/rediacc/"
 }
