@@ -1,0 +1,11 @@
+{
+  "name": "scrapely-client",
+  "version": "1.0.1",
+  "summary": "Python client for Scrapely browser automation service - simple, intuitive web scraping and automation",
+  "author": "Yahya Rehman",
+  "license": "MIT",
+  "home_page": "https://github.com/YahyaRehman6/scrapely_client",
+  "download_filename": "scrapely_client-1.0.1.tar.gz",
+  "download_time": "2025-11-25T19:30:16.292032",
+  "package_url": "https://pypi.org/project/scrapely-client/"
+}

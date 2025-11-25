@@ -1,11 +1,11 @@
 {
   "name": "fitbit-web-api",
-  "version": "2.12.3",
+  "version": "2.13.0",
   "summary": "Fitbit Web API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fitbit_web_api-2.12.3.tar.gz",
-  "download_time": "2025-11-25T17:41:01.937064",
+  "download_filename": "fitbit_web_api-2.13.0.tar.gz",
+  "download_time": "2025-11-25T19:30:10.907571",
   "package_url": "https://pypi.org/project/fitbit-web-api/"
 }

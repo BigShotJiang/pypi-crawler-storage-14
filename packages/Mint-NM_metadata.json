@@ -1,0 +1,11 @@
+{
+  "name": "Mint-NM",
+  "version": "0.1.28",
+  "summary": "Tools for ENGPHYS 3NM4",
+  "author": "Michael Welland",
+  "license": "CC-BY-4.0",
+  "home_page": "https://github.com/mwelland/themintlab/Mint_NM",
+  "download_filename": "mint_nm-0.1.28.tar.gz",
+  "download_time": "2025-11-25T19:30:14.239026",
+  "package_url": "https://pypi.org/project/Mint-NM/"
+}

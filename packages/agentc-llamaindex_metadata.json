@@ -1,11 +1,11 @@
 {
   "name": "agentc-llamaindex",
-  "version": "0.2.5a4",
+  "version": "1.0.0",
   "summary": "Collection of LlamaIndex-specific classes and functions used with the Couchbase Agent Catalog project.",
   "author": "Glenn Galvizo",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "agentc_llamaindex-0.2.5a4-py3-none-any.whl",
-  "download_time": "2025-11-25T18:45:52.317222",
+  "download_filename": "agentc_llamaindex-1.0.0-py3-none-any.whl",
+  "download_time": "2025-11-25T19:30:31.881353",
   "package_url": "https://pypi.org/project/agentc-llamaindex/"
 }

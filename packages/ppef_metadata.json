@@ -1,0 +1,11 @@
+{
+  "name": "ppef",
+  "version": "1.2.1",
+  "summary": "Partitioned Elias-Fano encoding for sequences of nondecreasing integers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ppef-1.2.1-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-11-25T19:30:11.419405",
+  "package_url": "https://pypi.org/project/ppef/"
+}

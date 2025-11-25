@@ -1,0 +1,11 @@
+{
+  "name": "mkbc",
+  "version": "2.4.1",
+  "summary": "Make ebook collection",
+  "author": "Vojtěch Pachol",
+  "license": "LGPL-3.0",
+  "home_page": "https://gitlab.com/pacholik1/MKBC",
+  "download_filename": "mkbc-2.4.1.tar.gz",
+  "download_time": "2025-11-25T19:30:19.370835",
+  "package_url": "https://pypi.org/project/mkbc/"
+}
