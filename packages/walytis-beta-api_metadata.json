@@ -1,0 +1,11 @@
+{
+  "name": "walytis-beta-api",
+  "version": "2.4.14",
+  "summary": "A library for interacting with Walytis, a flexible, lightweight, nonlinear database-blockchain. Built to be built upon.",
+  "author": "Emendir",
+  "license": null,
+  "home_page": null,
+  "download_filename": "walytis_beta_api-2.4.14.tar.gz",
+  "download_time": "2025-11-25T18:45:16.294155",
+  "package_url": "https://pypi.org/project/walytis-beta-api/"
+}

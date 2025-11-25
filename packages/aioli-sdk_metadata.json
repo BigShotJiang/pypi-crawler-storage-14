@@ -1,0 +1,11 @@
+{
+  "name": "aioli-sdk",
+  "version": "1.11.0",
+  "summary": "Aioli (AI OnLine Inference), a platform for deploying AI models at scale.",
+  "author": "HPE AI Solutions",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/determined-ai/aioli",
+  "download_filename": "aioli_sdk-1.11.0.tar.gz",
+  "download_time": "2025-11-25T18:45:28.213929",
+  "package_url": "https://pypi.org/project/aioli-sdk/"
+}

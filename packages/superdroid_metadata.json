@@ -1,0 +1,11 @@
+{
+  "name": "superdroid",
+  "version": "1.0.0",
+  "summary": "AI-enhanced development framework for Factory Droid CLI - 30 commands, 20 droids, 7 modes",
+  "author": "Frexxis",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "superdroid-1.0.0.tar.gz",
+  "download_time": "2025-11-25T18:45:25.903867",
+  "package_url": "https://pypi.org/project/superdroid/"
+}

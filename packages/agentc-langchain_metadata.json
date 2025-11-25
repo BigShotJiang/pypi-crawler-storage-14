@@ -1,0 +1,11 @@
+{
+  "name": "agentc-langchain",
+  "version": "0.2.5a4",
+  "summary": "Collection of LangChain-specific classes and functions used with the Couchbase Agent Catalog project.",
+  "author": "Kush Khanna",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "agentc_langchain-0.2.5a4-py3-none-any.whl",
+  "download_time": "2025-11-25T18:45:53.336332",
+  "package_url": "https://pypi.org/project/agentc-langchain/"
+}

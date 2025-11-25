@@ -1,11 +1,11 @@
 {
   "name": "steely",
-  "version": "0.1.0.3",
+  "version": "0.1.0.5",
   "summary": null,
   "author": "Steely Tools - Tom Neto",
   "license": null,
   "home_page": "https://github.com/tomneto",
-  "download_filename": "steely-0.1.0.3-py3-none-any.whl",
-  "download_time": "2025-11-25T15:52:06.276717",
+  "download_filename": "steely-0.1.0.5-py3-none-any.whl",
+  "download_time": "2025-11-25T18:45:25.329598",
   "package_url": "https://pypi.org/project/steely/"
 }

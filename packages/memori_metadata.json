@@ -1,11 +1,11 @@
 {
   "name": "memori",
-  "version": "3.0.0b2",
+  "version": "3.0.0b3",
   "summary": "Memori Python SDK",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "memori-3.0.0b2.tar.gz",
-  "download_time": "2025-11-25T14:35:26.185328",
+  "download_filename": "memori-3.0.0b3.tar.gz",
+  "download_time": "2025-11-25T18:45:27.056371",
   "package_url": "https://pypi.org/project/memori/"
 }

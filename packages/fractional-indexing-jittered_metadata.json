@@ -1,0 +1,11 @@
+{
+  "name": "fractional-indexing-jittered",
+  "version": "0.2.0",
+  "summary": "An implementation of fractional indexing with jitter",
+  "author": "Mariano Uvalle",
+  "license": null,
+  "home_page": "https://github.com/AYM1607/fractional-indexing-jittered-python",
+  "download_filename": "fractional_indexing_jittered-0.2.0.tar.gz",
+  "download_time": "2025-11-25T18:45:43.797003",
+  "package_url": "https://pypi.org/project/fractional-indexing-jittered/"
+}

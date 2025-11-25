@@ -1,0 +1,11 @@
+{
+  "name": "svs-core",
+  "version": "0.7.1",
+  "summary": "Core library for SVS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "svs_core-0.7.1.tar.gz",
+  "download_time": "2025-11-25T18:45:49.687406",
+  "package_url": "https://pypi.org/project/svs-core/"
+}

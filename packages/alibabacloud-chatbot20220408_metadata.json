@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-chatbot20220408",
+  "version": "2.4.2",
+  "summary": "Alibaba Cloud Chatbot (20220408) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_chatbot20220408-2.4.2.tar.gz",
+  "download_time": "2025-11-25T18:45:22.439412",
+  "package_url": "https://pypi.org/project/alibabacloud-chatbot20220408/"
+}

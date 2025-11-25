@@ -1,11 +1,11 @@
 {
   "name": "dash-auth-plus",
-  "version": "0.0.1a2",
+  "version": "0.0.1a3",
   "summary": "Dash Authorization Package.",
   "author": "Bryan Schroeder",
   "license": "MIT",
   "home_page": "https://github.com/BSd3v",
-  "download_filename": "dash_auth_plus-0.0.1a2.tar.gz",
-  "download_time": "2025-11-25T14:51:16.450440",
+  "download_filename": "dash_auth_plus-0.0.1a3.tar.gz",
+  "download_time": "2025-11-25T18:45:46.512283",
   "package_url": "https://pypi.org/project/dash-auth-plus/"
 }
