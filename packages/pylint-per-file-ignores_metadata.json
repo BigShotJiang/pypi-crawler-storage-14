@@ -1,0 +1,11 @@
+{
+  "name": "pylint-per-file-ignores",
+  "version": "3.2.0",
+  "summary": "A pylint plugin to ignore error codes per file.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pylint_per_file_ignores-3.2.0.tar.gz",
+  "download_time": "2025-11-25T14:35:20.256287",
+  "package_url": "https://pypi.org/project/pylint-per-file-ignores/"
+}

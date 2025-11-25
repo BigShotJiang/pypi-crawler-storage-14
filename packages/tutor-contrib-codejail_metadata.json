@@ -1,0 +1,11 @@
+{
+  "name": "tutor-contrib-codejail",
+  "version": "20.1.0",
+  "summary": "Codejail plugin for Tutor",
+  "author": "eduNEXT",
+  "license": "AGPLv3",
+  "home_page": "https://github.com/github/tutor-contrib-codejail",
+  "download_filename": "tutor_contrib_codejail-20.1.0.tar.gz",
+  "download_time": "2025-11-25T14:35:20.832221",
+  "package_url": "https://pypi.org/project/tutor-contrib-codejail/"
+}

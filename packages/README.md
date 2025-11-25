@@ -1,11 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-25T14:10:59.735668
-- **Total Packages**: 91
-- **Total Size**: 32.99 MB
+- **Download Time**: 2025-11-25T14:35:56.607496
+- **Total Packages**: 93
+- **Total Size**: 18.68 MB
 
 ## Packages List
+- apolo-cli
+- mlbi-bitool
+- apolo-sdk
+- trueskillthroughtime
+- nati-log
+- mcp-ticketer
+- C2REGbase
+- pydantic-resolve
+- erosolar
+- datatalk-cli
+- aioia-core
+- briskstackplatform
+- envvm
+- modelmirror
+- eodash_catalog
+- mhg-dl
+- emm
+- synapse-counting
+- deepfabric
+- pymodaq
+- r2r-mcp
+- st-oxview
+- pymodaq_gui
+- pymodaq_data
+- specula
+- pymodaq_utils
+- datascience-toolkitt
+- ultragpt
+- pylint-per-file-ignores
+- tutor-contrib-codejail
+- cycode
+- selfmemory
+- seeq
+- jinjarope
+- stouputils
+- fractal-server
+- bafpipe
+- setup-wizard
+- memori
 - django-qa-automation-generator
 - athena-intelligence
 - hipr
@@ -18,7 +57,6 @@
 - nvidia-nat-test
 - nvidia-nat-strands
 - drun
-- erosolar
 - cfin-pyaddons
 - BoschMiniRpa
 - yafin
@@ -61,39 +99,3 @@
 - functoolsex
 - temperature-tools
 - nvidia-nat-all
-- bafpipe
-- multimodal-timesfm
-- lemo-vocabulate
-- agui-adk-endpoint
-- opik
-- mcp-ticketer
-- chotueng-interpreter
-- kumacub
-- langswarm
-- Zino
-- nvidia-nat-weave
-- paasta-tools
-- nvidia-nat-s3
-- questions-mcp-server
-- nba-sheet-cleaner
-- schemas-hf
-- nvidia-nat-crewai
-- artificer-workflows
-- nvidia-nat-redis
-- nvidia-nat-langchain
-- oplnk-python-utils
-- nvidia-nat-semantic-kernel
-- nvidia-nat-zep-cloud
-- plaidcloud-utilities
-- ekfsm
-- documentation-robotics
-- nvidia-nat-agno
-- nvidia-nat-vanna
-- panel-material-ui
-- edu-rdm-integration
-- dwellir-harvester
-- pymimir-rl
-- pyntcli
-- aiqtoolkit-semantic-kernel
-- soda-bubble-sdk
-- mofox-bus

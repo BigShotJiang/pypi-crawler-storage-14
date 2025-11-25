@@ -1,0 +1,11 @@
+{
+  "name": "trueskillthroughtime",
+  "version": "2.0.0",
+  "summary": "The temporal learning estimator: Individual learning curves with reliable initial estimates and guaranteed comparability between distant estimates. v2.0.0 adds multiple observation models (Ordinal, Continuous, Discrete) and incremental history updates.",
+  "author": "Gustavo Landfried",
+  "license": null,
+  "home_page": "https://github.com/glandfried/TrueSkillThroughTime.py/",
+  "download_filename": "trueskillthroughtime-2.0.0.tar.gz",
+  "download_time": "2025-11-25T14:35:05.191983",
+  "package_url": "https://pypi.org/project/trueskillthroughtime/"
+}

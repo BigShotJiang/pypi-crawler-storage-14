@@ -1,11 +1,11 @@
 {
   "name": "briskstackplatform",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "BriskStack Platform API",
   "author": "OpenAPI Generator community",
   "license": null,
   "home_page": "https://github.com/briskstack/platform-sdk-python",
-  "download_filename": "briskstackplatform-0.0.4.tar.gz",
-  "download_time": "2025-11-25T13:06:28.155513",
+  "download_filename": "briskstackplatform-0.0.5.tar.gz",
+  "download_time": "2025-11-25T14:35:09.902882",
   "package_url": "https://pypi.org/project/briskstackplatform/"
 }
