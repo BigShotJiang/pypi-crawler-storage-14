@@ -1,0 +1,11 @@
+{
+  "name": "dexpi.specificator",
+  "version": "1.0.0",
+  "summary": "Easy creation of engineering information models and related specification documents",
+  "author": "DEXPI e.V.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dexpi_specificator-1.0.0.tar.gz",
+  "download_time": "2025-11-26T10:12:11.833916",
+  "package_url": "https://pypi.org/project/dexpi.specificator/"
+}

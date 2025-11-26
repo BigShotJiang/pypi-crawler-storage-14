@@ -1,0 +1,11 @@
+{
+  "name": "SleepHarmonizer",
+  "version": "0.6.3",
+  "summary": "A Plugin and stand alone tool to harmonize sleep related data",
+  "author": "Franz Ehrlich",
+  "license": null,
+  "home_page": "https://gitlab.com/sleep-is-all-you-need/sleep-harmonizer",
+  "download_filename": "sleepharmonizer-0.6.3.tar.gz",
+  "download_time": "2025-11-26T10:11:52.352332",
+  "package_url": "https://pypi.org/project/SleepHarmonizer/"
+}

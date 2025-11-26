@@ -1,0 +1,11 @@
+{
+  "name": "aynse",
+  "version": "1.2.0",
+  "summary": "A lean and modern Python library to fetch data from NSE (National Stock Exchange of India)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aynse-1.2.0.tar.gz",
+  "download_time": "2025-11-26T10:11:43.558608",
+  "package_url": "https://pypi.org/project/aynse/"
+}

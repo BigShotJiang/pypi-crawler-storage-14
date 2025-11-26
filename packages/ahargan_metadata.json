@@ -1,0 +1,11 @@
+{
+  "name": "ahargan",
+  "version": "1.0.0",
+  "summary": "JDN-based Ahargan conversion library (BC/CE supported)",
+  "author": "Yogendra",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ahargan-1.0.0.tar.gz",
+  "download_time": "2025-11-26T10:11:38.125359",
+  "package_url": "https://pypi.org/project/ahargan/"
+}

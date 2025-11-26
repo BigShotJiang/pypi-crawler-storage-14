@@ -1,0 +1,11 @@
+{
+  "name": "ordeq-manifest",
+  "version": "1.1.1",
+  "summary": "Manifests for Ordeq projects",
+  "author": "Niels Neerhoff, Simon Brugman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ordeq_manifest-1.1.1.tar.gz",
+  "download_time": "2025-11-26T10:12:23.163386",
+  "package_url": "https://pypi.org/project/ordeq-manifest/"
+}

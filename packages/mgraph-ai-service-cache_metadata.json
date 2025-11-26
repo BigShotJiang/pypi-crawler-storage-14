@@ -1,0 +1,11 @@
+{
+  "name": "mgraph-ai-service-cache",
+  "version": "0.8.0",
+  "summary": "MGraph-AI__Service__Cache",
+  "author": "Dinis Cruz",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/the-cyber-boardroom/MGraph-AI__Service__Cache",
+  "download_filename": "mgraph_ai_service_cache-0.8.0.tar.gz",
+  "download_time": "2025-11-26T10:11:50.690929",
+  "package_url": "https://pypi.org/project/mgraph-ai-service-cache/"
+}

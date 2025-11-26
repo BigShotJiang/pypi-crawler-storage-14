@@ -1,0 +1,11 @@
+{
+  "name": "pipelex",
+  "version": "0.16.0",
+  "summary": "The open standard for repeatable AI workflows. Write business logic, not API calls.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pipelex-0.16.0.tar.gz",
+  "download_time": "2025-11-26T10:12:21.001288",
+  "package_url": "https://pypi.org/project/pipelex/"
+}

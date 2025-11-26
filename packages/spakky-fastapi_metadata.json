@@ -1,11 +1,11 @@
 {
   "name": "spakky-fastapi",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "summary": "FastAPI plugin for Spakky framework",
   "author": "Spakky",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spakky_fastapi-3.1.1.tar.gz",
-  "download_time": "2025-11-26T09:51:51.808604",
+  "download_filename": "spakky_fastapi-3.1.2.tar.gz",
+  "download_time": "2025-11-26T10:12:08.617407",
   "package_url": "https://pypi.org/project/spakky-fastapi/"
 }
