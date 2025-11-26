@@ -1,0 +1,11 @@
+{
+  "name": "databricks-feature-engineering",
+  "version": "0.13.0.1",
+  "summary": "Databricks Feature Engineering Client",
+  "author": null,
+  "license": "Databricks Proprietary License",
+  "home_page": null,
+  "download_filename": "databricks_feature_engineering-0.13.0.1-py3-none-any.whl",
+  "download_time": "2025-11-26T21:37:06.704334",
+  "package_url": "https://pypi.org/project/databricks-feature-engineering/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "duecredit",
-  "version": "0.11.1",
+  "version": "0.11.2",
   "summary": "Publications (and donations) tracer",
   "author": "Matteo Visconti di Oleggio Castello",
   "license": null,
   "home_page": null,
-  "download_filename": "duecredit-0.11.1.tar.gz",
-  "download_time": "2025-11-25T15:34:07.202789",
+  "download_filename": "duecredit-0.11.2.tar.gz",
+  "download_time": "2025-11-26T21:36:54.578922",
   "package_url": "https://pypi.org/project/duecredit/"
 }

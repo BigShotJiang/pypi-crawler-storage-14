@@ -1,11 +1,11 @@
 {
   "name": "matplotlibpyplot",
-  "version": "0.5",
+  "version": "1.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "matplotlibpyplot-0.5.tar.gz",
-  "download_time": "2025-11-26T21:08:57.346978",
+  "download_filename": "matplotlibpyplot-1.0.tar.gz",
+  "download_time": "2025-11-26T21:37:07.215858",
   "package_url": "https://pypi.org/project/matplotlibpyplot/"
 }
