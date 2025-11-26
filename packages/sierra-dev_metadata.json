@@ -1,0 +1,11 @@
+{
+  "name": "sierra-dev",
+  "version": "2.0.0",
+  "summary": "Modern framework for building investigation invoker scripts with APT-like package management",
+  "author": "Xsyncio",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/xsyncio/sierra-dev",
+  "download_filename": "sierra_dev-2.0.0.tar.gz",
+  "download_time": "2025-11-26T12:18:29.799750",
+  "package_url": "https://pypi.org/project/sierra-dev/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "acdh-django-browsing",
+  "version": "3.3.2",
+  "summary": "Django-App providing some useful things to create browsing views",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "acdh_django_browsing-3.3.2.tar.gz",
+  "download_time": "2025-11-26T12:18:58.141601",
+  "package_url": "https://pypi.org/project/acdh-django-browsing/"
+}

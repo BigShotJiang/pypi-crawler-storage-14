@@ -1,11 +1,11 @@
 {
   "name": "chatsynth-vanshajr",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A library for creating and deploying chatbots with FAISS and GitHub integration for the ChatSynth app: https://chatsynth.streamlit.app.",
   "author": "Vanshaj Raghuvanshi",
   "license": null,
   "home_page": "https://github.com/VanshajR/chatsynth_vanshajr",
-  "download_filename": "chatsynth_vanshajr-1.0.3.tar.gz",
-  "download_time": "2025-11-26T11:09:22.852171",
+  "download_filename": "chatsynth_vanshajr-1.0.4.tar.gz",
+  "download_time": "2025-11-26T12:19:03.053271",
   "package_url": "https://pypi.org/project/chatsynth-vanshajr/"
 }

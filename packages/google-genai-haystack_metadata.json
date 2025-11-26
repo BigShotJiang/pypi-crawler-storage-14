@@ -1,0 +1,11 @@
+{
+  "name": "google-genai-haystack",
+  "version": "2.3.0",
+  "summary": "Use models like Gemini via Google Gen AI SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "google_genai_haystack-2.3.0.tar.gz",
+  "download_time": "2025-11-26T12:19:08.955840",
+  "package_url": "https://pypi.org/project/google-genai-haystack/"
+}

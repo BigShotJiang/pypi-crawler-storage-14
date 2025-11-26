@@ -1,11 +1,11 @@
 {
   "name": "dj-palette",
-  "version": "1.0.0",
+  "version": "1.0.1.0",
   "summary": "A Django admin system with tools for building custom admin interfaces and reusable components",
   "author": "Joel O. Tanko",
   "license": "MIT",
-  "home_page": "https://github.com/ogofe/django-palette",
-  "download_filename": "dj_palette-1.0.0.tar.gz",
-  "download_time": "2025-11-26T11:37:11.169156",
+  "home_page": "https://github.com/ogofe/dj_palette",
+  "download_filename": "dj_palette-1.0.1.0.tar.gz",
+  "download_time": "2025-11-26T12:19:12.750748",
   "package_url": "https://pypi.org/project/dj-palette/"
 }

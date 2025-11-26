@@ -1,0 +1,11 @@
+{
+  "name": "sangreal-db",
+  "version": "0.1.1",
+  "summary": "Easy-to-use ORM for database operations with lazy table reflection",
+  "author": "liubola",
+  "license": "GNU General Public License v3.0",
+  "home_page": "https://github.com/liubola/sangreal-db",
+  "download_filename": "sangreal_db-0.1.1.tar.gz",
+  "download_time": "2025-11-26T12:18:48.281190",
+  "package_url": "https://pypi.org/project/sangreal-db/"
+}

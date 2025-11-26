@@ -1,11 +1,11 @@
 {
   "name": "pixelarraycloudstorage",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "PixelArray 像素云盘客户端",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pixelarraycloudstorage-1.0.2.tar.gz",
-  "download_time": "2025-11-26T10:53:14.023411",
+  "download_filename": "pixelarraycloudstorage-1.0.3.tar.gz",
+  "download_time": "2025-11-26T12:19:06.803669",
   "package_url": "https://pypi.org/project/pixelarraycloudstorage/"
 }
