@@ -1,26 +1,18 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-26T09:36:41.581102
-- **Total Packages**: 90
-- **Total Size**: 64.8 MB
+- **Download Time**: 2025-11-26T09:52:13.533609
+- **Total Packages**: 92
+- **Total Size**: 1.66 MB
 
 ## Packages List
-- recce
-- ai-doc-validator-sdk
-- ordeq
-- sagemaker-studio-dataengineering-extensions
-- sagemaker-studio-dataengineering-sessions
-- typedparser
-- Ak-dskit
-- moysklad-api
-- nnUNet-package
 - recce-cloud
 - bibtheque
 - fastapi-errors-plus
 - tablates
 - gisweb-jpparest
 - pyRobotiqUR
+- Ak-dskit
 - qina
 - imagedatasetanalyzer
 - valohai-yaml
@@ -46,6 +38,7 @@
 - gitplier
 - mobile-mcp-ai
 - python-yandex-cloud-monitoring
+- ai-doc-validator-sdk
 - phantomwright
 - bosa-server-plugins-binary
 - spakky-security
@@ -96,3 +89,12 @@
 - nb-venv-kernels
 - TFNBS
 - recce-nightly
+- py-xl-sindy
+- recce-cloud-nightly
+- logvault
+- lyy-life
+- wellapi
+- blank-portfolio
+- pyPhasesML
+- bizyairsdk
+- ida-hcli

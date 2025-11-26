@@ -1,0 +1,11 @@
+{
+  "name": "pyPhasesML",
+  "version": "0.18.1",
+  "summary": "A Framework for creating a boilerplate template for ai projects that are ready for MLOps",
+  "author": "Franz Ehrlich",
+  "license": null,
+  "home_page": "https://gitlab.com/tud.ibmt.public/pyphases/pyphasesml/",
+  "download_filename": "pyphasesml-0.18.1.tar.gz",
+  "download_time": "2025-11-26T09:52:11.929448",
+  "package_url": "https://pypi.org/project/pyPhasesML/"
+}

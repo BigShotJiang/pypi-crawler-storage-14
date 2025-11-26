@@ -1,11 +1,11 @@
 {
   "name": "spakky-typer",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "summary": "Typer CLI plugin for Spakky framework",
   "author": "Spakky",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spakky_typer-3.1.0.tar.gz",
-  "download_time": "2025-11-26T09:36:20.923556",
+  "download_filename": "spakky_typer-3.1.1.tar.gz",
+  "download_time": "2025-11-26T09:51:46.167587",
   "package_url": "https://pypi.org/project/spakky-typer/"
 }
