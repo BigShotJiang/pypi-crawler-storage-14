@@ -1,0 +1,11 @@
+{
+  "name": "facebook-graphql-scraper",
+  "version": "1.1.4",
+  "summary": "Implement Facebook scraper for post data retrieval",
+  "author": "FaustRen",
+  "license": "MIT",
+  "home_page": "https://github.com/FaustRen/FB_graphql_scraper",
+  "download_filename": "facebook_graphql_scraper-1.1.4.tar.gz",
+  "download_time": "2025-11-26T04:51:46.586570",
+  "package_url": "https://pypi.org/project/facebook-graphql-scraper/"
+}

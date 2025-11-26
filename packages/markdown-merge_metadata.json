@@ -1,0 +1,11 @@
+{
+  "name": "markdown-merge",
+  "version": "0.1.8",
+  "summary": "Send email using markdown",
+  "author": "Jeremy Howard",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/AnswerDotAI/markdown_merge",
+  "download_filename": "markdown_merge-0.1.8.tar.gz",
+  "download_time": "2025-11-26T04:51:45.556934",
+  "package_url": "https://pypi.org/project/markdown-merge/"
+}
