@@ -1,0 +1,11 @@
+{
+  "name": "haldrup",
+  "version": "0.0.1",
+  "summary": "Cointegration analysis with I(1) and I(2) variables based on Haldrup (1994)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "haldrup-0.0.1.tar.gz",
+  "download_time": "2025-11-26T11:37:36.317776",
+  "package_url": "https://pypi.org/project/haldrup/"
+}

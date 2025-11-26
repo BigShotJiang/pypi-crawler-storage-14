@@ -1,0 +1,11 @@
+{
+  "name": "omero-py",
+  "version": "5.21.3",
+  "summary": "Python bindings to the OMERO.blitz server",
+  "author": "The Open Microscopy Team",
+  "license": null,
+  "home_page": "https://github.com/ome/omero-py",
+  "download_filename": "omero_py-5.21.3.tar.gz",
+  "download_time": "2025-11-26T11:37:42.254734",
+  "package_url": "https://pypi.org/project/omero-py/"
+}

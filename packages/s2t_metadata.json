@@ -1,11 +1,11 @@
 {
   "name": "s2t",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Speech to Text (s2t): Record audio, run Whisper, export formats, and copy transcript to clipboard.",
   "author": "Maintainers",
   "license": null,
   "home_page": null,
-  "download_filename": "s2t-0.2.4.tar.gz",
-  "download_time": "2025-11-25T23:09:09.743616",
+  "download_filename": "s2t-0.2.5.tar.gz",
+  "download_time": "2025-11-26T11:37:40.064061",
   "package_url": "https://pypi.org/project/s2t/"
 }

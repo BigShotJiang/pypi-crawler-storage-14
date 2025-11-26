@@ -1,0 +1,11 @@
+{
+  "name": "metacatalog-api",
+  "version": "0.5.1",
+  "summary": "FastAPI backend for managing a Metacatalog instance",
+  "author": "Mirko Mälicke",
+  "license": "MIT",
+  "home_page": "https://github.com/vforwater/metacatalog-api",
+  "download_filename": "metacatalog_api-0.5.1.tar.gz",
+  "download_time": "2025-11-26T11:37:11.696671",
+  "package_url": "https://pypi.org/project/metacatalog-api/"
+}

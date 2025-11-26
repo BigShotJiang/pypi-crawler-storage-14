@@ -1,0 +1,11 @@
+{
+  "name": "qstn",
+  "version": "0.1.0",
+  "summary": "Questionnaire and Survey Evaluation Toolkit for NLP Research",
+  "author": "Maximilian Kreutner",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qstn-0.1.0.tar.gz",
+  "download_time": "2025-11-26T11:37:37.383656",
+  "package_url": "https://pypi.org/project/qstn/"
+}

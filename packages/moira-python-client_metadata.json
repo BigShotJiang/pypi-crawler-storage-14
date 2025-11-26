@@ -1,0 +1,11 @@
+{
+  "name": "moira-python-client",
+  "version": "5.1.1",
+  "summary": "Client for Moira - Alerting system based on Graphite data",
+  "author": "Alexander Lukyanchenko",
+  "license": null,
+  "home_page": "https://github.com/moira-alert/python-moira-client",
+  "download_filename": "moira_python_client-5.1.1.tar.gz",
+  "download_time": "2025-11-26T11:37:15.982255",
+  "package_url": "https://pypi.org/project/moira-python-client/"
+}

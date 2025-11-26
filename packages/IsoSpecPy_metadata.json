@@ -1,0 +1,11 @@
+{
+  "name": "IsoSpecPy",
+  "version": "2.3.3",
+  "summary": "IsoSpecPy is a Python library for computing isotopic distributions of molecules.",
+  "author": "Michał Startek, Mateusz Łącki",
+  "license": null,
+  "home_page": null,
+  "download_filename": "isospecpy-2.3.3.tar.gz",
+  "download_time": "2025-11-26T11:37:22.947053",
+  "package_url": "https://pypi.org/project/IsoSpecPy/"
+}

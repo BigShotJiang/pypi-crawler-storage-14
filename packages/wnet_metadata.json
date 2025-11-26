@@ -1,0 +1,11 @@
+{
+  "name": "wnet",
+  "version": "0.9.6",
+  "summary": "Tools for calculation of Wasserstein metric between distributions based on Network Flow algorithm",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wnet-0.9.6.tar.gz",
+  "download_time": "2025-11-26T11:37:22.392236",
+  "package_url": "https://pypi.org/project/wnet/"
+}
