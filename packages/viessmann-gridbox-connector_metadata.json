@@ -1,0 +1,11 @@
+{
+  "name": "viessmann-gridbox-connector",
+  "version": "2.0.0",
+  "summary": "Connector for Viessmann Gridbox to fetch live data from your Photovoltaic System",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "viessmann_gridbox_connector-2.0.0.tar.gz",
+  "download_time": "2025-11-26T05:49:00.993535",
+  "package_url": "https://pypi.org/project/viessmann-gridbox-connector/"
+}

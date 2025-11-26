@@ -1,11 +1,11 @@
 {
   "name": "human-eval-rust",
-  "version": "1.2.2",
+  "version": "1.3.0",
   "summary": "Evaluation harness for the HumanEval Rust problem solving dataset",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "human_eval_rust-1.2.2.tar.gz",
-  "download_time": "2025-11-26T04:02:19.953028",
+  "download_filename": "human_eval_rust-1.3.0.tar.gz",
+  "download_time": "2025-11-26T05:48:47.766152",
   "package_url": "https://pypi.org/project/human-eval-rust/"
 }

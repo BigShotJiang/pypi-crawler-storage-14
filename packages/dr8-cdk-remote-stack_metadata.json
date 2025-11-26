@@ -1,0 +1,11 @@
+{
+  "name": "dr8-cdk-remote-stack",
+  "version": "2.1.6",
+  "summary": "Get outputs and AWS SSM parameters from cross-region AWS CloudFormation stacks",
+  "author": "Jimmy Holmes",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/DocEight/cdk-remote-stack.git",
+  "download_filename": "dr8_cdk_remote_stack-2.1.6.tar.gz",
+  "download_time": "2025-11-26T05:49:16.073223",
+  "package_url": "https://pypi.org/project/dr8-cdk-remote-stack/"
+}

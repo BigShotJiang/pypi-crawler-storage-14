@@ -1,0 +1,11 @@
+{
+  "name": "pip-conf-mirror",
+  "version": "0.8.9",
+  "summary": "Make it easy to set or change pip/pdm/uv/poetry mirrors.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pip_conf_mirror-0.8.9.tar.gz",
+  "download_time": "2025-11-26T05:49:19.958037",
+  "package_url": "https://pypi.org/project/pip-conf-mirror/"
+}

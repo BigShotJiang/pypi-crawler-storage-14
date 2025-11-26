@@ -1,11 +1,11 @@
 {
   "name": "gllm-inference-binary",
-  "version": "0.5.80",
+  "version": "0.5.81",
   "summary": "A library containing components related to model inferences in Gen AI applications.",
   "author": "Henry Wicaksono",
   "license": null,
   "home_page": null,
-  "download_filename": "gllm_inference_binary-0.5.80-cp311-cp311-macosx_13_0_arm64.whl",
-  "download_time": "2025-11-26T05:10:57.192069",
+  "download_filename": "gllm_inference_binary-0.5.81-cp311-cp311-macosx_13_0_x86_64.whl",
+  "download_time": "2025-11-26T05:48:56.716685",
   "package_url": "https://pypi.org/project/gllm-inference-binary/"
 }

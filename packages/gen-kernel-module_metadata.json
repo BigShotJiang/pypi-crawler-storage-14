@@ -1,0 +1,11 @@
+{
+  "name": "gen-kernel-module",
+  "version": "1.3.9",
+  "summary": "Python App/Tool/Script Utilities",
+  "author": "Vladimir Roncevic",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://vroncevic.github.io/gen_kernel_module/",
+  "download_filename": "gen_kernel_module-1.3.9.tar.gz",
+  "download_time": "2025-11-26T05:49:20.989402",
+  "package_url": "https://pypi.org/project/gen-kernel-module/"
+}
