@@ -1,0 +1,11 @@
+{
+  "name": "smprofiler",
+  "version": "1.0.69",
+  "summary": "Toolbox for spatial analysis of single cell data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smprofiler-1.0.69-py3-none-any.whl",
+  "download_time": "2025-11-26T17:48:55.651129",
+  "package_url": "https://pypi.org/project/smprofiler/"
+}

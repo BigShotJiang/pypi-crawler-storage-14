@@ -1,0 +1,11 @@
+{
+  "name": "sqlitetools",
+  "version": "0.0.6",
+  "summary": "Python sqlite3 tools.",
+  "author": "ChenyangGao",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenyangGao/python-modules/tree/main/sqlitetools",
+  "download_filename": "sqlitetools-0.0.6.tar.gz",
+  "download_time": "2025-11-26T17:49:10.458057",
+  "package_url": "https://pypi.org/project/sqlitetools/"
+}

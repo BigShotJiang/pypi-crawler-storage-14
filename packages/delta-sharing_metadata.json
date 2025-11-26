@@ -1,0 +1,11 @@
+{
+  "name": "delta-sharing",
+  "version": "1.4.0",
+  "summary": "Python Connector for Delta Sharing",
+  "author": "The Delta Lake Project Authors",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/delta-io/delta-sharing/",
+  "download_filename": "delta_sharing-1.4.0.tar.gz",
+  "download_time": "2025-11-26T17:49:01.053736",
+  "package_url": "https://pypi.org/project/delta-sharing/"
+}

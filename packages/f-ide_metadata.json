@@ -1,0 +1,11 @@
+{
+  "name": "f-ide",
+  "version": "1.0.0",
+  "summary": "Installer for the F Programming Language",
+  "author": "Taha",
+  "license": null,
+  "home_page": null,
+  "download_filename": "f_ide-1.0.0.tar.gz",
+  "download_time": "2025-11-26T17:49:17.602536",
+  "package_url": "https://pypi.org/project/f-ide/"
+}

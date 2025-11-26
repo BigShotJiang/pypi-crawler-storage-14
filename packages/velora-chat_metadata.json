@@ -1,11 +1,11 @@
 {
   "name": "velora-chat",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Simple file sharing and chat over TCP sockets",
   "author": "Pavan Sai Tanguturi",
   "license": null,
   "home_page": "https://github.com/pavansai-tanguturi/Velora",
-  "download_filename": "velora_chat-1.1.0.tar.gz",
-  "download_time": "2025-11-26T17:31:48.827861",
+  "download_filename": "velora_chat-1.1.1.tar.gz",
+  "download_time": "2025-11-26T17:48:55.121634",
   "package_url": "https://pypi.org/project/velora-chat/"
 }

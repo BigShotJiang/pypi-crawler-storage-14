@@ -1,0 +1,11 @@
+{
+  "name": "rax-api",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for Rax AI Platform - AI API client with chat completions, streaming, and analytics",
+  "author": "Raxcore Development Team",
+  "license": null,
+  "home_page": "https://github.com/Raxcore-dev/rax-ai-python",
+  "download_filename": "rax_api-1.0.0-py3-none-any.whl",
+  "download_time": "2025-11-26T17:48:51.935223",
+  "package_url": "https://pypi.org/project/rax-api/"
+}

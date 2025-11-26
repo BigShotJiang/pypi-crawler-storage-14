@@ -1,0 +1,11 @@
+{
+  "name": "kan-grn",
+  "version": "1.0.2",
+  "summary": "Gene Regulatory Network inference using Kolmogorov-Arnold Networks",
+  "author": "Posh Raj Dahal",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/poshraj24/GRN-KAN",
+  "download_filename": "kan_grn-1.0.2-py3-none-any.whl",
+  "download_time": "2025-11-26T17:48:47.601944",
+  "package_url": "https://pypi.org/project/kan-grn/"
+}

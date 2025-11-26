@@ -1,0 +1,11 @@
+{
+  "name": "keeper-mlkem",
+  "version": "1.0.2",
+  "summary": "Fast ML-KEM implementation with C extensions",
+  "author": "Keeper Security",
+  "license": null,
+  "home_page": "https://github.com/Keeper-Security/commander-qrc",
+  "download_filename": "keeper_mlkem-1.0.2.tar.gz",
+  "download_time": "2025-11-26T17:49:12.774315",
+  "package_url": "https://pypi.org/project/keeper-mlkem/"
+}
