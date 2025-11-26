@@ -1,11 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-26T08:57:20.872238
-- **Total Packages**: 88
-- **Total Size**: 26.89 MB
+- **Download Time**: 2025-11-26T09:14:46.940511
+- **Total Packages**: 83
+- **Total Size**: 7.97 MB
 
 ## Packages List
+- hgitaly
+- compass_api_sdk
+- mola-treelab
+- bap-elk-backends
+- nonencm
+- esp-metrics-cli
+- gresecml
+- wddh
+- odoo-addon-partner-second-lastname
+- odoo-addon-partner-firstname
+- aristech-stt-client
+- polyaxon
+- haupt
+- polyaxon-sdk
+- py-livechart
+- phystool
+- seven-cloudapp-frame
+- forgetful-ai
+- torrra
+- pyPhasesRecordloader
+- atmos-toolbox
+- sortinghat-openinfra
+- sortinghat-eclipse-foundation
+- hypernodes
 - perceval-pontoon
 - logab
 - iflow-mcp_freqtrade-mcp
@@ -16,11 +40,9 @@
 - perceval-public-inbox
 - streamlit-webrtc
 - pkgmgr-kunrunic
-- compass_api_sdk
 - TransferQueue
 - writer
 - anapaya-appliance
-- phystool
 - pyrobale
 - seeme
 - auroraview
@@ -49,7 +71,6 @@
 - Pymeshit
 - sycommon-python-lib
 - isrpa
-- bap-elk-backends
 - risclog.batou
 - ldc-lender-datalayer
 - tunablex
@@ -58,11 +79,9 @@
 - pydpm-xl
 - tvboptim
 - mecho
-- sortinghat-eclipse-foundation
 - diffusionx
 - aerofs
 - mcp-kg-skills
-- sortinghat-openinfra
 - LMMH
 - python3-ssh
 - haiku.rag
@@ -70,27 +89,3 @@
 - pycobaltix
 - pycloudflared
 - drun
-- sindre
-- smdpfier
-- AltEx-BE
-- traderkit
-- AOT-biomaps
-- descartcan
-- tencent-wedata-feature-engineering-dev
-- pymilvus
-- page-eyes
-- autoannotate-vision
-- pymammotion
-- bexhoma
-- daffy
-- iflow-mcp_securitycopilotmcpserver
-- uhmbrella-api
-- gapless-crypto-clickhouse
-- verda
-- bdext
-- blank-portfolio
-- kronicle-sdk
-- nxtomo
-- azula
-- pandas-tibble
-- duowen-agent

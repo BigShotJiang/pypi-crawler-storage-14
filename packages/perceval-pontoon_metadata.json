@@ -1,11 +1,11 @@
 {
   "name": "perceval-pontoon",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "Perceval backend for Pontoon",
   "author": "Bitergia Developers",
   "license": "GPL-3.0+",
   "home_page": "https://chaoss.github.io/grimoirelab/",
-  "download_filename": "perceval_pontoon-0.3.3.tar.gz",
-  "download_time": "2025-11-26T08:56:30.486335",
+  "download_filename": "perceval_pontoon-0.3.4.tar.gz",
+  "download_time": "2025-11-26T09:14:10.794197",
   "package_url": "https://pypi.org/project/perceval-pontoon/"
 }

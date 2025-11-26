@@ -1,0 +1,11 @@
+{
+  "name": "polyaxon",
+  "version": "2.11.1",
+  "summary": "Command Line Interface (CLI) and client to interact with Polyaxon API.",
+  "author": "Polyaxon, Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/polyaxon/polyaxon",
+  "download_filename": "polyaxon-2.11.1.tar.gz",
+  "download_time": "2025-11-26T09:14:02.304625",
+  "package_url": "https://pypi.org/project/polyaxon/"
+}
