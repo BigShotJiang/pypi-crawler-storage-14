@@ -1,0 +1,11 @@
+{
+  "name": "dmenu-extended",
+  "version": "1.4.0",
+  "summary": "A wrapper for dmenu that implements plugins and fast file/folder searching",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dmenu_extended-1.4.0.tar.gz",
+  "download_time": "2025-11-26T22:47:58.482147",
+  "package_url": "https://pypi.org/project/dmenu-extended/"
+}

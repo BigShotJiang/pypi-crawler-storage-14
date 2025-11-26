@@ -1,0 +1,11 @@
+{
+  "name": "mpbn",
+  "version": "4.3",
+  "summary": "Simple implementation of Most Permissive Boolean networks",
+  "author": "Loïc Paulevé",
+  "license": "CeCILL",
+  "home_page": "https://github.com/bnediction/mpbn",
+  "download_filename": "mpbn-4.3.tar.gz",
+  "download_time": "2025-11-26T22:48:04.732880",
+  "package_url": "https://pypi.org/project/mpbn/"
+}

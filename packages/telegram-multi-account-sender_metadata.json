@@ -1,0 +1,11 @@
+{
+  "name": "telegram-multi-account-sender",
+  "version": "1.2.6",
+  "summary": "Professional-grade desktop application for managing and sending messages across multiple Telegram accounts",
+  "author": "VoxHash",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/VoxHash/Telegram-Multi-Account-Message-Sender",
+  "download_filename": "telegram_multi_account_sender-1.2.6.tar.gz",
+  "download_time": "2025-11-26T22:48:02.116299",
+  "package_url": "https://pypi.org/project/telegram-multi-account-sender/"
+}

@@ -1,15 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-26T22:32:41.000067
-- **Total Packages**: 83
-- **Total Size**: 46.65 MB
+- **Download Time**: 2025-11-26T22:48:34.362895
+- **Total Packages**: 79
+- **Total Size**: 32.88 MB
 
 ## Packages List
+- letta-nightly
+- human-eval-rust
+- letta
+- reversi42
+- steer-sdk
+- weave
+- ailoos
+- multisport-py
+- issuedb
+- coinmarketcap-exchangerate
+- honeybee-designbuilder
+- afterpython
+- dmenu-extended
+- codegraph-mcp-server
+- jupyterlab-refresh-view-extension
+- openstack-lb-treeview
+- ai-infra
+- instmodel
+- peritype
+- telegram-multi-account-sender
+- rp
+- documentation-robotics
+- qnote
+- mpbn
+- mloptimizer
+- nb-venv-kernels
+- mongo-entity-orm
+- athena-intelligence
+- modelcontextprotocol
+- arff-csv-converter
+- AxeProfiler
+- reap-protocol
+- photo-objects
 - degirum-tools
 - spectuel-engine-utils
-- afterpython
-- AxeProfiler
 - basic-agent-chat-loop
 - dataforge-sdk
 - codeblur
@@ -21,17 +52,13 @@
 - cert-uefi-support
 - pyintellicenter
 - upathtools
-- modelcontextprotocol
 - wxcbench
-- athena-intelligence
 - hatchet-sdk
 - havoc-clustering
 - spotsweeper
 - mcp-ticketer
-- ailoos
 - little-a2s
 - oursprivacy-client
-- nb-venv-kernels
 - sibi-dst
 - aiinbx
 - threaded-order
@@ -54,38 +81,7 @@
 - kvbm
 - pulumi-cloudflare
 - virtuoso-utilities
-- rp
 - regula-documentreader-webclient
 - pyspat
 - vritraai
 - chutils
-- figlinq
-- lunapi
-- pypika-tortoise
-- conduit-core
-- pycanpcap
-- laddr
-- water-conflict-classifier
-- codegraph-mcp-server
-- pdf-ita-tools-test
-- cyborgdb
-- gsops
-- bayesline-api
-- farmore
-- fct-kiwi
-- xaal.netatmo
-- specfact-cli
-- prefer
-- terma-cli
-- adaptive-sdk
-- icalendar-searcher
-- pylantir
-- agfapi
-- lunascope
-- flowdacity-queue
-- cloudglue
-- flixopt
-- wallaroo
-- strato-dns-api
-- pydev-toy
-- ibm-watsonx-orchestrate-evaluation-framework

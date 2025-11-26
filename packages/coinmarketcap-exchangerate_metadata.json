@@ -1,0 +1,11 @@
+{
+  "name": "coinmarketcap-exchangerate",
+  "version": "1.0.0",
+  "summary": "A Python module to fetch cryptocurrency prices from CoinMarketCap API and forex prices from ExchangeRate API",
+  "author": "Droonacharya Ko Chelo",
+  "license": null,
+  "home_page": "https://github.com/droonacharyakochelo/coinmarketcap_exchangerate",
+  "download_filename": "coinmarketcap_exchangerate-1.0.0.tar.gz",
+  "download_time": "2025-11-26T22:47:56.873659",
+  "package_url": "https://pypi.org/project/coinmarketcap-exchangerate/"
+}

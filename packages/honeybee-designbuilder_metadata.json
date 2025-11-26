@@ -1,0 +1,11 @@
+{
+  "name": "honeybee-designbuilder",
+  "version": "0.2.0",
+  "summary": "Honeybee extension for translating HBJSON files to INP files for eQuest",
+  "author": "Ladybug Tools",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/ladybug-tools/honeybee-designbuilder",
+  "download_filename": "honeybee_designbuilder-0.2.0.tar.gz",
+  "download_time": "2025-11-26T22:47:57.443344",
+  "package_url": "https://pypi.org/project/honeybee-designbuilder/"
+}

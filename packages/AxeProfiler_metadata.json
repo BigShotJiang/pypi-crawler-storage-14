@@ -1,11 +1,11 @@
 {
   "name": "AxeProfiler",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Axeprofiler provides a convenient CLI to create/save/apply AxeOS miner configs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "axeprofiler-1.0.4.tar.gz",
-  "download_time": "2025-11-26T22:31:57.317594",
+  "download_filename": "axeprofiler-1.0.5.tar.gz",
+  "download_time": "2025-11-26T22:48:08.423273",
   "package_url": "https://pypi.org/project/AxeProfiler/"
 }

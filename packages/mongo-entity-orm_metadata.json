@@ -1,0 +1,11 @@
+{
+  "name": "mongo-entity-orm",
+  "version": "0.1.0",
+  "summary": "A MongoDB ORM for Python",
+  "author": "Juraj Bezdek",
+  "license": "MIT",
+  "home_page": "https://github.com/ju-bezdek/mongo-orm",
+  "download_filename": "mongo_entity_orm-0.1.0.tar.gz",
+  "download_time": "2025-11-26T22:48:06.295811",
+  "package_url": "https://pypi.org/project/mongo-entity-orm/"
+}
