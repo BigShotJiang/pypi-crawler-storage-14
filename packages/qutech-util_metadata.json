@@ -1,0 +1,11 @@
+{
+  "name": "qutech-util",
+  "version": "2025.11.1",
+  "summary": "Utility package of the Quantum Technology group of RWTH Aachen",
+  "author": "Quantum Technology Group, RWTH Aachen University",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qutech_util-2025.11.1-py3-none-any.whl",
+  "download_time": "2025-11-26T16:56:37.145188",
+  "package_url": "https://pypi.org/project/qutech-util/"
+}

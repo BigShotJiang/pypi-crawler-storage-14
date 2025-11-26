@@ -1,0 +1,11 @@
+{
+  "name": "zappa-packer",
+  "version": "0.0.6",
+  "summary": "Server-less Python Web Services for AWS Lambda and API Gateway",
+  "author": "Mario Mixtega",
+  "license": "MIT License",
+  "home_page": "https://github.com/mariowix/ZappaPacker",
+  "download_filename": "zappa_packer-0.0.6.tar.gz",
+  "download_time": "2025-11-26T16:56:27.819524",
+  "package_url": "https://pypi.org/project/zappa-packer/"
+}

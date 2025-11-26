@@ -1,0 +1,11 @@
+{
+  "name": "pySEQTarget",
+  "version": "0.9.1",
+  "summary": "Sequentially Nested Target Trial Emulation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyseqtarget-0.9.1.tar.gz",
+  "download_time": "2025-11-26T16:56:18.038946",
+  "package_url": "https://pypi.org/project/pySEQTarget/"
+}
