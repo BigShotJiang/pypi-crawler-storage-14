@@ -1,17 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-26T19:48:00.175057
-- **Total Packages**: 84
-- **Total Size**: 25.3 MB
+- **Download Time**: 2025-11-26T20:11:35.813630
+- **Total Packages**: 82
+- **Total Size**: 15.52 MB
 
 ## Packages List
+- databae
+- jupyterhub-credit-service
+- pretix-bounces
+- medsynth
+- pytest-jsonschema-snapshot
+- memstate
+- ASMRManager
+- precli
+- edgefirst-validator
+- megatron-core
+- megatron-fsdp
+- moltres
+- tessbind
+- zensols-amr
+- globaldatafinance
+- cybrid-api-bank-python
+- cybrid-api-id-python
+- trustgraph-vertexai
+- trustgraph-ocr
+- david8
+- trustgraph-mcp
+- trustgraph-flow
+- trustgraph-embeddings-hf
+- trustgraph-cli
+- trustgraph-bedrock
+- trustgraph-base
+- trustgraph
+- fuse-tool
+- cybrid-api-organization-python
+- rowdybottypiper
+- anydi
+- yangsuite
+- pyacmecli
+- twevals
+- jwtbased-mcp-client
+- chatbot-rate-limiter
+- ai-mcp-rbac
+- OpenGeode-Stochastic
 - policyengine-api-simulation-client
 - policyengine-api-full-client
 - pytemporal
 - spotted
 - pywiim
-- twevals
 - langrepl
 - zarrnii
 - codegraph-mcp-server
@@ -21,13 +58,11 @@
 - opticomlib
 - ucapi-framework
 - cpymad
-- pyacmecli
 - afetch
 - xsuite
 - pure-interface
 - funmap
 - fastapi-api-key
-- databae
 - libdev
 - LAgencia-prospects-softseguros
 - grimaur
@@ -53,40 +88,3 @@
 - azure-postgresql-auth
 - naive-knowledge-base
 - reveal-cli
-- mangopay4-python-sdk
-- gammarers.aws-daily-cost-usage-report-stack
-- sparv-sbx-wsd-rs
-- aicodec
-- arbiter-engine
-- policyengine-uk
-- vendor-connectors
-- directed-inputs-class
-- lifecyclelogging
-- extended-data-types
-- onlinepayments-sdk-python3
-- xplia
-- django-remove-field
-- xobjects
-- dockai-cli
-- nado-protocol
-- oplnk-python-utils
-- reflex-enterprise
-- bukka
-- genesis-devtools
-- gammarers.aws-rds-database-auto-running-protection-stack
-- holado
-- stoat.py
-- lego-store-availability
-- lazynovel
-- gammarers.aws-budgets-notification
-- zeroeval
-- rfx-ml
-- rfx-ml-cpu
-- sigstore-models
-- RP1210
-- py4spice
-- aiinbx
-- gammarers.aws-daily-cloud-watch-logs-archive-stack
-- HySOM
-- nsj-integracao-api-client
-- jder-fastapi

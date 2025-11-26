@@ -1,0 +1,11 @@
+{
+  "name": "medsynth",
+  "version": "1.0.0",
+  "summary": "Medical Synthetic Data Generator with Privacy-Preserving Synthesis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "medsynth-1.0.0.tar.gz",
+  "download_time": "2025-11-26T20:10:45.187558",
+  "package_url": "https://pypi.org/project/medsynth/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fuse-tool",
+  "version": "1.2.0",
+  "summary": "Fuse: Customizable wordlist generator with advanced pattern.",
+  "author": "Ryan R.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fuse_tool-1.2.0.tar.gz",
+  "download_time": "2025-11-26T20:10:59.841534",
+  "package_url": "https://pypi.org/project/fuse-tool/"
+}

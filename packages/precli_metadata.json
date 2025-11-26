@@ -1,0 +1,11 @@
+{
+  "name": "precli",
+  "version": "0.8.4",
+  "summary": "Precaution security static analysis command line",
+  "author": "Secure Sauce",
+  "license": "Other/Proprietary License",
+  "home_page": "https://github.com/securesauce/precli",
+  "download_filename": "precli-0.8.4.tar.gz",
+  "download_time": "2025-11-26T20:10:47.604571",
+  "package_url": "https://pypi.org/project/precli/"
+}
