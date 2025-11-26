@@ -1,11 +1,11 @@
 {
   "name": "wedeliver-core-plus",
-  "version": "0.8.6",
+  "version": "0.8.7",
   "summary": "wedeliver_core_plus package",
   "author": "Iyad Alfarra",
   "license": "MIT",
   "home_page": "https://thrivve.me/",
-  "download_filename": "wedeliver_core_plus-0.8.6.tar.gz",
-  "download_time": "2025-11-26T20:31:51.479356",
+  "download_filename": "wedeliver_core_plus-0.8.7.tar.gz",
+  "download_time": "2025-11-26T21:09:22.161740",
   "package_url": "https://pypi.org/project/wedeliver-core-plus/"
 }

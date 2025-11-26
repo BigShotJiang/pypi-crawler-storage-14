@@ -1,0 +1,11 @@
+{
+  "name": "gdptools",
+  "version": "0.3.0",
+  "summary": "Gdptools",
+  "author": "Richard McDonald",
+  "license": "LICENSE.md",
+  "home_page": "https://code.usgs.gov/wma/nhgf/toolsteam/gdptools",
+  "download_filename": "gdptools-0.3.0-py3-none-any.whl",
+  "download_time": "2025-11-26T21:08:57.864579",
+  "package_url": "https://pypi.org/project/gdptools/"
+}

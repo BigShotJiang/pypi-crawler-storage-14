@@ -1,0 +1,11 @@
+{
+  "name": "pfroggy",
+  "version": "0.1.1",
+  "summary": "A super configurable logging library for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pfroggy-0.1.1.tar.gz",
+  "download_time": "2025-11-26T21:09:29.155345",
+  "package_url": "https://pypi.org/project/pfroggy/"
+}

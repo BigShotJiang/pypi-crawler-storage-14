@@ -1,0 +1,11 @@
+{
+  "name": "arxivql",
+  "version": "1.0.0",
+  "summary": "A pythonic query builder for arXiv search API",
+  "author": "Roman Zubov",
+  "license": "MIT",
+  "home_page": "https://github.com/romazu/arxivql",
+  "download_filename": "arxivql-1.0.0.tar.gz",
+  "download_time": "2025-11-26T21:08:58.375912",
+  "package_url": "https://pypi.org/project/arxivql/"
+}

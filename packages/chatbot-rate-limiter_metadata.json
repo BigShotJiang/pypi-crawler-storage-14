@@ -1,11 +1,11 @@
 {
   "name": "chatbot-rate-limiter",
-  "version": "1.0.0",
-  "summary": "Token bucket rate limiter for FastAPI with per-user tracking",
+  "version": "1.0.2",
+  "summary": "[Protected] Token bucket rate limiter for FastAPI with per-user tracking",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chatbot_rate_limiter-1.0.0.tar.gz",
-  "download_time": "2025-11-26T20:11:05.386738",
+  "download_filename": "chatbot_rate_limiter-1.0.2.tar.gz",
+  "download_time": "2025-11-26T21:09:08.260599",
   "package_url": "https://pypi.org/project/chatbot-rate-limiter/"
 }
