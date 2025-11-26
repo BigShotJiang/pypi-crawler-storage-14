@@ -1,0 +1,11 @@
+{
+  "name": "metaphor-machine",
+  "version": "0.9.9",
+  "summary": "Algorithmic generation of rich, plot-like style descriptions for AI music systems",
+  "author": "Konstantin Boyandin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "metaphor_machine-0.9.9.tar.gz",
+  "download_time": "2025-11-26T06:15:37.605762",
+  "package_url": "https://pypi.org/project/metaphor-machine/"
+}

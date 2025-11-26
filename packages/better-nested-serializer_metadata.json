@@ -1,0 +1,11 @@
+{
+  "name": "better-nested-serializer",
+  "version": "0.1.6",
+  "summary": "A better DRF [Django REST Framework] serializer that normalizes nested objects into separate lists for improved performance",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "better_nested_serializer-0.1.6.tar.gz",
+  "download_time": "2025-11-26T06:15:52.816310",
+  "package_url": "https://pypi.org/project/better-nested-serializer/"
+}

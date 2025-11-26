@@ -1,0 +1,11 @@
+{
+  "name": "cmdstore",
+  "version": "0.5.0",
+  "summary": "A CLI tool to store and retrieve commands with fuzzy finding",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cmdstore-0.5.0.tar.gz",
+  "download_time": "2025-11-26T06:16:09.609191",
+  "package_url": "https://pypi.org/project/cmdstore/"
+}

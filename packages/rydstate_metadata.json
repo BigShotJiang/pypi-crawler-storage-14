@@ -1,0 +1,11 @@
+{
+  "name": "rydstate",
+  "version": "0.9.1",
+  "summary": "A Python package for calculating Rydberg wavefunctions.",
+  "author": "RydState Developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rydstate-0.9.1.tar.gz",
+  "download_time": "2025-11-26T06:15:39.747078",
+  "package_url": "https://pypi.org/project/rydstate/"
+}
