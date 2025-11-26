@@ -1,11 +1,11 @@
 {
   "name": "bach-youtube138",
-  "version": "1.0.0",
+  "version": "1.6.0",
   "summary": "RapidAPI: Glavier/youtube138",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bach_youtube138-1.0.0.tar.gz",
-  "download_time": "2025-11-25T10:12:00.794004",
+  "download_filename": "bach_youtube138-1.6.0.tar.gz",
+  "download_time": "2025-11-26T05:10:34.717347",
   "package_url": "https://pypi.org/project/bach-youtube138/"
 }

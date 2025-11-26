@@ -1,11 +1,41 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-26T04:52:23.973142
-- **Total Packages**: 91
-- **Total Size**: 10.7 MB
+- **Download Time**: 2025-11-26T05:11:22.287707
+- **Total Packages**: 88
+- **Total Size**: 5.81 MB
 
 ## Packages List
+- ezKit
+- MeUtils
+- atlassian-exp
+- juham-shelly
+- drf-orderwcast
+- bach-youtube138
+- amcrest-api
+- dragohan-grimoire
+- svc-infra
+- wxcbench
+- cortex-memory
+- jetflow
+- bach-crunchbase4
+- machineconfig
+- asynctor
+- mecho
+- robhan-cdk-lib.aws-aps
+- robhan-cdk-lib.aws-grafana
+- robhan-cdk-lib.aws-mwaa
+- robhan-cdk-lib.utils
+- juham-core
+- memory-journal-mcp
+- crackerjack
+- vector-task-mcp
+- llm-templates-fabric
+- bach-zoopla
+- model-library
+- glossing
+- bach-yelp-business-api
+- crispr-millipede
 - django-spire
 - ipyslides
 - iamdata
@@ -21,7 +51,6 @@
 - gllm-inference-binary
 - gaussian-splatting-mcmc
 - bach-walmart-scraper4
-- drf-orderwcast
 - upload-socials
 - jinjaturtle
 - markdown-merge
@@ -46,18 +75,14 @@
 - cspdk
 - odoo-addon-web-hide-user-menu-item
 - rggrader2
-- mecho
 - gwaslab-agent
 - keras-nlp-nightly
 - keras-hub-nightly
-- MeUtils
 - odoo-addon-storage-media-product
-- machineconfig
 - odoo-addon-stock-picking-portal
 - psaspotter
 - synapse-sdk
 - R0216-cli-todo-app
-- wxcbench
 - torchrge256
 - odoo-addon-stock-picking-show-linked
 - daglite
@@ -69,31 +94,3 @@
 - shipmmg
 - wyn360-cli
 - odoo-addon-stock-quant-package-product-packaging
-- hallmark
-- odoo-addons-oca-stock-logistics-reporting
-- odoo-addon-stock-picking-operations-multilang
-- sphinxcontrib-mermaid
-- dragohan-grimoire
-- odoo-addon-stock-storage-type-move-line-qty-picked
-- kdpred
-- odoo-addon-stock-storage-type
-- odoo-addon-stock-picking-putaway-recompute
-- simplevecdb
-- snowflake-connector-python-nightly
-- odoo-addon-mail-send-confirmation
-- fxcalc
-- recce-nightly
-- sora-sdk-rpi
-- sora-sdk
-- recce-cloud-nightly
-- gapless-crypto-clickhouse
-- odoo-addon-base-model-restrict-update
-- ctyun-cli
-- tirex-mirror
-- matthewsort
-- agno-dinesh
-- ylhc-dashboard-base
-- havoc-clustering
-- systemrdl-compiler
-- verge-auth
-- odoo-addons-oca-server-backend
