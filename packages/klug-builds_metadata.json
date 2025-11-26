@@ -1,0 +1,11 @@
+{
+  "name": "klug-builds",
+  "version": "1.0.2",
+  "summary": "CLI tool for building and deploying Lambda functions via KLUG Builds API",
+  "author": "KLUG",
+  "license": null,
+  "home_page": "https://github.com/klug/klug-builds",
+  "download_filename": "klug_builds-1.0.2.tar.gz",
+  "download_time": "2025-11-26T14:36:02.258366",
+  "package_url": "https://pypi.org/project/klug-builds/"
+}

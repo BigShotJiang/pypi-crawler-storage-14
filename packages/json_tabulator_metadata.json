@@ -1,0 +1,11 @@
+{
+  "name": "json_tabulator",
+  "version": "0.7.0",
+  "summary": "Simple query language to extract tables from JSON.",
+  "author": "Matthias Ossadnik",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "json_tabulator-0.7.0.tar.gz",
+  "download_time": "2025-11-26T14:35:59.388979",
+  "package_url": "https://pypi.org/project/json_tabulator/"
+}

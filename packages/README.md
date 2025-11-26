@@ -1,11 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-26T14:11:57.752217
-- **Total Packages**: 88
-- **Total Size**: 32.56 MB
+- **Download Time**: 2025-11-26T14:36:46.713082
+- **Total Packages**: 93
+- **Total Size**: 12.51 MB
 
 ## Packages List
+- propagation-exporter
+- combinatory-synthesizer
+- matrice-inference
+- vexa-auth
+- workbench-bridges
+- jollyjack
+- frozencounter
+- ida-hcli
+- amsdal_models
+- factpulse
+- sumo-experiments
+- json_tabulator
+- de-console-client
+- db-model-generator
+- hayhooks
+- hcai-discover-utils
+- klug-builds
+- scriptworker
+- crabdeposit
+- zorge
+- lazynovel
+- spakky
+- spakky-rabbitmq
+- spakky-security
+- hcai-discover
+- kotinjection
+- Ele-Product-compare-chaitali
+- pysmle
+- DirCat
+- aiinbx
+- msgtrace-sdk
+- odoo-addon-stock-picking-date-deadline-syncs-scheduled-date
+- st-zoom-buttons
+- isahitlab
+- zodchy
+- remote-debug
+- tala
+- cybrid-api-bank-python
+- tinycwrap
+- cybrid-api-organization-python
+- cybrid-api-id-python
+- spakky-fastapi
+- spakky-typer
+- tidas-sdk
+- odoo-addon-storage-media
+- dnora
+- odoo-addon-storage-file
+- odoo-addon-storage-image
+- doque
+- ooflow
+- umara
+- fractal-workspace
+- legit-api-client
+- directory-sso-api-client
+- lll-simple-ai-shared
 - TransferQueue
 - pypomes-crypto
 - yaml-arg-configer
@@ -35,7 +90,6 @@
 - pixell-sdk
 - omium
 - tauq
-- factpulse
 - cf-basic-signal
 - indpy-core
 - dissect.target
@@ -45,52 +99,3 @@
 - harmonic
 - worker-automate-hub
 - rasa-pro
-- airflow-provider-notion
-- langchain-dev-utils
-- umara
-- ailoos
-- groundx
-- boltzgen
-- eventlet
-- bento-lib
-- mb-rag
-- stringzillas-cuda
-- fn-dbscan
-- kser-crypto
-- odoo14-addon-ssi-odoo-implementation
-- odoo-addon-stock-move-line-dates
-- shvcli
-- p115client
-- integrate-module
-- OkCat
-- dsv2pulseq
-- rayel-rpa-executor
-- alita-sdk
-- aicard-eval
-- sangreal-bt
-- service_packages
-- odoo-addon-account-invoice-report-salesperson
-- v2xflexstack
-- aimodelshare
-- revng
-- Nuitka
-- netflux
-- vnag
-- eu-cbm-hat
-- kubiya-control-plane-api
-- oagi
-- oagi-core
-- spectralio
-- ibis-gizmosql
-- lightly-train
-- jupyterlite-xeus
-- python-yandex-cloud-monitoring
-- PostBOUND
-- ansys-pyensight-core
-- pqn
-- apyds
-- ledgerwallet
-- swannotificationsservice
-- GuardianUnivalle-Benito-Yucra
-- cribl-control-plane
-- odoo-addon-contract-update-last-date-invoiced

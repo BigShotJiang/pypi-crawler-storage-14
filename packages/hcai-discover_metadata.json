@@ -1,0 +1,11 @@
+{
+  "name": "hcai-discover",
+  "version": "1.1.0",
+  "summary": "DISCOVER is a lightweight server designed to create and manage machine learning jobs based on requests.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hcai_discover-1.1.0.tar.gz",
+  "download_time": "2025-11-26T14:36:06.867954",
+  "package_url": "https://pypi.org/project/hcai-discover/"
+}

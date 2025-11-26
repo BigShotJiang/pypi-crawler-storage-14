@@ -1,0 +1,11 @@
+{
+  "name": "doque",
+  "version": "0.2.1",
+  "summary": "A command-line interface for various LLM providers (Claude, ChatGPT, DeepSeek)",
+  "author": "Yuriy Sagitov",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ko10ok/do",
+  "download_filename": "doque-0.2.1.tar.gz",
+  "download_time": "2025-11-26T14:36:20.784720",
+  "package_url": "https://pypi.org/project/doque/"
+}
