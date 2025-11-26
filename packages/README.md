@@ -1,78 +1,26 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-26T23:38:05.825450
-- **Total Packages**: 84
-- **Total Size**: 7.91 MB
+- **Download Time**: 2025-11-26T23:47:27.898170
+- **Total Packages**: 80
+- **Total Size**: 0.38 MB
 
 ## Packages List
-- proxydns
-- chuk-mcp-server
-- pytimetk
-- hack4utoolsmierdapene
-- shmlock
-- VeraGridEngine
-- pyintellicenter
-- afterpython
-- nv-ingest
-- nv-ingest-client
-- nv-ingest-api
-- agent-dna
-- cybrid-api-bank-python
-- py-obsidian-tools
-- cybrid-api-id-python
-- cybrid-api-organization-python
-- supermemory
-- borgmatic
-- serialx
-- metacall
-- rusty-todo-md
-- lm-eval
-- databricks-labs-lakebridge
-- admem
-- volkswagencarnet
-- local-deep-research
-- yek
-- smartmemory
-- rp
-- kk0
-- cp-based-fair-maker
-- nicecall
-- empathy-framework
-- scrall
-- pyintelliclima
-- gymnasium-sudoku
-- cogames
-- pytest-celery-utils
-- html-for-docx
-- l2m
-- wildfire-analyser
-- umadb
-- timber-common
-- swarmkit
-- vital
-- havoc-clustering-v2
-- structurize
-- ai-infra
-- avrotize
-- pest-py
-- seeq-spy
-- discordhelper-ecr
-- janela
-- nvflare
-- trd-utils
 - synqed
 - pandas2b
 - wgup
 - changelet
+- pyintellicenter
 - dotdict3
 - pywa
 - datadog-mcp
 - rtprofile
+- ai-infra
 - codegraph-mcp-server
 - specfact-cli
 - oocone
 - flwr-nightly
+- cp-based-fair-maker
 - finlang
 - ign-lidar-hd
 - pytest-case-provider
@@ -82,6 +30,7 @@
 - sienge-ecbiesek-mcp
 - cadnaPromise
 - steer-sdk
+- rp
 - ailoos
 - dycw-utilities
 - kubetorch
@@ -90,3 +39,50 @@
 - valkey-glide-sync
 - netbox-plugin-bind-provisioner
 - fastapi-api-key
+- upapasta
+- valkey-glide
+- py-obsidian-tools
+- snid-sage
+- kinemotion
+- jenkinsfilelint
+- restcodegen
+- litestar-workflows
+- laddr
+- sunpeek
+- conson-xp
+- ray-embedding
+- fruityloops-mcp
+- gitcopilot
+- POPSRegression
+- aidlabsdk
+- jleechanorg-pr-automation
+- letta-nightly
+- human-eval-rust
+- letta
+- reversi42
+- weave
+- multisport-py
+- issuedb
+- coinmarketcap-exchangerate
+- honeybee-designbuilder
+- afterpython
+- dmenu-extended
+- jupyterlab-refresh-view-extension
+- openstack-lb-treeview
+- instmodel
+- peritype
+- telegram-multi-account-sender
+- documentation-robotics
+- qnote
+- mpbn
+- mloptimizer
+- nb-venv-kernels
+- mongo-entity-orm
+- athena-intelligence
+- modelcontextprotocol
+- arff-csv-converter
+- AxeProfiler
+- reap-protocol
+- photo-objects
+- degirum-tools
+- spectuel-engine-utils
