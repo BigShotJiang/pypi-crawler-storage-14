@@ -1,13 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-26T19:32:33.581203
-- **Total Packages**: 85
-- **Total Size**: 1.21 MB
+- **Download Time**: 2025-11-26T19:48:00.175057
+- **Total Packages**: 84
+- **Total Size**: 25.3 MB
 
 ## Packages List
-- aicodec
+- policyengine-api-simulation-client
+- policyengine-api-full-client
+- pytemporal
+- spotted
+- pywiim
+- twevals
+- langrepl
+- zarrnii
+- codegraph-mcp-server
+- appthreat-vulnerability-db
+- wass2s
+- audex
+- opticomlib
+- ucapi-framework
+- cpymad
+- pyacmecli
+- afetch
+- xsuite
+- pure-interface
+- funmap
+- fastapi-api-key
+- databae
+- libdev
+- LAgencia-prospects-softseguros
+- grimaur
+- x4c
+- openai-realtime-api-utils
+- aimodelshare
+- cosmicfrog
+- dari-python
+- zensols-util
+- web-base
+- monta
+- rypi
+- together
 - tzafon
+- cgm-format
+- snipstr
+- credal
+- MinecraftDockerCLI
+- ign-lidar-hd
+- vocalid
+- scc-firewall-manager-sdk
+- egokit
+- azure-postgresql-auth
+- naive-knowledge-base
+- reveal-cli
+- mangopay4-python-sdk
+- gammarers.aws-daily-cost-usage-report-stack
+- sparv-sbx-wsd-rs
+- aicodec
 - arbiter-engine
 - policyengine-uk
 - vendor-connectors
@@ -41,53 +90,3 @@
 - HySOM
 - nsj-integracao-api-client
 - jder-fastapi
-- dataverse-utils
-- umara
-- sinkvis
-- vocalid
-- pynarrative
-- policyengine-us
-- erk
-- dot-agent-kit
-- pytrip98
-- ansys-mapdl-core
-- LAgencia-prospects-softseguros
-- actualpy
-- borutashap-modern
-- qegloot
-- wass2s
-- dbt-col-lineage
-- sqlitetools
-- titans-pytorch
-- pulumi-command
-- pnl-watchdog
-- rowdybottypiper
-- bws-sdk
-- abcvoting
-- imagetensors
-- rubix-py
-- pyattackforge
-- json-to-toon
-- signalpilot-ai-internal
-- souga-ai-video
-- dayhoff-tools
-- fronius-web-api
-- pyintellicenter
-- xtrack
-- agatha-protobuf
-- xfields
-- viralQC
-- orgecc-command-mock
-- openagents
-- ai-mcp-framework
-- spectralio
-- fasapi-auth-toolkit
-- epi-recorder
-- crc-pulp-service-client
-- crc-pulp-file-client
-- crc-pulp-maven-client
-- petsc4py-stubs
-- crc-pulp-rpm-client
-- crc-pulp-gem-client
-- crc-pulp-npm-client
-- p115client

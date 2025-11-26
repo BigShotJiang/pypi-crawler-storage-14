@@ -1,0 +1,11 @@
+{
+  "name": "ign-lidar-hd",
+  "version": "3.6.1",
+  "summary": "IGN LiDAR HD Dataset Processing Library for Building LOD Classification",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ign_lidar_hd-3.6.1.tar.gz",
+  "download_time": "2025-11-26T19:47:35.772558",
+  "package_url": "https://pypi.org/project/ign-lidar-hd/"
+}

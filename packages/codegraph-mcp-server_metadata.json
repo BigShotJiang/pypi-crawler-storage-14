@@ -1,0 +1,11 @@
+{
+  "name": "codegraph-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP Server for code graph analysis with GraphRAG capabilities",
+  "author": "nahisaho",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codegraph_mcp_server-0.1.0.tar.gz",
+  "download_time": "2025-11-26T19:47:15.105894",
+  "package_url": "https://pypi.org/project/codegraph-mcp-server/"
+}

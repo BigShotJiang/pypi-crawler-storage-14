@@ -1,0 +1,11 @@
+{
+  "name": "libdev",
+  "version": "0.96",
+  "summary": "Set of standard functions for development",
+  "author": "Alex Poloz",
+  "license": "MIT",
+  "home_page": "https://github.com/chilleco/lib",
+  "download_filename": "libdev-0.96.tar.gz",
+  "download_time": "2025-11-26T19:47:25.432655",
+  "package_url": "https://pypi.org/project/libdev/"
+}

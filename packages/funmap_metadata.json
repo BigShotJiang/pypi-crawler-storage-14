@@ -1,0 +1,11 @@
+{
+  "name": "funmap",
+  "version": "0.2.1",
+  "summary": "generate gene co-function networks using omics data",
+  "author": "Zhiao Shi",
+  "license": "MIT license",
+  "home_page": "https://github.com/bzhanglab/funmap",
+  "download_filename": "funmap-0.2.1.tar.gz",
+  "download_time": "2025-11-26T19:47:23.768164",
+  "package_url": "https://pypi.org/project/funmap/"
+}

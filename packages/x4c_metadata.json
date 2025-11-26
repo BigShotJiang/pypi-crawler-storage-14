@@ -1,0 +1,11 @@
+{
+  "name": "x4c",
+  "version": "2025.11.26",
+  "summary": "x4c: Xarray for CESM",
+  "author": "Feng Zhu",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/NCAR/x4c",
+  "download_filename": "x4c-2025.11.26.tar.gz",
+  "download_time": "2025-11-26T19:47:26.966382",
+  "package_url": "https://pypi.org/project/x4c/"
+}

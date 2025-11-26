@@ -1,0 +1,11 @@
+{
+  "name": "twevals",
+  "version": "0.0.0.dev20251126194341",
+  "summary": "A lightweight, code-first evaluation framework for testing AI agents and LLM applications",
+  "author": "Twevals Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "twevals-0.0.0.dev20251126194341.tar.gz",
+  "download_time": "2025-11-26T19:47:13.293986",
+  "package_url": "https://pypi.org/project/twevals/"
+}

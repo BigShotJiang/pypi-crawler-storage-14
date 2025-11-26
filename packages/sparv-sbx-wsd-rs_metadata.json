@@ -1,0 +1,11 @@
+{
+  "name": "sparv-sbx-wsd-rs",
+  "version": "0.1.1",
+  "summary": "Sparv plugin for using wsd-rs with Sparv.",
+  "author": "Språkbanken Text",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sparv_sbx_wsd_rs-0.1.1.tar.gz",
+  "download_time": "2025-11-26T19:47:42.461175",
+  "package_url": "https://pypi.org/project/sparv-sbx-wsd-rs/"
+}

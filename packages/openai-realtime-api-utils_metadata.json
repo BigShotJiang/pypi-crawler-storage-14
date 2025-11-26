@@ -1,0 +1,11 @@
+{
+  "name": "openai-realtime-api-utils",
+  "version": "0.1.2",
+  "summary": "Python middlewares over the WebSocket of OpenAI Realtime API. ",
+  "author": null,
+  "license": "CC BY 4.0\n        Attribution 4.0 International\n        \n        https://creativecommons.org/licenses/by/4.0/\n        \n        OpenAI Realtime API Utils Author: Daniel Chin\n        ",
+  "home_page": null,
+  "download_filename": "openai_realtime_api_utils-0.1.2.tar.gz",
+  "download_time": "2025-11-26T19:47:27.476268",
+  "package_url": "https://pypi.org/project/openai-realtime-api-utils/"
+}

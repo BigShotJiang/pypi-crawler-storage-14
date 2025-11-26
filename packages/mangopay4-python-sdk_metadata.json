@@ -1,0 +1,11 @@
+{
+  "name": "mangopay4-python-sdk",
+  "version": "3.52.0",
+  "summary": "A client library written in python to work with mangopay v2 api",
+  "author": "Mangopay (www.mangopay.com)",
+  "license": "MIT",
+  "home_page": "https://github.com/Mangopay/mangopay2-python-sdk",
+  "download_filename": "mangopay4_python_sdk-3.52.0.tar.gz",
+  "download_time": "2025-11-26T19:47:40.923019",
+  "package_url": "https://pypi.org/project/mangopay4-python-sdk/"
+}

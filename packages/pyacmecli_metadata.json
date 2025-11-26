@@ -1,0 +1,11 @@
+{
+  "name": "pyacmecli",
+  "version": "0.1.0",
+  "summary": "Python ACME client cli",
+  "author": "Alireza Azizi",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/devazizi/pyacme",
+  "download_filename": "pyacmecli-0.1.0.tar.gz",
+  "download_time": "2025-11-26T19:47:20.338170",
+  "package_url": "https://pypi.org/project/pyacmecli/"
+}
