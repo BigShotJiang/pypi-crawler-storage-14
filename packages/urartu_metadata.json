@@ -1,0 +1,11 @@
+{
+  "name": "urartu",
+  "version": "4.2.1",
+  "summary": "An open-source NLP framework that offers high-level wrappers designed for effortless launch, enhanced reproducibility, superior control, and unmatched flexibility for your experiments.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "urartu-4.2.1.tar.gz",
+  "download_time": "2025-11-26T17:31:51.106342",
+  "package_url": "https://pypi.org/project/urartu/"
+}

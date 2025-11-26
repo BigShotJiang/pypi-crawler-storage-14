@@ -1,0 +1,11 @@
+{
+  "name": "tsCaptum",
+  "version": "0.0.6",
+  "summary": "A Captum wrapper for Time Series XAI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tscaptum-0.0.6.tar.gz",
+  "download_time": "2025-11-26T17:32:22.179790",
+  "package_url": "https://pypi.org/project/tsCaptum/"
+}

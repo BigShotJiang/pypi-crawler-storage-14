@@ -1,0 +1,11 @@
+{
+  "name": "nxsconfigtool",
+  "version": "2.2.0",
+  "summary": "Configuration tool  for creating components",
+  "author": "Jan Kotanski, Eugen Wintersberger , Halil Pasic",
+  "license": "GPLv3",
+  "home_page": "https://github.com/nexdatas/nxsdesigner/",
+  "download_filename": "nxsconfigtool-2.2.0.tar.gz",
+  "download_time": "2025-11-26T17:32:00.550316",
+  "package_url": "https://pypi.org/project/nxsconfigtool/"
+}

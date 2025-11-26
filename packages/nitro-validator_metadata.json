@@ -1,0 +1,11 @@
+{
+  "name": "nitro-validator",
+  "version": "1.0.0",
+  "summary": "A powerful, standalone, dependency-free data validation library for Python with extensible rules and a clean, intuitive API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nitro_validator-1.0.0.tar.gz",
+  "download_time": "2025-11-26T17:31:54.123421",
+  "package_url": "https://pypi.org/project/nitro-validator/"
+}

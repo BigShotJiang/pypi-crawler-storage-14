@@ -1,0 +1,11 @@
+{
+  "name": "jacobi-vision",
+  "version": "0.4.2",
+  "summary": "Next-Generation Computer Vision for Robots.",
+  "author": null,
+  "license": "Copyright (c) 2024 Jacobi Robotics Inc.\n        ",
+  "home_page": null,
+  "download_filename": "jacobi_vision-0.4.2-py3-none-any.whl",
+  "download_time": "2025-11-26T17:32:18.100516",
+  "package_url": "https://pypi.org/project/jacobi-vision/"
+}

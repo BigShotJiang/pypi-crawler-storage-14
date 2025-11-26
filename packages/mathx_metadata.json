@@ -1,0 +1,11 @@
+{
+  "name": "mathx",
+  "version": "0.2.3",
+  "summary": "Array handling and mathematics built on top of numpy and scipy.",
+  "author": "Dane Austin",
+  "license": "MIT",
+  "home_page": "https://github.com/draustin/mathx",
+  "download_filename": "mathx-0.2.3.tar.gz",
+  "download_time": "2025-11-26T17:31:44.178730",
+  "package_url": "https://pypi.org/project/mathx/"
+}
