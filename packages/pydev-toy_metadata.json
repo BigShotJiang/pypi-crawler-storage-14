@@ -1,11 +1,11 @@
 {
   "name": "pydev-toy",
-  "version": "0.0.14",
+  "version": "0.0.16",
   "summary": "Command line util to manage python projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pydev_toy-0.0.14-py3-none-any.whl",
-  "download_time": "2025-11-25T22:09:34.326027",
+  "download_filename": "pydev_toy-0.0.16-py3-none-any.whl",
+  "download_time": "2025-11-26T22:32:39.980537",
   "package_url": "https://pypi.org/project/pydev-toy/"
 }

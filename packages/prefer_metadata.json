@@ -1,0 +1,11 @@
+{
+  "name": "prefer",
+  "version": "0.2.1",
+  "summary": "A user-preference focused configuration library for Python.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "prefer-0.2.1.tar.gz",
+  "download_time": "2025-11-26T22:32:33.202091",
+  "package_url": "https://pypi.org/project/prefer/"
+}

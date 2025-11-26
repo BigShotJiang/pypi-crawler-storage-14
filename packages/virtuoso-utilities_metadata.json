@@ -1,11 +1,11 @@
 {
   "name": "virtuoso-utilities",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "summary": "A collection of Python utilities for interacting with OpenLink Virtuoso.",
   "author": "arcangelo7",
   "license": "ISC",
   "home_page": null,
-  "download_filename": "virtuoso_utilities-1.5.2.tar.gz",
-  "download_time": "2025-11-26T21:37:02.002309",
+  "download_filename": "virtuoso_utilities-1.5.3.tar.gz",
+  "download_time": "2025-11-26T22:32:21.294815",
   "package_url": "https://pypi.org/project/virtuoso-utilities/"
 }

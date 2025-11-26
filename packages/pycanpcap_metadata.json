@@ -1,0 +1,11 @@
+{
+  "name": "pycanpcap",
+  "version": "0.3",
+  "summary": "candump and write a pcap using scapy (and python-can)",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "pycanpcap-0.3.tar.gz",
+  "download_time": "2025-11-26T22:32:27.053532",
+  "package_url": "https://pypi.org/project/pycanpcap/"
+}

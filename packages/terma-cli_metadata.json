@@ -1,11 +1,11 @@
 {
   "name": "terma-cli",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "A lightweight CLI tool that converts natural language instructions into terminal commands.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "terma_cli-1.0.0.tar.gz",
-  "download_time": "2025-11-26T21:47:13.563702",
+  "download_filename": "terma_cli-1.0.2.tar.gz",
+  "download_time": "2025-11-26T22:32:33.714557",
   "package_url": "https://pypi.org/project/terma-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dkrutil",
+  "version": "1.0.6",
+  "summary": "A command-line tool for managing Docker containers, volumes, images, and secrets",
+  "author": "emerick-biron",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dkrutil-1.0.6.tar.gz",
+  "download_time": "2025-11-26T22:32:19.170381",
+  "package_url": "https://pypi.org/project/dkrutil/"
+}

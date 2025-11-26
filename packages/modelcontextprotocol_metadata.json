@@ -1,0 +1,11 @@
+{
+  "name": "modelcontextprotocol",
+  "version": "1.0.0",
+  "summary": "CLI tool and utilities for scaffolding Model Context Protocol (MCP) projects with enhanced logging",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "modelcontextprotocol-1.0.0.tar.gz",
+  "download_time": "2025-11-26T22:32:03.618945",
+  "package_url": "https://pypi.org/project/modelcontextprotocol/"
+}

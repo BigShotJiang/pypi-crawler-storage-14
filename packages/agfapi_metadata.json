@@ -1,0 +1,11 @@
+{
+  "name": "agfapi",
+  "version": "0.1.3",
+  "summary": "Interact with the Agfa FHIR API",
+  "author": "s-hammon",
+  "license": null,
+  "home_page": "https://github.com/s-hammon/agfapi-python",
+  "download_filename": "agfapi-0.1.3.tar.gz",
+  "download_time": "2025-11-26T22:32:36.378283",
+  "package_url": "https://pypi.org/project/agfapi/"
+}

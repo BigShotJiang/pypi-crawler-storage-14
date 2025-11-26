@@ -1,11 +1,11 @@
 {
   "name": "basic-agent-chat-loop",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Feature-rich interactive CLI for AI agents with token tracking, prompt templates, aliases, and configuration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "basic_agent_chat_loop-1.2.0.tar.gz",
-  "download_time": "2025-11-26T21:28:19.555337",
+  "download_filename": "basic_agent_chat_loop-1.2.1.tar.gz",
+  "download_time": "2025-11-26T22:31:57.880397",
   "package_url": "https://pypi.org/project/basic-agent-chat-loop/"
 }

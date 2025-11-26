@@ -1,11 +1,11 @@
 {
   "name": "chutils",
-  "version": "2.2.1",
+  "version": "2.3.0",
   "summary": "Набор простых и удобных утилит для Python, который избавляет от рутины при работе с конфигурацией и логированием в новых проектах.",
   "author": "Chu4hel",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "chutils-2.2.1.tar.gz",
-  "download_time": "2025-11-26T07:30:10.579149",
+  "download_filename": "chutils-2.3.0.tar.gz",
+  "download_time": "2025-11-26T22:32:24.411636",
   "package_url": "https://pypi.org/project/chutils/"
 }

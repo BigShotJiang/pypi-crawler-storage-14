@@ -1,0 +1,11 @@
+{
+  "name": "jsonplusplus",
+  "version": "1.1.1",
+  "summary": "Un convertisseur JSON ↔ JSON++ optimisé",
+  "author": "Nathan Josue",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jsonplusplus-1.1.1.tar.gz",
+  "download_time": "2025-11-26T22:32:19.685163",
+  "package_url": "https://pypi.org/project/jsonplusplus/"
+}
