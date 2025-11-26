@@ -1,11 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-26T11:37:52.406993
-- **Total Packages**: 88
-- **Total Size**: 63.83 MB
+- **Download Time**: 2025-11-26T11:47:56.792949
+- **Total Packages**: 86
+- **Total Size**: 32.85 MB
 
 ## Packages List
+- legit-api-client
+- archimedes
+- pyverifactu
+- autoai-libs
+- sqless
+- pypsa-explorer
+- alita-sdk
+- nala-accelerator
+- pyconverters-mistralocr
+- flaw2flow
+- nmagents
+- logger4me
+- secops
+- jupyterlab-terminal-show-in-file-browser-extension
+- getvocal
+- singularity-sdk
+- moysklad-api
+- sbcli-dev
+- ngwidgets
+- smle
+- samotpravil
+- zivid
+- lattica-dev
+- paramflow
+- inductiva
+- superagentx
+- backend.ai-test
+- backend.ai-storage-proxy
+- backend.ai-plugin
+- backend.ai-manager
+- backend.ai-logging
+- backend.ai-kernel-helper
+- backend.ai-kernel
+- backend.ai-install
+- backend.ai-common
+- backend.ai-client
+- backend.ai-cli
+- backend.ai-appproxy-worker
+- backend.ai-appproxy-coordinator
+- backend.ai-appproxy-common
+- backend.ai-account-manager
+- backend.ai-accelerator-mock
+- backend.ai-accelerator-cuda-open
 - aas-http-client
 - agently
 - yek
@@ -18,7 +61,6 @@
 - janela
 - django-bulk-drf
 - hgitaly
-- paramflow
 - dj-palette
 - metacatalog-api
 - control-arena
@@ -49,48 +91,4 @@
 - pyconverters-openai_vision
 - Permanent-variable-tool
 - apex-saas-framework
-- nala-accelerator
 - rasa-pro
-- artesian-sdk
-- icd-att-tools
-- pytablut
-- mlipaudit
-- iatoolkit
-- opnieuw
-- MeUtils
-- langchain-volcengine-mysql
-- omendb
-- fastapi-rtk
-- ferpy
-- opensips
-- delos-llmax
-- cf-pipeline-backend
-- haldrup
-- qstn
-- mixam-sdk
-- Pymeshit
-- trytoncommunity-account-es-verifactu
-- bmsspy
-- s2t
-- localstack-core
-- secator
-- sphinx-iframes
-- omero-py
-- tf-keras-nightly
-- wmill-pg
-- wmill
-- cognite-neat
-- windmill-api
-- flood-adapt
-- ragloader
-- cribl-control-plane
-- flowtools-zxt
-- nnunetv2-cam
-- moysklad-api
-- abstract-webtools
-- MindsDB
-- objects-api-client-django
-- QuantResearch
-- modelmirror
-- ios-backup-browser
-- odrivein

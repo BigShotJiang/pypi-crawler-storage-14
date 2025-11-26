@@ -1,11 +1,11 @@
 {
   "name": "nala-accelerator",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "summary": "A standardized lattice format for particle accelerators",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nala_accelerator-0.0.0.tar.gz",
-  "download_time": "2025-11-26T11:37:27.195504",
+  "download_filename": "nala_accelerator-0.1.0.tar.gz",
+  "download_time": "2025-11-26T11:47:13.050479",
   "package_url": "https://pypi.org/project/nala-accelerator/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "inductiva",
+  "version": "0.18.11",
+  "summary": "Python client for the Inductiva API",
+  "author": "Inductiva Research Labs",
+  "license": null,
+  "home_page": "https://github.com/inductiva/inductiva",
+  "download_filename": "inductiva-0.18.11.tar.gz",
+  "download_time": "2025-11-26T11:47:23.268939",
+  "package_url": "https://pypi.org/project/inductiva/"
+}

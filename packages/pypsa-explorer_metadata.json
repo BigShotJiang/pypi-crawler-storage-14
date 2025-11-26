@@ -1,0 +1,11 @@
+{
+  "name": "pypsa-explorer",
+  "version": "0.1.1",
+  "summary": "Interactive dashboard for visualizing and analyzing PyPSA energy system networks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypsa_explorer-0.1.1.tar.gz",
+  "download_time": "2025-11-26T11:47:12.012408",
+  "package_url": "https://pypi.org/project/pypsa-explorer/"
+}

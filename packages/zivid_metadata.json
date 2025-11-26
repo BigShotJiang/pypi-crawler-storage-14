@@ -1,0 +1,11 @@
+{
+  "name": "zivid",
+  "version": "2.17.1",
+  "summary": "Defining the Future of 3D Machine Vision",
+  "author": "Zivid AS",
+  "license": "BSD 3-Clause",
+  "home_page": "https://www.zivid.com",
+  "download_filename": "zivid-2.17.1.tar.gz",
+  "download_time": "2025-11-26T11:47:20.357243",
+  "package_url": "https://pypi.org/project/zivid/"
+}
