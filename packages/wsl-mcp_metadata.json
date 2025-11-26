@@ -1,0 +1,11 @@
+{
+  "name": "wsl-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for WSL management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wsl_mcp-0.1.0.tar.gz",
+  "download_time": "2025-11-26T11:09:20.593497",
+  "package_url": "https://pypi.org/project/wsl-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "enmap-downloader",
+  "version": "0.6.5",
+  "summary": "Downloader for EnMAP data products with STAC",
+  "author": null,
+  "license": "EUPL-1.2",
+  "home_page": null,
+  "download_filename": "enmap_downloader-0.6.5.tar.gz",
+  "download_time": "2025-11-26T11:09:26.454956",
+  "package_url": "https://pypi.org/project/enmap-downloader/"
+}

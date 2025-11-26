@@ -1,0 +1,11 @@
+{
+  "name": "bonesis",
+  "version": "0.6.9",
+  "summary": "Synthesis of Most Permissive Boolean Networks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bonesis-0.6.9.tar.gz",
+  "download_time": "2025-11-26T11:09:32.114270",
+  "package_url": "https://pypi.org/project/bonesis/"
+}

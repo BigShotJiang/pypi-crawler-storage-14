@@ -1,0 +1,11 @@
+{
+  "name": "PyLEMS",
+  "version": "0.6.9",
+  "summary": "A Python library for working with the Low Entropy Model Specification language (LEMS)",
+  "author": "PyLEMS authors and contributors",
+  "license": "LGPL-3.0-only",
+  "home_page": "https://github.com/LEMS/pylems",
+  "download_filename": "pylems-0.6.9.tar.gz",
+  "download_time": "2025-11-26T11:09:03.698804",
+  "package_url": "https://pypi.org/project/PyLEMS/"
+}

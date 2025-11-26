@@ -1,0 +1,11 @@
+{
+  "name": "quillai-network-guardrails",
+  "version": "0.1.0",
+  "summary": "Python SDK for quillai-network/guardrails Guardrails API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quillai_network_guardrails-0.1.0.tar.gz",
+  "download_time": "2025-11-26T11:09:20.017054",
+  "package_url": "https://pypi.org/project/quillai-network-guardrails/"
+}
