@@ -1,15 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-26T21:37:41.410427
-- **Total Packages**: 87
-- **Total Size**: 28.91 MB
+- **Download Time**: 2025-11-26T21:47:49.634266
+- **Total Packages**: 89
+- **Total Size**: 16.33 MB
 
 ## Packages List
+- pyintellicenter
+- aeyvision
+- spectuel-engine-utils
+- synqed
+- django-deadcode
+- langsmith
+- havoc-clustering
+- socketsecurity
+- medusa-security
+- wagtail-dsfr
+- py-obsidian-tools
+- pyrlprob
+- lpkit
+- cgm-format
+- rds-proxy-password-rotation
+- jetpytools
+- jupyterlab-leetcode
+- water-conflict-classifier
+- setting-manager
+- turbine-models
+- choreographer
+- provenance-context
+- cybrid-api-bank-python
+- lusid-sdk
+- pye57
+- terma-cli
+- cybrid-api-id-python
+- cybrid-api-organization-python
+- nsys2prv
 - solvation-analysis
 - duecredit
 - umlio
-- cgm-format
 - runware
 - mp-api
 - jobsync
@@ -44,11 +72,9 @@
 - brynq-sdk-sodeco
 - codeblur
 - human-eval-rust
-- havoc-clustering
 - steer-sdk
 - pytest-ephemeral-container
 - rabbit-fit
-- water-conflict-classifier
 - mcp-kg-skills
 - wums
 - propagation-exporter
@@ -69,27 +95,3 @@
 - basic-agent-chat-loop
 - newline-iwb-converter
 - veloxx
-- pixmatch
-- dataretrieval
-- m59api
-- ivybloom
-- dbt-bouncer
-- numpyrge256
-- uniqseq
-- tobiko-cloud-helpers
-- tobiko-cloud-pydantic
-- tobiko-cloud-api-client
-- soso
-- gradio-pdf
-- taiyo
-- vibehdf5
-- gsmod
-- SnakeScan
-- pytrip98
-- session-mgmt-mcp
-- zeroeval
-- scrapeflow-py
-- provenance-context
-- codegraph-mcp-server
-- stellium
-- yarnover

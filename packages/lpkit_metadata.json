@@ -1,0 +1,11 @@
+{
+  "name": "lpkit",
+  "version": "0.2.1",
+  "summary": "Ferramenta para visualização gráfica e resolução de modelos de Programação Linear em duas variáveis, incluindo simplex e zona viável.",
+  "author": "Pedro Eckel",
+  "license": null,
+  "home_page": "https://github.com/pedroeckel/lpkit",
+  "download_filename": "lpkit-0.2.1.tar.gz",
+  "download_time": "2025-11-26T21:47:06.363008",
+  "package_url": "https://pypi.org/project/lpkit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pye57",
+  "version": "0.4.19",
+  "summary": "Python .e57 files reader/writer",
+  "author": "David Caron",
+  "license": "MIT",
+  "home_page": "https://www.github.com/davidcaron/pye57",
+  "download_filename": "pye57-0.4.19.tar.gz",
+  "download_time": "2025-11-26T21:47:12.973542",
+  "package_url": "https://pypi.org/project/pye57/"
+}
