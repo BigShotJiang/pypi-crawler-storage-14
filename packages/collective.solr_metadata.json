@@ -1,0 +1,11 @@
+{
+  "name": "collective.solr",
+  "version": "10.0.0",
+  "summary": "Solr integration for external indexing and searching.",
+  "author": "Plone Community",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/collective/collective.solr",
+  "download_filename": "collective_solr-10.0.0.tar.gz",
+  "download_time": "2025-11-26T08:43:12.080717",
+  "package_url": "https://pypi.org/project/collective.solr/"
+}

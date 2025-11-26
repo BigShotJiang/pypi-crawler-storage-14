@@ -1,0 +1,11 @@
+{
+  "name": "azula",
+  "version": "0.7.0",
+  "summary": "Diffusion models in PyTorch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "azula-0.7.0.tar.gz",
+  "download_time": "2025-11-26T08:43:04.163815",
+  "package_url": "https://pypi.org/project/azula/"
+}

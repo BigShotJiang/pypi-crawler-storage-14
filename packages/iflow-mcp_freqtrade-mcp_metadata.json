@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_freqtrade-mcp",
+  "version": "0.1.0",
+  "summary": "An MCPserver that integrates with the Freqtrade cryptocurrency trading bot via its REST API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_freqtrade_mcp-0.1.0.tar.gz",
+  "download_time": "2025-11-26T08:43:05.294806",
+  "package_url": "https://pypi.org/project/iflow-mcp_freqtrade-mcp/"
+}

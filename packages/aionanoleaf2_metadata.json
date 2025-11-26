@@ -1,0 +1,11 @@
+{
+  "name": "aionanoleaf2",
+  "version": "1.0.1",
+  "summary": "Async Python package for the Nanoleaf API that replaces aioNanoleaf.",
+  "author": "loebi-ch",
+  "license": "LGPLv3+",
+  "home_page": "https://github.com/loebi-ch/aionanoleaf2",
+  "download_filename": "aionanoleaf2-1.0.1.tar.gz",
+  "download_time": "2025-11-26T08:43:13.182321",
+  "package_url": "https://pypi.org/project/aionanoleaf2/"
+}

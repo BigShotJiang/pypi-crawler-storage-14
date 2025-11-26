@@ -1,11 +1,11 @@
 {
   "name": "pandas-tibble",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "R-style tibble() display for pandas DataFrames using Rich",
   "author": "Casper Crause",
   "license": "MIT",
   "home_page": "https://github.com/caspercrause/pandas-tibble",
-  "download_filename": "pandas_tibble-0.2.2.tar.gz",
-  "download_time": "2025-11-25T15:34:23.743181",
+  "download_filename": "pandas_tibble-0.2.3.tar.gz",
+  "download_time": "2025-11-26T08:43:04.729932",
   "package_url": "https://pypi.org/project/pandas-tibble/"
 }

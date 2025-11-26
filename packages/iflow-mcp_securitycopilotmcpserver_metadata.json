@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_securitycopilotmcpserver",
+  "version": "0.1.0",
+  "summary": "MCP Server that integrates with Security Copilot, Sentinel and other tools",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_securitycopilotmcpserver-0.1.0.tar.gz",
+  "download_time": "2025-11-26T08:42:59.666497",
+  "package_url": "https://pypi.org/project/iflow-mcp_securitycopilotmcpserver/"
+}

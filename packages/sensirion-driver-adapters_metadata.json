@@ -1,0 +1,11 @@
+{
+  "name": "sensirion-driver-adapters",
+  "version": "2.4.0",
+  "summary": "Adapter classes to use sensirion_i2c_driver package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sensirion_driver_adapters-2.4.0.tar.gz",
+  "download_time": "2025-11-26T08:43:11.545488",
+  "package_url": "https://pypi.org/project/sensirion-driver-adapters/"
+}
