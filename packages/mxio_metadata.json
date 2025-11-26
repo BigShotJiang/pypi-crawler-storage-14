@@ -1,0 +1,11 @@
+{
+  "name": "mxio",
+  "version": "2025.10.3",
+  "summary": "A Simple X-ray Area Detector Data IO Library",
+  "author": "Michel Fodje",
+  "license": "MIT",
+  "home_page": "https://github.com/michel4j/mxio",
+  "download_filename": "mxio-2025.10.3.tar.gz",
+  "download_time": "2025-11-26T19:02:24.897332",
+  "package_url": "https://pypi.org/project/mxio/"
+}

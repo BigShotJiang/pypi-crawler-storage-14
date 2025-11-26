@@ -1,11 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-26T18:53:59.608053
-- **Total Packages**: 100
-- **Total Size**: 19.17 MB
+- **Download Time**: 2025-11-26T19:03:01.306503
+- **Total Packages**: 95
+- **Total Size**: 22.95 MB
 
 ## Packages List
+- viralQC
+- xobjects
+- vocalid
+- LAgencia-prospects-softseguros
+- orgecc-command-mock
+- openagents
+- ai-mcp-framework
+- dayhoff-tools
+- spectralio
+- py4spice
+- fasapi-auth-toolkit
+- epi-recorder
+- crc-pulp-service-client
+- crc-pulp-file-client
+- crc-pulp-maven-client
+- petsc4py-stubs
+- crc-pulp-rpm-client
+- crc-pulp-gem-client
+- crc-pulp-npm-client
+- p115client
+- crc-pulp-python-client
+- crc-pulpcore-client
+- pyintellicenter
+- sonarcal
+- mwparserfromhtml
+- mxio
+- cybrid-api-id-python
+- cybrid-api-bank-python
+- nb-venv-kernels
+- umara
+- bfio
+- cybrid-api-organization-python
+- tricc-oo
+- agatha-protobuf
+- qegloot
+- trackio
+- nc_db
+- bittensor
 - proxydns
 - jacobi-phoxi-camera-driver
 - jacobi-vision
@@ -51,58 +89,15 @@
 - aws-solutions-constructs.aws-lambda-kinesisfirehose
 - aws-solutions-constructs.aws-lambda-kinesis-streams
 - aws-solutions-constructs.aws-lambda-kendra
-- pyarud
 - aws-solutions-constructs.aws-lambda-eventbridge
 - aws-solutions-constructs.aws-lambda-elasticsearch-kibana
 - aws-solutions-constructs.aws-lambda-elasticachememcached
 - pulumi-twingate
 - aws-solutions-constructs.aws-lambda-dynamodb
 - aws-solutions-constructs.aws-lambda-bedrockinferenceprofile
-- p115client
 - aws-solutions-constructs.aws-kinesis-streams-lambda
 - aws-solutions-constructs.aws-kinesis-streams-kinesis-firehose-s3
 - aws-solutions-constructs.aws-kinesis-streams-gluejob
 - aws-solutions-constructs.aws-kinesis-firehose-s3
 - aws-solutions-constructs.aws-iot-sqs
 - aws-solutions-constructs.aws-iot-s3
-- aws-solutions-constructs.aws-iot-lambda-dynamodb
-- aws-solutions-constructs.aws-iot-lambda
-- aws-solutions-constructs.aws-iot-kinesisstreams
-- aws-solutions-constructs.aws-iot-kinesisfirehose-s3
-- aws-solutions-constructs.aws-fargate-stepfunctions
-- aws-solutions-constructs.aws-fargate-ssmstringparameter
-- aws-solutions-constructs.aws-fargate-sqs
-- aws-solutions-constructs.aws-fargate-sns
-- aa-payout
-- ai-infra
-- aws-solutions-constructs.aws-fargate-secretsmanager
-- aws-solutions-constructs.aws-fargate-s3
-- reveal-cli
-- aws-solutions-constructs.aws-fargate-opensearch
-- aws-solutions-constructs.aws-fargate-kinesisstreams
-- aws-solutions-constructs.aws-fargate-kinesisfirehose
-- aws-solutions-constructs.aws-fargate-eventbridge
-- aws-solutions-constructs.aws-fargate-dynamodb
-- aws-solutions-constructs.aws-eventbridge-stepfunctions
-- aws-solutions-constructs.aws-eventbridge-sqs
-- aws-solutions-constructs.aws-eventbridge-sns
-- aws-solutions-constructs.aws-eventbridge-lambda
-- aws-solutions-constructs.aws-eventbridge-kinesis-streams
-- aws-solutions-constructs.aws-eventbridge-kinesis-firehose-s3
-- aws-solutions-constructs.aws-dynamodbstreams-pipes-stepfunctions
-- aws-solutions-constructs.aws-dynamodbstreams-lambda-elasticsearch-kibana
-- aws-solutions-constructs.aws-dynamodbstreams-lambda
-- aws-solutions-constructs.aws-constructs-factories
-- aws-solutions-constructs.aws-cognito-apigateway-lambda
-- nc_db
-- aws-solutions-constructs.aws-cloudfront-s3
-- aws-solutions-constructs.aws-cloudfront-oai-s3
-- aws-solutions-constructs.aws-cloudfront-apigateway-lambda
-- aws-solutions-constructs.aws-cloudfront-apigateway
-- aws-solutions-constructs.aws-apigatewayv2websocket-sqs
-- aws-solutions-constructs.aws-apigateway-sqs
-- aws-solutions-constructs.aws-apigateway-sagemakerendpoint
-- aws-solutions-constructs.aws-apigateway-lambda
-- aws-solutions-constructs.aws-apigateway-kinesisstreams
-- aws-solutions-constructs.aws-apigateway-iot
-- aws-solutions-constructs.aws-apigateway-dynamodb

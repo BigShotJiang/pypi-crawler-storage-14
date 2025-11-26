@@ -5,7 +5,7 @@
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/awslabs/aws-solutions-constructs.git",
-  "download_filename": "aws_solutions_constructs_aws_s3_sqs-2.96.0-py3-none-any.whl",
-  "download_time": "2025-11-26T18:53:17.864271",
+  "download_filename": "aws_solutions_constructs_aws_s3_sqs-2.96.0.tar.gz",
+  "download_time": "2025-11-26T19:02:44.824712",
   "package_url": "https://pypi.org/project/aws-solutions-constructs.aws-s3-sqs/"
 }
