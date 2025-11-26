@@ -1,11 +1,11 @@
 {
   "name": "fun-things",
-  "version": "0.54.1",
+  "version": "0.55.0",
   "summary": null,
   "author": "MisterNyan",
   "license": null,
   "home_page": null,
-  "download_filename": "fun_things-0.54.1.tar.gz",
-  "download_time": "2025-11-26T07:11:05.455116",
+  "download_filename": "fun_things-0.55.0.tar.gz",
+  "download_time": "2025-11-26T08:14:42.829232",
   "package_url": "https://pypi.org/project/fun-things/"
 }

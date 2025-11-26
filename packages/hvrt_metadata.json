@@ -1,0 +1,11 @@
+{
+  "name": "hvrt",
+  "version": "0.1.0",
+  "summary": "Hierarchical Variance Reduction Tree (H-VRT) for intelligent sample reduction",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hvrt-0.1.0.tar.gz",
+  "download_time": "2025-11-26T08:14:39.765336",
+  "package_url": "https://pypi.org/project/hvrt/"
+}

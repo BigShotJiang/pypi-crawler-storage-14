@@ -1,0 +1,11 @@
+{
+  "name": "ghoshell-moss",
+  "version": "0.1.0.dev0",
+  "summary": "LLM-oriented operating system shell, providing interpreter for llm to control everything",
+  "author": "thirdgerb, 17wang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ghoshell_moss-0.1.0.dev0.tar.gz",
+  "download_time": "2025-11-26T08:14:27.363016",
+  "package_url": "https://pypi.org/project/ghoshell-moss/"
+}

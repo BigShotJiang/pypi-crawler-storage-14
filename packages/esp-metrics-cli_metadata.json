@@ -1,0 +1,11 @@
+{
+  "name": "esp-metrics-cli",
+  "version": "0.5.1",
+  "summary": "ESP Metrics CLI - Command-line tool for validating and uploading project metrics",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "esp_metrics_cli-0.5.1.tar.gz",
+  "download_time": "2025-11-26T08:14:14.073372",
+  "package_url": "https://pypi.org/project/esp-metrics-cli/"
+}
