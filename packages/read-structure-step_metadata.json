@@ -1,0 +1,11 @@
+{
+  "name": "read-structure-step",
+  "version": "2025.11.26",
+  "summary": "A SEAMM plug-in to read common formats in computational chemistry",
+  "author": "Eliseo Marin-R-Rimoldi",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/molssi-seamm/read_structure_step",
+  "download_filename": "read_structure_step-2025.11.26.tar.gz",
+  "download_time": "2025-11-26T18:13:03.660746",
+  "package_url": "https://pypi.org/project/read-structure-step/"
+}

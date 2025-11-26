@@ -1,0 +1,11 @@
+{
+  "name": "mlcommons-loadgen",
+  "version": "5.1.2",
+  "summary": "MLPerf Inference LoadGen python bindings",
+  "author": null,
+  "license": null,
+  "home_page": "https://mlcommons.org/",
+  "download_filename": "mlcommons_loadgen-5.1.2.tar.gz",
+  "download_time": "2025-11-26T18:13:24.699065",
+  "package_url": "https://pypi.org/project/mlcommons-loadgen/"
+}

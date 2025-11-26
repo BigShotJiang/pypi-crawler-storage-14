@@ -1,11 +1,11 @@
 {
   "name": "yapcache",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yapcache-0.1.18.tar.gz",
-  "download_time": "2025-11-26T15:32:14.628121",
+  "download_filename": "yapcache-0.1.19.tar.gz",
+  "download_time": "2025-11-26T18:12:48.962194",
   "package_url": "https://pypi.org/project/yapcache/"
 }

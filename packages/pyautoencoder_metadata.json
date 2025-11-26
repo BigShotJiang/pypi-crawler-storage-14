@@ -1,11 +1,11 @@
 {
   "name": "pyautoencoder",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "summary": "A Python package offering implementations of state-of-the-art autoencoder architectures in PyTorch.",
   "author": "Andrea Pollastro",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyautoencoder-1.0.11.tar.gz",
-  "download_time": "2025-11-25T15:33:45.715253",
+  "download_filename": "pyautoencoder-1.0.12.tar.gz",
+  "download_time": "2025-11-26T18:13:09.941827",
   "package_url": "https://pypi.org/project/pyautoencoder/"
 }
