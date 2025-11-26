@@ -1,0 +1,11 @@
+{
+  "name": "azureml-dataset-runtime",
+  "version": "1.61.0",
+  "summary": "The package is to coordinate dependencies within AzureML packages.     This package is internal, and is not intended to be used directly.",
+  "author": "Microsoft Corp",
+  "license": "https://aka.ms/azureml-sdk-license",
+  "home_page": "https://docs.microsoft.com/python/api/overview/azure/ml/?view=azure-ml-py",
+  "download_filename": "azureml_dataset_runtime-1.61.0-py3-none-any.whl",
+  "download_time": "2025-11-26T17:11:00.434207",
+  "package_url": "https://pypi.org/project/azureml-dataset-runtime/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "azureml-explain-model",
+  "version": "1.61.0",
+  "summary": "The package has been deprecated and might not receive future updates.",
+  "author": "Microsoft Corp",
+  "license": "https://aka.ms/azureml-sdk-license",
+  "home_page": "https://docs.microsoft.com/python/api/overview/azure/ml/?view=azure-ml-py",
+  "download_filename": "azureml_explain_model-1.61.0-py3-none-any.whl",
+  "download_time": "2025-11-26T17:10:59.412094",
+  "package_url": "https://pypi.org/project/azureml-explain-model/"
+}

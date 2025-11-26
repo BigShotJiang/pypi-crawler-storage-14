@@ -1,0 +1,11 @@
+{
+  "name": "azureml-defaults",
+  "version": "1.61.0",
+  "summary": "Is a metapackage that is used internally by Azure Machine Learning",
+  "author": "Microsoft Corp",
+  "license": "https://aka.ms/azureml-sdk-license",
+  "home_page": null,
+  "download_filename": "azureml_defaults-1.61.0-py3-none-any.whl",
+  "download_time": "2025-11-26T17:10:59.923392",
+  "package_url": "https://pypi.org/project/azureml-defaults/"
+}

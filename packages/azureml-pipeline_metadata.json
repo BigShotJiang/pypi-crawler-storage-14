@@ -1,0 +1,11 @@
+{
+  "name": "azureml-pipeline",
+  "version": "1.61.0",
+  "summary": "Used to build, optimize, and manage their machine learning workflows.",
+  "author": "Microsoft Corp",
+  "license": "https://aka.ms/azureml-sdk-license",
+  "home_page": "https://docs.microsoft.com/python/api/overview/azure/ml/?view=azure-ml-py",
+  "download_filename": "azureml_pipeline-1.61.0-py3-none-any.whl",
+  "download_time": "2025-11-26T17:10:57.319423",
+  "package_url": "https://pypi.org/project/azureml-pipeline/"
+}

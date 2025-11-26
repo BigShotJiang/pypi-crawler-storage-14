@@ -1,0 +1,11 @@
+{
+  "name": "azureml-pipeline-steps",
+  "version": "1.61.0",
+  "summary": "Aeva : represents a unit of computation in azureml-pipeline",
+  "author": "Microsoft Corp",
+  "license": "https://aka.ms/azureml-sdk-license",
+  "home_page": "https://docs.microsoft.com/python/api/overview/azure/ml/?view=azure-ml-py",
+  "download_filename": "azureml_pipeline_steps-1.61.0-py3-none-any.whl",
+  "download_time": "2025-11-26T17:10:56.296628",
+  "package_url": "https://pypi.org/project/azureml-pipeline-steps/"
+}

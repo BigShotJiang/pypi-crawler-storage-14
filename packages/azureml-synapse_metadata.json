@@ -1,0 +1,11 @@
+{
+  "name": "azureml-synapse",
+  "version": "1.61.0",
+  "summary": "Provides Magic command to manage Synapse session and      submit job to Synapse Spark pool.",
+  "author": "Microsoft Corp",
+  "license": "https://aka.ms/azureml-sdk-license",
+  "home_page": "https://docs.microsoft.com/en-us/azure/machine-learning/service/",
+  "download_filename": "azureml_synapse-1.61.0-py3-none-any.whl",
+  "download_time": "2025-11-26T17:10:54.763508",
+  "package_url": "https://pypi.org/project/azureml-synapse/"
+}

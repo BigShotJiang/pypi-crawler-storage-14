@@ -1,0 +1,11 @@
+{
+  "name": "azureml-accel-models",
+  "version": "1.61.0",
+  "summary": "Used to create and train a model using various deep neural networks (DNNs).",
+  "author": "Microsoft Corp",
+  "license": "https://aka.ms/azureml-sdk-license",
+  "home_page": "https://docs.microsoft.com/python/api/overview/azure/ml/?view=azure-ml-py",
+  "download_filename": "azureml_accel_models-1.61.0-py3-none-any.whl",
+  "download_time": "2025-11-26T17:11:12.310981",
+  "package_url": "https://pypi.org/project/azureml-accel-models/"
+}

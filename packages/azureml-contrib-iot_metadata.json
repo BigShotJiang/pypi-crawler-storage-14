@@ -1,0 +1,11 @@
+{
+  "name": "azureml-contrib-iot",
+  "version": "1.61.0",
+  "summary": "Azure Machine Learning IoT",
+  "author": "Microsoft Corp",
+  "license": "Proprietary https://aka.ms/azureml-preview-sdk-license",
+  "home_page": "https://docs.microsoft.com/python/api/overview/azure/ml/?view=azure-ml-py",
+  "download_filename": "azureml_contrib_iot-1.61.0-py3-none-any.whl",
+  "download_time": "2025-11-26T17:11:05.583541",
+  "package_url": "https://pypi.org/project/azureml-contrib-iot/"
+}

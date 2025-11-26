@@ -1,11 +1,11 @@
 {
   "name": "orgecc-command-mock",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "High-fidelity command mocking framework",
   "author": "Hug SCM Team",
   "license": null,
   "home_page": null,
-  "download_filename": "orgecc_command_mock-0.1.1.tar.gz",
-  "download_time": "2025-11-26T16:56:43.559194",
+  "download_filename": "orgecc_command_mock-0.1.2.tar.gz",
+  "download_time": "2025-11-26T17:10:48.995753",
   "package_url": "https://pypi.org/project/orgecc-command-mock/"
 }

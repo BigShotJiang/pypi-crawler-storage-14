@@ -1,0 +1,11 @@
+{
+  "name": "azureml-opendatasets",
+  "version": "1.61.0",
+  "summary": "Provides a set of APIs to consume Azure Open Datasets.",
+  "author": "Microsoft Corp",
+  "license": "Proprietary https://aka.ms/azureml-preview-sdk-license",
+  "home_page": "https://docs.microsoft.com/en-us/azure/open-datasets/",
+  "download_filename": "azureml_opendatasets-1.61.0-py3-none-any.whl",
+  "download_time": "2025-11-26T17:10:57.874920",
+  "package_url": "https://pypi.org/project/azureml-opendatasets/"
+}

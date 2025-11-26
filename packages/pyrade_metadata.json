@@ -1,11 +1,11 @@
 {
   "name": "pyrade",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "High-performance, modular Differential Evolution optimization",
   "author": "PyRADE Contributors",
   "license": "MIT",
   "home_page": "https://github.com/arartawil/pyrade",
-  "download_filename": "pyrade-0.1.0.tar.gz",
-  "download_time": "2025-11-25T17:49:04.562984",
+  "download_filename": "pyrade-0.2.0.tar.gz",
+  "download_time": "2025-11-26T17:11:22.241263",
   "package_url": "https://pypi.org/project/pyrade/"
 }

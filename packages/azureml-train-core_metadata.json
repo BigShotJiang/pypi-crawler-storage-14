@@ -1,0 +1,11 @@
+{
+  "name": "azureml-train-core",
+  "version": "1.61.0",
+  "summary": "Provides estimators for training models.",
+  "author": "Microsoft Corp",
+  "license": "https://aka.ms/azureml-sdk-license",
+  "home_page": "https://docs.microsoft.com/python/api/overview/azure/ml/?view=azure-ml-py",
+  "download_filename": "azureml_train_core-1.61.0-py3-none-any.whl",
+  "download_time": "2025-11-26T17:10:50.631602",
+  "package_url": "https://pypi.org/project/azureml-train-core/"
+}

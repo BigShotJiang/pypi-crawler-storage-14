@@ -1,11 +1,11 @@
 {
   "name": "pySigma-validators-sigmahq",
-  "version": "0.12.2",
+  "version": "0.20.0",
   "summary": "pySigma SigmaHQ validators",
   "author": "François Hubaut",
-  "license": "LGPL-2.1-only",
-  "home_page": null,
-  "download_filename": "pysigma_validators_sigmahq-0.12.2.tar.gz",
-  "download_time": "2025-11-26T16:56:17.406082",
+  "license": null,
+  "home_page": "https://github.com/SigmaHQ/pySigma_validators_sigmaHQ",
+  "download_filename": "pysigma_validators_sigmahq-0.20.0.tar.gz",
+  "download_time": "2025-11-26T17:11:23.329876",
   "package_url": "https://pypi.org/project/pySigma-validators-sigmahq/"
 }

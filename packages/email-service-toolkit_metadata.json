@@ -1,0 +1,11 @@
+{
+  "name": "email-service-toolkit",
+  "version": "0.2.0",
+  "summary": "Reusable Python toolkit for sending emails and managing email templates",
+  "author": "Vamsi Gudapati",
+  "license": "MIT",
+  "home_page": "https://github.com/vamsichowdaryg/email_service_toolkit",
+  "download_filename": "email_service_toolkit-0.2.0.tar.gz",
+  "download_time": "2025-11-26T17:11:13.395477",
+  "package_url": "https://pypi.org/project/email-service-toolkit/"
+}

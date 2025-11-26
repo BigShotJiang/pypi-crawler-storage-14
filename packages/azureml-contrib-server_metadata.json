@@ -1,0 +1,11 @@
+{
+  "name": "azureml-contrib-server",
+  "version": "1.61.0",
+  "summary": "Local HTTP service used to expose the functionality given by the AzureML SDK to VS Tools for AI ext.",
+  "author": "Microsoft Corp",
+  "license": "Proprietary https://aka.ms/azureml-preview-sdk-license",
+  "home_page": null,
+  "download_filename": "azureml_contrib_server-1.61.0-py3-none-any.whl",
+  "download_time": "2025-11-26T17:11:02.511938",
+  "package_url": "https://pypi.org/project/azureml-contrib-server/"
+}

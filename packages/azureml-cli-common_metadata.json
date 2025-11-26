@@ -1,0 +1,11 @@
+{
+  "name": "azureml-cli-common",
+  "version": "1.61.0",
+  "summary": "(v1) Manage Azure Machine Learning resources.    It is recommended to use the 2.0 extension - see aka.ms/azml2",
+  "author": "Microsoft Corp",
+  "license": "https://aka.ms/azureml-sdk-license",
+  "home_page": "https://docs.microsoft.com/python/api/overview/azure/ml/?view=azure-ml-py",
+  "download_filename": "azureml_cli_common-1.61.0-py3-none-any.whl",
+  "download_time": "2025-11-26T17:11:09.230556",
+  "package_url": "https://pypi.org/project/azureml-cli-common/"
+}

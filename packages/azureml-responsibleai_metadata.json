@@ -1,0 +1,11 @@
+{
+  "name": "azureml-responsibleai",
+  "version": "1.61.0",
+  "summary": "AzureML Responsible AI package",
+  "author": "Microsoft Corp",
+  "license": "Proprietary https://aka.ms/azureml-preview-sdk-license",
+  "home_page": "https://docs.microsoft.com/python/api/overview/azure/ml/?view=azure-ml-py",
+  "download_filename": "azureml_responsibleai-1.61.0-py3-none-any.whl",
+  "download_time": "2025-11-26T17:10:55.784853",
+  "package_url": "https://pypi.org/project/azureml-responsibleai/"
+}
