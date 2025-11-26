@@ -1,11 +1,11 @@
 {
   "name": "jacobi-mechmind-camera-driver",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "Driver for Mech-Mind cameras.",
   "author": null,
   "license": "Copyright (c) 2024 Jacobi Robotics Inc.\n        ",
   "home_page": null,
-  "download_filename": "jacobi_mechmind_camera_driver-0.4.2-py3-none-any.whl",
-  "download_time": "2025-11-26T17:32:19.251316",
+  "download_filename": "jacobi_mechmind_camera_driver-0.4.3-py3-none-any.whl",
+  "download_time": "2025-11-26T18:53:05.935332",
   "package_url": "https://pypi.org/project/jacobi-mechmind-camera-driver/"
 }

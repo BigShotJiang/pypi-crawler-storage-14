@@ -1,0 +1,11 @@
+{
+  "name": "proxydns",
+  "version": "0.0.1",
+  "summary": "Resolves DNS names using a custom server before routing traffic through a proxy.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "proxydns-0.0.1.tar.gz",
+  "download_time": "2025-11-26T18:53:03.768418",
+  "package_url": "https://pypi.org/project/proxydns/"
+}

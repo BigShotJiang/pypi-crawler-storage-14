@@ -1,11 +1,11 @@
 {
   "name": "jacobi-phoxi-camera-driver",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "Driver for Photoneo PhoXi cameras.",
   "author": null,
   "license": "Copyright (c) 2024 Jacobi Robotics Inc.\n         ",
   "home_page": null,
-  "download_filename": "jacobi_phoxi_camera_driver-0.4.2.tar.gz",
-  "download_time": "2025-11-26T17:32:17.528823",
+  "download_filename": "jacobi_phoxi_camera_driver-0.4.3.tar.gz",
+  "download_time": "2025-11-26T18:53:04.314075",
   "package_url": "https://pypi.org/project/jacobi-phoxi-camera-driver/"
 }
