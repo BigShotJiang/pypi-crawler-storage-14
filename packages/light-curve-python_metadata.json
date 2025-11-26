@@ -1,0 +1,11 @@
+{
+  "name": "light-curve-python",
+  "version": "0.10.5",
+  "summary": "An alias to light-curve package",
+  "author": "Konstantin Malanchev",
+  "license": "MIT",
+  "home_page": "http://github.com/hombit/light-curve",
+  "download_filename": "light_curve_python-0.10.5.tar.gz",
+  "download_time": "2025-11-26T20:31:29.847017",
+  "package_url": "https://pypi.org/project/light-curve-python/"
+}

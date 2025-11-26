@@ -1,0 +1,11 @@
+{
+  "name": "spotipy",
+  "version": "2.25.2",
+  "summary": "A light weight Python library for the Spotify Web API",
+  "author": "@plamere",
+  "license": "MIT",
+  "home_page": "https://spotipy.readthedocs.org/",
+  "download_filename": "spotipy-2.25.2.tar.gz",
+  "download_time": "2025-11-26T20:31:24.730740",
+  "package_url": "https://pypi.org/project/spotipy/"
+}

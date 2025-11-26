@@ -1,0 +1,11 @@
+{
+  "name": "redfetch",
+  "version": "0.9.2",
+  "summary": "Download and publish EverQuest scripts and software using the RedGuides API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "redfetch-0.9.2.tar.gz",
+  "download_time": "2025-11-26T20:31:25.360929",
+  "package_url": "https://pypi.org/project/redfetch/"
+}

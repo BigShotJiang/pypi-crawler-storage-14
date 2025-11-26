@@ -1,0 +1,11 @@
+{
+  "name": "login-auth-tui",
+  "version": "0.4",
+  "summary": "TUI for login-auth stuff",
+  "author": "Nicholas Hurley",
+  "license": null,
+  "home_page": null,
+  "download_filename": "login_auth_tui-0.4.tar.gz",
+  "download_time": "2025-11-26T20:32:03.001822",
+  "package_url": "https://pypi.org/project/login-auth-tui/"
+}

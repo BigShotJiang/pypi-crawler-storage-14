@@ -1,0 +1,11 @@
+{
+  "name": "dandischema",
+  "version": "0.12.1",
+  "summary": "Schemata for DANDI archive project",
+  "author": "DANDI developers",
+  "license": "Apache 2.0",
+  "home_page": "http://dandiarchive.org",
+  "download_filename": "dandischema-0.12.1.tar.gz",
+  "download_time": "2025-11-26T20:31:37.525467",
+  "package_url": "https://pypi.org/project/dandischema/"
+}

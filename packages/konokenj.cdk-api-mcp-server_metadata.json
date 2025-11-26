@@ -1,11 +1,11 @@
 {
   "name": "konokenj.cdk-api-mcp-server",
-  "version": "0.60.0",
+  "version": "0.61.0",
   "summary": "An MCP server provides AWS CDK API Reference",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "konokenj_cdk_api_mcp_server-0.60.0.tar.gz",
-  "download_time": "2025-11-25T15:10:34.847240",
+  "download_filename": "konokenj_cdk_api_mcp_server-0.61.0.tar.gz",
+  "download_time": "2025-11-26T20:31:31.567968",
   "package_url": "https://pypi.org/project/konokenj.cdk-api-mcp-server/"
 }

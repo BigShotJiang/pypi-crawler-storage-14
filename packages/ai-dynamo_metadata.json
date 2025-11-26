@@ -1,0 +1,11 @@
+{
+  "name": "ai-dynamo",
+  "version": "0.7.0",
+  "summary": "Distributed Inference Framework",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ai_dynamo-0.7.0-py3-none-any.whl",
+  "download_time": "2025-11-26T20:31:57.783297",
+  "package_url": "https://pypi.org/project/ai-dynamo/"
+}

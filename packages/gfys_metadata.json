@@ -1,0 +1,11 @@
+{
+  "name": "gfys",
+  "version": "0.1.1",
+  "summary": "Make `go test` output readable",
+  "author": "Tucker Beck",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gfys-0.1.1.tar.gz",
+  "download_time": "2025-11-26T20:31:44.130638",
+  "package_url": "https://pypi.org/project/gfys/"
+}

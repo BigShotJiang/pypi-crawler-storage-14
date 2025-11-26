@@ -1,0 +1,11 @@
+{
+  "name": "printaudit",
+  "version": "0.8.0",
+  "summary": "PrintAudit - Modern CUPS page_log analyzer for print accounting and cost allocation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "printaudit-0.8.0.tar.gz",
+  "download_time": "2025-11-26T20:31:23.442382",
+  "package_url": "https://pypi.org/project/printaudit/"
+}
