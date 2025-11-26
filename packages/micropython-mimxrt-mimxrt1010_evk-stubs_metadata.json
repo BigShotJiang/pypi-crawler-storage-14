@@ -1,0 +1,11 @@
+{
+  "name": "micropython-mimxrt-mimxrt1010_evk-stubs",
+  "version": "1.26.1.post1",
+  "summary": "MicroPython stubs",
+  "author": "Jos Verlinde",
+  "license": "MIT",
+  "home_page": "https://github.com/josverl/micropython-stubs#micropython-stubs",
+  "download_filename": "micropython_mimxrt_mimxrt1010_evk_stubs-1.26.1.post1.tar.gz",
+  "download_time": "2025-11-26T10:52:58.657616",
+  "package_url": "https://pypi.org/project/micropython-mimxrt-mimxrt1010_evk-stubs/"
+}

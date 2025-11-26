@@ -1,17 +1,69 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-26T10:38:43.001566
-- **Total Packages**: 88
-- **Total Size**: 48.86 MB
+- **Download Time**: 2025-11-26T10:53:38.638018
+- **Total Packages**: 85
+- **Total Size**: 30.69 MB
 
 ## Packages List
+- cloudbender
+- jupyter-jsc-custom
+- ezai-go2
+- rememberit
+- kinex
+- acryl-datahub-cloud
+- orbitaim-data
+- micropython-mimxrt-seeed_arch_mix-stubs
+- konduktor-nightly
+- micropython-mimxrt-mimxrt1010_evk-stubs
+- gxhash
+- micropython-mimxrt-stubs
+- ssb-libtest13
+- langchain-taiga
+- gisweb-jppa
+- verda
+- frago-cli
+- cognite-toolkit
+- edx-games
+- programgarden
+- sensingpy
+- udata
+- rcrlm
+- trainy-policy-nightly
+- apex-saas-framework
+- juham-core
+- QuantResearch
+- runai-model-streamer-gcs
+- databao
+- runai-model-streamer-s3
+- runai-model-streamer
+- superagentx
+- python-calamine
+- juham-shelly
+- epitech-console
+- tokenvault-sdk
+- ssb-libtest14
+- chatsynth-vanshajr
+- pixelarraycloudstorage
+- letta-nightly
+- policyengine-us
+- parglare
+- akshare
+- ssb-libtest12
+- windows-mcp
+- primus-lens-wandb-exporter
+- odrivein
+- noetl
+- moysklad-api
+- digitalkin
+- iglu-python
+- octobot-evaluators
+- deepface-facescore
+- psqlc
+- spec2sdk
 - python-clu
 - prophecies
-- udata
-- QuantResearch
 - buxcli
-- policyengine-us
 - reckonings
 - barc4beams
 - mangoui
@@ -27,7 +79,6 @@
 - lightly-studio
 - e2b-code-interpreter
 - opensips
-- rememberit
 - odoo-addon-account-payment-term-extension
 - tonutils
 - geodrive
@@ -35,62 +86,8 @@
 - pyuncertainnumber
 - hyperparse
 - nonebot-plugin-templates-draw
-- orbitaim-data
 - loggissimo
 - rediacc
 - autoannotate-timeseries
 - quasar-rs
-- ezai-go2
 - mapget
-- supplyforge
-- hostphot
-- tbp-nightly
-- mobile-mcp-ai
-- krrood
-- demandforge
-- kiarina-utils-file
-- kiarina-utils-common
-- kiarina-llm
-- kiarina-lib-redisearch
-- kiarina-lib-redis
-- kiarina-lib-google-cloud-storage
-- chatsynth-vanshajr
-- kiarina-lib-google-auth
-- kiarina-lib-falkordb
-- kiarina-lib-cloudflare-d1
-- kiarina-lib-cloudflare-auth
-- kiarina
-- cozeloop
-- svr-tts
-- acb
-- tala
-- Geode-Common
-- qe-api-client
-- octobot-tentacles-manager
-- apex-saas-framework
-- secontrol
-- jupyterlite-pyodide-kernel
-- opik
-- supervisely
-- xibe-chat-cli
-- pytest-html5
-- wagtail-formation
-- moysklad-api
-- p2pdocs
-- prisma-web3-py
-- aimodelshare
-- capella-model-explorer
-- tokligence
-- ckanext-pygments
-- shai-hulud-detector
-- jyhelper
-- ai-edge-torch-nightly
-- koder
-- rcrlm
-- stmath
-- wordlift-client
-- ll-la
-- pypicoboot
-- splatwizard
-- swisper-studio-sdk
-- gmail-archiver-cli

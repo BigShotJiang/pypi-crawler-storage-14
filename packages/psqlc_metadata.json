@@ -1,0 +1,11 @@
+{
+  "name": "psqlc",
+  "version": "1.1.5",
+  "summary": "A production-ready, feature-rich command-line interface tool for managing PostgreSQL databases with beautiful output formatting and intelligent auto-detection capabilities.",
+  "author": "cumulus13",
+  "license": "MIT",
+  "home_page": "https://github.com/cumulus13/psqlc",
+  "download_filename": "psqlc-1.1.5.tar.gz",
+  "download_time": "2025-11-26T10:53:21.873535",
+  "package_url": "https://pypi.org/project/psqlc/"
+}
