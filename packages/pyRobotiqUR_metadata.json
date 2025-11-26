@@ -1,0 +1,11 @@
+{
+  "name": "pyRobotiqUR",
+  "version": "0.2.2",
+  "summary": "Simple Python interface for Robotiq grippers over a TCP socket (URCap/UR controller).",
+  "author": "Johannes Wenninger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyrobotiqur-0.2.2.tar.gz",
+  "download_time": "2025-11-26T09:36:01.311718",
+  "package_url": "https://pypi.org/project/pyRobotiqUR/"
+}

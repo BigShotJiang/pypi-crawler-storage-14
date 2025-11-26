@@ -1,0 +1,11 @@
+{
+  "name": "maibot-dashboard",
+  "version": "0.1.1",
+  "summary": "MaiBot WebUI 前端资源包 - 包含预构建的 Dashboard 静态文件",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "maibot_dashboard-0.1.1.tar.gz",
+  "download_time": "2025-11-26T09:36:04.385042",
+  "package_url": "https://pypi.org/project/maibot-dashboard/"
+}

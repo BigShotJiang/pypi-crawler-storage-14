@@ -1,0 +1,11 @@
+{
+  "name": "TFNBS",
+  "version": "1.0.1",
+  "summary": "Threshold Free Network Based Statistics (TFNBS) Toolkit",
+  "author": "N.P. Bechtereva Institute of the Human Brain, Russian Academy of Sciences",
+  "license": "MIT",
+  "home_page": "https://github.com/IHB-IBR-department/TFNBS",
+  "download_filename": "tfnbs-1.0.1.tar.gz",
+  "download_time": "2025-11-26T09:36:40.551195",
+  "package_url": "https://pypi.org/project/TFNBS/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "moysklad-api",
-  "version": "0.1.6a1",
+  "version": "0.1.7a1",
   "summary": "Мой Склад API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "moysklad_api-0.1.6a1.tar.gz",
-  "download_time": "2025-11-26T07:40:08.151425",
+  "download_filename": "moysklad_api-0.1.7a1.tar.gz",
+  "download_time": "2025-11-26T09:35:57.727904",
   "package_url": "https://pypi.org/project/moysklad-api/"
 }

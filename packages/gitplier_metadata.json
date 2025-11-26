@@ -1,0 +1,11 @@
+{
+  "name": "gitplier",
+  "version": "1.2",
+  "summary": "A Python library for easy and performant querying and parsing of Git repositories.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gitplier-1.2.tar.gz",
+  "download_time": "2025-11-26T09:36:13.167021",
+  "package_url": "https://pypi.org/project/gitplier/"
+}

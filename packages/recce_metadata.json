@@ -1,0 +1,11 @@
+{
+  "name": "recce",
+  "version": "1.26.0",
+  "summary": "Environment diff tool for dbt",
+  "author": "InfuseAI Dev Team",
+  "license": null,
+  "home_page": "https://github.com/InfuseAI/recce",
+  "download_filename": "recce-1.26.0.tar.gz",
+  "download_time": "2025-11-26T09:35:54.048936",
+  "package_url": "https://pypi.org/project/recce/"
+}

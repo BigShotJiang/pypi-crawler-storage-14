@@ -1,11 +1,11 @@
 {
   "name": "traderkit",
-  "version": "2025.11.26.1",
+  "version": "2025.11.26.2",
   "summary": "A Python toolkit for advanced data processing and API interactions",
   "author": "DescartCan",
   "license": null,
   "home_page": null,
-  "download_filename": "traderkit-2025.11.26.1.tar.gz",
-  "download_time": "2025-11-26T08:42:53.859554",
+  "download_filename": "traderkit-2025.11.26.2.tar.gz",
+  "download_time": "2025-11-26T09:36:10.070191",
   "package_url": "https://pypi.org/project/traderkit/"
 }

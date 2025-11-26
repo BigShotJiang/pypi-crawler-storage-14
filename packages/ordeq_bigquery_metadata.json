@@ -1,0 +1,11 @@
+{
+  "name": "ordeq_bigquery",
+  "version": "0.1.1",
+  "summary": "Ordeq integration for Google BigQuery",
+  "author": "Niels Neerhoff, Simon Brugman, Nathan Bijleveld",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ordeq_bigquery-0.1.1.tar.gz",
+  "download_time": "2025-11-26T09:36:03.873985",
+  "package_url": "https://pypi.org/project/ordeq_bigquery/"
+}

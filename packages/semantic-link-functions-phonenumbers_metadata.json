@@ -1,0 +1,11 @@
+{
+  "name": "semantic-link-functions-phonenumbers",
+  "version": "0.12.3",
+  "summary": "Semantic link functions for phonenumbers package. Enables validation of phone numbers in FabricDataFrames.",
+  "author": "Microsoft",
+  "license": "MIT License",
+  "home_page": "https://github.com/microsoft/semantic-link-functions",
+  "download_filename": "semantic_link_functions_phonenumbers-0.12.3-py3-none-any.whl",
+  "download_time": "2025-11-26T09:36:22.474867",
+  "package_url": "https://pypi.org/project/semantic-link-functions-phonenumbers/"
+}
