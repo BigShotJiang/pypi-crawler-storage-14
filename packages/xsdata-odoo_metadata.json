@@ -1,0 +1,11 @@
+{
+  "name": "xsdata-odoo",
+  "version": "1.0.1",
+  "summary": "xsdata Odoo abstract model generator plugin",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xsdata_odoo-1.0.1.tar.gz",
+  "download_time": "2025-11-26T15:31:52.056894",
+  "package_url": "https://pypi.org/project/xsdata-odoo/"
+}

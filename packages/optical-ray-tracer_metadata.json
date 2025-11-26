@@ -1,0 +1,11 @@
+{
+  "name": "optical-ray-tracer",
+  "version": "1.4.2",
+  "summary": "Scientific package for optical ray tracing simulations.",
+  "author": "Dam-Bè L. DOUTI, Henoc N'GASAMA, Serge DZO",
+  "license": "GPLv3",
+  "home_page": "https://github.com/Damzo/optical_ray_collector",
+  "download_filename": "optical_ray_tracer-1.4.2.tar.gz",
+  "download_time": "2025-11-26T15:32:09.346494",
+  "package_url": "https://pypi.org/project/optical-ray-tracer/"
+}

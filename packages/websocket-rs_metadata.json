@@ -1,11 +1,11 @@
 {
   "name": "websocket-rs",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "High-performance WebSocket client library for Python using Rust",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/coseto6125/websocket-rs",
-  "download_filename": "websocket_rs-0.4.0.tar.gz",
-  "download_time": "2025-11-25T17:49:03.955653",
+  "download_filename": "websocket_rs-0.4.1.tar.gz",
+  "download_time": "2025-11-26T15:32:28.660659",
   "package_url": "https://pypi.org/project/websocket-rs/"
 }

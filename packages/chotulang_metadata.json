@@ -1,0 +1,11 @@
+{
+  "name": "chotulang",
+  "version": "0.0.4",
+  "summary": "A custom interpreter for the Chotulang language.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chotulang-0.0.4.tar.gz",
+  "download_time": "2025-11-26T15:32:15.140251",
+  "package_url": "https://pypi.org/project/chotulang/"
+}

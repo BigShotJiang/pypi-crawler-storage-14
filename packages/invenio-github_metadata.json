@@ -1,0 +1,11 @@
+{
+  "name": "invenio-github",
+  "version": "4.0.0",
+  "summary": "\"Invenio module that adds GitHub integration to the platform.\"",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-github",
+  "download_filename": "invenio_github-4.0.0.tar.gz",
+  "download_time": "2025-11-26T15:31:55.161127",
+  "package_url": "https://pypi.org/project/invenio-github/"
+}

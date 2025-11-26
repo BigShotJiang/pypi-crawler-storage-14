@@ -1,0 +1,11 @@
+{
+  "name": "tosa-converter-for-tflite",
+  "version": "2025.11.0",
+  "summary": "A tool to legalize TFLite FlatBuffer to TOSA MLIR.",
+  "author": "Arm Ltd.",
+  "license": "Apache-2.0",
+  "home_page": "https://gitlab.arm.com/tosa/tosa-converter-for-tflite",
+  "download_filename": "tosa_converter_for_tflite-2025.11.0-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-11-26T15:32:02.415553",
+  "package_url": "https://pypi.org/project/tosa-converter-for-tflite/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aiom3u8downloader",
+  "version": "1.2.1",
+  "summary": "Update package m3u8downloader to use aiohttp download m3u8 url",
+  "author": "cghn",
+  "license": "GPLv3",
+  "home_page": "https://github.com/kirikumo/aiom3u8downloader/",
+  "download_filename": "aiom3u8downloader-1.2.1.tar.gz",
+  "download_time": "2025-11-26T15:32:11.443775",
+  "package_url": "https://pypi.org/project/aiom3u8downloader/"
+}

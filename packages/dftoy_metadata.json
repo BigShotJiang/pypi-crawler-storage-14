@@ -1,0 +1,11 @@
+{
+  "name": "dftoy",
+  "version": "1.1.2",
+  "summary": "Simulación DFT 1D con GUI",
+  "author": "Julian Cogua, Juan Esteban Neira",
+  "license": null,
+  "home_page": "https://github.com/XxyamzxX/DFTOY",
+  "download_filename": "dftoy-1.1.2.tar.gz",
+  "download_time": "2025-11-26T15:31:58.231446",
+  "package_url": "https://pypi.org/project/dftoy/"
+}
