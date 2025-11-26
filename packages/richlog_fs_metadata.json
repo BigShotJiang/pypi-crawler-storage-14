@@ -1,0 +1,11 @@
+{
+  "name": "richlog_fs",
+  "version": "0.0.1",
+  "summary": "richlog for fs accessing.",
+  "author": "ChenyangGao",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenyangGao/python-modules/tree/main/richlog_fs",
+  "download_filename": "richlog_fs-0.0.1.tar.gz",
+  "download_time": "2025-11-26T13:08:52.657459",
+  "package_url": "https://pypi.org/project/richlog_fs/"
+}

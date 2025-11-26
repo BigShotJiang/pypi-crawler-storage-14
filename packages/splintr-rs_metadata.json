@@ -1,11 +1,11 @@
 {
   "name": "splintr-rs",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Fast Rust BPE tokenizer with Python bindings",
   "author": "Farhan",
   "license": "MIT",
   "home_page": "https://github.com/farhan/splintr",
-  "download_filename": "splintr_rs-0.3.0.tar.gz",
-  "download_time": "2025-11-26T07:40:28.714574",
+  "download_filename": "splintr_rs-0.4.0.tar.gz",
+  "download_time": "2025-11-26T13:08:41.055530",
   "package_url": "https://pypi.org/project/splintr-rs/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "django-npm-dev",
+  "version": "0.2.0",
+  "summary": "django management command to launch npm run dev and manage.py runserver in one shot",
+  "author": "Geoff Beier",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_npm_dev-0.2.0.tar.gz",
+  "download_time": "2025-11-26T13:09:18.590691",
+  "package_url": "https://pypi.org/project/django-npm-dev/"
+}

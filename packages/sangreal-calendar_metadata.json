@@ -1,11 +1,11 @@
 {
   "name": "sangreal-calendar",
-  "version": "0.0.44",
-  "summary": "trade_dt handle for A-share market",
+  "version": "0.1.2",
+  "summary": "Trade day handling utilities for A-share market",
   "author": "liubola",
-  "license": "GNU General Public License v3.0",
+  "license": "GPL-3.0-or-later",
   "home_page": "https://github.com/liubola/sangreal-calendar",
-  "download_filename": "sangreal_calendar-0.0.44.tar.gz",
-  "download_time": "2025-11-26T11:37:17.032977",
+  "download_filename": "sangreal_calendar-0.1.2.tar.gz",
+  "download_time": "2025-11-26T13:09:19.613711",
   "package_url": "https://pypi.org/project/sangreal-calendar/"
 }

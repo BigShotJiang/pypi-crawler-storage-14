@@ -1,11 +1,11 @@
 {
   "name": "kaf-s3-connector",
-  "version": "1.2.2",
+  "version": "1.2.5",
   "summary": "A Python library to handle large Kafka messages using S3.",
   "author": "2pk03",
-  "license": null,
-  "home_page": "https://github.com/2pk03/kaf-s3",
-  "download_filename": "kaf_s3_connector-1.2.2.tar.gz",
-  "download_time": "2025-11-26T12:19:10.568473",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kaf_s3_connector-1.2.5.tar.gz",
+  "download_time": "2025-11-26T13:09:10.322868",
   "package_url": "https://pypi.org/project/kaf-s3-connector/"
 }

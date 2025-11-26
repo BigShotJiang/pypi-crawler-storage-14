@@ -1,0 +1,11 @@
+{
+  "name": "batch-dev",
+  "version": "0.0.4",
+  "summary": "Generic python module for handling dictionary-based batch data",
+  "author": "Peter Kocsis",
+  "license": null,
+  "home_page": "https://github.com/Peter-Kocsis/batch",
+  "download_filename": "batch_dev-0.0.4.tar.gz",
+  "download_time": "2025-11-26T13:08:37.951042",
+  "package_url": "https://pypi.org/project/batch-dev/"
+}
