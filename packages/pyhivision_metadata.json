@@ -1,0 +1,11 @@
+{
+  "name": "pyhivision",
+  "version": "1.2.2",
+  "summary": "PyHiVision 证件照处理 SDK",
+  "author": "FastParse Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pyhivision-1.2.2.tar.gz",
+  "download_time": "2025-11-26T08:56:53.179617",
+  "package_url": "https://pypi.org/project/pyhivision/"
+}

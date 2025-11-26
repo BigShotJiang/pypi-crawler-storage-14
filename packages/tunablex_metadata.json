@@ -1,0 +1,11 @@
+{
+  "name": "tunablex",
+  "version": "0.1.6",
+  "summary": "Function-first tunables with auto JSON/YAML/TOML config & schema, per-executable composition (tags or trace), and runtime auto-injection.",
+  "author": "Jacques Papper",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tunablex-0.1.6.tar.gz",
+  "download_time": "2025-11-26T08:56:59.052157",
+  "package_url": "https://pypi.org/project/tunablex/"
+}

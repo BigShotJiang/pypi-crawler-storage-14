@@ -1,0 +1,11 @@
+{
+  "name": "seeme",
+  "version": "0.38.0",
+  "summary": "No-Code/Low Code AI Platform: Innovate. Integrate. Iterate.",
+  "author": "Jan Van de Poel",
+  "license": "Apache",
+  "home_page": "https://seeme.ai",
+  "download_filename": "seeme-0.38.0-py3-none-any.whl",
+  "download_time": "2025-11-26T08:56:40.008866",
+  "package_url": "https://pypi.org/project/seeme/"
+}

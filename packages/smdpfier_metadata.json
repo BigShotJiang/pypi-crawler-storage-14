@@ -1,0 +1,11 @@
+{
+  "name": "smdpfier",
+  "version": "0.1.0",
+  "summary": "SMDP-level behavior for Gymnasium environments with options and durations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "smdpfier-0.1.0.tar.gz",
+  "download_time": "2025-11-26T08:57:09.100624",
+  "package_url": "https://pypi.org/project/smdpfier/"
+}

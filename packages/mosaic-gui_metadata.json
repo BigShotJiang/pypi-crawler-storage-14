@@ -1,0 +1,11 @@
+{
+  "name": "mosaic-gui",
+  "version": "1.0.15",
+  "summary": "mosaic",
+  "author": "Valentin Maurer",
+  "license": "GPL-2.0-only",
+  "home_page": "https://github.com/KosinskiLab/mosaic",
+  "download_filename": "mosaic_gui-1.0.15.tar.gz",
+  "download_time": "2025-11-26T08:56:33.832094",
+  "package_url": "https://pypi.org/project/mosaic-gui/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pricelib",
+  "version": "1.3.0",
+  "summary": "pricelib is an open-source financial derivatives pricing library written in Python.",
+  "author": "上海凌瓴信息科技有限公司",
+  "license": null,
+  "home_page": "https://gitee.com/lltech/pricelib",
+  "download_filename": "pricelib-1.3.0.tar.gz",
+  "download_time": "2025-11-26T08:56:42.223095",
+  "package_url": "https://pypi.org/project/pricelib/"
+}

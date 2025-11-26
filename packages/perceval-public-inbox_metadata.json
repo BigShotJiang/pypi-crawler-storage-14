@@ -1,0 +1,11 @@
+{
+  "name": "perceval-public-inbox",
+  "version": "0.2.4",
+  "summary": "Perceval backend for public-inbox.",
+  "author": "GrimoireLab Developers",
+  "license": "GPL-3.0+",
+  "home_page": "https://chaoss.github.io/grimoirelab/",
+  "download_filename": "perceval_public_inbox-0.2.4.tar.gz",
+  "download_time": "2025-11-26T08:56:34.380060",
+  "package_url": "https://pypi.org/project/perceval-public-inbox/"
+}

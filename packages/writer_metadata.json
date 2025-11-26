@@ -1,11 +1,11 @@
 {
   "name": "writer",
-  "version": "1.21.0",
+  "version": "1.22.0",
   "summary": "An open-source, Python framework for building feature-rich apps that are fully integrated with the Writer platform.",
   "author": "Writer, Inc.",
   "license": null,
   "home_page": "https://www.writer.com",
-  "download_filename": "writer-1.21.0.tar.gz",
-  "download_time": "2025-11-25T10:39:52.626131",
+  "download_filename": "writer-1.22.0.tar.gz",
+  "download_time": "2025-11-26T08:56:37.326537",
   "package_url": "https://pypi.org/project/writer/"
 }

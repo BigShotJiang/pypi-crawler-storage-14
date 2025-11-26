@@ -1,0 +1,11 @@
+{
+  "name": "tvboptim",
+  "version": "0.2.2",
+  "summary": "Optimization tools for The Virtual Brain",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tvboptim-0.2.2.tar.gz",
+  "download_time": "2025-11-26T08:57:01.131944",
+  "package_url": "https://pypi.org/project/tvboptim/"
+}
