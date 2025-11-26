@@ -1,0 +1,11 @@
+{
+  "name": "pygremlinbox-wxwindows",
+  "version": "1.4.6",
+  "summary": "PyGremlinBox wxWindows - Supply chain security testing module with wxWindows licence",
+  "author": null,
+  "license": "wxWindows",
+  "home_page": null,
+  "download_filename": "pygremlinbox_wxwindows-1.4.6.tar.gz",
+  "download_time": "2025-11-26T07:47:12.701850",
+  "package_url": "https://pypi.org/project/pygremlinbox-wxwindows/"
+}

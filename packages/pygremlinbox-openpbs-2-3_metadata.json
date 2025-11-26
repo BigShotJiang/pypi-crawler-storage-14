@@ -1,0 +1,11 @@
+{
+  "name": "pygremlinbox-openpbs-2-3",
+  "version": "1.4.6",
+  "summary": "PyGremlinBox OpenPBS-2.3 - Supply chain security testing module with OpenPBS-2.3 licence",
+  "author": null,
+  "license": "OpenPBS-2.3",
+  "home_page": null,
+  "download_filename": "pygremlinbox_openpbs_2_3-1.4.6.tar.gz",
+  "download_time": "2025-11-26T07:47:20.553915",
+  "package_url": "https://pypi.org/project/pygremlinbox-openpbs-2-3/"
+}

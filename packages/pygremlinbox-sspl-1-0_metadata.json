@@ -1,0 +1,11 @@
+{
+  "name": "pygremlinbox-sspl-1-0",
+  "version": "1.4.6",
+  "summary": "PyGremlinBox SSPL-1.0 - Supply chain security testing module with SSPL-1.0 licence",
+  "author": null,
+  "license": "SSPL-1.0",
+  "home_page": null,
+  "download_filename": "pygremlinbox_sspl_1_0-1.4.6.tar.gz",
+  "download_time": "2025-11-26T07:47:18.509990",
+  "package_url": "https://pypi.org/project/pygremlinbox-sspl-1-0/"
+}

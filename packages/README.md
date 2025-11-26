@@ -1,11 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-26T07:40:55.134506
-- **Total Packages**: 95
-- **Total Size**: 12.41 MB
+- **Download Time**: 2025-11-26T07:47:59.208209
+- **Total Packages**: 98
+- **Total Size**: 7.41 MB
 
 ## Packages List
+- ingestr
+- glassflow
+- altertable-flightsql
+- cribl-control-plane
+- playwright-stealth-plugin
+- agilix-api-fr8train
+- bsubio
+- PyNinja
+- chromatrace
+- pygremlinbox-wxwindows
+- pygremlinbox-ecos-2-0
+- pygremlinbox-copyleft-next-0-3-1
+- pygremlinbox-copyleft-next-0-3-0
+- pygremlinbox-unlicense
+- pentesttools
+- pygremlinbox-ucl-1-0
+- pygremlinbox-tpl-1-0
+- pygremlinbox-tapr-ohl-1-0
+- pygremlinbox-simpl-2-0
+- pygremlinbox-sendmail-8-23
+- pygremlinbox-sspl-1-0
+- pygremlinbox-qpl-1-0-inria-2004
+- pygremlinbox-polyform-small-business-1-0-0
+- pygremlinbox-polyform-noncommercial-1-0-0
+- pygremlinbox-openpbs-2-3
 - pygremlinbox-osl-3-0
 - pygremlinbox-ncgl-uk-2-0
 - pygremlinbox-malware-network-indicators
@@ -79,25 +104,3 @@
 - apyds
 - blank-portfolio
 - openmetadata-managed-apis
-- cache_house
-- ai-edge-litert-sdk-mediatek-nightly
-- ai-edge-litert-sdk-qualcomm-nightly
-- dcmtags-lyx
-- pygremlinbox-malware-c2-beacon
-- rohkun
-- pytest-api-framework-alpha
-- AirDragon
-- map-viewer
-- chromatrace
-- tina4-python
-- nonencm
-- aiohttp-msal
-- cerebrium
-- factpulse
-- nonebot-plugin-templates-draw
-- spellcure
-- windborne
-- tencent-wedata-auto-ml
-- PyNinja
-- ezKit
-- chutils
