@@ -1,11 +1,11 @@
 {
   "name": "drf-orderwcast",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A Django REST Framework OrderingFilter like class that handles sort with casting",
   "author": "João Manica",
   "license": "MIT",
   "home_page": "https://github.com/keter2002/drf-orderwcast",
-  "download_filename": "drf_orderwcast-1.0.3.tar.gz",
-  "download_time": "2025-11-26T05:10:34.140178",
+  "download_filename": "drf_orderwcast-1.0.4.tar.gz",
+  "download_time": "2025-11-26T05:33:06.118466",
   "package_url": "https://pypi.org/project/drf-orderwcast/"
 }
