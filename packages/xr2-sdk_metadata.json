@@ -1,0 +1,11 @@
+{
+  "name": "xr2-sdk",
+  "version": "0.1.0",
+  "summary": "Official Python SDK for xR2 product API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xr2_sdk-0.1.0.tar.gz",
+  "download_time": "2025-11-26T18:40:14.815047",
+  "package_url": "https://pypi.org/project/xr2-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wekapyutils",
+  "version": "1.0.20",
+  "summary": "Python utility library",
+  "author": "Vince Fleming",
+  "license": "LGPLv2.1",
+  "home_page": "https://github.com/weka/pyutils",
+  "download_filename": "wekapyutils-1.0.20-py3-none-any.whl",
+  "download_time": "2025-11-26T18:40:14.304025",
+  "package_url": "https://pypi.org/project/wekapyutils/"
+}

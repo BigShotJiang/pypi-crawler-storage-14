@@ -1,0 +1,11 @@
+{
+  "name": "dominodatalab",
+  "version": "2.0.0",
+  "summary": "Python bindings for the Domino API",
+  "author": "Domino Data Lab",
+  "license": "Apache Software License (Apache 2.0)",
+  "home_page": "https://github.com/dominodatalab/python-domino",
+  "download_filename": "dominodatalab-2.0.0.tar.gz",
+  "download_time": "2025-11-26T18:40:12.254553",
+  "package_url": "https://pypi.org/project/dominodatalab/"
+}

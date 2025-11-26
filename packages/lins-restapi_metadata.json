@@ -1,0 +1,11 @@
+{
+  "name": "lins-restapi",
+  "version": "2.1.0.42",
+  "summary": "Classes e utilitarios para uso em apis rest com django.",
+  "author": "TI Sistemas",
+  "license": "MIT",
+  "home_page": "https://bitbucket.org/grupolinsferrao/pypck-lins-restapi/",
+  "download_filename": "lins_restapi-2.1.0.42.tar.gz",
+  "download_time": "2025-11-26T18:40:30.130051",
+  "package_url": "https://pypi.org/project/lins-restapi/"
+}

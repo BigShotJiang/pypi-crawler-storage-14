@@ -1,11 +1,11 @@
 {
   "name": "rowdybottypiper",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "summary": "A bot framework",
   "author": "cccarter",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rowdybottypiper-1.0.6.tar.gz",
-  "download_time": "2025-11-25T22:48:33.357543",
+  "download_filename": "rowdybottypiper-1.0.8.tar.gz",
+  "download_time": "2025-11-26T18:40:27.320805",
   "package_url": "https://pypi.org/project/rowdybottypiper/"
 }

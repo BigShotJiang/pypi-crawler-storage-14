@@ -1,0 +1,11 @@
+{
+  "name": "perceptra-seg",
+  "version": "0.2.1",
+  "summary": "Production-grade segmentation tool with SAM v1/v2 support",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "perceptra_seg-0.2.1.tar.gz",
+  "download_time": "2025-11-26T18:40:10.686776",
+  "package_url": "https://pypi.org/project/perceptra-seg/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fabric-demos",
+  "version": "0.0.1",
+  "summary": "A library to install Microsoft Fabric demos with one line.",
+  "author": "Mure Data",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fabric_demos-0.0.1.tar.gz",
+  "download_time": "2025-11-26T18:40:16.862735",
+  "package_url": "https://pypi.org/project/fabric-demos/"
+}

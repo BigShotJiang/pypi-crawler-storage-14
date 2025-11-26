@@ -1,11 +1,11 @@
 {
   "name": "pysodafair",
-  "version": "0.1.65",
+  "version": "0.1.66",
   "summary": "Pysoda package for Fairdataihub tools",
   "author": "Christopher Marroquin",
   "license": "MIT",
   "home_page": "https://github.com/fairdataihub/pysodafair",
-  "download_filename": "pysodafair-0.1.65.tar.gz",
-  "download_time": "2025-11-25T20:10:43.127114",
+  "download_filename": "pysodafair-0.1.66.tar.gz",
+  "download_time": "2025-11-26T18:40:26.748275",
   "package_url": "https://pypi.org/project/pysodafair/"
 }

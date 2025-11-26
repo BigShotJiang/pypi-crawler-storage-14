@@ -1,11 +1,11 @@
 {
   "name": "fasapi-auth-toolkit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fasapi_auth_toolkit-1.0.0-py3-none-any.whl",
-  "download_time": "2025-11-26T18:13:17.500525",
+  "download_filename": "fasapi_auth_toolkit-1.0.1.tar.gz",
+  "download_time": "2025-11-26T18:39:59.175443",
   "package_url": "https://pypi.org/project/fasapi-auth-toolkit/"
 }

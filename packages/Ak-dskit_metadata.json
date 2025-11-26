@@ -1,11 +1,11 @@
 {
   "name": "Ak-dskit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "A comprehensive data science toolkit with 221+ functions for ML workflows",
   "author": "Programmers' Paradise",
   "license": null,
   "home_page": "https://github.com/Programmers-Paradise/imputeKit",
-  "download_filename": "ak_dskit-1.0.2.tar.gz",
-  "download_time": "2025-11-26T09:35:57.214543",
+  "download_filename": "ak_dskit-1.0.3.tar.gz",
+  "download_time": "2025-11-26T18:39:51.471440",
   "package_url": "https://pypi.org/project/Ak-dskit/"
 }
