@@ -1,0 +1,11 @@
+{
+  "name": "metacall",
+  "version": "0.5.4",
+  "summary": "A library for providing inter-language foreign function interface calls",
+  "author": "Vicente Eduardo Ferrer Garcia",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/metacall/core",
+  "download_filename": "metacall-0.5.4.tar.gz",
+  "download_time": "2025-11-26T23:37:31.515429",
+  "package_url": "https://pypi.org/project/metacall/"
+}

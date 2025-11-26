@@ -1,0 +1,11 @@
+{
+  "name": "agent-dna",
+  "version": "0.2.0",
+  "summary": "AgentDNA: Verifiable and Auditable AI Agents",
+  "author": "Aparna Ullas",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_dna-0.2.0.tar.gz",
+  "download_time": "2025-11-26T23:37:27.189405",
+  "package_url": "https://pypi.org/project/agent-dna/"
+}
