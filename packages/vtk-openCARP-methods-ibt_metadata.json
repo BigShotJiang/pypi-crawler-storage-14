@@ -1,0 +1,11 @@
+{
+  "name": "vtk-openCARP-methods-ibt",
+  "version": "1.0.5",
+  "summary": "This project builds a collection of often used methods for VTK and openCARP applications and was developed for the AugmentA project.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vtk_opencarp_methods_ibt-1.0.5.tar.gz",
+  "download_time": "2025-11-26T16:11:56.380189",
+  "package_url": "https://pypi.org/project/vtk-openCARP-methods-ibt/"
+}

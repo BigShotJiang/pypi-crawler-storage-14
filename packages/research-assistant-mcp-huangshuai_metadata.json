@@ -1,0 +1,11 @@
+{
+  "name": "research-assistant-mcp-huangshuai",
+  "version": "0.1.1",
+  "summary": "科研资料云端整理助手（基于 MCP Server 与 DeepSeek 模型）",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "research_assistant_mcp_huangshuai-0.1.1.tar.gz",
+  "download_time": "2025-11-26T16:12:10.973210",
+  "package_url": "https://pypi.org/project/research-assistant-mcp-huangshuai/"
+}

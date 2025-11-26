@@ -1,11 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-26T15:49:49.009940
-- **Total Packages**: 86
-- **Total Size**: 37.47 MB
+- **Download Time**: 2025-11-26T16:12:47.157105
+- **Total Packages**: 89
+- **Total Size**: 12.96 MB
 
 ## Packages List
+- ocap
+- ggscout
+- pyattackforge
+- vtk-openCARP-methods-ibt
+- optipfair
+- video-lectures-to-searchable-pdf
+- redis-mcp-server
+- rgd
+- calphy
+- coingecko-sdk
+- dbt-dry-run
+- SleePyPhases
+- rtfact
+- nrfcredstore
+- logvault
+- deepbase
+- pylxpweb
+- catrxneng
+- srx-lib-azure
+- siberia
+- pygitzen
+- trellis-cms
+- prisma-web3-py
+- starlake-airflow
+- deebot-client
+- ai4ce-helpers
+- research-assistant-mcp-huangshuai
 - db-model-generator
 - nextrec
 - omero2pandas
@@ -27,7 +54,6 @@
 - DepthTensor
 - odoo-somconnexio-python-client
 - hostphot
-- catrxneng
 - fastloop
 - setbit
 - pymdown-extensions
@@ -35,7 +61,6 @@
 - legit-api-client
 - llm-expect
 - odoo-addon-hr-employee-second-lastname
-- rtfactcheck
 - de-console-client
 - soccernetpro
 - specklia
@@ -69,26 +94,4 @@
 - futureexpert
 - medusa-security
 - cf-basic-signal
-- srx-lib-azure
 - mv-oci-sdk
-- poweretl-utils
-- logvault
-- pyhaveibeenpwned
-- csu
-- python-decotools
-- pytket-quantinuum
-- PyDAXLexer
-- megatron-core
-- megatron-fsdp
-- all-math-package
-- SHICTHRSBrowserReader
-- olot
-- fbnconfig
-- pydantic-autocli
-- directory-control
-- ucapi-framework
-- wtfdid
-- nexaclient
-- xsdata-odoo
-- python3-cyberfusion-borg-support
-- s2v-client

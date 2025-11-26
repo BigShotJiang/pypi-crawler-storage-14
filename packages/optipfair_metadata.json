@@ -1,0 +1,11 @@
+{
+  "name": "optipfair",
+  "version": "0.2.2",
+  "summary": "A library for structured pruning & Bias visualization of large language models",
+  "author": "Pere Martra",
+  "license": null,
+  "home_page": "https://github.com/peremartra/optipfair",
+  "download_filename": "optipfair-0.2.2.tar.gz",
+  "download_time": "2025-11-26T16:11:56.983015",
+  "package_url": "https://pypi.org/project/optipfair/"
+}

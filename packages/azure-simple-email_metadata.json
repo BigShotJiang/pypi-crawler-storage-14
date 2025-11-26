@@ -1,11 +1,11 @@
 {
   "name": "azure-simple-email",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "This is an experimental library to send email using Microsoft Graph API",
   "author": "Marco Pavanelli",
   "license": null,
   "home_page": "https://github.com/marcotn/azure_simple_email",
-  "download_filename": "azure_simple_email-0.2.0.tar.gz",
-  "download_time": "2025-11-26T15:49:03.320668",
+  "download_filename": "azure_simple_email-0.2.1.tar.gz",
+  "download_time": "2025-11-26T16:12:13.803862",
   "package_url": "https://pypi.org/project/azure-simple-email/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "video-lectures-to-searchable-pdf",
+  "version": "0.1.0",
+  "summary": "Pipeline to transform webinar videos into searchable slide and transcript PDFs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "video_lectures_to_searchable_pdf-0.1.0.tar.gz",
+  "download_time": "2025-11-26T16:11:58.163643",
+  "package_url": "https://pypi.org/project/video-lectures-to-searchable-pdf/"
+}

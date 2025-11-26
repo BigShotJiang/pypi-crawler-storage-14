@@ -1,0 +1,11 @@
+{
+  "name": "siberia",
+  "version": "0.1.0",
+  "summary": "SIBERIA (SIgned BEnchmarks foR tIme series Analysis) provides maximum-entropy null models and validation methods for signed networks derived from time series.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "siberia-0.1.0.tar.gz",
+  "download_time": "2025-11-26T16:12:06.860046",
+  "package_url": "https://pypi.org/project/siberia/"
+}
