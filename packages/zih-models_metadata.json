@@ -1,11 +1,11 @@
 {
   "name": "zih-models",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "Pydantic models for ZIH services",
   "author": "Ansgar Burchardt",
   "license": "MIT",
   "home_page": "https://gitlab.hrz.tu-chemnitz.de/zih/sde/zih-models",
-  "download_filename": "zih_models-0.5.0.tar.gz",
-  "download_time": "2025-11-25T09:35:33.725749",
+  "download_filename": "zih_models-0.6.0.tar.gz",
+  "download_time": "2025-11-26T15:09:38.597110",
   "package_url": "https://pypi.org/project/zih-models/"
 }

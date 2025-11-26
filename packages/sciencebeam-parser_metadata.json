@@ -1,0 +1,11 @@
+{
+  "name": "sciencebeam-parser",
+  "version": "0.1.10",
+  "summary": "ScienceBeam Parser, parse scientific documents.",
+  "author": "Daniel Ecer",
+  "license": null,
+  "home_page": "https://github.com/elifesciences/sciencebeam-parser",
+  "download_filename": "sciencebeam_parser-0.1.10.tar.gz",
+  "download_time": "2025-11-26T15:09:18.367961",
+  "package_url": "https://pypi.org/project/sciencebeam-parser/"
+}

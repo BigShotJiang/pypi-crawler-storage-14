@@ -1,0 +1,11 @@
+{
+  "name": "egrobots-sa-client",
+  "version": "1.0.0",
+  "summary": "Python client for Egrobots Arabic Speech Sentiment Analysis service",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "egrobots_sa_client-1.0.0.tar.gz",
+  "download_time": "2025-11-26T15:09:33.245417",
+  "package_url": "https://pypi.org/project/egrobots-sa-client/"
+}

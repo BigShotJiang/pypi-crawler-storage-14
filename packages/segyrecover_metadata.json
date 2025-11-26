@@ -1,0 +1,11 @@
+{
+  "name": "segyrecover",
+  "version": "1.2.2",
+  "summary": "A Python tool for digitizing scanned seismic reflection sections and converting them to standard SEGY format.",
+  "author": null,
+  "license": "GNU GPL-3.0",
+  "home_page": null,
+  "download_filename": "segyrecover-1.2.2.tar.gz",
+  "download_time": "2025-11-26T15:09:49.709709",
+  "package_url": "https://pypi.org/project/segyrecover/"
+}

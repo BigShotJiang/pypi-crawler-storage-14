@@ -1,0 +1,11 @@
+{
+  "name": "impact-synth-konfai",
+  "version": "1.0.2",
+  "summary": "Fast and lightweight CLI for synthetic CT generation using IMPACT-Synth models within the KonfAI framework.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "impact_synth_konfai-1.0.2.tar.gz",
+  "download_time": "2025-11-26T15:09:21.560440",
+  "package_url": "https://pypi.org/project/impact-synth-konfai/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "chotueng",
-  "version": "2.0.5",
+  "version": "2.5.3",
   "summary": "A custom interpreter for the Chotulang language.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chotueng-2.0.5.tar.gz",
-  "download_time": "2025-11-25T14:10:29.958383",
+  "download_filename": "chotueng-2.5.3.tar.gz",
+  "download_time": "2025-11-26T15:09:35.369032",
   "package_url": "https://pypi.org/project/chotueng/"
 }

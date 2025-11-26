@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-edi-endpoint-oca",
+  "version": "18.0.1.0.3",
+  "summary": "Base module allowing configuration of custom endpoints for EDI framework.",
+  "author": "Camptocamp,Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/edi-framework",
+  "download_filename": "odoo_addon_edi_endpoint_oca-18.0.1.0.3-py3-none-any.whl",
+  "download_time": "2025-11-26T15:09:23.147231",
+  "package_url": "https://pypi.org/project/odoo-addon-edi-endpoint-oca/"
+}
