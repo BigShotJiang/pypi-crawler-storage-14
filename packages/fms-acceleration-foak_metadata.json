@@ -1,0 +1,11 @@
+{
+  "name": "fms-acceleration-foak",
+  "version": "0.7.3",
+  "summary": "FMS Acceleration using Fused Operations and Kernels",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fms_acceleration_foak-0.7.3-py3-none-any.whl",
+  "download_time": "2025-11-26T07:11:32.651628",
+  "package_url": "https://pypi.org/project/fms-acceleration-foak/"
+}

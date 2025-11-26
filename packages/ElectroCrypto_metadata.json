@@ -1,0 +1,11 @@
+{
+  "name": "ElectroCrypto",
+  "version": "2.0.2",
+  "summary": "Fast and Portable Cryptography Extension Library for Electrogram",
+  "author": null,
+  "license": "LGPLv3+",
+  "home_page": null,
+  "download_filename": "electrocrypto-2.0.2.tar.gz",
+  "download_time": "2025-11-26T07:11:40.355494",
+  "package_url": "https://pypi.org/project/ElectroCrypto/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "auto-round",
+  "version": "0.9.1",
+  "summary": "Repository of AutoRound: Advanced Weight-Only Quantization Algorithm for LLMs",
+  "author": "Intel AIPT Team",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/intel/auto-round",
+  "download_filename": "auto_round-0.9.1.tar.gz",
+  "download_time": "2025-11-26T07:11:41.888184",
+  "package_url": "https://pypi.org/project/auto-round/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "scene-otsu",
-  "version": "0.1.2",
-  "summary": "Scene splitter for SRT subtitles using Otsu method with OpenAI embeddings",
+  "version": "0.1.5",
+  "summary": "SRT subtitle scene splitter using Otsu method with OpenAI embeddings",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "scene_otsu-0.1.2.tar.gz",
-  "download_time": "2025-11-25T23:46:36.360962",
+  "download_filename": "scene_otsu-0.1.5.tar.gz",
+  "download_time": "2025-11-26T07:11:03.914548",
   "package_url": "https://pypi.org/project/scene-otsu/"
 }

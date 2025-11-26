@@ -1,0 +1,11 @@
+{
+  "name": "tessbind",
+  "version": "0.14.0",
+  "summary": "Tesseract pybind11 bindings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tessbind-0.14.0.tar.gz",
+  "download_time": "2025-11-26T07:11:29.047820",
+  "package_url": "https://pypi.org/project/tessbind/"
+}

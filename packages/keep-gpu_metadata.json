@@ -1,11 +1,11 @@
 {
   "name": "keep-gpu",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Keep GPU is a simple CLI app that keeps your GPUs running",
   "author": null,
   "license": "MIT license",
   "home_page": null,
-  "download_filename": "keep_gpu-0.4.0.tar.gz",
-  "download_time": "2025-11-26T04:51:39.720803",
+  "download_filename": "keep_gpu-0.4.1.tar.gz",
+  "download_time": "2025-11-26T07:11:29.560337",
   "package_url": "https://pypi.org/project/keep-gpu/"
 }

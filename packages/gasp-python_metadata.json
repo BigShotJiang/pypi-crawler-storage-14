@@ -1,0 +1,11 @@
+{
+  "name": "gasp-python",
+  "version": "0.0.6",
+  "summary": "High-performance proportional sampling from point cloud clusters with geometric size measures and sampling measures.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gasp_python-0.0.6-cp39-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-26T07:11:08.020111",
+  "package_url": "https://pypi.org/project/gasp-python/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "codefusion",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "summary": "A powerful, interactive CLI tool to compile source code into a single document for AI analysis, featuring a rich interactive TUI, clipboard integration, and token estimation.",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "codefusion-1.0.9.tar.gz",
-  "download_time": "2025-11-26T06:48:05.611769",
+  "download_filename": "codefusion-1.0.10.tar.gz",
+  "download_time": "2025-11-26T07:11:14.750595",
   "package_url": "https://pypi.org/project/codefusion/"
 }

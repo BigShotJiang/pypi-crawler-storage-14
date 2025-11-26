@@ -1,0 +1,11 @@
+{
+  "name": "python-code-builder",
+  "version": "0.0.1a2",
+  "summary": "A library for dynamically constructing Python code with strong, explicit scoping and symbol tracking.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_code_builder-0.0.1a2.tar.gz",
+  "download_time": "2025-11-26T07:11:14.240842",
+  "package_url": "https://pypi.org/project/python-code-builder/"
+}

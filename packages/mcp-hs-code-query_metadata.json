@@ -1,0 +1,11 @@
+{
+  "name": "mcp-hs-code-query",
+  "version": "1.1.0",
+  "summary": "MCP server for intelligent HS code queries with dual data sources - 智能海关HS编码查询服务(双数据源主备模式)",
+  "author": "HS Code Query Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_hs_code_query-1.1.0.tar.gz",
+  "download_time": "2025-11-26T07:11:38.824156",
+  "package_url": "https://pypi.org/project/mcp-hs-code-query/"
+}
