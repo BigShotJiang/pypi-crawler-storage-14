@@ -1,0 +1,11 @@
+{
+  "name": "fastlucide",
+  "version": "0.0.5",
+  "summary": "Lucide icons for FastHTML",
+  "author": "Jeremy Howard",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/AnswerDotAI/fastlucide",
+  "download_filename": "fastlucide-0.0.5.tar.gz",
+  "download_time": "2025-11-26T04:02:21.063639",
+  "package_url": "https://pypi.org/project/fastlucide/"
+}

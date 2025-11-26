@@ -1,0 +1,11 @@
+{
+  "name": "vnpy-xtdata",
+  "version": "1.0.11",
+  "summary": "Xtquant datafeed/pub interface.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vnpy_xtdata-1.0.11.tar.gz",
+  "download_time": "2025-11-26T04:02:01.584357",
+  "package_url": "https://pypi.org/project/vnpy-xtdata/"
+}

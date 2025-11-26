@@ -1,0 +1,11 @@
+{
+  "name": "arbiter-ai",
+  "version": "0.1.1",
+  "summary": "Native PydanticAI evaluation with automatic cost tracking",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arbiter_ai-0.1.1.tar.gz",
+  "download_time": "2025-11-26T04:01:59.395999",
+  "package_url": "https://pypi.org/project/arbiter-ai/"
+}

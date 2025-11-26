@@ -1,0 +1,11 @@
+{
+  "name": "scopeserve",
+  "version": "0.0.5",
+  "summary": "Face to serving framework",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "scopeserve-0.0.5-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-11-26T04:02:21.605362",
+  "package_url": "https://pypi.org/project/scopeserve/"
+}

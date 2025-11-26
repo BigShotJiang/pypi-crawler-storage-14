@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-hr-maintenance-security",
+  "version": "18.0.1.0.0.3",
+  "summary": "HR Maintenance Security",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/maintenance",
+  "download_filename": "odoo_addon_hr_maintenance_security-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-11-26T04:02:01.012815",
+  "package_url": "https://pypi.org/project/odoo-addon-hr-maintenance-security/"
+}

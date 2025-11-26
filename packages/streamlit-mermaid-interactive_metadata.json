@@ -1,11 +1,11 @@
 {
   "name": "streamlit-mermaid-interactive",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "Add your description here",
   "author": "Zachary Blackwood",
   "license": null,
   "home_page": null,
-  "download_filename": "streamlit_mermaid_interactive-0.1.5.tar.gz",
-  "download_time": "2025-11-25T22:33:06.627969",
+  "download_filename": "streamlit_mermaid_interactive-0.1.7.tar.gz",
+  "download_time": "2025-11-26T04:02:04.377146",
   "package_url": "https://pypi.org/project/streamlit-mermaid-interactive/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "HexBug-data",
+  "version": "2.6.0",
+  "summary": "Standalone registry code and parsers for HexBug.",
+  "author": "object-Object",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hexbug_data-2.6.0-py3-none-any.whl",
+  "download_time": "2025-11-26T04:02:29.377627",
+  "package_url": "https://pypi.org/project/HexBug-data/"
+}

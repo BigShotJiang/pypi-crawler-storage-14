@@ -1,0 +1,11 @@
+{
+  "name": "dash-tailwindcss-plugin",
+  "version": "0.1.6",
+  "summary": "A Dash plugin for integrating TailwindCSS using Dash 3.x hooks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dash_tailwindcss_plugin-0.1.6.tar.gz",
+  "download_time": "2025-11-26T04:02:30.577283",
+  "package_url": "https://pypi.org/project/dash-tailwindcss-plugin/"
+}

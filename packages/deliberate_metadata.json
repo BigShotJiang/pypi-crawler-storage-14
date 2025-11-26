@@ -1,0 +1,11 @@
+{
+  "name": "deliberate",
+  "version": "0.1.0",
+  "summary": "Multi-LLM ensemble orchestrator for code generation and review",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "deliberate-0.1.0.tar.gz",
+  "download_time": "2025-11-26T04:02:07.667136",
+  "package_url": "https://pypi.org/project/deliberate/"
+}

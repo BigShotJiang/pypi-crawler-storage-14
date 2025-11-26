@@ -1,0 +1,11 @@
+{
+  "name": "deploy-remote",
+  "version": "0.0.8",
+  "summary": "Deploy local poject to remote with docker.",
+  "author": "Holbos Deng",
+  "license": "MIT",
+  "home_page": "https://github.com/holbos-deng/deploy-remote",
+  "download_filename": "deploy_remote-0.0.8.tar.gz",
+  "download_time": "2025-11-26T04:02:03.837198",
+  "package_url": "https://pypi.org/project/deploy-remote/"
+}
