@@ -1,0 +1,11 @@
+{
+  "name": "aicard-eval",
+  "version": "0.1.1",
+  "summary": "Evaluation module for aicard.",
+  "author": "CERTH",
+  "license": null,
+  "home_page": "https://github.com/mever-team/aicard-eval",
+  "download_filename": "aicard_eval-0.1.1.tar.gz",
+  "download_time": "2025-11-26T13:56:18.051967",
+  "package_url": "https://pypi.org/project/aicard-eval/"
+}

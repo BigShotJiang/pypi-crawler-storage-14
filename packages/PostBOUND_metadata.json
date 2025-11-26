@@ -1,11 +1,11 @@
 {
   "name": "PostBOUND",
-  "version": "0.19.0",
+  "version": "0.19.1",
   "summary": "PostBOUND is a research framework to prototype and benchmark database query optimizers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "postbound-0.19.0.tar.gz",
-  "download_time": "2025-11-26T13:09:10.835415",
+  "download_filename": "postbound-0.19.1.tar.gz",
+  "download_time": "2025-11-26T13:56:29.334875",
   "package_url": "https://pypi.org/project/PostBOUND/"
 }

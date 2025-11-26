@@ -1,15 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-26T13:46:25.483373
-- **Total Packages**: 86
-- **Total Size**: 47.79 MB
+- **Download Time**: 2025-11-26T13:57:03.985939
+- **Total Packages**: 89
+- **Total Size**: 27.15 MB
 
 ## Packages List
+- dsv2pulseq
+- rayel-rpa-executor
+- alita-sdk
+- aicard-eval
+- sangreal-bt
+- service_packages
+- odoo-addon-account-invoice-report-salesperson
+- v2xflexstack
+- aimodelshare
+- revng
+- Nuitka
+- fn-dbscan
+- netflux
+- vnag
+- eu-cbm-hat
+- kubiya-control-plane-api
+- oagi
+- oagi-core
+- spectralio
+- ibis-gizmosql
+- mlcflow
+- lightly-train
+- jupyterlite-xeus
+- python-yandex-cloud-monitoring
+- PostBOUND
+- ansys-pyensight-core
+- pqn
+- apyds
+- ledgerwallet
+- swannotificationsservice
+- OkCat
+- GuardianUnivalle-Benito-Yucra
+- cribl-control-plane
+- odoo-addon-contract-update-last-date-invoiced
+- jfjoch-client
+- pixell-sdk
+- jentic-openapi-validator-spectral
+- jentic-openapi-validator-redocly
+- jentic-openapi-validator
+- jentic-openapi-traverse
+- jentic-openapi-transformer-redocly
+- jentic-openapi-transformer
+- jentic-openapi-tools
+- jentic-openapi-parser
+- jentic-openapi-datamodels
+- jentic-openapi-common
+- validatejsonschema
+- bluechi
+- toonverter
 - odoo-addon-sale-report-delivered-attribute-values
 - kernel-abi-check
 - pulumiverse-cpln
-- fn-dbscan
 - groundx
 - cutekit
 - spakky-rabbitmq
@@ -27,7 +75,6 @@
 - firecrawl
 - udata
 - firecrawl-py
-- ansys-pyensight-core
 - pyemoji2
 - pyasic-umhost
 - watsonx-haystack
@@ -48,47 +95,3 @@
 - swanspawner
 - opsgeniecli
 - passworder
-- finml-utils
-- flutter-widget-mcp-server
-- locust-cloud
-- pybopt
-- swanculler
-- dda
-- omnigenome
-- omnigenbench
-- dask-ms
-- topgrade
-- xpander-sdk
-- lnmarkets-sdk
-- splintr-rs
-- akademy-party
-- remote-debug
-- typst_marimo
-- kubiya-control-plane-api
-- nextfempy
-- cf-basic-signal
-- ft-package-jamrabhi
-- baloot
-- mbu-solteqtand-shared-components
-- cliself-telegram
-- rainbowdqn
-- nextrec
-- keycloakauthenticator
-- torchrtm
-- pyironflow
-- eegdash
-- diaplot
-- nasdaqapi
-- dinja
-- swanhub
-- service_packages
-- AOT-biomaps
-- st-oxview
-- logfire-mcp
-- validatejsonschema
-- tol-sdk
-- projen
-- strato-dns-api
-- sqlalchemy-gizmosql-adbc-dialect
-- tree-sitter-gram
-- pyconverters-mistralocr

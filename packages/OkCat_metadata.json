@@ -1,0 +1,11 @@
+{
+  "name": "OkCat",
+  "version": "1.5.1",
+  "summary": "An powerful log processor",
+  "author": "Jacksgong",
+  "license": "Apache2",
+  "home_page": "https://github.com/Jacksgong/okcat",
+  "download_filename": "okcat-1.5.1.tar.gz",
+  "download_time": "2025-11-26T13:56:32.909488",
+  "package_url": "https://pypi.org/project/OkCat/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bluechi",
+  "version": "1.2.1",
+  "summary": "Python bindings for BlueChi's D-Bus API",
+  "author": "BlueChi developers",
+  "license": null,
+  "home_page": "https://github.com/eclipse-bluechi/bluechi/",
+  "download_filename": "bluechi-1.2.1-py3-none-any.whl",
+  "download_time": "2025-11-26T13:56:42.182840",
+  "package_url": "https://pypi.org/project/bluechi/"
+}

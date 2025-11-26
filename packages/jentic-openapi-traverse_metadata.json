@@ -1,11 +1,11 @@
 {
   "name": "jentic-openapi-traverse",
-  "version": "1.0.0a25",
+  "version": "1.0.0a27",
   "summary": "Jentic OpenAPI Traversal Utilities",
   "author": "Jentic",
   "license": null,
   "home_page": null,
-  "download_filename": "jentic_openapi_traverse-1.0.0a25.tar.gz",
-  "download_time": "2025-11-25T17:16:38.368813",
+  "download_filename": "jentic_openapi_traverse-1.0.0a27.tar.gz",
+  "download_time": "2025-11-26T13:56:37.522329",
   "package_url": "https://pypi.org/project/jentic-openapi-traverse/"
 }
