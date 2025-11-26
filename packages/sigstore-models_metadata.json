@@ -1,0 +1,11 @@
+{
+  "name": "sigstore-models",
+  "version": "0.0.6",
+  "summary": "Pydantic based models for Sigstore's protobuf specifications",
+  "author": "William Woodruff",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sigstore_models-0.0.6.tar.gz",
+  "download_time": "2025-11-26T19:23:48.444938",
+  "package_url": "https://pypi.org/project/sigstore-models/"
+}

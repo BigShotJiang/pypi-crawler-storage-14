@@ -1,0 +1,11 @@
+{
+  "name": "genesis-devtools",
+  "version": "0.7.1",
+  "summary": "Tools to manager life cycle of Genesis projects.",
+  "author": "Genesis Corporation",
+  "license": null,
+  "home_page": "https://github.com/infraguys/genesis_devtools",
+  "download_filename": "genesis_devtools-0.7.1.tar.gz",
+  "download_time": "2025-11-26T19:23:43.176357",
+  "package_url": "https://pypi.org/project/genesis-devtools/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rfx-ml",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "High-Performance Random Forests with GPU Acceleration and QLORA Compression",
   "author": "Chris Kuchar",
   "license": null,
   "home_page": "https://github.com/chriskuchar/RFX",
-  "download_filename": "rfx_ml-1.0.1.tar.gz",
-  "download_time": "2025-11-25T23:46:47.887335",
+  "download_filename": "rfx_ml-1.0.2.tar.gz",
+  "download_time": "2025-11-26T19:23:47.397874",
   "package_url": "https://pypi.org/project/rfx-ml/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "abcvoting",
+  "version": "2.16.0",
+  "summary": "A Python library of approval-based committee (ABC) rules",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "abcvoting-2.16.0.tar.gz",
+  "download_time": "2025-11-26T19:24:04.874129",
+  "package_url": "https://pypi.org/project/abcvoting/"
+}

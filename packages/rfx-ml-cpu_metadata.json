@@ -1,0 +1,11 @@
+{
+  "name": "rfx-ml-cpu",
+  "version": "1.0.2",
+  "summary": "High-Performance Random Forests with C++ backend (CPU-only, no CUDA required)",
+  "author": "Chris Kuchar",
+  "license": null,
+  "home_page": "https://github.com/chriskuchar/RFX",
+  "download_filename": "rfx_ml_cpu-1.0.2.tar.gz",
+  "download_time": "2025-11-26T19:23:47.923881",
+  "package_url": "https://pypi.org/project/rfx-ml-cpu/"
+}

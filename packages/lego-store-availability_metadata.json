@@ -1,0 +1,11 @@
+{
+  "name": "lego-store-availability",
+  "version": "0.2.1",
+  "summary": "Check the availability of Lego™ product in stores",
+  "author": "Lunik",
+  "license": null,
+  "home_page": "https://github.com/Lunik/lego-store-availability",
+  "download_filename": "lego_store_availability-0.2.1.tar.gz",
+  "download_time": "2025-11-26T19:23:45.288226",
+  "package_url": "https://pypi.org/project/lego-store-availability/"
+}

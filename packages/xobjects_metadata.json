@@ -1,11 +1,11 @@
 {
   "name": "xobjects",
-  "version": "0.5.9",
+  "version": "0.5.10",
   "summary": "In-memory serialization and code generator for CPU and GPU",
   "author": "Riccardo De Maria",
   "license": null,
   "home_page": "https://xsuite.readthedocs.io/",
-  "download_filename": "xobjects-0.5.9.tar.gz",
-  "download_time": "2025-11-26T19:02:11.856003",
+  "download_filename": "xobjects-0.5.10.tar.gz",
+  "download_time": "2025-11-26T19:23:40.033547",
   "package_url": "https://pypi.org/project/xobjects/"
 }

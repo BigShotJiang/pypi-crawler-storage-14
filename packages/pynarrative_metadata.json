@@ -1,0 +1,11 @@
+{
+  "name": "pynarrative",
+  "version": "0.4",
+  "summary": "Una libreria per creare visualizzazioni narrative con Altair",
+  "author": "Roberto Olinto Barsotti, Angelica Lo Duca",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pynarrative-0.4.tar.gz",
+  "download_time": "2025-11-26T19:23:54.783802",
+  "package_url": "https://pypi.org/project/pynarrative/"
+}

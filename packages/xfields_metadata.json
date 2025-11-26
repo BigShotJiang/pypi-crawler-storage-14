@@ -1,0 +1,11 @@
+{
+  "name": "xfields",
+  "version": "0.25.7",
+  "summary": "Field Maps and Particle In Cell",
+  "author": "G. Iadarola et al.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xfields-0.25.7.tar.gz",
+  "download_time": "2025-11-26T19:24:11.231590",
+  "package_url": "https://pypi.org/project/xfields/"
+}

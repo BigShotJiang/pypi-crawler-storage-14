@@ -1,0 +1,11 @@
+{
+  "name": "django-remove-field",
+  "version": "0.3.0",
+  "summary": "Handle deletion of django model field without downtime",
+  "author": "Klarys Tech Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_remove_field-0.3.0.tar.gz",
+  "download_time": "2025-11-26T19:23:39.512037",
+  "package_url": "https://pypi.org/project/django-remove-field/"
+}
