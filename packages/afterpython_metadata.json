@@ -1,0 +1,11 @@
+{
+  "name": "afterpython",
+  "version": "0.1.0.dev8",
+  "summary": "CLI tool for AfterPython",
+  "author": "Stephen Yau",
+  "license": null,
+  "home_page": null,
+  "download_filename": "afterpython-0.1.0.dev8.tar.gz",
+  "download_time": "2025-11-26T07:40:40.769347",
+  "package_url": "https://pypi.org/project/afterpython/"
+}

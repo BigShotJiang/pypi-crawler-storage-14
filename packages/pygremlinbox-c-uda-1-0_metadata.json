@@ -1,0 +1,11 @@
+{
+  "name": "pygremlinbox-c-uda-1-0",
+  "version": "1.4.6",
+  "summary": "PyGremlinBox C-UDA-1.0 - Supply chain security testing module with Computational Use of Data Agreement v1.0",
+  "author": null,
+  "license": "C-UDA-1.0",
+  "home_page": null,
+  "download_filename": "pygremlinbox_c_uda_1_0-1.4.6.tar.gz",
+  "download_time": "2025-11-26T07:40:32.905280",
+  "package_url": "https://pypi.org/project/pygremlinbox-c-uda-1-0/"
+}

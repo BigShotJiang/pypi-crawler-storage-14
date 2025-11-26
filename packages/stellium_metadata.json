@@ -1,0 +1,11 @@
+{
+  "name": "stellium",
+  "version": "0.1.0",
+  "summary": "A modern Python library for astrological chart calculation and visualization, built on the Swiss Ephemeris for astronomical accuracy.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stellium-0.1.0.tar.gz",
+  "download_time": "2025-11-26T07:40:24.523019",
+  "package_url": "https://pypi.org/project/stellium/"
+}

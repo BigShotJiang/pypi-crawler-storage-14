@@ -1,0 +1,11 @@
+{
+  "name": "pygremlinbox-ms-lpl",
+  "version": "1.4.6",
+  "summary": "PyGremlinBox MS-LPL - Supply chain security testing module with Microsoft Limited Public Licence",
+  "author": null,
+  "license": "MS-LPL",
+  "home_page": null,
+  "download_filename": "pygremlinbox_ms_lpl-1.4.6.tar.gz",
+  "download_time": "2025-11-26T07:40:07.565198",
+  "package_url": "https://pypi.org/project/pygremlinbox-ms-lpl/"
+}

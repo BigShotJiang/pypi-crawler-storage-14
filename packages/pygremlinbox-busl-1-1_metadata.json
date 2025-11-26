@@ -1,0 +1,11 @@
+{
+  "name": "pygremlinbox-busl-1-1",
+  "version": "1.4.6",
+  "summary": "PyGremlinBox BUSL-1.1 - Supply chain security testing module with Business Source Licence v1.1",
+  "author": null,
+  "license": "BUSL-1.1",
+  "home_page": null,
+  "download_filename": "pygremlinbox_busl_1_1-1.4.6.tar.gz",
+  "download_time": "2025-11-26T07:40:33.992464",
+  "package_url": "https://pypi.org/project/pygremlinbox-busl-1-1/"
+}

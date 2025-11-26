@@ -1,0 +1,11 @@
+{
+  "name": "pygremlinbox-cern-ohl-w-2-0",
+  "version": "1.4.6",
+  "summary": "PyGremlinBox CERN-OHL-W-2.0 - Supply chain security testing module with CERN-OHL-W-2.0 licence",
+  "author": null,
+  "license": "CERN-OHL-W-2.0",
+  "home_page": null,
+  "download_filename": "pygremlinbox_cern_ohl_w_2_0-1.4.6.tar.gz",
+  "download_time": "2025-11-26T07:40:18.422077",
+  "package_url": "https://pypi.org/project/pygremlinbox-cern-ohl-w-2-0/"
+}
