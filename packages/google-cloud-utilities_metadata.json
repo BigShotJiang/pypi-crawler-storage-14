@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-utilities",
+  "version": "0.8.4",
+  "summary": "A few handy Python functions for interacting with Google Cloud Platform",
+  "author": "John Foley",
+  "license": "MIT",
+  "home_page": "https://github.com/johnf1004/google_cloud_utilities",
+  "download_filename": "google_cloud_utilities-0.8.4.tar.gz",
+  "download_time": "2025-11-26T16:41:55.170679",
+  "package_url": "https://pypi.org/project/google-cloud-utilities/"
+}

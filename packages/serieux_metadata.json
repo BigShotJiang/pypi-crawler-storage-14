@@ -1,11 +1,11 @@
 {
   "name": "serieux",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "summary": "Extremely customizable serialization",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "serieux-0.3.5.tar.gz",
-  "download_time": "2025-11-25T20:49:55.239139",
+  "download_filename": "serieux-0.3.6.tar.gz",
+  "download_time": "2025-11-26T16:41:36.801849",
   "package_url": "https://pypi.org/project/serieux/"
 }

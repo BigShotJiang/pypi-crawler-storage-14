@@ -1,11 +1,11 @@
 {
   "name": "nomad-camels",
-  "version": "1.10.5",
+  "version": "1.10.6",
   "summary": "CAMELS is a configurable measurement software, targeted towards the requirements of experimental solid-state physics.",
   "author": "FAIRmat - HU Berlin",
   "license": null,
   "home_page": null,
-  "download_filename": "nomad_camels-1.10.5.tar.gz",
-  "download_time": "2025-11-25T16:43:58.462672",
+  "download_filename": "nomad_camels-1.10.6.tar.gz",
+  "download_time": "2025-11-26T16:41:38.549019",
   "package_url": "https://pypi.org/project/nomad-camels/"
 }

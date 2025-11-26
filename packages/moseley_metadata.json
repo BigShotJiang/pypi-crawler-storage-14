@@ -1,0 +1,11 @@
+{
+  "name": "moseley",
+  "version": "1.1.2",
+  "summary": "Simulating XRF spectra to better understand them",
+  "author": "Frank Ligterink",
+  "license": "GNU General Public License v3",
+  "home_page": "https://github.com/fligt/moseley",
+  "download_filename": "moseley-1.1.2.tar.gz",
+  "download_time": "2025-11-26T16:42:07.142317",
+  "package_url": "https://pypi.org/project/moseley/"
+}

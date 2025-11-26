@@ -1,0 +1,11 @@
+{
+  "name": "bliss-toolkit",
+  "version": "0.4.2",
+  "summary": "Bayesian Light Source Separator",
+  "author": "BLISS developers",
+  "license": "MIT",
+  "home_page": "https://github.com/prob-ml/bliss",
+  "download_filename": "bliss_toolkit-0.4.2.tar.gz",
+  "download_time": "2025-11-26T16:42:05.497257",
+  "package_url": "https://pypi.org/project/bliss-toolkit/"
+}

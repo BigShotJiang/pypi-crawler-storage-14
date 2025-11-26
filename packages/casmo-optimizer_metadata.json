@@ -1,0 +1,11 @@
+{
+  "name": "casmo-optimizer",
+  "version": "0.1.0",
+  "summary": "Noise-robust PyTorch optimizer with automatic confidence-based learning rate adaptation",
+  "author": "Abderahmane Ainouche",
+  "license": "MIT",
+  "home_page": "https://github.com/abderahmane-ai/CASMO",
+  "download_filename": "casmo_optimizer-0.1.0-py3-none-any.whl",
+  "download_time": "2025-11-26T16:41:40.147991",
+  "package_url": "https://pypi.org/project/casmo-optimizer/"
+}

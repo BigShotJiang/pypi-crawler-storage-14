@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-excalidraw",
+  "version": "0.4.2",
+  "summary": "Excalidraw drawings in mkdocs",
+  "author": "qdeli",
+  "license": null,
+  "home_page": "https://github.com/qdeli187/mkdocs-excalidraw",
+  "download_filename": "mkdocs_excalidraw-0.4.2.tar.gz",
+  "download_time": "2025-11-26T16:42:02.286820",
+  "package_url": "https://pypi.org/project/mkdocs-excalidraw/"
+}

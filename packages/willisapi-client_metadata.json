@@ -1,0 +1,11 @@
+{
+  "name": "willisapi-client",
+  "version": "1.9.3",
+  "summary": "A Python client for willisapi",
+  "author": "bklynhlth",
+  "license": "Apache",
+  "home_page": "https://github.com/bklynhlth/willsiapi_client",
+  "download_filename": "willisapi_client-1.9.3.tar.gz",
+  "download_time": "2025-11-26T16:42:01.184933",
+  "package_url": "https://pypi.org/project/willisapi-client/"
+}

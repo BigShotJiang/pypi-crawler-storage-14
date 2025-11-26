@@ -1,0 +1,11 @@
+{
+  "name": "vgs-cli",
+  "version": "1.30.18",
+  "summary": "VGS Client",
+  "author": "Very Good Security",
+  "license": "BSD",
+  "home_page": "https://github.com/verygoodsecurity/vgs-cli",
+  "download_filename": "vgs_cli-1.30.18.tar.gz",
+  "download_time": "2025-11-26T16:42:10.889447",
+  "package_url": "https://pypi.org/project/vgs-cli/"
+}

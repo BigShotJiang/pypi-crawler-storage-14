@@ -1,0 +1,11 @@
+{
+  "name": "docassemble.EFSPIntegration",
+  "version": "1.7.2",
+  "summary": null,
+  "author": "Bryce Willey",
+  "license": null,
+  "home_page": "https://github.com/SuffolkLITLab/docassemble-EFSPIntegration",
+  "download_filename": "docassemble_efspintegration-1.7.2.tar.gz",
+  "download_time": "2025-11-26T16:42:01.723813",
+  "package_url": "https://pypi.org/project/docassemble.EFSPIntegration/"
+}

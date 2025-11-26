@@ -1,0 +1,11 @@
+{
+  "name": "pypi-starter",
+  "version": "0.1.0",
+  "summary": "A starter project for creating a Python package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypi_starter-0.1.0-py3-none-any.whl",
+  "download_time": "2025-11-26T16:41:53.575034",
+  "package_url": "https://pypi.org/project/pypi-starter/"
+}
