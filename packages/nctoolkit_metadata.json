@@ -1,0 +1,11 @@
+{
+  "name": "nctoolkit",
+  "version": "1.2.4",
+  "summary": "A Python package for netCDF analysis and post-processing",
+  "author": "Robert Wilson",
+  "license": null,
+  "home_page": "https://github.com/pmlmodelling/nctoolkit",
+  "download_filename": "nctoolkit-1.2.4.tar.gz",
+  "download_time": "2025-11-26T15:49:09.858914",
+  "package_url": "https://pypi.org/project/nctoolkit/"
+}

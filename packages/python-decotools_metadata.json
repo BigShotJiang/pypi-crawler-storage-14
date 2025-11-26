@@ -1,0 +1,11 @@
+{
+  "name": "python-decotools",
+  "version": "0.0.4",
+  "summary": "Tools for making decorators",
+  "author": "ChenyangGao",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenyangGao/python-modules/tree/main/python-decotools",
+  "download_filename": "python_decotools-0.0.4.tar.gz",
+  "download_time": "2025-11-26T15:49:38.761454",
+  "package_url": "https://pypi.org/project/python-decotools/"
+}

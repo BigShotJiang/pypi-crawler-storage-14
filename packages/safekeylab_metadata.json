@@ -1,0 +1,11 @@
+{
+  "name": "safekeylab",
+  "version": "2.2.2",
+  "summary": "Enterprise PII Detection, LLM Security, and One-Line SDK Wrappers for OpenAI/Anthropic/LangChain",
+  "author": "SafeKey Lab Inc.",
+  "license": null,
+  "home_page": "https://github.com/safekeylab/python-sdk",
+  "download_filename": "safekeylab-2.2.2.tar.gz",
+  "download_time": "2025-11-26T15:49:23.017446",
+  "package_url": "https://pypi.org/project/safekeylab/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "smiet",
+  "version": "0.8.0",
+  "summary": "Implementation of the template synthesis framework for cosmic-ray air showers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smiet-0.8.0.tar.gz",
+  "download_time": "2025-11-26T15:49:29.323312",
+  "package_url": "https://pypi.org/project/smiet/"
+}

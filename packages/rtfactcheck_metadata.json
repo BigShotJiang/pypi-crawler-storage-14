@@ -1,0 +1,11 @@
+{
+  "name": "rtfactcheck",
+  "version": "0.0.1",
+  "summary": "Retromorphic Testing Framework (RTF) for detecting hallucinations in Large Language Models (LLMs)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rtfactcheck-0.0.1-py3-none-any.whl",
+  "download_time": "2025-11-26T15:49:17.180760",
+  "package_url": "https://pypi.org/project/rtfactcheck/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "torchrge256",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "PyTorch-native implementation of the RGE-256 pseudorandom number generator",
-  "author": "Steven Reid",
-  "license": "MIT",
+  "author": null,
+  "license": null,
   "home_page": null,
-  "download_filename": "torchrge256-0.1.0.tar.gz",
-  "download_time": "2025-11-26T04:38:42.778022",
+  "download_filename": "torchrge256-0.1.1.tar.gz",
+  "download_time": "2025-11-26T15:49:27.191464",
   "package_url": "https://pypi.org/project/torchrge256/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "neomodel",
+  "version": "6.0.0",
+  "summary": "An object mapper for the neo4j graph database.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neomodel-6.0.0.tar.gz",
+  "download_time": "2025-11-26T15:49:06.151983",
+  "package_url": "https://pypi.org/project/neomodel/"
+}

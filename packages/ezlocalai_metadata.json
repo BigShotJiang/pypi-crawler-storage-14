@@ -1,11 +1,11 @@
 {
   "name": "ezlocalai",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Local AI inference made easy - LLM, Vision, TTS, STT, and Image Generation",
   "author": "Josh XT",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ezlocalai-1.0.2.tar.gz",
-  "download_time": "2025-11-26T15:09:53.932221",
+  "download_filename": "ezlocalai-1.0.3.tar.gz",
+  "download_time": "2025-11-26T15:49:28.773362",
   "package_url": "https://pypi.org/project/ezlocalai/"
 }
