@@ -1,0 +1,11 @@
+{
+  "name": "plone.distribution",
+  "version": "3.2.1",
+  "summary": "Plone distribution support",
+  "author": "Plone Foundation",
+  "license": "GPL version 2",
+  "home_page": "https://plone.org",
+  "download_filename": "plone_distribution-3.2.1.tar.gz",
+  "download_time": "2025-11-26T20:47:30.683531",
+  "package_url": "https://pypi.org/project/plone.distribution/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "docquill",
+  "version": "0.1.0",
+  "summary": "Professional DOCX document processing library with AI-ready JSON export, PDF/HTML rendering, and round-trip editing",
+  "author": "AddNap",
+  "license": null,
+  "home_page": null,
+  "download_filename": "docquill-0.1.0.tar.gz",
+  "download_time": "2025-11-26T20:47:38.599723",
+  "package_url": "https://pypi.org/project/docquill/"
+}

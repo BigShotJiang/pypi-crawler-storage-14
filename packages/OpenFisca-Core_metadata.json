@@ -1,0 +1,11 @@
+{
+  "name": "OpenFisca-Core",
+  "version": "43.4.4",
+  "summary": "A versatile microsimulation free software",
+  "author": "OpenFisca Team",
+  "license": "https://www.fsf.org/licensing/licenses/agpl-3.0.html",
+  "home_page": "https://github.com/openfisca/openfisca-core",
+  "download_filename": "openfisca_core-43.4.4.tar.gz",
+  "download_time": "2025-11-26T20:47:36.048217",
+  "package_url": "https://pypi.org/project/OpenFisca-Core/"
+}

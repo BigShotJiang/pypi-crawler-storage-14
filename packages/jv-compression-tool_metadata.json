@@ -1,0 +1,11 @@
+{
+  "name": "jv-compression-tool",
+  "version": "0.1.2",
+  "summary": "Huffman compression implemented in pure Python.",
+  "author": "Jesse Vahlfors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jv_compression_tool-0.1.2.tar.gz",
+  "download_time": "2025-11-26T20:47:24.908359",
+  "package_url": "https://pypi.org/project/jv-compression-tool/"
+}

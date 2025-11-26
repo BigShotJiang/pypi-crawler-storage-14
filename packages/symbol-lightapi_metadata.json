@@ -1,0 +1,11 @@
+{
+  "name": "symbol-lightapi",
+  "version": "0.0.8",
+  "summary": "Symbol Light API",
+  "author": "Symbol Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/symbol/product/tree/main/python/lightapi",
+  "download_filename": "symbol_lightapi-0.0.8.tar.gz",
+  "download_time": "2025-11-26T20:47:40.728491",
+  "package_url": "https://pypi.org/project/symbol-lightapi/"
+}

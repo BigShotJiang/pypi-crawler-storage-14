@@ -1,0 +1,11 @@
+{
+  "name": "python-intan",
+  "version": "0.0.3",
+  "summary": "Python interface and utilities for working with Intan RHX devices and electrophysiology data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_intan-0.0.3.tar.gz",
+  "download_time": "2025-11-26T20:47:43.040730",
+  "package_url": "https://pypi.org/project/python-intan/"
+}

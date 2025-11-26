@@ -1,11 +1,11 @@
 {
   "name": "fractal-workspace",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Interactive fractal generator and box counting analysis toolkit.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fractal_workspace-0.1.1.tar.gz",
-  "download_time": "2025-11-26T14:36:22.512414",
+  "download_filename": "fractal_workspace-0.1.2-py3-none-any.whl",
+  "download_time": "2025-11-26T20:47:39.110237",
   "package_url": "https://pypi.org/project/fractal-workspace/"
 }

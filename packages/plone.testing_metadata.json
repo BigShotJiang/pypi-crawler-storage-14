@@ -1,0 +1,11 @@
+{
+  "name": "plone.testing",
+  "version": "9.0.7",
+  "summary": "Testing infrastructure for Zope and Plone projects.",
+  "author": "Plone Foundation",
+  "license": "BSD",
+  "home_page": "https://github.com/plone/plone.testing",
+  "download_filename": "plone_testing-9.0.7.tar.gz",
+  "download_time": "2025-11-26T20:47:32.479244",
+  "package_url": "https://pypi.org/project/plone.testing/"
+}

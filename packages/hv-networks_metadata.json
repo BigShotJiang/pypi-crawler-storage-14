@@ -1,0 +1,11 @@
+{
+  "name": "hv-networks",
+  "version": "0.2",
+  "summary": "Easy-ish Python interfaces to TruckDuck network interfaces",
+  "author": null,
+  "license": "GPL",
+  "home_page": null,
+  "download_filename": "hv_networks-0.2.tar.gz",
+  "download_time": "2025-11-26T20:47:44.532800",
+  "package_url": "https://pypi.org/project/hv-networks/"
+}

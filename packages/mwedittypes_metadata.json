@@ -1,0 +1,11 @@
+{
+  "name": "mwedittypes",
+  "version": "3.0.0",
+  "summary": "Edit diffs and type detection for Wikipedia",
+  "author": "geohci & Amamgbu (Isaac Johnson & Jesse Amamgbu)",
+  "license": "MIT License",
+  "home_page": "https://github.com/geohci/edit-types",
+  "download_filename": "mwedittypes-3.0.0.tar.gz",
+  "download_time": "2025-11-26T20:47:56.795252",
+  "package_url": "https://pypi.org/project/mwedittypes/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mypy-boto3-cost-optimization-hub",
+  "version": "1.41.5",
+  "summary": "Type annotations for boto3 CostOptimizationHub 1.41.5 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mypy_boto3_cost_optimization_hub-1.41.5.tar.gz",
+  "download_time": "2025-11-26T20:47:47.747585",
+  "package_url": "https://pypi.org/project/mypy-boto3-cost-optimization-hub/"
+}

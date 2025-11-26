@@ -1,0 +1,11 @@
+{
+  "name": "types-boto3-compute-optimizer",
+  "version": "1.41.5",
+  "summary": "Type annotations for boto3 ComputeOptimizer 1.41.5 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_boto3_compute_optimizer-1.41.5.tar.gz",
+  "download_time": "2025-11-26T20:47:49.492229",
+  "package_url": "https://pypi.org/project/types-boto3-compute-optimizer/"
+}

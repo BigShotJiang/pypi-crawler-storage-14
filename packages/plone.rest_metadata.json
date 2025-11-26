@@ -1,0 +1,11 @@
+{
+  "name": "plone.rest",
+  "version": "5.1.0",
+  "summary": "Plone support for HTTP verbs.",
+  "author": "Plone Foundation",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/plone/plone.rest/",
+  "download_filename": "plone_rest-5.1.0.tar.gz",
+  "download_time": "2025-11-26T20:47:36.697702",
+  "package_url": "https://pypi.org/project/plone.rest/"
+}

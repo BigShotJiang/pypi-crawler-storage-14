@@ -1,0 +1,11 @@
+{
+  "name": "gen-mmap",
+  "version": "1.0.4",
+  "summary": "Generating Memory Map Modules",
+  "author": "Vladimir Roncevic",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://vroncevic.github.io/gen_mmap",
+  "download_filename": "gen_mmap-1.0.4.tar.gz",
+  "download_time": "2025-11-26T20:47:33.055193",
+  "package_url": "https://pypi.org/project/gen-mmap/"
+}
