@@ -1,0 +1,11 @@
+{
+  "name": "p2pdocs",
+  "version": "1.0.14",
+  "summary": "P2P Collaborative Text Editor using CRDT",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/taaha-0548/P2PDocs",
+  "download_filename": "p2pdocs-1.0.14.tar.gz",
+  "download_time": "2025-11-26T10:38:33.674697",
+  "package_url": "https://pypi.org/project/p2pdocs/"
+}

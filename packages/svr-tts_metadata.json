@@ -1,0 +1,11 @@
+{
+  "name": "svr-tts",
+  "version": "0.9.3",
+  "summary": "Синтез речи",
+  "author": "Selector",
+  "license": null,
+  "home_page": null,
+  "download_filename": "svr_tts-0.9.3.tar.gz",
+  "download_time": "2025-11-26T10:38:25.314547",
+  "package_url": "https://pypi.org/project/svr-tts/"
+}

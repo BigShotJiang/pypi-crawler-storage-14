@@ -1,0 +1,11 @@
+{
+  "name": "discobench",
+  "version": "0.0.1",
+  "summary": "This repository contains code for the DiscoBench modular benchmark for automated algorithm discovery.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "discobench-0.0.1.tar.gz",
+  "download_time": "2025-11-26T10:38:02.387554",
+  "package_url": "https://pypi.org/project/discobench/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-formation",
+  "version": "0.2.2",
+  "summary": "Build forms from wagtail blocks",
+  "author": "Marco Westerhof",
+  "license": "MIT license",
+  "home_page": "https://github.com/mwesterhof/wagtail_formation",
+  "download_filename": "wagtail_formation-0.2.2.tar.gz",
+  "download_time": "2025-11-26T10:38:32.651397",
+  "package_url": "https://pypi.org/project/wagtail-formation/"
+}

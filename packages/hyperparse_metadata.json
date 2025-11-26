@@ -1,0 +1,11 @@
+{
+  "name": "hyperparse",
+  "version": "0.0.9",
+  "summary": "Parse shell env variables to python dict",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/fuzihaofzh/hyperparse",
+  "download_filename": "hyperparse-0.0.9.tar.gz",
+  "download_time": "2025-11-26T10:38:10.185710",
+  "package_url": "https://pypi.org/project/hyperparse/"
+}

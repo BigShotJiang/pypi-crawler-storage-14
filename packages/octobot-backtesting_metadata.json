@@ -1,0 +1,11 @@
+{
+  "name": "octobot-backtesting",
+  "version": "1.9.8",
+  "summary": "OctoBot project backtesting engine",
+  "author": "Drakkar-Software",
+  "license": "LGPL-3.0",
+  "home_page": "https://github.com/Drakkar-Software/OctoBot-Backtesting",
+  "download_filename": "octobot_backtesting-1.9.8.tar.gz",
+  "download_time": "2025-11-26T10:38:09.164270",
+  "package_url": "https://pypi.org/project/octobot-backtesting/"
+}

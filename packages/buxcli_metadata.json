@@ -1,0 +1,11 @@
+{
+  "name": "buxcli",
+  "version": "1.1.0",
+  "summary": "A simple CLI tool for alert you about your CLI.",
+  "author": "Mohd. Rushaad Buxy",
+  "license": null,
+  "home_page": "https://github.com/rushaad2911/Buxcli",
+  "download_filename": "buxcli-1.1.0.tar.gz",
+  "download_time": "2025-11-26T10:37:56.932820",
+  "package_url": "https://pypi.org/project/buxcli/"
+}

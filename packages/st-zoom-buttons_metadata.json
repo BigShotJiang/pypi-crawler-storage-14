@@ -1,11 +1,11 @@
 {
   "name": "st-zoom-buttons",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "Streamlit zoom buttons component",
   "author": "Piotr Synowiec",
   "license": "MIT",
   "home_page": "https://github.com/mysiar-org/st-zoom-buttons",
-  "download_filename": "st_zoom_buttons-0.0.2.tar.gz",
-  "download_time": "2025-11-26T10:12:19.929217",
+  "download_filename": "st_zoom_buttons-0.0.4.tar.gz",
+  "download_time": "2025-11-26T10:38:03.983424",
   "package_url": "https://pypi.org/project/st-zoom-buttons/"
 }

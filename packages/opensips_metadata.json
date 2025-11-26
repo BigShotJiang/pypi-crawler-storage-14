@@ -1,0 +1,11 @@
+{
+  "name": "opensips",
+  "version": "0.1.6",
+  "summary": "OpenSIPS Python Packages",
+  "author": "Darius Stefan",
+  "license": null,
+  "home_page": "https://github.com/OpenSIPS/python-opensips",
+  "download_filename": "opensips-0.1.6.tar.gz",
+  "download_time": "2025-11-26T10:38:06.605434",
+  "package_url": "https://pypi.org/project/opensips/"
+}

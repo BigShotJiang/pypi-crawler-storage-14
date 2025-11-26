@@ -1,0 +1,11 @@
+{
+  "name": "hostphot",
+  "version": "3.1.2",
+  "summary": "Global and local photometry of galaxies hosting supernovae or other transients",
+  "author": "Tomás Enrique Müller-Bravo and Lluís Galbany",
+  "license": "MIT",
+  "home_page": "https://github.com/temuller/hostphot",
+  "download_filename": "hostphot-3.1.2.tar.gz",
+  "download_time": "2025-11-26T10:38:15.526032",
+  "package_url": "https://pypi.org/project/hostphot/"
+}
