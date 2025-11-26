@@ -1,11 +1,11 @@
 {
   "name": "rp",
-  "version": "0.1.1353",
+  "version": "0.1.1354",
   "summary": "Ryan's Python: IDE + Library + Tools",
   "author": "Ryan Burgert",
   "license": null,
   "home_page": "https://github.com/RyannDaGreat/rp",
-  "download_filename": "rp-0.1.1353.tar.gz",
-  "download_time": "2025-11-26T23:09:37.517831",
+  "download_filename": "rp-0.1.1354.tar.gz",
+  "download_time": "2025-11-26T23:28:34.055147",
   "package_url": "https://pypi.org/project/rp/"
 }

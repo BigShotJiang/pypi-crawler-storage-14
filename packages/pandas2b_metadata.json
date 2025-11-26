@@ -1,11 +1,11 @@
 {
   "name": "pandas2b",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "跨境电商数据分析工具包 - 包含数据清洗、分析、建模和可视化功能",
   "author": "Data Analysis Team",
   "license": null,
   "home_page": "https://github.com/yourusername/pandas2b",
-  "download_filename": "pandas2b-1.0.4.tar.gz",
-  "download_time": "2025-11-25T10:40:00.583389",
+  "download_filename": "pandas2b-1.0.5.tar.gz",
+  "download_time": "2025-11-26T23:28:49.271278",
   "package_url": "https://pypi.org/project/pandas2b/"
 }

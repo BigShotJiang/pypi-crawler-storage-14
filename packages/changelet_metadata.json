@@ -1,0 +1,11 @@
+{
+  "name": "changelet",
+  "version": "0.4.0",
+  "summary": "Not getting merged ",
+  "author": "Ross McFarland",
+  "license": "MIT",
+  "home_page": "https://github.com/octodns/changelet",
+  "download_filename": "changelet-0.4.0.tar.gz",
+  "download_time": "2025-11-26T23:28:50.311607",
+  "package_url": "https://pypi.org/project/changelet/"
+}
