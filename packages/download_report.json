@@ -1,8 +1,14 @@
 {
-  "download_time": "2025-11-26T19:24:22.527527",
-  "total_packages_downloaded": 84,
-  "total_size_mb": 26.69,
+  "download_time": "2025-11-26T19:32:33.581203",
+  "total_packages_downloaded": 85,
+  "total_size_mb": 1.21,
   "packages": [
+    "aicodec",
+    "tzafon",
+    "arbiter-engine",
+    "policyengine-uk",
+    "vendor-connectors",
+    "directed-inputs-class",
     "lifecyclelogging",
     "extended-data-types",
     "onlinepayments-sdk-python3",
@@ -81,11 +87,6 @@
     "crc-pulp-rpm-client",
     "crc-pulp-gem-client",
     "crc-pulp-npm-client",
-    "p115client",
-    "crc-pulp-python-client",
-    "crc-pulpcore-client",
-    "sonarcal",
-    "mwparserfromhtml",
-    "mxio"
+    "p115client"
   ]
 }

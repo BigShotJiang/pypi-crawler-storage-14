@@ -1,11 +1,11 @@
 {
   "name": "vocalid",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Personal voice verification toolkit using ECAPA-TDNN embeddings",
   "author": "\"Muhammad Khubaib Ahmad\"",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vocalid-0.1.5.tar.gz",
-  "download_time": "2025-11-26T19:23:54.258013",
+  "download_filename": "vocalid-0.1.6.tar.gz",
+  "download_time": "2025-11-26T19:32:06.186356",
   "package_url": "https://pypi.org/project/vocalid/"
 }
