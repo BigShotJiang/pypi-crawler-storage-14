@@ -1,0 +1,11 @@
+{
+  "name": "gen-gtkmm",
+  "version": "1.1.8",
+  "summary": "GTK-- project skeleton generator",
+  "author": "Vladimir Roncevic",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://electux.github.io/gen_gtkmm/",
+  "download_filename": "gen_gtkmm-1.1.8.tar.gz",
+  "download_time": "2025-11-26T00:43:52.845356",
+  "package_url": "https://pypi.org/project/gen-gtkmm/"
+}

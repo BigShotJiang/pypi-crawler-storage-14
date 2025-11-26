@@ -1,0 +1,11 @@
+{
+  "name": "numerai-tools",
+  "version": "0.5.1",
+  "summary": "A collection of open-source tools to help interact with Numerai, model data, and automate submissions.",
+  "author": "Numerai Engineering",
+  "license": "MIT",
+  "home_page": "https://numer.ai",
+  "download_filename": "numerai_tools-0.5.1.tar.gz",
+  "download_time": "2025-11-26T00:43:48.027538",
+  "package_url": "https://pypi.org/project/numerai-tools/"
+}

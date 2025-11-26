@@ -1,0 +1,11 @@
+{
+  "name": "nuclear",
+  "version": "2.6.1",
+  "summary": "Declarative parser for command line interfaces",
+  "author": "igrek51",
+  "license": "MIT",
+  "home_page": "https://github.com/igrek51/nuclear",
+  "download_filename": "nuclear-2.6.1.tar.gz",
+  "download_time": "2025-11-26T00:44:10.123553",
+  "package_url": "https://pypi.org/project/nuclear/"
+}

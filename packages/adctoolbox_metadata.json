@@ -1,0 +1,11 @@
+{
+  "name": "adctoolbox",
+  "version": "0.1.0",
+  "summary": "A comprehensive toolbox for ADC testing and characterization",
+  "author": "Zhishuai Zhang, Lu Jie",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adctoolbox-0.1.0.tar.gz",
+  "download_time": "2025-11-26T00:43:29.101472",
+  "package_url": "https://pypi.org/project/adctoolbox/"
+}
