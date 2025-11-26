@@ -1,18 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-26T22:48:34.362895
-- **Total Packages**: 79
-- **Total Size**: 32.88 MB
+- **Download Time**: 2025-11-26T23:10:13.408473
+- **Total Packages**: 83
+- **Total Size**: 23.67 MB
 
 ## Packages List
+- specfact-cli
+- oocone
+- flwr-nightly
+- cp-based-fair-maker
+- finlang
+- wgup
+- ign-lidar-hd
+- synqed
+- pytest-case-provider
+- logic-weave
+- pyintellicenter
+- pysdic
+- jupyter-fs
+- sienge-ecbiesek-mcp
+- cadnaPromise
+- steer-sdk
+- dotdict3
+- rp
+- ailoos
+- dycw-utilities
+- kubetorch
+- alt-text-llm
+- slumber-python
+- valkey-glide-sync
+- netbox-plugin-bind-provisioner
+- fastapi-api-key
+- upapasta
+- valkey-glide
+- py-obsidian-tools
+- snid-sage
+- kinemotion
+- jenkinsfilelint
+- restcodegen
+- litestar-workflows
+- laddr
+- sunpeek
+- conson-xp
+- ray-embedding
+- fruityloops-mcp
+- gitcopilot
+- POPSRegression
+- aidlabsdk
+- jleechanorg-pr-automation
 - letta-nightly
 - human-eval-rust
 - letta
 - reversi42
-- steer-sdk
 - weave
-- ailoos
 - multisport-py
 - issuedb
 - coinmarketcap-exchangerate
@@ -26,7 +67,6 @@
 - instmodel
 - peritype
 - telegram-multi-account-sender
-- rp
 - documentation-robotics
 - qnote
 - mpbn
@@ -45,43 +85,7 @@
 - dataforge-sdk
 - codeblur
 - senselab
-- py-obsidian-tools
 - ayechat
 - netbox-sitemap
 - vellum-workflow-server
 - cert-uefi-support
-- pyintellicenter
-- upathtools
-- wxcbench
-- hatchet-sdk
-- havoc-clustering
-- spotsweeper
-- mcp-ticketer
-- little-a2s
-- oursprivacy-client
-- sibi-dst
-- aiinbx
-- threaded-order
-- rowdybottypiper
-- glitchlings
-- bayesline-apiclient
-- masgent
-- litellm-proxy-extras
-- zipstrain
-- sonarcal
-- core-for-ai
-- vellum-ai
-- spark-plan-viz
-- cartesia
-- langrepl
-- opendht
-- pytest-repeated
-- dkrutil
-- jsonplusplus
-- kvbm
-- pulumi-cloudflare
-- virtuoso-utilities
-- regula-documentreader-webclient
-- pyspat
-- vritraai
-- chutils

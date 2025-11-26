@@ -1,11 +1,11 @@
 {
   "name": "litestar-workflows",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "summary": "Workflow management in Litestar",
   "author": "Jacob Coffee",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "litestar_workflows-0.2.0.tar.gz",
-  "download_time": "2025-11-26T05:49:21.502098",
+  "download_filename": "litestar_workflows-0.3.1.tar.gz",
+  "download_time": "2025-11-26T23:09:46.502429",
   "package_url": "https://pypi.org/project/litestar-workflows/"
 }
