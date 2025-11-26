@@ -1,0 +1,11 @@
+{
+  "name": "matthewsort",
+  "version": "0.1.10",
+  "summary": "An incredibly fast, multithreaded sorting algorithm implemented in Cython.",
+  "author": "Matthew",
+  "license": null,
+  "home_page": "https://github.com/Hylium/matthewsort-project",
+  "download_filename": "matthewsort-0.1.10-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-26T04:39:02.012516",
+  "package_url": "https://pypi.org/project/matthewsort/"
+}

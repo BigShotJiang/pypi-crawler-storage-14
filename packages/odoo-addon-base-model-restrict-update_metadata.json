@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-base-model-restrict-update",
+  "version": "18.0.1.0.0.6",
+  "summary": "Update Restrict Model",
+  "author": "Odoo Community Association (OCA), Quartile",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/server-tools",
+  "download_filename": "odoo_addon_base_model_restrict_update-18.0.1.0.0.6-py3-none-any.whl",
+  "download_time": "2025-11-26T04:39:00.225858",
+  "package_url": "https://pypi.org/project/odoo-addon-base-model-restrict-update/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "osmnx",
+  "version": "2.0.7",
+  "summary": "Download, model, analyze, and visualize street networks and other geospatial features from OpenStreetMap",
+  "author": "Geoff Boeing",
+  "license": null,
+  "home_page": null,
+  "download_filename": "osmnx-2.0.7.tar.gz",
+  "download_time": "2025-11-26T04:39:07.199383",
+  "package_url": "https://pypi.org/project/osmnx/"
+}

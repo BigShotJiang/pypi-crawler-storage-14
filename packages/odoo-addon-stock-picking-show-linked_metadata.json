@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-picking-show-linked",
+  "version": "18.0.1.0.0.4",
+  "summary": "This addon allows to easily access related pickings (in the case of chained routes) through a button in the parent picking view.",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-warehouse",
+  "download_filename": "odoo_addon_stock_picking_show_linked-18.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-11-26T04:38:43.353889",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-picking-show-linked/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "psaspotter",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "summary": "A tool for extracting of Platform-Specific APIs",
   "author": "Ricardo Job",
   "license": "MIT",
   "home_page": "https://github.com/ricardojob/psaspotter",
-  "download_filename": "psaspotter-0.0.11.tar.gz",
-  "download_time": "2025-11-25T23:46:39.586689",
+  "download_filename": "psaspotter-0.0.12.tar.gz",
+  "download_time": "2025-11-26T04:38:40.457959",
   "package_url": "https://pypi.org/project/psaspotter/"
 }

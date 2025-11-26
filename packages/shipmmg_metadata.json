@@ -1,0 +1,11 @@
+{
+  "name": "shipmmg",
+  "version": "0.0.11",
+  "summary": "A Python package of ship maneuvering simulation",
+  "author": "Taiga MITSUYUKI",
+  "license": "MIT",
+  "home_page": "https://github.com/ShipMMG/shipmmg",
+  "download_filename": "shipmmg-0.0.11.tar.gz",
+  "download_time": "2025-11-26T04:38:47.485522",
+  "package_url": "https://pypi.org/project/shipmmg/"
+}

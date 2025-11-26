@@ -1,0 +1,11 @@
+{
+  "name": "cyecca",
+  "version": "0.3.0",
+  "summary": "Symbolic Estimation and Control with Computer Algebra - A Lie group library for robotics built on CasADi",
+  "author": "James Goppert",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cyecca-0.3.0.tar.gz",
+  "download_time": "2025-11-26T04:39:15.884921",
+  "package_url": "https://pypi.org/project/cyecca/"
+}

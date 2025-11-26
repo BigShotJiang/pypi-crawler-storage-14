@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-storage-type-move-line-qty-picked",
+  "version": "18.0.1.0.1.1",
+  "summary": "stock storage type move line quantity picked",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-putaway",
+  "download_filename": "odoo_addon_stock_storage_type_move_line_qty_picked-18.0.1.0.1.1-py3-none-any.whl",
+  "download_time": "2025-11-26T04:38:52.070692",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-storage-type-move-line-qty-picked/"
+}

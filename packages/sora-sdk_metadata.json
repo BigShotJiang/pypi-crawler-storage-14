@@ -1,0 +1,11 @@
+{
+  "name": "sora-sdk",
+  "version": "2025.4.0",
+  "summary": "WebRTC SFU Sora Python SDK",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/shiguredo/sora-python-sdk",
+  "download_filename": "sora_sdk-2025.4.0.tar.gz",
+  "download_time": "2025-11-26T04:38:58.309850",
+  "package_url": "https://pypi.org/project/sora-sdk/"
+}
