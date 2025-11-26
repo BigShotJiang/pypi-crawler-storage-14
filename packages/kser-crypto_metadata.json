@@ -1,0 +1,11 @@
+{
+  "name": "kser-crypto",
+  "version": "0.1.13",
+  "summary": "Crypto Kafka serialize python library",
+  "author": "Cedric DUMAY",
+  "license": "MIT",
+  "home_page": "https://github.com/cdumay/kser-crypto",
+  "download_filename": "kser_crypto-0.1.13.tar.gz",
+  "download_time": "2025-11-26T14:11:37.115534",
+  "package_url": "https://pypi.org/project/kser-crypto/"
+}

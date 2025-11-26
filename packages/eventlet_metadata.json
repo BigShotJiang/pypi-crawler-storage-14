@@ -1,0 +1,11 @@
+{
+  "name": "eventlet",
+  "version": "0.40.4",
+  "summary": "Highly concurrent networking library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eventlet-0.40.4.tar.gz",
+  "download_time": "2025-11-26T14:11:34.477113",
+  "package_url": "https://pypi.org/project/eventlet/"
+}

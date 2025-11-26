@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-move-line-dates",
+  "version": "18.0.1.0.1",
+  "summary": "Add Date Scheduled and Deadline dates in move lines",
+  "author": "Moduon, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-workflow",
+  "download_filename": "odoo_addon_stock_move_line_dates-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-11-26T14:11:38.160549",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-move-line-dates/"
+}

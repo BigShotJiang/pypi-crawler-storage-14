@@ -1,0 +1,11 @@
+{
+  "name": "collie-mlops",
+  "version": "0.1.1b0",
+  "summary": "A Lightweight MLOps Framework for Machine Learning Workflows",
+  "author": "ChingHuanChiu",
+  "license": "MIT",
+  "home_page": "https://github.com/ChingHuanChiu/collie",
+  "download_filename": "collie_mlops-0.1.1b0.tar.gz",
+  "download_time": "2025-11-26T14:11:22.951894",
+  "package_url": "https://pypi.org/project/collie-mlops/"
+}

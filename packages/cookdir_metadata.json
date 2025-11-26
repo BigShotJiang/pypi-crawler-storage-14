@@ -1,0 +1,11 @@
+{
+  "name": "cookdir",
+  "version": "0.1.6",
+  "summary": "create directories by template",
+  "author": "yjdai",
+  "license": null,
+  "home_page": "https://github.com/Blockhead-yj/cookdir",
+  "download_filename": "cookdir-0.1.6.tar.gz",
+  "download_time": "2025-11-26T14:11:17.652812",
+  "package_url": "https://pypi.org/project/cookdir/"
+}

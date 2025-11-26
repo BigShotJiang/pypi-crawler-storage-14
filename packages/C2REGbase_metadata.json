@@ -1,11 +1,11 @@
 {
   "name": "C2REGbase",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A minimal linear regression pipeline providing six functions for data inspection, type adjustment, listwise cleaning, OLS fitting, parameter export, and diagnostics.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "c2regbase-0.1.1.tar.gz",
-  "download_time": "2025-11-25T14:35:06.956021",
+  "download_filename": "c2regbase-0.1.2.tar.gz",
+  "download_time": "2025-11-26T14:11:18.676828",
   "package_url": "https://pypi.org/project/C2REGbase/"
 }

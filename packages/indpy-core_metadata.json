@@ -1,0 +1,11 @@
+{
+  "name": "indpy-core",
+  "version": "0.1.0",
+  "summary": "A comprehensive library for Indian Identity and Financial data validation.",
+  "author": "Harsh Gupta",
+  "license": null,
+  "home_page": "https://github.com/YOUR_USERNAME/indpy",
+  "download_filename": "indpy_core-0.1.0.tar.gz",
+  "download_time": "2025-11-26T14:11:27.050689",
+  "package_url": "https://pypi.org/project/indpy-core/"
+}
