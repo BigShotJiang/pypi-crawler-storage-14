@@ -1,11 +1,11 @@
 {
   "name": "st-oxview",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "A Streamlit component for coarse-grained DNA/RNA visualization with OxView",
   "author": "Luca Monari",
   "license": null,
   "home_page": "https://github.com/Lucandia/st_oxview",
-  "download_filename": "st_oxview-0.1.7.tar.gz",
-  "download_time": "2025-11-25T14:35:15.691625",
+  "download_filename": "st_oxview-0.1.8.tar.gz",
+  "download_time": "2025-11-26T13:46:19.817173",
   "package_url": "https://pypi.org/project/st-oxview/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "superset-sqlalchemy-gizmosql-adbc-dialect",
+  "version": "0.0.9",
+  "summary": "An Apache Superset compatible SQLAlchemy dialect for connecting to a [GizmoSQL](https://github.com/gizmodata/gizmosql) server with ADBC",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "superset_sqlalchemy_gizmosql_adbc_dialect-0.0.9.tar.gz",
+  "download_time": "2025-11-26T13:45:43.810848",
+  "package_url": "https://pypi.org/project/superset-sqlalchemy-gizmosql-adbc-dialect/"
+}

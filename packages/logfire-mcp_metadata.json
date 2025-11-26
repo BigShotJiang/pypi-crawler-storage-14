@@ -1,0 +1,11 @@
+{
+  "name": "logfire-mcp",
+  "version": "0.7.0",
+  "summary": "The Pydantic Logfire MCP server! 🔍",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "logfire_mcp-0.7.0.tar.gz",
+  "download_time": "2025-11-26T13:46:20.366769",
+  "package_url": "https://pypi.org/project/logfire-mcp/"
+}

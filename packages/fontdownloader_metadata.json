@@ -1,0 +1,11 @@
+{
+  "name": "fontdownloader",
+  "version": "0.2.1",
+  "summary": "CLI to download Google Fonts (TTF/OTF/TTC + WOFF), OFL license, and SCSS",
+  "author": "Mauc",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fontdownloader-0.2.1.tar.gz",
+  "download_time": "2025-11-26T13:45:52.024993",
+  "package_url": "https://pypi.org/project/fontdownloader/"
+}

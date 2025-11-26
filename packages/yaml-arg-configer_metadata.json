@@ -1,0 +1,11 @@
+{
+  "name": "yaml-arg-configer",
+  "version": "0.1.2",
+  "summary": "Simplifies the process of parsing command-line arguments and configurations from YAML files",
+  "author": "eipi10",
+  "license": null,
+  "home_page": "https://github.com/eiPI1-0/yaml_arg_configer",
+  "download_filename": "yaml_arg_configer-0.1.2.tar.gz",
+  "download_time": "2025-11-26T13:45:43.245921",
+  "package_url": "https://pypi.org/project/yaml-arg-configer/"
+}

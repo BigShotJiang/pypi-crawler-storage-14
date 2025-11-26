@@ -1,0 +1,11 @@
+{
+  "name": "watsonx-haystack",
+  "version": "1.1.0",
+  "summary": "Watsonx integration for Haystack",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "watsonx_haystack-1.1.0.tar.gz",
+  "download_time": "2025-11-26T13:45:48.034803",
+  "package_url": "https://pypi.org/project/watsonx-haystack/"
+}

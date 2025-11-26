@@ -1,0 +1,11 @@
+{
+  "name": "swanhub",
+  "version": "1.0.9",
+  "summary": "Custom SWAN templates and handlers for JupyterHub",
+  "author": "SWAN Admins",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swanhub-1.0.9.tar.gz",
+  "download_time": "2025-11-26T13:46:18.123130",
+  "package_url": "https://pypi.org/project/swanhub/"
+}

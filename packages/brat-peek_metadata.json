@@ -1,0 +1,11 @@
+{
+  "name": "brat-peek",
+  "version": "0.1.1",
+  "summary": "Simple utilities to read/write brat standoff files (peek module)",
+  "author": "Salvador Lima López",
+  "license": "MIT",
+  "home_page": "https://github.com/s-lilo/brat-peek",
+  "download_filename": "brat_peek-0.1.1.tar.gz",
+  "download_time": "2025-11-26T13:45:51.459760",
+  "package_url": "https://pypi.org/project/brat-peek/"
+}

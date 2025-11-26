@@ -1,11 +1,11 @@
 {
   "name": "pyconverters-mistralocr",
-  "version": "0.5.70",
+  "version": "0.5.74",
   "summary": "Convert PDF to structured text using MistralOCR",
   "author": "Olivier Terrier",
   "license": null,
   "home_page": "https://github.com/oterrier/pyconverters_mistralocr/",
-  "download_filename": "pyconverters_mistralocr-0.5.70.tar.gz",
-  "download_time": "2025-11-26T11:47:13.600423",
+  "download_filename": "pyconverters_mistralocr-0.5.74.tar.gz",
+  "download_time": "2025-11-26T13:46:24.465833",
   "package_url": "https://pypi.org/project/pyconverters-mistralocr/"
 }

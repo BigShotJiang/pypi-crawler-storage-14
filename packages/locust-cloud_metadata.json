@@ -1,11 +1,11 @@
 {
   "name": "locust-cloud",
-  "version": "1.29.2",
+  "version": "1.29.3",
   "summary": "Locust Cloud",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "locust_cloud-1.29.2.tar.gz",
-  "download_time": "2025-11-25T13:06:35.882581",
+  "download_filename": "locust_cloud-1.29.3.tar.gz",
+  "download_time": "2025-11-26T13:46:00.086030",
   "package_url": "https://pypi.org/project/locust-cloud/"
 }

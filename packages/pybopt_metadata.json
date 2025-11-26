@@ -1,0 +1,11 @@
+{
+  "name": "pybopt",
+  "version": "2025.1",
+  "summary": "A mock project for Bayesian optimization.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybopt-2025.1.tar.gz",
+  "download_time": "2025-11-26T13:46:00.635207",
+  "package_url": "https://pypi.org/project/pybopt/"
+}

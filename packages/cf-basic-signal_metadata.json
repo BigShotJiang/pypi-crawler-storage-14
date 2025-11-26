@@ -1,11 +1,11 @@
 {
   "name": "cf-basic-signal",
-  "version": "0.1.6",
+  "version": "0.1.10",
   "summary": "Cogniflow basic signal+IO step package (InlineSource, HandleSink, FIFO/average) with optional C++ acceleration.",
   "author": "Cogniflow",
   "license": null,
   "home_page": null,
-  "download_filename": "cf_basic_signal-0.1.6.tar.gz",
-  "download_time": "2025-11-25T22:48:30.284910",
+  "download_filename": "cf_basic_signal-0.1.10.tar.gz",
+  "download_time": "2025-11-26T13:46:10.078023",
   "package_url": "https://pypi.org/project/cf-basic-signal/"
 }
