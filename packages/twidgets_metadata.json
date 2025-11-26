@@ -1,0 +1,11 @@
+{
+  "name": "twidgets",
+  "version": "1.1.10",
+  "summary": "A tool to design and run dynamic, customizable dashboards directly inside your terminal.",
+  "author": "IceWizard7",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/IceWizard7/terminal-widgets",
+  "download_filename": "twidgets-1.1.10.tar.gz",
+  "download_time": "2025-11-26T07:30:14.790582",
+  "package_url": "https://pypi.org/project/twidgets/"
+}

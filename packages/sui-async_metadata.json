@@ -1,11 +1,11 @@
 {
   "name": "sui-async",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "An application with python that allows you to modify your s-ui panel",
   "author": "ARLIKIN",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sui_async-1.0.0.tar.gz",
-  "download_time": "2025-11-26T07:11:41.374613",
+  "download_filename": "sui_async-1.0.1.tar.gz",
+  "download_time": "2025-11-26T07:30:11.615259",
   "package_url": "https://pypi.org/project/sui-async/"
 }

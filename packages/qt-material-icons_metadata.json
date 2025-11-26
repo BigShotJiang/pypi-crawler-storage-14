@@ -1,0 +1,11 @@
+{
+  "name": "qt-material-icons",
+  "version": "0.3.0",
+  "summary": "Material Symbols by Google for Qt using PySide",
+  "author": "Beat Reichenbach",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qt_material_icons-0.3.0.tar.gz",
+  "download_time": "2025-11-26T07:30:16.347207",
+  "package_url": "https://pypi.org/project/qt-material-icons/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aiinbx",
-  "version": "0.114.0",
+  "version": "0.115.0",
   "summary": "The official Python library for the AIInbx API",
   "author": "AI Inbx",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "aiinbx-0.114.0.tar.gz",
-  "download_time": "2025-11-26T06:48:11.330662",
+  "download_filename": "aiinbx-0.115.0.tar.gz",
+  "download_time": "2025-11-26T07:30:21.600359",
   "package_url": "https://pypi.org/project/aiinbx/"
 }
