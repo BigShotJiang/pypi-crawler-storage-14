@@ -1,0 +1,11 @@
+{
+  "name": "provenance-context",
+  "version": "0.1.0",
+  "summary": "Python library for querying RO-Crate provenance metadata from CWL workflow runs. Provides lineage queries, site artifacts, and TOON encoding for LLM prompts.",
+  "author": "Gus Ellerm",
+  "license": null,
+  "home_page": null,
+  "download_filename": "provenance_context-0.1.0.tar.gz",
+  "download_time": "2025-11-26T21:28:32.175405",
+  "package_url": "https://pypi.org/project/provenance-context/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "soso",
+  "version": "0.7.0",
+  "summary": "For Converting Metadata Records into Science On Schema.Org Markup",
+  "author": "Colin Smith",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "soso-0.7.0.tar.gz",
+  "download_time": "2025-11-26T21:28:26.436519",
+  "package_url": "https://pypi.org/project/soso/"
+}

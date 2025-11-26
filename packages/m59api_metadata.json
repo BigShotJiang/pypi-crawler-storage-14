@@ -1,0 +1,11 @@
+{
+  "name": "m59api",
+  "version": "0.1.32",
+  "summary": "A FastAPI-based API for managing the Meridian 59 server.",
+  "author": "Adrien Laws",
+  "license": null,
+  "home_page": "https://github.com/adrienlaws/m59api",
+  "download_filename": "m59api-0.1.32.tar.gz",
+  "download_time": "2025-11-26T21:28:22.193083",
+  "package_url": "https://pypi.org/project/m59api/"
+}

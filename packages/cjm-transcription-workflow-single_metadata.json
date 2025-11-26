@@ -1,11 +1,11 @@
 {
   "name": "cjm-transcription-workflow-single",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Single-file audio/video transcription workflow plugin with plugin selection, file selection, and execution steps.",
   "author": "Christian J. Mills",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/cj-mills/cjm-transcription-workflow-single",
-  "download_filename": "cjm_transcription_workflow_single-0.0.1.tar.gz",
-  "download_time": "2025-11-25T23:29:01.696665",
+  "download_filename": "cjm_transcription_workflow_single-0.0.2.tar.gz",
+  "download_time": "2025-11-26T21:28:19.023148",
   "package_url": "https://pypi.org/project/cjm-transcription-workflow-single/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dbt-bouncer",
+  "version": "1.29.0",
+  "summary": "Configure and enforce conventions for your dbt project.",
+  "author": "Padraic Slattery",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbt_bouncer-1.29.0.tar.gz",
+  "download_time": "2025-11-26T21:28:23.240991",
+  "package_url": "https://pypi.org/project/dbt-bouncer/"
+}

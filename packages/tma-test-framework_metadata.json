@@ -1,0 +1,11 @@
+{
+  "name": "tma-test-framework",
+  "version": "1.4.0",
+  "summary": "Simple Python framework for working with Telegram API and Mini Apps",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tma_test_framework-1.4.0.tar.gz",
+  "download_time": "2025-11-26T21:28:12.200534",
+  "package_url": "https://pypi.org/project/tma-test-framework/"
+}
