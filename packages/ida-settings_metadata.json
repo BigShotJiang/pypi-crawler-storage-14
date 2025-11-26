@@ -1,0 +1,11 @@
+{
+  "name": "ida-settings",
+  "version": "3.2.3",
+  "summary": "Fetch configuration values for IDA Pro plugins",
+  "author": "Willi Ballenthin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ida_settings-3.2.3-py3-none-any.whl",
+  "download_time": "2025-11-26T14:52:40.099354",
+  "package_url": "https://pypi.org/project/ida-settings/"
+}

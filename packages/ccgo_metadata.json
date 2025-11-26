@@ -1,0 +1,11 @@
+{
+  "name": "ccgo",
+  "version": "2.1.0",
+  "summary": "A C++ cross-platform build system.",
+  "author": "zhlinh",
+  "license": null,
+  "home_page": "https://github.com/zhlinh/ccgo",
+  "download_filename": "ccgo-2.1.0.tar.gz",
+  "download_time": "2025-11-26T14:52:28.570828",
+  "package_url": "https://pypi.org/project/ccgo/"
+}

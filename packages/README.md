@@ -1,28 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-26T14:36:46.713082
-- **Total Packages**: 93
-- **Total Size**: 12.51 MB
+- **Download Time**: 2025-11-26T14:53:13.710220
+- **Total Packages**: 89
+- **Total Size**: 22.21 MB
 
 ## Packages List
+- umara
+- kubedev
+- stmath
+- library
+- brighteyes-ffs
+- sangreal-wind
+- gaspype
+- ccgo
+- vofd
+- funsize-engineer
+- half-orm-dev
+- pyfrontkit
+- stringzillas-cpus
 - propagation-exporter
+- akademy-company
+- tiledb-ml
+- ngwidgets
+- klug-builds
+- udi-interface
+- viur-core
+- lablog
+- smoothglue_django_core
+- raep
+- syndisco
+- miwear
+- orchestra-sdk
+- ida-settings
+- airflow-provider-notion
+- factpulse
+- xpander-sdk
+- vexa-auth
+- odoo-addon-sale-order-line-price-lock-by-pricelist
+- kval
+- azure-kusto-ingest
+- haiway
 - combinatory-synthesizer
 - matrice-inference
-- vexa-auth
 - workbench-bridges
 - jollyjack
 - frozencounter
 - ida-hcli
 - amsdal_models
-- factpulse
 - sumo-experiments
 - json_tabulator
 - de-console-client
 - db-model-generator
 - hayhooks
 - hcai-discover-utils
-- klug-builds
 - scriptworker
 - crabdeposit
 - zorge
@@ -56,7 +87,6 @@
 - odoo-addon-storage-image
 - doque
 - ooflow
-- umara
 - fractal-workspace
 - legit-api-client
 - directory-sso-api-client
@@ -65,37 +95,3 @@
 - pypomes-crypto
 - yaml-arg-configer
 - mlcflow
-- gxhash
-- jambo
-- whisperlivekit-alias
-- unicex
-- imgquad
-- antimeridian
-- xocto
-- abstra
-- scikit-topt
-- packages-KO
-- cookdir
-- speedbuild
-- C2REGbase
-- toctoc-controller-router-sdk
-- uipath-langchain
-- drun
-- openlca-ipc
-- s2-python
-- cavass
-- data-science-document-ai
-- collie-mlops
-- odoo-addon-account-invoice-report-picking-customer-note
-- pixell-sdk
-- omium
-- tauq
-- cf-basic-signal
-- indpy-core
-- dissect.target
-- odoo-addon-sale-stock-reservation-issue-on-qty-at-date-widget
-- nadag-innmelding-python-client
-- strato-dns-api
-- harmonic
-- worker-automate-hub
-- rasa-pro

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-order-line-price-lock-by-pricelist",
+  "version": "18.0.1.0.1",
+  "summary": "Lock price or discount edition depending on pricelist items",
+  "author": "Moduon, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/sale-workflow",
+  "download_filename": "odoo_addon_sale_order_line_price_lock_by_pricelist-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-11-26T14:52:42.847487",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-order-line-price-lock-by-pricelist/"
+}

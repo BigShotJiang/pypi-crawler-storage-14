@@ -1,0 +1,11 @@
+{
+  "name": "sangreal-wind",
+  "version": "0.1.2",
+  "summary": "Elegant and efficient Python library for wind financial data access with comprehensive abstraction layers and 100% forward compatibility",
+  "author": "liubola",
+  "license": "GNU General Public License v3.0",
+  "home_page": "https://github.com/liubola/sangreal-wind",
+  "download_filename": "sangreal_wind-0.1.2.tar.gz",
+  "download_time": "2025-11-26T14:52:26.325731",
+  "package_url": "https://pypi.org/project/sangreal-wind/"
+}
