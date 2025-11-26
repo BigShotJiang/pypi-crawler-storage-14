@@ -1,11 +1,11 @@
 {
   "name": "QuantResearch",
-  "version": "2.0.0",
+  "version": "2.1",
   "summary": "Technical indicators and visualization tools for quantitative research",
   "author": "Vinayak ShindeVishal Mishra",
   "license": "MIT",
   "home_page": "https://github.com/vinayak1729-web/QuantR",
-  "download_filename": "quantresearch-2.0.0.tar.gz",
-  "download_time": "2025-11-26T10:53:07.511836",
+  "download_filename": "quantresearch-2.1.tar.gz",
+  "download_time": "2025-11-26T11:27:43.227340",
   "package_url": "https://pypi.org/project/QuantResearch/"
 }
