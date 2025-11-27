@@ -1,11 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-27T22:32:56.104666
-- **Total Packages**: 81
-- **Total Size**: 14.24 MB
+- **Download Time**: 2025-11-27T22:52:13.129491
+- **Total Packages**: 79
+- **Total Size**: 6.26 MB
 
 ## Packages List
+- dateint
+- naeural-core
+- ratio1
+- eva4-aaa-ldap
+- pywb
+- causal_toolkit_tc
+- pyuiua
+- hopx-cli
+- llama-index-llms-bedrock-converse
+- spectuel-engine-utils
+- llama-index-llms-anthropic
+- llama-index-vector-stores-azureaisearch
+- clarifai-grpc
+- mgraph-ai-service-cache-client
+- odoo-addon-account-vendor-bank-account-default-purchase
+- lambda-ai-cloud-api-client
+- secrets-sync
+- toms-structures
+- anncsu-sdk
+- pymvr
+- rggrader2
+- mschunker
+- sunpeek
+- synod-cli
+- recallbricks-langchain
+- athena-intelligence
 - nobs
 - jupyterlab-export-markdown-extension
 - sigplay
@@ -13,12 +39,9 @@
 - quadrilateral-interpolation
 - jupyterpack
 - vidurai
-- lambda-ai-cloud-api-client
 - llama-index-llms-openai
 - llama-index-llms-google-genai
 - ankipan
-- eva4-aaa-ldap
-- recallbricks-langchain
 - avatarflow-r5
 - robosystems-client
 - super-bario
@@ -62,28 +85,3 @@
 - jsonbrotliminifyer
 - auto-adpq
 - semaphore-mcp
-- ciscoconfparse2
-- llm-aggregator
-- hdrbg
-- knowledge-stack
-- jolt-docker
-- mcp-memory-service
-- tcarlae
-- sdnq
-- fluidattacks_zoho_sdk
-- fastf1
-- urartu
-- django-psa
-- bias-amplification
-- dt31
-- llmhub-runtime
-- call-gate
-- siibra
-- sunpeek
-- recallbricks
-- ytp-dl
-- causal-toolkit-tc
-- ahmaedinfo
-- aplicacion-ventas-martin
-- infisicalsdk
-- google-maps-mcp-server

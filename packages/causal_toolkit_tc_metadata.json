@@ -1,0 +1,11 @@
+{
+  "name": "causal_toolkit_tc",
+  "version": "0.1.1",
+  "summary": "A Python package for causal inference methods including ATE estimation, propensity score methods, and meta-learners",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "causal_toolkit_tc-0.1.1.tar.gz",
+  "download_time": "2025-11-27T22:51:33.991966",
+  "package_url": "https://pypi.org/project/causal_toolkit_tc/"
+}

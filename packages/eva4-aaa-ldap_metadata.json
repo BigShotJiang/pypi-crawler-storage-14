@@ -1,11 +1,11 @@
 {
   "name": "eva4-aaa-ldap",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "EVA ICS v4 LDAP Authentication",
   "author": "Bohemia Automation / Altertech",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/eva-ics/eva4",
-  "download_filename": "eva4_aaa_ldap-0.1.1.tar.gz",
-  "download_time": "2025-11-27T22:32:16.728364",
+  "download_filename": "eva4_aaa_ldap-0.1.4.tar.gz",
+  "download_time": "2025-11-27T22:51:32.567727",
   "package_url": "https://pypi.org/project/eva4-aaa-ldap/"
 }

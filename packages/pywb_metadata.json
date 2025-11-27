@@ -1,0 +1,11 @@
+{
+  "name": "pywb",
+  "version": "2.9.1",
+  "summary": "Pywb Webrecorder web archive replay and capture tools",
+  "author": "Ilya Kreymer",
+  "license": "GPL",
+  "home_page": "https://github.com/webrecorder/pywb",
+  "download_filename": "pywb-2.9.1.tar.gz",
+  "download_time": "2025-11-27T22:51:33.421461",
+  "package_url": "https://pypi.org/project/pywb/"
+}
