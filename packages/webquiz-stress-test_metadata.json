@@ -1,0 +1,11 @@
+{
+  "name": "webquiz-stress-test",
+  "version": "0.1.5",
+  "summary": "Performance testing tool for WebQuiz servers - simulate concurrent users taking quizzes",
+  "author": "Oleksandr Liabakh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "webquiz_stress_test-0.1.5.tar.gz",
+  "download_time": "2025-11-27T19:47:37.225623",
+  "package_url": "https://pypi.org/project/webquiz-stress-test/"
+}

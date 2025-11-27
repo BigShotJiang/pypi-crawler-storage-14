@@ -1,11 +1,11 @@
 {
   "name": "music-assistant-models",
-  "version": "1.1.71",
+  "version": "1.1.73",
   "summary": "Music Assistant Base Models",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "music_assistant_models-1.1.71.tar.gz",
-  "download_time": "2025-11-26T20:31:59.620753",
+  "download_filename": "music_assistant_models-1.1.73.tar.gz",
+  "download_time": "2025-11-27T19:47:35.148255",
   "package_url": "https://pypi.org/project/music-assistant-models/"
 }

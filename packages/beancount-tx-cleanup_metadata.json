@@ -1,0 +1,11 @@
+{
+  "name": "beancount-tx-cleanup",
+  "version": "0.2.0",
+  "summary": "Beancount transaction cleaner",
+  "author": "Jakub Turski",
+  "license": null,
+  "home_page": null,
+  "download_filename": "beancount_tx_cleanup-0.2.0.tar.gz",
+  "download_time": "2025-11-27T19:47:33.538010",
+  "package_url": "https://pypi.org/project/beancount-tx-cleanup/"
+}

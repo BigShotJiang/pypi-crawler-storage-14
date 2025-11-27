@@ -1,11 +1,11 @@
 {
   "name": "pollination-irradiance",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "summary": "Annual irradiance recipe for Pollination.",
   "author": "pollination",
   "license": "PolyForm Shield License 1.0.0, https://polyformproject.org/wp-content/uploads/2020/06/PolyForm-Shield-1.0.0.txt",
   "home_page": "https://github.com/pollination/irradiance",
-  "download_filename": "pollination_irradiance-0.0.17.tar.gz",
-  "download_time": "2025-11-27T17:40:08.609808",
+  "download_filename": "pollination_irradiance-0.0.18.tar.gz",
+  "download_time": "2025-11-27T19:47:22.953389",
   "package_url": "https://pypi.org/project/pollination-irradiance/"
 }

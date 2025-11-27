@@ -1,0 +1,11 @@
+{
+  "name": "aiobs",
+  "version": "0.1.1",
+  "summary": "Minimal, extensible LLM observability SDK with OpenAI and Gemini support.",
+  "author": "aiobs Authors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiobs-0.1.1.tar.gz",
+  "download_time": "2025-11-27T19:47:24.564552",
+  "package_url": "https://pypi.org/project/aiobs/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "argdispatch",
+  "version": "1.4.2",
+  "summary": "A drop-in replacement for `argparse` dispatching subcommand calls to functions, modules or binaries.",
+  "author": "Louis Paternault",
+  "license": "GPLv3 or any later version",
+  "home_page": "http://framagit.org/spalax/argdispatch",
+  "download_filename": "argdispatch-1.4.2.tar.gz",
+  "download_time": "2025-11-27T19:47:36.706022",
+  "package_url": "https://pypi.org/project/argdispatch/"
+}
