@@ -1,0 +1,11 @@
+{
+  "name": "lambda-ai-cloud-api-client",
+  "version": "2.3.0",
+  "summary": "A client library for accessing Lambda Cloud API",
+  "author": "Alexander van Eck",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lambda_ai_cloud_api_client-2.3.0.tar.gz",
+  "download_time": "2025-11-27T22:32:14.680853",
+  "package_url": "https://pypi.org/project/lambda-ai-cloud-api-client/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dhisana",
-  "version": "0.0.1.dev230",
+  "version": "0.0.1.dev231",
   "summary": "A Python SDK for Dhisana AI Platform",
   "author": "Admin",
   "license": "MIT",
   "home_page": "https://github.com/dhisana-ai/dhisana-python-sdk",
-  "download_filename": "dhisana-0.0.1.dev230.tar.gz",
-  "download_time": "2025-11-27T20:10:05.022415",
+  "download_filename": "dhisana-0.0.1.dev231.tar.gz",
+  "download_time": "2025-11-27T22:32:26.620540",
   "package_url": "https://pypi.org/project/dhisana/"
 }

@@ -1,14 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-27T22:10:43.786680
-- **Total Packages**: 92
-- **Total Size**: 8.57 MB
+- **Download Time**: 2025-11-27T22:32:56.104666
+- **Total Packages**: 81
+- **Total Size**: 14.24 MB
 
 ## Packages List
+- nobs
+- jupyterlab-export-markdown-extension
+- sigplay
+- mbari-aidata
+- quadrilateral-interpolation
+- jupyterpack
+- vidurai
+- lambda-ai-cloud-api-client
+- llama-index-llms-openai
+- llama-index-llms-google-genai
+- ankipan
+- eva4-aaa-ldap
+- recallbricks-langchain
+- avatarflow-r5
+- robosystems-client
+- super-bario
+- calibre
+- amsdal
+- locoformer
+- nova-pg
+- semlix
+- unaiverse
+- apple-search-ads-client
+- grnexus
+- llama-index-vector-stores-postgres
+- mcp-servicenex
+- discord-selfsbotsx
+- megatron-core
+- megatron-fsdp
+- dhisana
+- steer-sdk
+- cybrid-api-bank-python
+- sapiens-dataset
+- lenslet
+- samplerate-ledfx
+- cybrid-api-organization-python
+- cybrid-api-id-python
+- PyPANRestV2
+- json-strong-typing
+- piicodev
+- shmlock
+- deepfabric
+- scc-firewall-manager-sdk
+- biblemategui
+- regula-documentreader-webclient
+- hyperspace-py
+- drpython
+- kermi-xcenter
 - jaxkan
 - lightphe
-- scc-firewall-manager-sdk
 - medusa-security
 - pyppmd
 - labdataplot
@@ -40,61 +87,3 @@
 - aplicacion-ventas-martin
 - infisicalsdk
 - google-maps-mcp-server
-- aa-markettracker-plugin
-- namel3ss
-- ivoryos
-- mcp-feedback
-- btx-fix-mcp
-- lerobot
-- jps-rag-assistant
-- parse-lp
-- django-graflow
-- nexios
-- repo-ctx
-- quillmark
-- zizou
-- IServAPI
-- easyecs
-- memorymachines
-- claude-message-visualizer
-- yanat
-- typedparser
-- janus-api
-- packg
-- malevich-app
-- drpython
-- ansys-systemcoupling-core
-- nagra
-- apache-airflow-providers-zendesk
-- apache-airflow-providers-ydb
-- apache-airflow-providers-yandex
-- apache-airflow-providers-weaviate
-- apache-airflow-providers-vertica
-- apache-airflow-providers-trino
-- apache-airflow-providers-teradata
-- apache-airflow-providers-telegram
-- apache-airflow-providers-tableau
-- apache-airflow-providers-standard
-- apache-airflow-providers-ssh
-- apache-airflow-providers-sqlite
-- apache-airflow-providers-snowflake
-- apache-airflow-providers-smtp
-- apache-airflow-providers-slack
-- apache-airflow-providers-singularity
-- apache-airflow-providers-sftp
-- apache-airflow-providers-sendgrid
-- apache-airflow-providers-segment
-- apache-airflow-providers-samba
-- apache-airflow-providers-salesforce
-- apache-airflow-providers-redis
-- apache-airflow-providers-qdrant
-- apache-airflow-providers-presto
-- apache-airflow-providers-postgres
-- apache-airflow-providers-pinecone
-- apache-airflow-providers-pgvector
-- apache-airflow-providers-papermill
-- apache-airflow-providers-pagerduty
-- apache-airflow-providers-oracle
-- apache-airflow-providers-opsgenie
-- apache-airflow-providers-opensearch
-- apache-airflow-providers-openlineage

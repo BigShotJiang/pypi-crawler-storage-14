@@ -1,0 +1,11 @@
+{
+  "name": "piicodev",
+  "version": "1.11.0",
+  "summary": "Drivers for the PiicoDev ecosystem of sensors and modules",
+  "author": "Core Electronics",
+  "license": null,
+  "home_page": "https://github.com/CoreElectronics/CE-PiicoDev-PyPI",
+  "download_filename": "piicodev-1.11.0.tar.gz",
+  "download_time": "2025-11-27T22:32:32.173524",
+  "package_url": "https://pypi.org/project/piicodev/"
+}
