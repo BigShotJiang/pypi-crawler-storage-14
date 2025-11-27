@@ -1,0 +1,11 @@
+{
+  "name": "bme280pi",
+  "version": "1.2.1",
+  "summary": "bme280pi: the BME280 Sensor Reader for Raspberry Pi",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bme280pi-1.2.1.tar.gz",
+  "download_time": "2025-11-27T19:25:08.370507",
+  "package_url": "https://pypi.org/project/bme280pi/"
+}

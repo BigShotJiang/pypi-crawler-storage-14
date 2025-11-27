@@ -1,11 +1,11 @@
 {
   "name": "dkinst",
-  "version": "0.22.0",
+  "version": "0.22.1",
   "summary": "Den K Simple Installer",
   "author": "Denis Kras",
   "license": null,
   "home_page": null,
-  "download_filename": "dkinst-0.22.0-py3-none-any.whl",
-  "download_time": "2025-11-27T19:11:45.494287",
+  "download_filename": "dkinst-0.22.1-py3-none-any.whl",
+  "download_time": "2025-11-27T19:25:12.987824",
   "package_url": "https://pypi.org/project/dkinst/"
 }

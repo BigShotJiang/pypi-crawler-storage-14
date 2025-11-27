@@ -1,11 +1,11 @@
 {
   "name": "sosilogikk",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "A library for handling and processing SOSI geospatial data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sosilogikk-2.0.1.tar.gz",
-  "download_time": "2025-11-27T19:11:35.491032",
+  "download_filename": "sosilogikk-2.0.2.tar.gz",
+  "download_time": "2025-11-27T19:25:18.110915",
   "package_url": "https://pypi.org/project/sosilogikk/"
 }

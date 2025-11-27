@@ -1,11 +1,11 @@
 {
   "name": "aiqa-client",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "OpenTelemetry-based Python client for tracing functions and sending traces to the AIQA server",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aiqa_client-0.1.4.tar.gz",
-  "download_time": "2025-11-27T19:11:41.729643",
+  "download_filename": "aiqa_client-0.1.5.tar.gz",
+  "download_time": "2025-11-27T19:25:06.252743",
   "package_url": "https://pypi.org/project/aiqa-client/"
 }

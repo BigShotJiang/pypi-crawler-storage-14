@@ -1,11 +1,11 @@
 {
   "name": "docu-devs-api-client",
-  "version": "1.4.3",
+  "version": "1.4.5",
   "summary": "A client library for accessing DocuDevs API",
   "author": "pj@docudevs.ai",
   "license": null,
   "home_page": null,
-  "download_filename": "docu_devs_api_client-1.4.3.tar.gz",
-  "download_time": "2025-11-27T19:11:57.006461",
+  "download_filename": "docu_devs_api_client-1.4.5.tar.gz",
+  "download_time": "2025-11-27T19:25:07.348649",
   "package_url": "https://pypi.org/project/docu-devs-api-client/"
 }

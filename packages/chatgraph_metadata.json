@@ -1,11 +1,11 @@
 {
   "name": "chatgraph",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A user-friendly chatbot library",
   "author": "Irisson N. Lima",
   "license": "MIT",
   "home_page": "https://github.com/irissonnlima/chatgraph",
-  "download_filename": "chatgraph-1.0.0.tar.gz",
-  "download_time": "2025-11-26T21:08:52.889660",
+  "download_filename": "chatgraph-1.0.1.tar.gz",
+  "download_time": "2025-11-27T19:25:13.498973",
   "package_url": "https://pypi.org/project/chatgraph/"
 }
