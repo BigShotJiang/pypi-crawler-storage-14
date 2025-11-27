@@ -1,0 +1,11 @@
+{
+  "name": "mebytecode",
+  "version": "2.4.1",
+  "summary": "Full Python Interpreter Control and Bytecode Manipulation Library",
+  "author": "mero",
+  "license": "MIT",
+  "home_page": "https://github.com/mero/mebytecode",
+  "download_filename": "mebytecode-2.4.1.tar.gz",
+  "download_time": "2025-11-27T18:54:10.747436",
+  "package_url": "https://pypi.org/project/mebytecode/"
+}
