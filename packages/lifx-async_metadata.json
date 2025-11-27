@@ -1,0 +1,11 @@
+{
+  "name": "lifx-async",
+  "version": "4.3.9",
+  "summary": "A modern, type-safe, async Python library for controlling LIFX lights",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lifx_async-4.3.9.tar.gz",
+  "download_time": "2025-11-27T04:53:51.847823",
+  "package_url": "https://pypi.org/project/lifx-async/"
+}
