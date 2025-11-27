@@ -1,11 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-27T21:48:15.900198
-- **Total Packages**: 99
-- **Total Size**: 21.31 MB
+- **Download Time**: 2025-11-27T22:10:43.786680
+- **Total Packages**: 92
+- **Total Size**: 8.57 MB
 
 ## Packages List
+- jaxkan
+- lightphe
+- scc-firewall-manager-sdk
+- medusa-security
+- pyppmd
+- labdataplot
+- jsonbrotliminifyer
+- auto-adpq
+- semaphore-mcp
+- ciscoconfparse2
+- llm-aggregator
+- hdrbg
+- knowledge-stack
+- jolt-docker
+- mcp-memory-service
+- tcarlae
+- sdnq
+- fluidattacks_zoho_sdk
+- fastf1
+- urartu
+- django-psa
+- bias-amplification
+- dt31
+- llmhub-runtime
+- call-gate
+- siibra
+- sunpeek
+- recallbricks
+- ytp-dl
+- causal-toolkit-tc
+- ahmaedinfo
 - aplicacion-ventas-martin
 - infisicalsdk
 - google-maps-mcp-server
@@ -67,41 +98,3 @@
 - apache-airflow-providers-opsgenie
 - apache-airflow-providers-opensearch
 - apache-airflow-providers-openlineage
-- apache-airflow-providers-openfaas
-- apache-airflow-providers-openai
-- apache-airflow-providers-odbc
-- apache-airflow-providers-neo4j
-- apache-airflow-providers-mysql
-- apache-airflow-providers-mongo
-- apache-airflow-providers-microsoft-winrm
-- apache-airflow-providers-microsoft-psrp
-- apache-airflow-providers-microsoft-mssql
-- apache-airflow-providers-microsoft-azure
-- apache-airflow-providers-jenkins
-- apache-airflow-providers-jdbc
-- apache-airflow-providers-influxdb
-- apache-airflow-providers-imap
-- apache-airflow-providers-http
-- apache-airflow-providers-hashicorp
-- apache-airflow-providers-grpc
-- apache-airflow-providers-google
-- apache-airflow-providers-github
-- apache-airflow-providers-ftp
-- apache-airflow-providers-facebook
-- apache-airflow-providers-fab
-- apache-airflow-providers-exasol
-- apache-airflow-providers-elasticsearch
-- ansys-fluent-core
-- apache-airflow-providers-edge3
-- apache-airflow-providers-docker
-- apache-airflow-providers-discord
-- apache-airflow-providers-dingding
-- apache-airflow-providers-dbt-cloud
-- llmhub-runtime
-- apache-airflow-providers-datadog
-- apache-airflow-providers-databricks
-- apache-airflow-providers-common-sql
-- apache-airflow-providers-common-io
-- apache-airflow-providers-common-compat
-- apache-airflow-providers-cohere
-- apache-airflow-providers-cncf-kubernetes

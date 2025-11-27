@@ -1,0 +1,11 @@
+{
+  "name": "jolt-docker",
+  "version": "0.9.419",
+  "summary": "A task executor",
+  "author": "Robert Andersson",
+  "license": null,
+  "home_page": "https://github.com/srand/jolt",
+  "download_filename": "jolt_docker-0.9.419.tar.gz",
+  "download_time": "2025-11-27T22:10:01.121086",
+  "package_url": "https://pypi.org/project/jolt-docker/"
+}

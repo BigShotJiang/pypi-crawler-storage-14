@@ -1,11 +1,11 @@
 {
   "name": "dt31",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "summary": "A toy computer in Python.",
   "author": "Dan Turkel",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "dt31-0.5.1.tar.gz",
-  "download_time": "2025-11-27T04:43:57.220158",
+  "download_filename": "dt31-0.6.0.tar.gz",
+  "download_time": "2025-11-27T22:10:07.412532",
   "package_url": "https://pypi.org/project/dt31/"
 }
