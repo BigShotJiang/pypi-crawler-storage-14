@@ -1,0 +1,11 @@
+{
+  "name": "mo-threads",
+  "version": "6.698.25331",
+  "summary": "More Threads! Simpler and faster threading.",
+  "author": "Kyle Lahnakoski",
+  "license": "MPL 2.0",
+  "home_page": "https://github.com/klahnakoski/mo-threads",
+  "download_filename": "mo_threads-6.698.25331.tar.gz",
+  "download_time": "2025-11-27T23:47:25.262914",
+  "package_url": "https://pypi.org/project/mo-threads/"
+}

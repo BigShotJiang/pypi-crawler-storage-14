@@ -1,0 +1,11 @@
+{
+  "name": "steganography-online-codec",
+  "version": "1.0.0",
+  "summary": "Steganography Online Codec allows you to hide a password encrypted message within the images & photos using AES encryption algorithm with a 256-bit PBKDF2 derived key.",
+  "author": "Bartosz Wójcik",
+  "license": "Apache-2.0",
+  "home_page": "https://www.pelock.com",
+  "download_filename": "steganography_online_codec-1.0.0.tar.gz",
+  "download_time": "2025-11-27T23:47:25.774406",
+  "package_url": "https://pypi.org/project/steganography-online-codec/"
+}

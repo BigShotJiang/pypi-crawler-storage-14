@@ -1,0 +1,11 @@
+{
+  "name": "exprotocol",
+  "version": "0.1.1",
+  "summary": "Secure peer-to-peer communication protocol with proof-of-work, encryption, and error correction",
+  "author": "Muni Besen",
+  "license": "MIT",
+  "home_page": "https://github.com/Silenttttttt/ExProtocol",
+  "download_filename": "exprotocol-0.1.1.tar.gz",
+  "download_time": "2025-11-27T23:47:27.343967",
+  "package_url": "https://pypi.org/project/exprotocol/"
+}

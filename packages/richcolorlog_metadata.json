@@ -1,0 +1,11 @@
+{
+  "name": "richcolorlog",
+  "version": "1.44.23",
+  "summary": "A beautiful and feature-rich logging package using Rich library",
+  "author": "Hadi Cahyadi",
+  "license": null,
+  "home_page": "https://github.com/cumulus13/richcolorlog",
+  "download_filename": "richcolorlog-1.44.23-py3-none-any.whl",
+  "download_time": "2025-11-27T23:47:21.965163",
+  "package_url": "https://pypi.org/project/richcolorlog/"
+}
