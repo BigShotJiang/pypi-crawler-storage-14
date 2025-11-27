@@ -1,0 +1,11 @@
+{
+  "name": "dbt-hive",
+  "version": "1.10.0",
+  "summary": "The Hive adapter plugin for dbt",
+  "author": "Cloudera",
+  "license": null,
+  "home_page": "https://github.com/cloudera/dbt-hive",
+  "download_filename": "dbt_hive-1.10.0.tar.gz",
+  "download_time": "2025-11-27T10:43:26.225744",
+  "package_url": "https://pypi.org/project/dbt-hive/"
+}

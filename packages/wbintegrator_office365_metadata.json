@@ -1,11 +1,11 @@
 {
   "name": "wbintegrator_office365",
-  "version": "1.58.3",
+  "version": "1.59.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wbintegrator_office365-1.58.3.tar.gz",
-  "download_time": "2025-11-25T10:54:01.238290",
+  "download_filename": "wbintegrator_office365-1.59.0.tar.gz",
+  "download_time": "2025-11-27T10:43:45.427556",
   "package_url": "https://pypi.org/project/wbintegrator_office365/"
 }

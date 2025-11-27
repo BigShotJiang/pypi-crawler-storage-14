@@ -1,0 +1,11 @@
+{
+  "name": "aerosoltools",
+  "version": "0.2.1",
+  "summary": "Tools for loading and analyzing aerosol instrument data",
+  "author": "NRCWE community",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aerosoltools-0.2.1-py3-none-any.whl",
+  "download_time": "2025-11-27T10:43:15.374064",
+  "package_url": "https://pypi.org/project/aerosoltools/"
+}

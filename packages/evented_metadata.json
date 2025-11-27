@@ -1,0 +1,11 @@
+{
+  "name": "evented",
+  "version": "1.0.8",
+  "summary": "Event emitters.",
+  "author": "Philipp Temminghoff",
+  "license": null,
+  "home_page": null,
+  "download_filename": "evented-1.0.8.tar.gz",
+  "download_time": "2025-11-27T10:43:25.206705",
+  "package_url": "https://pypi.org/project/evented/"
+}

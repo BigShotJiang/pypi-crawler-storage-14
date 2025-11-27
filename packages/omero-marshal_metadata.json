@@ -1,0 +1,11 @@
+{
+  "name": "omero-marshal",
+  "version": "0.9.1",
+  "summary": "OMERO Marshal",
+  "author": "The Open Microscopy Team, Glencoe Software, Inc.",
+  "license": "GPLv2+",
+  "home_page": "https://github.com/ome/omero-marshal",
+  "download_filename": "omero_marshal-0.9.1.tar.gz",
+  "download_time": "2025-11-27T10:43:24.188951",
+  "package_url": "https://pypi.org/project/omero-marshal/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "datagrok-api",
+  "version": "0.0.9",
+  "summary": "Client library for integration with datagrok API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "datagrok_api-0.0.9.tar.gz",
+  "download_time": "2025-11-27T10:43:13.841116",
+  "package_url": "https://pypi.org/project/datagrok-api/"
+}

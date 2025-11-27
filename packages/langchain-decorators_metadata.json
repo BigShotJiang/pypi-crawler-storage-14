@@ -1,0 +1,11 @@
+{
+  "name": "langchain-decorators",
+  "version": "1.2.0",
+  "summary": "syntactic sugar for langchain",
+  "author": "ju-bezdek",
+  "license": "MIT",
+  "home_page": "https://github.com/ju-bezdek/langchain-decorators",
+  "download_filename": "langchain_decorators-1.2.0.tar.gz",
+  "download_time": "2025-11-27T10:43:15.887894",
+  "package_url": "https://pypi.org/project/langchain-decorators/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "wbnews",
-  "version": "1.58.3",
+  "version": "1.59.0",
   "summary": "A workbench module for managing news.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wbnews-1.58.3.tar.gz",
-  "download_time": "2025-11-25T10:53:59.304896",
+  "download_filename": "wbnews-1.59.0.tar.gz",
+  "download_time": "2025-11-27T10:43:47.748719",
   "package_url": "https://pypi.org/project/wbnews/"
 }

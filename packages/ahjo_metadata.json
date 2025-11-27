@@ -1,0 +1,11 @@
+{
+  "name": "ahjo",
+  "version": "3.11.2",
+  "summary": "Database deployment framework",
+  "author": "ALM Partners Oy",
+  "license": null,
+  "home_page": "https://github.com/ALMPartners/ahjo",
+  "download_filename": "ahjo-3.11.2-py3-none-any.whl",
+  "download_time": "2025-11-27T10:43:07.495450",
+  "package_url": "https://pypi.org/project/ahjo/"
+}

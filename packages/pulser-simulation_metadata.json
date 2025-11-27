@@ -1,0 +1,11 @@
+{
+  "name": "pulser-simulation",
+  "version": "1.6.4",
+  "summary": "An emulator of pulse-level sequences created with Pulser.",
+  "author": "Pulser Development Team",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/pasqal-io/Pulser",
+  "download_filename": "pulser_simulation-1.6.4-py3-none-any.whl",
+  "download_time": "2025-11-27T10:43:17.441047",
+  "package_url": "https://pypi.org/project/pulser-simulation/"
+}

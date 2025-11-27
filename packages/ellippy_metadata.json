@@ -1,0 +1,11 @@
+{
+  "name": "ellippy",
+  "version": "0.5.9",
+  "summary": "An elliptic integral library for Python",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/p-sira/ellippy",
+  "download_filename": "ellippy-0.5.9.tar.gz",
+  "download_time": "2025-11-27T10:43:54.797959",
+  "package_url": "https://pypi.org/project/ellippy/"
+}
