@@ -1,7 +1,7 @@
 {
-  "download_time": "2025-11-27T23:10:36.837890",
+  "download_time": "2025-11-27T23:29:28.728047",
   "total_packages_downloaded": 76,
-  "total_size_mb": 10.42,
+  "total_size_mb": 0.36,
   "packages": [
     "jupyterlab-export-markdown-extension",
     "ytp-dl",

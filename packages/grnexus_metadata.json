@@ -1,11 +1,11 @@
 {
   "name": "grnexus",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "High-performance neural network library with Keras-like API",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "grnexus-0.1.6.tar.gz",
-  "download_time": "2025-11-27T23:09:58.839531",
+  "download_filename": "grnexus-0.1.8.tar.gz",
+  "download_time": "2025-11-27T23:28:49.044087",
   "package_url": "https://pypi.org/project/grnexus/"
 }
