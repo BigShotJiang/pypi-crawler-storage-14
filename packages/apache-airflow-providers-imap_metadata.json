@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-imap",
+  "version": "3.9.4",
+  "summary": "Provider package apache-airflow-providers-imap for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_imap-3.9.4.tar.gz",
+  "download_time": "2025-11-27T21:36:33.970179",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-imap/"
+}

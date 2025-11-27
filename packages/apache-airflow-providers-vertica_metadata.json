@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-vertica",
+  "version": "4.1.4",
+  "summary": "Provider package apache-airflow-providers-vertica for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_vertica-4.1.4.tar.gz",
+  "download_time": "2025-11-27T21:36:11.968429",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-vertica/"
+}

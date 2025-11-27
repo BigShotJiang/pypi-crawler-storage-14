@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-standard",
+  "version": "1.9.2",
+  "summary": "Provider package apache-airflow-providers-standard for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_standard-1.9.2.tar.gz",
+  "download_time": "2025-11-27T21:36:14.592250",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-standard/"
+}
