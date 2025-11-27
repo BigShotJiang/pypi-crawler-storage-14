@@ -1,0 +1,11 @@
+{
+  "name": "wowsql",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for WowSQL with project auth, S3 storage, SSL, and subdomain routing",
+  "author": "WowSQL Team",
+  "license": null,
+  "home_page": "https://github.com/wowsql/wowsql",
+  "download_filename": "wowsql-1.0.0.tar.gz",
+  "download_time": "2025-11-27T18:43:01.665409",
+  "package_url": "https://pypi.org/project/wowsql/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "happywish",
-  "version": "1.0.0",
-  "summary": "Birthday animation + music player",
+  "version": "2.0.0",
+  "summary": "Birthday GUI fireworks animation.",
   "author": "Adi",
   "license": null,
   "home_page": null,
-  "download_filename": "happywish-1.0.0.tar.gz",
-  "download_time": "2025-11-27T18:14:43.232146",
+  "download_filename": "happywish-2.0.0.tar.gz",
+  "download_time": "2025-11-27T18:43:05.951765",
   "package_url": "https://pypi.org/project/happywish/"
 }

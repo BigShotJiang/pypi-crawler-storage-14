@@ -1,0 +1,11 @@
+{
+  "name": "zapf",
+  "version": "0.5.0",
+  "summary": "Client library for the PILS specification",
+  "author": null,
+  "license": "GPL-2.0-or-later",
+  "home_page": null,
+  "download_filename": "zapf-0.5.0.tar.gz",
+  "download_time": "2025-11-27T18:43:08.601043",
+  "package_url": "https://pypi.org/project/zapf/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kcpwd",
+  "version": "0.6.3",
+  "summary": "Cross-platform Password Manager with Web UI - Works everywhere! macOS Keychain, Linux Secret Service, or encrypted file storage. Zero dependencies required.",
+  "author": "osmanuygar",
+  "license": null,
+  "home_page": "https://github.com/osmanuygar/kcpwd",
+  "download_filename": "kcpwd-0.6.3.tar.gz",
+  "download_time": "2025-11-27T18:43:20.071549",
+  "package_url": "https://pypi.org/project/kcpwd/"
+}

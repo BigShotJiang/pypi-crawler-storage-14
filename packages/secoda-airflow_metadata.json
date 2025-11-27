@@ -1,0 +1,11 @@
+{
+  "name": "secoda-airflow",
+  "version": "0.0.30",
+  "summary": "Secoda Airflow Provider",
+  "author": "Secoda Engineering",
+  "license": null,
+  "home_page": null,
+  "download_filename": "secoda_airflow-0.0.30.tar.gz",
+  "download_time": "2025-11-27T18:43:13.291621",
+  "package_url": "https://pypi.org/project/secoda-airflow/"
+}

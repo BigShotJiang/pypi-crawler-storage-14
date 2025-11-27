@@ -1,0 +1,11 @@
+{
+  "name": "pytest-junit-logging",
+  "version": "0.1.0",
+  "summary": "A pytest plugin for embedding log output into JUnit XML reports",
+  "author": "Andreas Stenberg",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytest_junit_logging-0.1.0.tar.gz",
+  "download_time": "2025-11-27T18:43:00.622095",
+  "package_url": "https://pypi.org/project/pytest-junit-logging/"
+}
