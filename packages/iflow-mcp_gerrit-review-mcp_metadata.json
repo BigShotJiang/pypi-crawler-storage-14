@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_gerrit-review-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for Gerrit Code Review",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_gerrit_review_mcp-0.1.0.tar.gz",
+  "download_time": "2025-11-27T04:22:51.574256",
+  "package_url": "https://pypi.org/project/iflow-mcp_gerrit-review-mcp/"
+}

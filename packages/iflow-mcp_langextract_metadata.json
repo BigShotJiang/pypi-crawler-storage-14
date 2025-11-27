@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_langextract",
+  "version": "1.1.0",
+  "summary": "LangExtract: A library for extracting structured data from language models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_langextract-1.1.0.tar.gz",
+  "download_time": "2025-11-27T04:22:55.810659",
+  "package_url": "https://pypi.org/project/iflow-mcp_langextract/"
+}

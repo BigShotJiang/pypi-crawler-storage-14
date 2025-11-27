@@ -1,0 +1,11 @@
+{
+  "name": "django-issue-capture",
+  "version": "0.2.0",
+  "summary": "AI-powered GitHub issue creation and management system for Django with conversational UX and LLM enhancement",
+  "author": "Directory Platform Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_issue_capture-0.2.0.tar.gz",
+  "download_time": "2025-11-27T04:22:54.593990",
+  "package_url": "https://pypi.org/project/django-issue-capture/"
+}

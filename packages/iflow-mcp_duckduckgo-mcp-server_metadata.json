@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_duckduckgo-mcp-server",
+  "version": "0.1.1",
+  "summary": "MCP Server for searching via DuckDuckGo",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_duckduckgo_mcp_server-0.1.1.tar.gz",
+  "download_time": "2025-11-27T04:22:52.798897",
+  "package_url": "https://pypi.org/project/iflow-mcp_duckduckgo-mcp-server/"
+}

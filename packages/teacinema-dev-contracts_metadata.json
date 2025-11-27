@@ -1,11 +1,11 @@
 {
   "name": "teacinema-dev-contracts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Teacinema multi-language protobuf contracts (Python bindings)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "teacinema_dev_contracts-1.0.0.tar.gz",
-  "download_time": "2025-11-27T04:00:04.278434",
+  "download_filename": "teacinema_dev_contracts-1.0.1.tar.gz",
+  "download_time": "2025-11-27T04:22:47.994059",
   "package_url": "https://pypi.org/project/teacinema-dev-contracts/"
 }

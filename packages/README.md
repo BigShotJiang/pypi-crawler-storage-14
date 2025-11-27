@@ -1,12 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-27T04:00:30.318390
-- **Total Packages**: 81
-- **Total Size**: 31.89 MB
+- **Download Time**: 2025-11-27T04:23:35.091762
+- **Total Packages**: 79
+- **Total Size**: 14.06 MB
 
 ## Packages List
+- teacinema-dev-contracts
+- human-eval-rust
+- pandas2b
+- aiinbx
+- iflow-mcp_openai-mcp
+- gllm-pipeline-binary
+- iflow-mcp_gerrit-review-mcp
+- dspy-cli
+- iflow-mcp_duckduckgo-mcp-server
+- graphlit-client
+- django-issue-capture
+- Kekik
+- iflow-mcp_langextract
+- iflow-mcp_langchain-mcp-adapters
+- water-conflict-classifier
+- httplint
+- cybersec-scanner
+- tun2socks
+- gmpy2
+- snowflake-connector-python-nightly
+- jleechanorg-pr-automation
+- trophy
+- jettask
+- odoo-addon-base-model-restrict-update
+- pyprophet
+- utt-balance
+- nonebot-plugin-mccheck
+- python-nlql
+- ha-mcp
+- empathy-framework
+- odoo-addons-oca-sale-workflow
+- chromedriver-binary
+- scalewob
+- gondola
+- odoo-addon-sale-tier-validation
+- PyTomoATT
+- drun
+- airbyte-ai-stripe
 - kl-mcp-client
+- odoo-addons-oca-sale-reporting
 - robhan-cdk-lib.aws-aps
 - robhan-cdk-lib.aws-grafana
 - robhan-cdk-lib.aws-mwaa
@@ -17,12 +56,10 @@
 - odoo-addons-oca-reporting-engine
 - pulumi-dbtcloud
 - glidergun
-- cybersec-scanner
 - LMMH
 - miniwalk
 - sku-template
 - odoo-addon-repair-scheduled-date-calendar-view
-- human-eval-rust
 - odoo-addons-oca-purchase-workflow
 - odoo-addon-purchase-order-owner
 - hyperfunc
@@ -41,49 +78,10 @@
 - aieng-interp-utils
 - cimsi
 - mcp-data-extractor
-- teacinema-dev-contracts
 - async-kernel
-- python-nlql
 - tencent-wedata-auto-ml
 - torcheggroll
 - wraipperz
 - kela-logger
 - miunlock
 - flatiron-cleaner
-- rds-proxy-password-rotation
-- optimum-rbln
-- gtasks-cli
-- indoorloc
-- odoo-addon-partner-firstname
-- sweap-cli
-- masgent
-- cert-uefi-parser
-- wgup
-- localstack-core
-- streamlm
-- odoo-addon-openupgrade-scripts
-- castfit
-- keras-rs-nightly
-- onnxruntime-transformers
-- odoo-addon-mis-builder
-- airbyte-ai-stripe
-- pyscn
-- pyscn-mcp
-- water-conflict-classifier
-- GANDLF
-- odoo-addon-mrp-subcontracting-purchase-link
-- cqc-quam-state
-- erazhan-utils
-- cosmos-rl
-- idiom-search
-- coker
-- scalewob
-- context-foundry
-- termux-dev-setup
-- empathy-framework
-- tentacletk
-- mayatk
-- uitk
-- alibabacloud-imm20200930
-- pythontk
-- toontools
