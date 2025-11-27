@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-server-python",
+  "version": "0.1.2",
+  "summary": "Python MCP Server for Kestra — you can use it as a tool in Kestra's AI Agents",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_server_python-0.1.2-py3-none-any.whl",
+  "download_time": "2025-11-27T08:57:11.813061",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-server-python/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gl-connector-plugin-binary",
+  "version": "0.0.1b1",
+  "summary": "BOSA Server Plugins",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gl_connector_plugin_binary-0.0.1b1-cp312-cp312-manylinux_2_31_x86_64.whl",
+  "download_time": "2025-11-27T08:57:42.189102",
+  "package_url": "https://pypi.org/project/gl-connector-plugin-binary/"
+}

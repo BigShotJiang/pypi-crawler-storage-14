@@ -1,11 +1,11 @@
 {
   "name": "torchopticsy",
-  "version": "1.0.6",
-  "summary": "PyTorch-based optics calculation",
+  "version": "1.0.7",
+  "summary": "PyTorch-based optics calculations with CUDA acceleration",
   "author": "YuningYe",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "torchopticsy-1.0.6.tar.gz",
-  "download_time": "2025-11-27T08:44:45.919466",
+  "download_filename": "torchopticsy-1.0.7-cp312-cp312-win_amd64.whl",
+  "download_time": "2025-11-27T08:57:28.222529",
   "package_url": "https://pypi.org/project/torchopticsy/"
 }

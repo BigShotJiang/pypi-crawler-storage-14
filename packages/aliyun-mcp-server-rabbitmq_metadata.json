@@ -1,0 +1,11 @@
+{
+  "name": "aliyun-mcp-server-rabbitmq",
+  "version": "0.2.0",
+  "summary": "A Model Context Protocol server for Aliyun RabbitMQ",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aliyun_mcp_server_rabbitmq-0.2.0.tar.gz",
+  "download_time": "2025-11-27T08:57:47.700260",
+  "package_url": "https://pypi.org/project/aliyun-mcp-server-rabbitmq/"
+}
