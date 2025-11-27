@@ -1,11 +1,11 @@
 {
   "name": "auroraview",
-  "version": "0.2.18",
+  "version": "0.2.19",
   "summary": "AuroraView: Rust-powered WebView for Python apps & DCC embedding",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "auroraview-0.2.18.tar.gz",
-  "download_time": "2025-11-27T12:19:16.778042",
+  "download_filename": "auroraview-0.2.19.tar.gz",
+  "download_time": "2025-11-27T13:06:49.412260",
   "package_url": "https://pypi.org/project/auroraview/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "spring-cloud-config-client",
+  "version": "0.4.0",
+  "summary": "A Python library to fetch configuration properties from the Spring Cloud Config Server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spring_cloud_config_client-0.4.0.tar.gz",
+  "download_time": "2025-11-27T13:07:23.767458",
+  "package_url": "https://pypi.org/project/spring-cloud-config-client/"
+}

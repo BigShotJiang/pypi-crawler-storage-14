@@ -1,0 +1,11 @@
+{
+  "name": "info-llm-observe",
+  "version": "0.1.3",
+  "summary": "LLM observability wrapper",
+  "author": "Your Team",
+  "license": "\n        ### `LICENSE`  \n        Put your preferred license text (MIT recommended). Example MIT header.\n        \n        ### `info_llm_observe/version.py`\n        ```py\n        __version__ = \"0.1.0\"\n        ",
+  "home_page": null,
+  "download_filename": "info_llm_observe-0.1.3.tar.gz",
+  "download_time": "2025-11-27T13:07:30.418240",
+  "package_url": "https://pypi.org/project/info-llm-observe/"
+}

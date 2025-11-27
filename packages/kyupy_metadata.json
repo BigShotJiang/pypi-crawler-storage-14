@@ -1,0 +1,11 @@
+{
+  "name": "kyupy",
+  "version": "0.0.6",
+  "summary": "High-performance processing and analysis of non-hierarchical VLSI designs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kyupy-0.0.6.tar.gz",
+  "download_time": "2025-11-27T13:07:25.814231",
+  "package_url": "https://pypi.org/project/kyupy/"
+}

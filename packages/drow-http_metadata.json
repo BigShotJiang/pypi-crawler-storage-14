@@ -1,0 +1,11 @@
+{
+  "name": "drow-http",
+  "version": "0.0.2",
+  "summary": "Prometheus http query client",
+  "author": "Elephant Liu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "drow_http-0.0.2.tar.gz",
+  "download_time": "2025-11-27T13:06:49.989727",
+  "package_url": "https://pypi.org/project/drow-http/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "openwisp-notifications",
+  "version": "1.2.1",
+  "summary": "Notifications module of OpenWISP",
+  "author": "OpenWISP",
+  "license": "GPL3",
+  "home_page": "http://openwisp.org",
+  "download_filename": "openwisp_notifications-1.2.1.tar.gz",
+  "download_time": "2025-11-27T13:06:46.828595",
+  "package_url": "https://pypi.org/project/openwisp-notifications/"
+}

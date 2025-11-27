@@ -1,0 +1,11 @@
+{
+  "name": "nextlayer-sdk-python",
+  "version": "1.1.0",
+  "summary": "Client utilities to interact with next layer public APIs",
+  "author": "Wolfgang Powisch",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nextlayer_sdk_python-1.1.0.tar.gz",
+  "download_time": "2025-11-27T13:06:52.652522",
+  "package_url": "https://pypi.org/project/nextlayer-sdk-python/"
+}

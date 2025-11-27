@@ -1,11 +1,11 @@
 {
   "name": "cpmf-rpachallenge",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Playwright selectors and utilities for rpachallenge.com automation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cpmf_rpachallenge-0.3.0.tar.gz",
-  "download_time": "2025-11-27T09:14:47.462889",
+  "download_filename": "cpmf_rpachallenge-0.3.1.tar.gz",
+  "download_time": "2025-11-27T13:06:56.326554",
   "package_url": "https://pypi.org/project/cpmf-rpachallenge/"
 }

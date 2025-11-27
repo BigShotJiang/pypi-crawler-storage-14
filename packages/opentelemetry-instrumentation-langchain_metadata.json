@@ -1,11 +1,11 @@
 {
   "name": "opentelemetry-instrumentation-langchain",
-  "version": "0.49.4",
+  "version": "0.49.5",
   "summary": "OpenTelemetry Langchain instrumentation",
   "author": "Gal Kleinman",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "opentelemetry_instrumentation_langchain-0.49.4.tar.gz",
-  "download_time": "2025-11-27T11:47:37.294586",
+  "download_filename": "opentelemetry_instrumentation_langchain-0.49.5.tar.gz",
+  "download_time": "2025-11-27T13:07:11.237474",
   "package_url": "https://pypi.org/project/opentelemetry-instrumentation-langchain/"
 }

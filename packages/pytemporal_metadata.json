@@ -1,11 +1,11 @@
 {
   "name": "pytemporal",
-  "version": "1.4.8",
+  "version": "1.4.12",
   "summary": "High-performance bitemporal data processing for Python",
   "author": "PyTemporal Contributors",
   "license": "MIT OR Apache-2.0",
   "home_page": "https://github.com/gingermike/pytemporal",
-  "download_filename": "pytemporal-1.4.8-cp310-cp310-manylinux_2_34_x86_64.whl",
-  "download_time": "2025-11-26T19:47:11.559861",
+  "download_filename": "pytemporal-1.4.12-cp310-cp310-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-11-27T13:06:48.104560",
   "package_url": "https://pypi.org/project/pytemporal/"
 }
