@@ -1,0 +1,11 @@
+{
+  "name": "djmigrator",
+  "version": "1.0.8",
+  "summary": "Smart Django migration manager.",
+  "author": "Umakaran",
+  "license": null,
+  "home_page": "https://github.com/yourusername/djmigrator",
+  "download_filename": "djmigrator-1.0.8.tar.gz",
+  "download_time": "2025-11-27T09:50:14.980683",
+  "package_url": "https://pypi.org/project/djmigrator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vivaa",
+  "version": "1.0.1",
+  "summary": "VIVA: Versatile Intelligent Visual Annotation Tool",
+  "author": "Vishnu Vardhan Reddy Biyyapu",
+  "license": "MIT",
+  "home_page": "https://github.com/your_github_username/VIVA",
+  "download_filename": "vivaa-1.0.1.tar.gz",
+  "download_time": "2025-11-27T09:50:19.664219",
+  "package_url": "https://pypi.org/project/vivaa/"
+}

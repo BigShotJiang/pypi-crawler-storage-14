@@ -1,11 +1,11 @@
 {
   "name": "humancheck-core",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A universal human-in-the-loop operations platform for AI agents",
   "author": "Humancheck",
   "license": null,
   "home_page": "https://humancheck.dev",
-  "download_filename": "humancheck_core-0.1.1.tar.gz",
-  "download_time": "2025-11-26T20:31:48.595997",
+  "download_filename": "humancheck_core-0.1.2.tar.gz",
+  "download_time": "2025-11-27T09:50:41.126439",
   "package_url": "https://pypi.org/project/humancheck-core/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "importfa",
+  "version": "0.5",
+  "summary": "add parent/ancestor folder path into sys.path when import",
+  "author": "wywzxxz",
+  "license": "MIT",
+  "home_page": "https://github.com/wywzxxz/importfa",
+  "download_filename": "importfa-0.5.tar.gz",
+  "download_time": "2025-11-27T09:50:22.844732",
+  "package_url": "https://pypi.org/project/importfa/"
+}

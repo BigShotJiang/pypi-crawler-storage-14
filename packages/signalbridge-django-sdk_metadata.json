@@ -1,0 +1,11 @@
+{
+  "name": "signalbridge-django-sdk",
+  "version": "1.0.0",
+  "summary": "Django SDK for SignalBridge SMS Gateway",
+  "author": "Asaba William",
+  "license": "MIT",
+  "home_page": "https://github.com/nugsoft/signalbridge-django-sdk",
+  "download_filename": "signalbridge_django_sdk-1.0.0.tar.gz",
+  "download_time": "2025-11-27T09:50:11.334319",
+  "package_url": "https://pypi.org/project/signalbridge-django-sdk/"
+}

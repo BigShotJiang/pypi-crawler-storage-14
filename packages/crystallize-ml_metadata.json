@@ -1,11 +1,11 @@
 {
   "name": "crystallize-ml",
-  "version": "0.26.0",
+  "version": "0.26.1",
   "summary": "A framework for reproducible experiments with pipelines, treatments, and hypotheses.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "crystallize_ml-0.26.0.tar.gz",
-  "download_time": "2025-11-27T08:16:03.858226",
+  "download_filename": "crystallize_ml-0.26.1.tar.gz",
+  "download_time": "2025-11-27T09:50:36.957038",
   "package_url": "https://pypi.org/project/crystallize-ml/"
 }

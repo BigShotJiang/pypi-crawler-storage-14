@@ -1,0 +1,11 @@
+{
+  "name": "markdown-table-extractor",
+  "version": "0.1.2",
+  "summary": "Robust structured data extraction from markdown text, built with literate programming using marimo notebooks",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "markdown_table_extractor-0.1.2.tar.gz",
+  "download_time": "2025-11-27T09:50:32.770048",
+  "package_url": "https://pypi.org/project/markdown-table-extractor/"
+}

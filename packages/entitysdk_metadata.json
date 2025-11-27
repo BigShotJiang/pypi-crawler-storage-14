@@ -1,0 +1,11 @@
+{
+  "name": "entitysdk",
+  "version": "0.10.3",
+  "summary": "Python library for interacting with the entitycore service",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "entitysdk-0.10.3.tar.gz",
+  "download_time": "2025-11-27T09:50:43.221350",
+  "package_url": "https://pypi.org/project/entitysdk/"
+}
