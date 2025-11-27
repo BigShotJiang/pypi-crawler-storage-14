@@ -1,0 +1,11 @@
+{
+  "name": "affinity-cli",
+  "version": "1.1.1",
+  "summary": "Universal CLI installer for Affinity products on Linux",
+  "author": "ind4skylivey",
+  "license": "MIT",
+  "home_page": "https://github.com/ind4skylivey/affinity-cli",
+  "download_filename": "affinity_cli-1.1.1.tar.gz",
+  "download_time": "2025-11-27T13:53:46.968379",
+  "package_url": "https://pypi.org/project/affinity-cli/"
+}

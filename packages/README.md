@@ -1,11 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-27T13:43:16.898952
+- **Download Time**: 2025-11-27T13:54:20.944637
 - **Total Packages**: 93
-- **Total Size**: 47.47 MB
+- **Total Size**: 17.57 MB
 
 ## Packages List
+- impacts-hpc
+- mkdocs-dsfr
+- ndtkit-api
+- opik
+- qina
+- snid-sage
+- pyconverters-openai_vision
+- wolfhece-tools
+- pytket-quantinuum
+- konfai
+- indexforge
+- prisma-web3-py
+- sag-py-web-common
+- revise-svc
+- zeroquant-sdk
+- lodkit
+- llm-goose
+- demucs-infer
+- domutils
+- brynq-sdk-adp-decidium
+- brynq-sdk-bob
+- bioplotz
+- rbx
+- traia-iatp
+- pollination-irradiance
+- remarkable-mcp
+- multimodal-agent
+- affinity-cli
+- shotgun-sh
+- djangocms-aldryn-forms
+- lexorank-py
+- micropytest
+- modal
+- ansys-optislang-core
+- toonstream
 - mammos-analysis
 - lets-plot
 - covertreex
@@ -18,7 +53,6 @@
 - xcpcio
 - aabpl
 - pydantic-ai-telegram
-- rbx
 - opencloning-linkml
 - syntaxmatrix
 - HS-TasNet
@@ -32,9 +66,7 @@
 - donkit-llm
 - worker-automate-hub
 - axion
-- llm-goose
 - syngen-databricks
-- zeroquant-sdk
 - syngen
 - uipath-runtime
 - poelis-sdk
@@ -65,37 +97,5 @@
 - ezc3d
 - letschatty
 - py-pve-cloud-backup
-- pyconverters-openai_vision
 - IFE-Surrogate
 - reflex-katex
-- mdast-cli
-- HOS-M2F
-- quantum-graphsim
-- haiku.rag
-- soccernetpro
-- haiku.rag-slim
-- vmakarevich-test-publish
-- pysqly
-- psptool
-- sushy
-- prisma-web3-py
-- cognite-sdk
-- dragon-ml-toolbox
-- ironic-python-agent
-- datashard
-- async-hyperliquid
-- Habitrax
-- obelisk-py
-- fenics-ffcx
-- py-ballisticcalc.exts
-- py-ballisticcalc
-- morphospaces
-- similar2logo
-- exca
-- cmpparis
-- delos-llmax
-- fressnapftracker
-- nbdev-apl
-- nbdev-django
-- nbdev-sphinx
-- STEAM-materials

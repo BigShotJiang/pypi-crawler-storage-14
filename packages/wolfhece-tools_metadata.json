@@ -1,11 +1,11 @@
 {
   "name": "wolfhece-tools",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "summary": "Pure Python tools for wolfhece",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wolfhece_tools-0.0.15-py3-none-any.whl",
-  "download_time": "2025-11-26T13:45:55.466983",
+  "download_filename": "wolfhece_tools-0.0.16-py3-none-any.whl",
+  "download_time": "2025-11-27T13:53:36.463958",
   "package_url": "https://pypi.org/project/wolfhece-tools/"
 }

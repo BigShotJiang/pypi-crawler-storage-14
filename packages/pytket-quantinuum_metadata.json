@@ -1,11 +1,11 @@
 {
   "name": "pytket-quantinuum",
-  "version": "0.55.0",
+  "version": "0.55.1",
   "summary": "Extension for pytket, providing access to Quantinuum backends",
   "author": "TKET development team",
   "license": "Apache 2",
   "home_page": null,
-  "download_filename": "pytket_quantinuum-0.55.0-py3-none-any.whl",
-  "download_time": "2025-11-26T15:49:39.283322",
+  "download_filename": "pytket_quantinuum-0.55.1-py3-none-any.whl",
+  "download_time": "2025-11-27T13:53:36.984855",
   "package_url": "https://pypi.org/project/pytket-quantinuum/"
 }
