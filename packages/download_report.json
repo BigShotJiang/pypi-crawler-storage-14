@@ -1,8 +1,20 @@
 {
-  "download_time": "2025-11-27T20:41:44.089467",
-  "total_packages_downloaded": 77,
-  "total_size_mb": 9.47,
+  "download_time": "2025-11-27T20:48:08.316079",
+  "total_packages_downloaded": 81,
+  "total_size_mb": 5.48,
   "packages": [
+    "linkarchivetools",
+    "cybrid-api-bank-python",
+    "worker-automate-hub",
+    "grnexus",
+    "aiobp",
+    "cybrid-api-organization-python",
+    "cybrid-api-id-python",
+    "renumerate",
+    "review-bot-automator",
+    "prompt-groomer",
+    "amiris-priceforecast",
+    "composennent",
     "fdc-shared-kernel",
     "czechfabric-sdk",
     "yanat",
@@ -31,7 +43,6 @@
     "weni-feature-flags",
     "thunder-bench",
     "calibre",
-    "linkarchivetools",
     "salad-cloud-sdk",
     "wfuzzserver",
     "ordeq_spark",
@@ -72,13 +83,6 @@
     "sarvamai",
     "cheetah-greb",
     "hatch",
-    "anee",
-    "prompt-groomer",
-    "apple-search-ads-client",
-    "notebook-checker",
-    "veee",
-    "praat-parselmouth",
-    "poemar",
-    "x-evolution"
+    "anee"
   ]
 }
