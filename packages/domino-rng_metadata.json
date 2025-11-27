@@ -1,0 +1,11 @@
+{
+  "name": "domino-rng",
+  "version": "0.1.0",
+  "summary": "Random search, shuffle, and pick using a custom RanBit RNG and fisher-yates algorithm",
+  "author": "Shiv Shankar N",
+  "license": null,
+  "home_page": "https://github.com/Shivxr/domino_rng",
+  "download_filename": "domino_rng-0.1.0.tar.gz",
+  "download_time": "2025-11-27T10:12:07.597579",
+  "package_url": "https://pypi.org/project/domino-rng/"
+}

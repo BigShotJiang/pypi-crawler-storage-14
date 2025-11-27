@@ -1,11 +1,11 @@
 {
   "name": "localsage",
-  "version": "1.1.5",
+  "version": "1.2.0",
   "summary": "A lightweight, elegant CLI for AI chat.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "localsage-1.1.5.tar.gz",
-  "download_time": "2025-11-26T06:16:06.349512",
+  "download_filename": "localsage-1.2.0.tar.gz",
+  "download_time": "2025-11-27T10:12:12.607883",
   "package_url": "https://pypi.org/project/localsage/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "django-html-utils",
+  "version": "0.2.11",
+  "summary": "HTML utils app for django.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_html_utils-0.2.11.tar.gz",
+  "download_time": "2025-11-27T10:12:20.217830",
+  "package_url": "https://pypi.org/project/django-html-utils/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "check-zpools",
-  "version": "3.3.0",
+  "version": "3.5.0",
   "summary": "Zpool Monitoring Daemon",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "check_zpools-3.3.0.tar.gz",
-  "download_time": "2025-11-26T18:39:56.598200",
+  "download_filename": "check_zpools-3.5.0.tar.gz",
+  "download_time": "2025-11-27T10:12:25.919909",
   "package_url": "https://pypi.org/project/check-zpools/"
 }

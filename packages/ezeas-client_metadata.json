@@ -1,11 +1,11 @@
 {
   "name": "ezeas-client",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "Ezeas Client API SDK (Python, async)",
   "author": "michael@blueskycreations.com.au",
   "license": null,
   "home_page": null,
-  "download_filename": "ezeas_client-0.1.6.tar.gz",
-  "download_time": "2025-11-27T08:15:30.302986",
+  "download_filename": "ezeas_client-0.1.8.tar.gz",
+  "download_time": "2025-11-27T10:12:22.753504",
   "package_url": "https://pypi.org/project/ezeas-client/"
 }

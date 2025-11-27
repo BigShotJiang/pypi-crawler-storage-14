@@ -1,0 +1,11 @@
+{
+  "name": "gitbuilding",
+  "version": "0.14.9",
+  "summary": "For documenting hardware projects with minimal effort,so you can stop writing and GitBuilding.",
+  "author": "Julian Stirling",
+  "license": "GPLv3",
+  "home_page": "https://gitbuilding.io/",
+  "download_filename": "gitbuilding-0.14.9.tar.gz",
+  "download_time": "2025-11-27T10:11:57.485091",
+  "package_url": "https://pypi.org/project/gitbuilding/"
+}

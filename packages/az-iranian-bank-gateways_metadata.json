@@ -1,11 +1,11 @@
 {
   "name": "az-iranian-bank-gateways",
-  "version": "2.1.3",
+  "version": "2.2.0",
   "summary": "Iranian Bank Gateways for django",
   "author": "Ali Zahedigol",
   "license": "BSD License",
   "home_page": "https://github.com/ali-zahedi/az-iranian-bank-gateways",
-  "download_filename": "az_iranian_bank_gateways-2.1.3.tar.gz",
-  "download_time": "2025-11-26T16:42:21.086703",
+  "download_filename": "az_iranian_bank_gateways-2.2.0.tar.gz",
+  "download_time": "2025-11-27T10:11:47.600616",
   "package_url": "https://pypi.org/project/az-iranian-bank-gateways/"
 }

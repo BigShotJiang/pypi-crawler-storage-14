@@ -1,0 +1,11 @@
+{
+  "name": "MGCS-pytools",
+  "version": "0.2.0",
+  "summary": "A collection of Python tools for data analysis and visualization made for the MGCS HST Treasury program.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mgcs_pytools-0.2.0.tar.gz",
+  "download_time": "2025-11-27T10:12:45.203238",
+  "package_url": "https://pypi.org/project/MGCS-pytools/"
+}

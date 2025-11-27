@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-parrot-touchcontroller",
+  "version": "1.0.0",
+  "summary": "Touch control api to use within the Robot Framework ecosystem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "robotframework_parrot_touchcontroller-1.0.0.tar.gz",
+  "download_time": "2025-11-27T10:11:52.163304",
+  "package_url": "https://pypi.org/project/robotframework-parrot-touchcontroller/"
+}

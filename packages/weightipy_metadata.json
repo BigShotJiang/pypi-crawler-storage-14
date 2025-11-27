@@ -1,0 +1,11 @@
+{
+  "name": "weightipy",
+  "version": "0.4.1",
+  "summary": "Weightipy is a modernized, lightweight, and high-performance library for weighting survey data using the RIM (iterative raking) algorithm.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "weightipy-0.4.1.tar.gz",
+  "download_time": "2025-11-27T10:11:55.384374",
+  "package_url": "https://pypi.org/project/weightipy/"
+}

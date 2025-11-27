@@ -1,0 +1,11 @@
+{
+  "name": "nlbone",
+  "version": "0.7.21",
+  "summary": "Backbone package for interfaces and infrastructure in Python projects",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nlbone-0.7.21.tar.gz",
+  "download_time": "2025-11-27T10:12:32.100339",
+  "package_url": "https://pypi.org/project/nlbone/"
+}

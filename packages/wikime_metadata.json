@@ -1,0 +1,11 @@
+{
+  "name": "wikime",
+  "version": "0.1.0",
+  "summary": "Tools for creating a wiki from a directory of markdown files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wikime-0.1.0.tar.gz",
+  "download_time": "2025-11-27T10:12:24.682495",
+  "package_url": "https://pypi.org/project/wikime/"
+}

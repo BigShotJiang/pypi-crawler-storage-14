@@ -1,0 +1,11 @@
+{
+  "name": "llmUnify",
+  "version": "1.0.2",
+  "summary": "LlmUnify is a library that abstracts connections to major LLM model providers, simplifying their invocation and interoperability.",
+  "author": "Sistemi Informativi S.r.l.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llmunify-1.0.2.tar.gz",
+  "download_time": "2025-11-27T10:11:54.103202",
+  "package_url": "https://pypi.org/project/llmUnify/"
+}
