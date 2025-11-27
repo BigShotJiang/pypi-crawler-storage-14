@@ -1,18 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-27T16:54:30.000686
-- **Total Packages**: 91
-- **Total Size**: 34.76 MB
+- **Download Time**: 2025-11-27T17:03:25.661485
+- **Total Packages**: 94
+- **Total Size**: 1.6 MB
 
 ## Packages List
-- never-primp
-- lazynovel
-- tess-mlens
-- flyn
-- remote-debug
-- code-puppy
-- pyDOE3
 - odoo-addon-helpdesk-mgmt
 - pypromice
 - pyfwht
@@ -20,6 +13,7 @@
 - ray-python
 - dot-ring
 - localstack-core
+- lazynovel
 - source-atlas
 - assemblyline-core
 - assemblyline
@@ -54,6 +48,7 @@
 - zyra-tool
 - grepxl
 - mcp-proxy-adapter
+- tess-mlens
 - PackLab
 - amulet-game
 - toonkit
@@ -77,6 +72,7 @@
 - f40-toolkit
 - kudo
 - rastereasy
+- code-puppy
 - arcane-workflows
 - arcane-secretmanager
 - arcane-bing
@@ -97,3 +93,10 @@
 - arcane-spreadsheet
 - arcane-bigquery
 - arcane-stackdriver
+- arcane-firebase
+- arcane-string
+- arcane-secret
+- arcane-mct
+- arcane-numbers
+- arcane-ga4
+- arcane-tiktok

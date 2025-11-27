@@ -1,15 +1,8 @@
 {
-  "download_time": "2025-11-27T16:54:30.000686",
-  "total_packages_downloaded": 91,
-  "total_size_mb": 34.76,
+  "download_time": "2025-11-27T17:03:25.661485",
+  "total_packages_downloaded": 94,
+  "total_size_mb": 1.6,
   "packages": [
-    "never-primp",
-    "lazynovel",
-    "tess-mlens",
-    "flyn",
-    "remote-debug",
-    "code-puppy",
-    "pyDOE3",
     "odoo-addon-helpdesk-mgmt",
     "pypromice",
     "pyfwht",
@@ -17,6 +10,7 @@
     "ray-python",
     "dot-ring",
     "localstack-core",
+    "lazynovel",
     "source-atlas",
     "assemblyline-core",
     "assemblyline",
@@ -51,6 +45,7 @@
     "zyra-tool",
     "grepxl",
     "mcp-proxy-adapter",
+    "tess-mlens",
     "PackLab",
     "amulet-game",
     "toonkit",
@@ -74,6 +69,7 @@
     "f40-toolkit",
     "kudo",
     "rastereasy",
+    "code-puppy",
     "arcane-workflows",
     "arcane-secretmanager",
     "arcane-bing",
@@ -93,6 +89,13 @@
     "arcane-mailer",
     "arcane-spreadsheet",
     "arcane-bigquery",
-    "arcane-stackdriver"
+    "arcane-stackdriver",
+    "arcane-firebase",
+    "arcane-string",
+    "arcane-secret",
+    "arcane-mct",
+    "arcane-numbers",
+    "arcane-ga4",
+    "arcane-tiktok"
   ]
 }
