@@ -1,11 +1,11 @@
 {
   "name": "another-uv",
-  "version": "0.1.2",
+  "version": "0.1.6",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "another_uv-0.1.2.tar.gz",
-  "download_time": "2025-11-27T19:47:31.362297",
+  "download_filename": "another_uv-0.1.6-py3-none-any.whl",
+  "download_time": "2025-11-27T20:09:44.119377",
   "package_url": "https://pypi.org/project/another-uv/"
 }

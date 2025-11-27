@@ -1,11 +1,11 @@
 {
   "name": "ordeq",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "summary": "Ordeq is a framework that simplifies IO and modularizes pipeline logic",
   "author": "Niels Neerhoff, Simon Brugman",
   "license": null,
   "home_page": null,
-  "download_filename": "ordeq-1.4.0.tar.gz",
-  "download_time": "2025-11-26T09:35:55.077071",
+  "download_filename": "ordeq-1.4.1.tar.gz",
+  "download_time": "2025-11-27T20:09:45.214888",
   "package_url": "https://pypi.org/project/ordeq/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "egokit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Policy Engine & Scaffolding for AI coding agents",
   "author": "EgoKit Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "egokit-1.0.0.tar.gz",
-  "download_time": "2025-11-26T19:47:37.844660",
+  "download_filename": "egokit-1.0.1.tar.gz",
+  "download_time": "2025-11-27T20:09:50.270311",
   "package_url": "https://pypi.org/project/egokit/"
 }

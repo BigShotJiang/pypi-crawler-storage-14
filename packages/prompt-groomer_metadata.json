@@ -1,11 +1,11 @@
 {
   "name": "prompt-groomer",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A lightweight Python library for optimizing and cleaning LLM inputs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "prompt_groomer-0.2.0.tar.gz",
-  "download_time": "2025-11-27T19:11:46.515014",
+  "download_filename": "prompt_groomer-0.2.1.tar.gz",
+  "download_time": "2025-11-27T20:09:49.181595",
   "package_url": "https://pypi.org/project/prompt-groomer/"
 }

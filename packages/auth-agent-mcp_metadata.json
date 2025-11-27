@@ -1,0 +1,11 @@
+{
+  "name": "auth-agent-mcp",
+  "version": "1.0.0",
+  "summary": "OAuth 2.1 middleware for MCP servers using Auth-Agent",
+  "author": "Auth-Agent Team",
+  "license": "MIT",
+  "home_page": "https://github.com/auth-agent/auth-agent-mcp",
+  "download_filename": "auth_agent_mcp-1.0.0.tar.gz",
+  "download_time": "2025-11-27T20:09:57.285783",
+  "package_url": "https://pypi.org/project/auth-agent-mcp/"
+}

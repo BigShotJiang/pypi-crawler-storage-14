@@ -1,0 +1,11 @@
+{
+  "name": "praat-parselmouth",
+  "version": "0.4.7",
+  "summary": "Praat in Python, the Pythonic way",
+  "author": "Yannick Jadoul",
+  "license": "GPLv3",
+  "home_page": "https://github.com/YannickJadoul/Parselmouth",
+  "download_filename": "praat_parselmouth-0.4.7-cp27-cp27m-macosx_10_9_x86_64.whl",
+  "download_time": "2025-11-27T20:09:53.961793",
+  "package_url": "https://pypi.org/project/praat-parselmouth/"
+}

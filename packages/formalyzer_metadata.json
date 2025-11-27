@@ -1,11 +1,11 @@
 {
   "name": "formalyzer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Analyze PDF and web forms and fill in the forms",
   "author": "Scott H. Hawley",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/drscotthawley/formalyzer",
-  "download_filename": "formalyzer-0.0.2.tar.gz",
-  "download_time": "2025-11-27T15:11:11.877875",
+  "download_filename": "formalyzer-0.0.3.tar.gz",
+  "download_time": "2025-11-27T20:10:02.846104",
   "package_url": "https://pypi.org/project/formalyzer/"
 }

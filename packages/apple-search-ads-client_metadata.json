@@ -1,11 +1,11 @@
 {
   "name": "apple-search-ads-client",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "summary": "A Python client for Apple Search Ads API v5",
   "author": "Bickster LLC",
   "license": "MIT",
   "home_page": "https://github.com/bickster/apple-search-ads-python",
-  "download_filename": "apple_search_ads_client-2.3.0.tar.gz",
-  "download_time": "2025-11-26T02:25:16.369557",
+  "download_filename": "apple_search_ads_client-2.4.0.tar.gz",
+  "download_time": "2025-11-27T20:09:50.841478",
   "package_url": "https://pypi.org/project/apple-search-ads-client/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "notebook-checker",
+  "version": "0.1.1",
+  "summary": "A package to check notebooks for the use of globals inside functions and to check student progress on assignments",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "notebook_checker-0.1.1.tar.gz",
+  "download_time": "2025-11-27T20:09:51.406829",
+  "package_url": "https://pypi.org/project/notebook-checker/"
+}
