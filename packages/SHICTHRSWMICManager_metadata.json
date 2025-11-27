@@ -1,0 +1,11 @@
+{
+  "name": "SHICTHRSWMICManager",
+  "version": "1.0.0",
+  "summary": "SHICTHRS WMIC Manager",
+  "author": "SHICTHRS",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/JNTMTMTM/SHICTHRS_WMICManager",
+  "download_filename": "shicthrswmicmanager-1.0.0.tar.gz",
+  "download_time": "2025-11-27T09:14:58.494883",
+  "package_url": "https://pypi.org/project/SHICTHRSWMICManager/"
+}

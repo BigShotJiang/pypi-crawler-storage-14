@@ -1,0 +1,11 @@
+{
+  "name": "application-analysis",
+  "version": "1.0.2",
+  "summary": "Comprehensive Python code analyzer with HTML reporting",
+  "author": "Application Analysis Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "application_analysis-1.0.2.tar.gz",
+  "download_time": "2025-11-27T09:14:53.814585",
+  "package_url": "https://pypi.org/project/application-analysis/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jumpstarter-driver-ridesx",
+  "version": "0.7.3",
+  "summary": "Jumpstarter driver for Qualcomm RideSX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jumpstarter_driver_ridesx-0.7.3.tar.gz",
+  "download_time": "2025-11-27T09:14:18.166749",
+  "package_url": "https://pypi.org/project/jumpstarter-driver-ridesx/"
+}

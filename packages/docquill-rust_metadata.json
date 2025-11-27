@@ -1,0 +1,11 @@
+{
+  "name": "docquill-rust",
+  "version": "0.1.0",
+  "summary": "High-performance Rust components for DocQuill: PDF renderer and EMF/WMF converter",
+  "author": "AddNap",
+  "license": null,
+  "home_page": null,
+  "download_filename": "docquill_rust-0.1.0.tar.gz",
+  "download_time": "2025-11-27T09:14:59.013135",
+  "package_url": "https://pypi.org/project/docquill-rust/"
+}

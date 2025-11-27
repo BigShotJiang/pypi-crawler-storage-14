@@ -1,0 +1,11 @@
+{
+  "name": "librespot-spotizerr-phoenix",
+  "version": "0.0.12",
+  "summary": "Spotizerr's python librespot implementation - Phoenix fork",
+  "author": "spotizerrphoenix",
+  "license": "Apache-2.0",
+  "home_page": "https://lavaforge.org/spotizerrphoenix/librespot-spotizerr-phoenix",
+  "download_filename": "librespot_spotizerr_phoenix-0.0.12.tar.gz",
+  "download_time": "2025-11-27T09:14:41.706331",
+  "package_url": "https://pypi.org/project/librespot-spotizerr-phoenix/"
+}

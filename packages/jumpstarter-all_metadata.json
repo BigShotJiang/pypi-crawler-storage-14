@@ -1,0 +1,11 @@
+{
+  "name": "jumpstarter-all",
+  "version": "0.7.3",
+  "summary": "Jumpstarter meta-package which will install all packages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jumpstarter_all-0.7.3.tar.gz",
+  "download_time": "2025-11-27T09:14:30.095898",
+  "package_url": "https://pypi.org/project/jumpstarter-all/"
+}
