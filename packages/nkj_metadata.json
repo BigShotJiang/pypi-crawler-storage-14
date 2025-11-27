@@ -1,0 +1,11 @@
+{
+  "name": "nkj",
+  "version": "1.20",
+  "summary": "Phthon library for geometric computation",
+  "author": "Yoshikazu NAKAJIMA",
+  "license": "Department of Biomedical Informatics, Institute of Science Tokyo, Japan",
+  "home_page": null,
+  "download_filename": "nkj-1.20.tar.gz",
+  "download_time": "2025-11-27T16:40:30.743273",
+  "package_url": "https://pypi.org/project/nkj/"
+}

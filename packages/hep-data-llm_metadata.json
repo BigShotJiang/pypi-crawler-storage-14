@@ -1,11 +1,11 @@
 {
   "name": "hep-data-llm",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hep_data_llm-1.1.0-py3-none-any.whl",
-  "download_time": "2025-11-27T16:12:15.100030",
+  "download_filename": "hep_data_llm-1.1.1-py3-none-any.whl",
+  "download_time": "2025-11-27T16:40:39.527100",
   "package_url": "https://pypi.org/project/hep-data-llm/"
 }

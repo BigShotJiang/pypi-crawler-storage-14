@@ -1,0 +1,11 @@
+{
+  "name": "datatune",
+  "version": "0.0.5",
+  "summary": "Your backend for LLM powered Big Data Apps",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "datatune-0.0.5.tar.gz",
+  "download_time": "2025-11-27T16:40:38.360943",
+  "package_url": "https://pypi.org/project/datatune/"
+}

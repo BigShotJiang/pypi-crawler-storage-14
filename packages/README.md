@@ -1,14 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-27T16:12:48.570833
+- **Download Time**: 2025-11-27T16:41:08.462264
 - **Total Packages**: 87
-- **Total Size**: 26.16 MB
+- **Total Size**: 17.45 MB
 
 ## Packages List
+- f40-toolkit
+- createagents
+- lfx-nightly
+- ayechat
+- newline-iwb-converter
+- cerebrium
+- abstra
+- eodag-labextension
+- irisify
+- policyengine-core
+- django-grappelli
+- iis-api-helper
+- llm-goose
+- the-datagarden-models
+- splatstream
+- lecrapaud
+- databend-udf
+- continuum-objects
+- pandasio
+- coalex
+- torchcor
+- sentry-infra-tools
+- docling-core
+- minicc
+- tess-mlens
+- nkj
+- downfile
+- amulet-core
+- daytona_sdk
+- daytona
+- aicu
+- kudo
+- aicuflow
+- daytona_toolbox_api_client_async
+- daytona_toolbox_api_client
+- daytona_api_client_async
+- daytona_api_client
+- maquinaweb-shared-auth
+- datatune
+- rypi
+- hep-data-llm
+- vvv-tools
 - synchronicity
 - asgard-eopf
-- torchcor
 - dummynet
 - ywpi_hub
 - ywpi
@@ -27,19 +68,16 @@
 - dbt-dry-run
 - strdrop
 - key-musicz
-- databend-udf
 - pollination-irradiance
 - drqeh
 - pymlem2
 - pathtraits
-- hep-data-llm
 - brunie
 - oli-python
 - setupEM
 - evonet
 - mecho
 - locust
-- aicu
 - mahtab
 - bagel
 - aprofiler
@@ -55,41 +93,3 @@
 - pyfwht
 - DirectoryControl
 - django-green-migration
-- pi-zero-pytorch
-- idyntree
-- teareduce
-- edwh-auth-rbac
-- rsalor
-- clumpygui
-- wg-Qrotator
-- rasa-pro
-- veriskgo
-- roz
-- mixam-sdk
-- torchgeneric
-- aicuflow
-- pnl-watchdog
-- apilinker
-- pyverifactu
-- linkarchivetools
-- smartg
-- remote-debug
-- gha-workflow-linter
-- source-atlas
-- onepix-fouriersplit
-- cylc-flow
-- pipelex
-- mh-sys-gen
-- py-3rdparty-mediawiki
-- aa-markettracker-plugin
-- dvt-core
-- terratools
-- muwanx
-- uv-easy
-- project-vault
-- pywiim
-- baloot
-- AstrBot
-- qanswer_sdk
-- pysdic
-- eodash_catalog

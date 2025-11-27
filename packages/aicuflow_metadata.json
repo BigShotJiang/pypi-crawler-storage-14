@@ -1,11 +1,11 @@
 {
   "name": "aicuflow",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "use aicuflow in your python apps",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aicuflow-0.0.1.tar.gz",
-  "download_time": "2025-11-27T16:12:35.174831",
+  "download_filename": "aicuflow-0.0.2.tar.gz",
+  "download_time": "2025-11-27T16:40:34.844041",
   "package_url": "https://pypi.org/project/aicuflow/"
 }
