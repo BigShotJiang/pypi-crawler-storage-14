@@ -1,0 +1,11 @@
+{
+  "name": "juturna",
+  "version": "1.0.2",
+  "summary": "Juturna core library",
+  "author": "Antonio Bevilacqua",
+  "license": "MIT",
+  "home_page": "https://github.com/meetecho/juturna",
+  "download_filename": "juturna-1.0.2.tar.gz",
+  "download_time": "2025-11-27T15:10:49.940324",
+  "package_url": "https://pypi.org/project/juturna/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qagent",
+  "version": "0.1.0",
+  "summary": "Lightweight multi-agent framework with Trace, ReAct, A-MEM memory system",
+  "author": "aixiasang",
+  "license": "MIT",
+  "home_page": "https://github.com/aixiasang/qagent",
+  "download_filename": "qagent-0.1.0.tar.gz",
+  "download_time": "2025-11-27T15:10:50.471689",
+  "package_url": "https://pypi.org/project/qagent/"
+}

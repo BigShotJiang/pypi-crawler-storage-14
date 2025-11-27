@@ -1,0 +1,11 @@
+{
+  "name": "mammos-entity",
+  "version": "0.11.0",
+  "summary": "Python package to specify material parameters for MaMMoS simulation suite.",
+  "author": "Swapneel Amit Pathak, Andrea Petrocchi, Sam Holt, Martin Lang, Wilfried Hortschitz, Santa Pile, Martin Dobiasch, Hans Fangohr",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mammos_entity-0.11.0.tar.gz",
+  "download_time": "2025-11-27T15:10:53.102416",
+  "package_url": "https://pypi.org/project/mammos-entity/"
+}

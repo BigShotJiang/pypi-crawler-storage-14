@@ -1,0 +1,11 @@
+{
+  "name": "gb2seq",
+  "version": "0.3.5",
+  "summary": "Python library and scripts for working with unannotated sequences based on an annotated reference genome provided by a GenBank file.",
+  "author": "Terry C. Jones, Barbara Mühlemann, Udo Gieraths, Nikolai Zaki",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gb2seq-0.3.5.tar.gz",
+  "download_time": "2025-11-27T15:11:12.398511",
+  "package_url": "https://pypi.org/project/gb2seq/"
+}

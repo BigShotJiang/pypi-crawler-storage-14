@@ -1,0 +1,11 @@
+{
+  "name": "mammos-mumag",
+  "version": "0.10.0",
+  "summary": "Finite element micromagnetic simulation tool.",
+  "author": "Thomas Schrefl, Swapneel Amit Pathak, Andrea Petrocchi, Samuel Holt, Martin Lang, Hans Fangohr",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mammos_mumag-0.10.0-py3-none-any.whl",
+  "download_time": "2025-11-27T15:11:05.621734",
+  "package_url": "https://pypi.org/project/mammos-mumag/"
+}

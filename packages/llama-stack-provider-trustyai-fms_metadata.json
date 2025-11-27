@@ -1,0 +1,11 @@
+{
+  "name": "llama-stack-provider-trustyai-fms",
+  "version": "0.3.0",
+  "summary": "Remote safety provider for Llama Stack integrating FMS Guardrails Orchestrator and community detectors",
+  "author": "GitHub: m-misiura",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_stack_provider_trustyai_fms-0.3.0.tar.gz",
+  "download_time": "2025-11-27T15:10:48.894038",
+  "package_url": "https://pypi.org/project/llama-stack-provider-trustyai-fms/"
+}
