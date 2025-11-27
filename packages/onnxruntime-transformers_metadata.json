@@ -1,0 +1,11 @@
+{
+  "name": "onnxruntime-transformers",
+  "version": "0.1.5",
+  "summary": "transformers for production runtime, 3x faster on cpu, no pytorch nor tensorflow included",
+  "author": "chuboy",
+  "license": null,
+  "home_page": "https://github.com/billju/onnxruntime_transformers",
+  "download_filename": "onnxruntime_transformers-0.1.5.tar.gz",
+  "download_time": "2025-11-27T04:00:17.449483",
+  "package_url": "https://pypi.org/project/onnxruntime-transformers/"
+}

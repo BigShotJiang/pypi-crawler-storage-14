@@ -1,11 +1,11 @@
 {
   "name": "cybersec-scanner",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "A comprehensive security scanner and RAG-based vulnerability analyzer",
   "author": "CyberSec Team",
   "license": "MIT",
   "home_page": "https://github.com/AnubhavChoudhery/cybersec-scanner",
-  "download_filename": "cybersec_scanner-0.1.7.tar.gz",
-  "download_time": "2025-11-27T03:32:09.331736",
+  "download_filename": "cybersec_scanner-0.1.9.tar.gz",
+  "download_time": "2025-11-27T03:59:50.390511",
   "package_url": "https://pypi.org/project/cybersec-scanner/"
 }

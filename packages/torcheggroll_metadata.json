@@ -1,0 +1,11 @@
+{
+  "name": "torcheggroll",
+  "version": "0.1.0",
+  "summary": "EggRoll-style Evolution Strategies with low-rank noise for PyTorch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "torcheggroll-0.1.0.tar.gz",
+  "download_time": "2025-11-27T04:00:06.443179",
+  "package_url": "https://pypi.org/project/torcheggroll/"
+}

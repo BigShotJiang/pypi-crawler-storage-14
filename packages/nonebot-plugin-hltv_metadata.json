@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-hltv",
-  "version": "3.0.0",
+  "version": "3.2.0",
   "summary": "CS2/CSGO HLTV信息查询插件，提供比赛数据、战队信息、选手数据查询",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "nonebot_plugin_hltv-3.0.0.tar.gz",
-  "download_time": "2025-11-27T02:21:46.353252",
+  "download_filename": "nonebot_plugin_hltv-3.2.0.tar.gz",
+  "download_time": "2025-11-27T03:59:57.556169",
   "package_url": "https://pypi.org/project/nonebot-plugin-hltv/"
 }

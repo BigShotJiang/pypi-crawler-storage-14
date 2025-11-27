@@ -1,11 +1,11 @@
 {
   "name": "wgup",
-  "version": "0.0.0a7",
+  "version": "0.0.0a8",
   "summary": "Scriptable shortcuts for managing Wireguard interfaces.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wgup-0.0.0a7.tar.gz",
-  "download_time": "2025-11-26T23:28:49.791258",
+  "download_filename": "wgup-0.0.0a8.tar.gz",
+  "download_time": "2025-11-27T04:00:14.127822",
   "package_url": "https://pypi.org/project/wgup/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "metamist",
+  "version": "7.13.1",
+  "summary": "Python API for interacting with the Sample API system",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/populationgenomics/metamist",
+  "download_filename": "metamist-7.13.1.tar.gz",
+  "download_time": "2025-11-27T03:59:48.234216",
+  "package_url": "https://pypi.org/project/metamist/"
+}
