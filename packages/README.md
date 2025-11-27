@@ -1,11 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-27T21:37:01.272979
+- **Download Time**: 2025-11-27T21:48:15.900198
 - **Total Packages**: 99
-- **Total Size**: 12.23 MB
+- **Total Size**: 21.31 MB
 
 ## Packages List
+- aplicacion-ventas-martin
+- infisicalsdk
+- google-maps-mcp-server
+- aa-markettracker-plugin
+- namel3ss
+- ivoryos
+- mcp-feedback
+- btx-fix-mcp
+- lerobot
+- jps-rag-assistant
+- parse-lp
+- django-graflow
+- nexios
+- repo-ctx
+- quillmark
+- zizou
+- IServAPI
+- easyecs
+- memorymachines
+- claude-message-visualizer
+- yanat
+- typedparser
+- janus-api
+- packg
+- malevich-app
+- drpython
+- ansys-systemcoupling-core
 - nagra
 - apache-airflow-providers-zendesk
 - apache-airflow-providers-ydb
@@ -78,30 +105,3 @@
 - apache-airflow-providers-common-compat
 - apache-airflow-providers-cohere
 - apache-airflow-providers-cncf-kubernetes
-- apache-airflow-providers-cloudant
-- apache-airflow-providers-celery
-- apache-airflow-providers-atlassian-jira
-- apache-airflow-providers-asana
-- apache-airflow-providers-arangodb
-- apache-airflow-providers-apprise
-- apache-airflow-providers-apache-tinkerpop
-- apache-airflow-providers-apache-spark
-- apache-airflow-providers-apache-pinot
-- apache-airflow-providers-apache-pig
-- apache-airflow-providers-apache-livy
-- apache-airflow-providers-apache-kylin
-- apache-airflow-providers-apache-kafka
-- apache-airflow-providers-apache-impala
-- apache-airflow-providers-apache-iceberg
-- apache-airflow-providers-apache-hive
-- apache-airflow-providers-apache-hdfs
-- apache-airflow-providers-apache-flink
-- apache-airflow-providers-apache-druid
-- apache-airflow-providers-apache-drill
-- apache-airflow-providers-apache-cassandra
-- apache-airflow-providers-apache-beam
-- apache-airflow-providers-amazon
-- apache-airflow-providers-alibaba
-- apache-airflow-providers-airbyte
-- linkarchivetools
-- jsonbrotliminifyer

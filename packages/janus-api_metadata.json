@@ -1,0 +1,11 @@
+{
+  "name": "janus-api",
+  "version": "0.1.5",
+  "summary": "Python bindings for Janus webrtc Media Server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "janus_api-0.1.5.tar.gz",
+  "download_time": "2025-11-27T21:47:36.475910",
+  "package_url": "https://pypi.org/project/janus-api/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "IServAPI",
+  "version": "1.3.1",
+  "summary": "Unofficial API for IServ",
+  "author": "Leo Aqua",
+  "license": null,
+  "home_page": "https://github.com/Leo-Aqua/IServAPI",
+  "download_filename": "iservapi-1.3.1.tar.gz",
+  "download_time": "2025-11-27T21:47:33.387895",
+  "package_url": "https://pypi.org/project/IServAPI/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zizou",
+  "version": "0.1.5",
+  "summary": "Python package to detect anomalies in geoscience time series data",
+  "author": null,
+  "license": "GPL v3",
+  "home_page": null,
+  "download_filename": "zizou-0.1.5.tar.gz",
+  "download_time": "2025-11-27T21:47:32.874605",
+  "package_url": "https://pypi.org/project/zizou/"
+}
