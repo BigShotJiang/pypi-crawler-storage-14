@@ -1,11 +1,11 @@
 {
   "name": "celery-leased-beat",
-  "version": "0.1.0a0",
+  "version": "0.1.0a1",
   "summary": "Celery Beat with leader election",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "celery_leased_beat-0.1.0a0.tar.gz",
-  "download_time": "2025-11-25T15:34:16.063075",
+  "download_filename": "celery_leased_beat-0.1.0a1.tar.gz",
+  "download_time": "2025-11-27T15:49:40.757456",
   "package_url": "https://pypi.org/project/celery-leased-beat/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-source-facebook-pages",
+  "version": "2.0.1",
+  "summary": "Source implementation for Facebook Pages.",
+  "author": "Airbyte",
+  "license": "ELv2",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_source_facebook_pages-2.0.1.tar.gz",
+  "download_time": "2025-11-27T15:49:47.074614",
+  "package_url": "https://pypi.org/project/airbyte-source-facebook-pages/"
+}

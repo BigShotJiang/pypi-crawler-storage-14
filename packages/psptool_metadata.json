@@ -1,11 +1,11 @@
 {
   "name": "psptool",
-  "version": "3.1",
+  "version": "3.2",
   "summary": "PSPTool is a tool for dealing with AMD binary blobs",
-  "author": "Christian Werling",
+  "author": null,
   "license": null,
-  "home_page": "https://github.com/PSPReverse/PSPTool",
-  "download_filename": "psptool-3.1.tar.gz",
-  "download_time": "2025-11-27T13:43:04.340015",
+  "home_page": null,
+  "download_filename": "psptool-3.2.tar.gz",
+  "download_time": "2025-11-27T15:49:54.840774",
   "package_url": "https://pypi.org/project/psptool/"
 }

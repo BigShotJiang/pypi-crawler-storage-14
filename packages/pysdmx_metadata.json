@@ -1,0 +1,11 @@
+{
+  "name": "pysdmx",
+  "version": "1.9.0",
+  "summary": "Your opinionated Python SDMX library",
+  "author": "Xavier Sosnovsky",
+  "license": "Apache-2.0",
+  "home_page": "https://sdmx.io/tools/pysdmx",
+  "download_filename": "pysdmx-1.9.0.tar.gz",
+  "download_time": "2025-11-27T15:49:30.785781",
+  "package_url": "https://pypi.org/project/pysdmx/"
+}
