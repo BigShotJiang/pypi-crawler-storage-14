@@ -1,11 +1,11 @@
 {
   "name": "asr-enhancer",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "ASR Quality Enhancement Layer for Parakeet Multilingual ASR",
   "author": "ASR Enhancement Team",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/asr-enhancer",
-  "download_filename": "asr_enhancer-0.1.2.tar.gz",
-  "download_time": "2025-11-27T17:02:50.743455",
+  "download_filename": "asr_enhancer-0.1.4.tar.gz",
+  "download_time": "2025-11-27T17:29:54.772774",
   "package_url": "https://pypi.org/project/asr-enhancer/"
 }

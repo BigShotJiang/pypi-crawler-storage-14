@@ -1,0 +1,11 @@
+{
+  "name": "wago-visu-client",
+  "version": "0.1.0",
+  "summary": "Async Python client library for WAGO 750- PLCs with Codesys 2.3 WebVisu API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wago_visu_client-0.1.0.tar.gz",
+  "download_time": "2025-11-27T17:29:57.901288",
+  "package_url": "https://pypi.org/project/wago-visu-client/"
+}

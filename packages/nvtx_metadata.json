@@ -1,0 +1,11 @@
+{
+  "name": "nvtx",
+  "version": "0.2.14",
+  "summary": "Python NVTX - Python code annotation library",
+  "author": "NVIDIA Corporation",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "nvtx-0.2.14-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-11-27T17:29:48.494531",
+  "package_url": "https://pypi.org/project/nvtx/"
+}

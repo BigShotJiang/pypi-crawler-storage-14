@@ -1,0 +1,11 @@
+{
+  "name": "rust-timeseries",
+  "version": "1.1.0",
+  "summary": "Rust-implemented time-series utilities exposed to Python via PyO3.",
+  "author": "Dor Fuchs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rust_timeseries-1.1.0.tar.gz",
+  "download_time": "2025-11-27T17:29:40.106356",
+  "package_url": "https://pypi.org/project/rust-timeseries/"
+}

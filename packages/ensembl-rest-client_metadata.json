@@ -1,0 +1,11 @@
+{
+  "name": "ensembl-rest-client",
+  "version": "0.1.4a0",
+  "summary": "Python access to the Ensembl REST API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ensembl_rest_client-0.1.4a0.tar.gz",
+  "download_time": "2025-11-27T17:30:12.639619",
+  "package_url": "https://pypi.org/project/ensembl-rest-client/"
+}

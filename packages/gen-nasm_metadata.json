@@ -1,0 +1,11 @@
+{
+  "name": "gen-nasm",
+  "version": "1.0.3",
+  "summary": "Generating nasm project",
+  "author": "Vladimir Roncevic",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://vroncevic.github.io/gen_nasm",
+  "download_filename": "gen_nasm-1.0.3.tar.gz",
+  "download_time": "2025-11-27T17:29:44.819713",
+  "package_url": "https://pypi.org/project/gen-nasm/"
+}

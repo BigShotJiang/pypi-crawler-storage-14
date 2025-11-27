@@ -1,0 +1,11 @@
+{
+  "name": "bugbug",
+  "version": "0.0.614",
+  "summary": "ML tools for Mozilla projects",
+  "author": "Marco Castelluccio",
+  "license": "MPL2",
+  "home_page": null,
+  "download_filename": "bugbug-0.0.614.tar.gz",
+  "download_time": "2025-11-27T17:29:55.299366",
+  "package_url": "https://pypi.org/project/bugbug/"
+}

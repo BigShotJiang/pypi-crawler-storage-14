@@ -1,0 +1,11 @@
+{
+  "name": "barte-python-sdk",
+  "version": "0.10.0",
+  "summary": "Python SDK for integration with Barte API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "barte_python_sdk-0.10.0.tar.gz",
+  "download_time": "2025-11-27T17:29:45.863887",
+  "package_url": "https://pypi.org/project/barte-python-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agentix-core",
+  "version": "0.4.3",
+  "summary": "Core module for the Agentix platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentix_core-0.4.3.tar.gz",
+  "download_time": "2025-11-27T17:29:55.820211",
+  "package_url": "https://pypi.org/project/agentix-core/"
+}
