@@ -1,0 +1,11 @@
+{
+  "name": "sqs-workers",
+  "version": "0.7.0",
+  "summary": "An opinionated queue processor for Amazon SQS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqs_workers-0.7.0.tar.gz",
+  "download_time": "2025-11-27T10:52:27.201011",
+  "package_url": "https://pypi.org/project/sqs-workers/"
+}

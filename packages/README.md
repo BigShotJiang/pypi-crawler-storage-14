@@ -1,11 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-27T10:43:58.583509
+- **Download Time**: 2025-11-27T10:53:07.430523
 - **Total Packages**: 92
-- **Total Size**: 26.1 MB
+- **Total Size**: 11.43 MB
 
 ## Packages List
+- shotgun-sh
+- odoo-addon-website-sale-checkout-skip-payment
+- moysklad-api
+- nb-venv-kernels
+- hdsemg-shared
+- konduktor-nightly
+- h5rdmtoolbox
+- AntiCAP
+- pandoc-embedz
+- nano-whale
+- fdc-shared-kernel
+- pybangla
+- trainy-policy-nightly
+- arkit
+- dinja
+- vdata
+- sqs-workers
+- recurvedata-lib
+- ansible-dev-tools
+- sample-mcp-server
+- systemhealthcheck
+- openobd-protocol
+- actinia-cloudevent-plugin
+- redis-func-cache
+- nexgml
+- npxpy
+- speterlin-stocks
 - letta-nightly
 - ezarr
 - ahjo
@@ -15,14 +42,12 @@
 - dcat-ap-hub
 - stigg-api-client-v2
 - udata-hydra
-- nb-venv-kernels
 - HexSS
 - chromatrace
 - stigg-api-client
 - cmem-plugin-wfreports
 - datagrok-api
 - ydb-dbapi
-- openobd-protocol
 - aerosoltools
 - langchain-decorators
 - kostyl-toolkit
@@ -33,7 +58,6 @@
 - neural-optimiser
 - renault-api
 - gns3-mcp
-- cache_house
 - pytacs
 - rayel-rpa-executor
 - brmspy
@@ -74,27 +98,3 @@
 - androtools
 - agentkernel
 - mecho
-- vibetuner
-- wbintegrator_office365
-- wbwiki
-- wbcompliance
-- wbcore
-- wbnews
-- wbreport
-- wbtasks
-- wbwriter
-- wbportfolio
-- wbaccounting
-- iragca
-- wbhuman_resources
-- wbcrm
-- wbmailing
-- wbfdm
-- merobox
-- ellippy
-- guid47calib
-- driftpy
-- pydaasiot
-- tfa-me-ha-local
-- mkdocs-shadcn
-- dask-geomodeling

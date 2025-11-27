@@ -1,0 +1,11 @@
+{
+  "name": "h5rdmtoolbox",
+  "version": "2.5.3",
+  "summary": "Supporting a FAIR Research Data lifecycle using Python and HDF5.",
+  "author": "Matthias Probst",
+  "license": null,
+  "home_page": "https://h5rdmtoolbox.readthedocs.io/en/latest/",
+  "download_filename": "h5rdmtoolbox-2.5.3.tar.gz",
+  "download_time": "2025-11-27T10:52:20.803750",
+  "package_url": "https://pypi.org/project/h5rdmtoolbox/"
+}
