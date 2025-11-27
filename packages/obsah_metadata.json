@@ -1,0 +1,11 @@
+{
+  "name": "obsah",
+  "version": "1.7.0",
+  "summary": "packaging wrapper using ansible",
+  "author": "The Foreman Project",
+  "license": "GPL-2.0-only",
+  "home_page": "https://github.com/theforeman/obsah",
+  "download_filename": "obsah-1.7.0.tar.gz",
+  "download_time": "2025-11-27T11:30:13.091081",
+  "package_url": "https://pypi.org/project/obsah/"
+}

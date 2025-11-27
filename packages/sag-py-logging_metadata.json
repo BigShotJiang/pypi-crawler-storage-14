@@ -1,0 +1,11 @@
+{
+  "name": "sag-py-logging",
+  "version": "0.6.0",
+  "summary": "Initialize logging from a configuration json",
+  "author": "Samhammer AG",
+  "license": "MIT",
+  "home_page": "https://github.com/SamhammerAG/sag_py_logging",
+  "download_filename": "sag_py_logging-0.6.0.tar.gz",
+  "download_time": "2025-11-27T11:30:01.539014",
+  "package_url": "https://pypi.org/project/sag-py-logging/"
+}

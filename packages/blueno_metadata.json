@@ -1,0 +1,11 @@
+{
+  "name": "blueno",
+  "version": "0.3.4",
+  "summary": "A Python ETL library for creating declarative data pipelines.",
+  "author": "Jimmy Jensen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "blueno-0.3.4-py3-none-any.whl",
+  "download_time": "2025-11-27T11:30:26.923325",
+  "package_url": "https://pypi.org/project/blueno/"
+}

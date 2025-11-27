@@ -1,11 +1,11 @@
 {
   "name": "dinja",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Safe, deterministic MDX rendering powered by a Rust core with batteries-included Python bindings",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "dinja-0.3.0.tar.gz",
-  "download_time": "2025-11-27T10:52:26.142106",
+  "download_filename": "dinja-0.3.1.tar.gz",
+  "download_time": "2025-11-27T11:30:29.214342",
   "package_url": "https://pypi.org/project/dinja/"
 }

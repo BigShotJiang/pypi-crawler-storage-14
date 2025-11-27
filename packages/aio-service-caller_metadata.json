@@ -1,0 +1,11 @@
+{
+  "name": "aio-service-caller",
+  "version": "0.1.12",
+  "summary": "An async service invocation framework with registry, discovery, load balancing, and declarative HTTP client features.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aio_service_caller-0.1.12.tar.gz",
+  "download_time": "2025-11-27T11:30:25.195010",
+  "package_url": "https://pypi.org/project/aio-service-caller/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sji",
+  "version": "0.3.0",
+  "summary": "SJI - Eine einfache Python-Bibliothek für Job-Initialisierung",
+  "author": "matzek92",
+  "license": null,
+  "home_page": "https://github.com/matzek92/simple-job-init",
+  "download_filename": "sji-0.3.0.tar.gz",
+  "download_time": "2025-11-27T11:30:11.940789",
+  "package_url": "https://pypi.org/project/sji/"
+}

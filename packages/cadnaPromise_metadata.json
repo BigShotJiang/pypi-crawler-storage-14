@@ -1,11 +1,11 @@
 {
   "name": "cadnaPromise",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "Precision auto-tuning of floating-point variables in program",
   "author": "LIP6 PEQUAN team",
   "license": "GNU General Public License v3.0",
   "home_page": "https://github.com/PEQUAN/cadnaPromise",
-  "download_filename": "cadnapromise-0.3.7.tar.gz",
-  "download_time": "2025-11-26T23:09:35.666544",
+  "download_filename": "cadnapromise-0.3.8.tar.gz",
+  "download_time": "2025-11-27T11:30:20.077053",
   "package_url": "https://pypi.org/project/cadnaPromise/"
 }

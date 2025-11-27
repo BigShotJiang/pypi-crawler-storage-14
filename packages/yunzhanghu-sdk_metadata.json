@@ -1,0 +1,11 @@
+{
+  "name": "yunzhanghu-sdk",
+  "version": "1.0.30",
+  "summary": "云账户官方 SDK for Python",
+  "author": "yunzhanghu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yunzhanghu_sdk-1.0.30.tar.gz",
+  "download_time": "2025-11-27T11:30:16.568864",
+  "package_url": "https://pypi.org/project/yunzhanghu-sdk/"
+}
