@@ -1,0 +1,11 @@
+{
+  "name": "localcosmos-server",
+  "version": "0.24.10",
+  "summary": "LocalCosmos Private Server. Run your own server for localcosmos.org apps.",
+  "author": "Thomas Uher",
+  "license": "The MIT License",
+  "home_page": "https://github.com/SiSol-Systems/localcosmos-server",
+  "download_filename": "localcosmos_server-0.24.10.tar.gz",
+  "download_time": "2025-11-27T07:12:56.133099",
+  "package_url": "https://pypi.org/project/localcosmos-server/"
+}

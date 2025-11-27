@@ -1,0 +1,11 @@
+{
+  "name": "politechie-core",
+  "version": "0.1.2",
+  "summary": "A validation library for phone numbers, email addresses, and dates of birth.",
+  "author": "Palistha Deshar",
+  "license": null,
+  "home_page": "https://github.com/politechielabs/politechie-core.git",
+  "download_filename": "politechie_core-0.1.2.tar.gz",
+  "download_time": "2025-11-27T07:12:52.934361",
+  "package_url": "https://pypi.org/project/politechie-core/"
+}

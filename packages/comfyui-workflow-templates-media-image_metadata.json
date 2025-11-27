@@ -1,11 +1,11 @@
 {
   "name": "comfyui-workflow-templates-media-image",
-  "version": "0.3.16",
+  "version": "0.3.17",
   "summary": "Media bundle containing image workflow assets",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "comfyui_workflow_templates_media_image-0.3.16.tar.gz",
-  "download_time": "2025-11-27T06:16:27.531806",
+  "download_filename": "comfyui_workflow_templates_media_image-0.3.17.tar.gz",
+  "download_time": "2025-11-27T07:12:45.116551",
   "package_url": "https://pypi.org/project/comfyui-workflow-templates-media-image/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "imposer",
+  "version": "0.3.0",
+  "summary": "Python bindings for the imposer PDF booklet imposition library",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/joaommartins/imposer-rs",
+  "download_filename": "imposer-0.3.0.tar.gz",
+  "download_time": "2025-11-27T07:13:02.926218",
+  "package_url": "https://pypi.org/project/imposer/"
+}

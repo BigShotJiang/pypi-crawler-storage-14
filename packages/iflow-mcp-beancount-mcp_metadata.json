@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp-beancount-mcp",
+  "version": "0.1.1",
+  "summary": "Beancount Model Context Protocol Server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_beancount_mcp-0.1.1.tar.gz",
+  "download_time": "2025-11-27T07:12:52.415382",
+  "package_url": "https://pypi.org/project/iflow-mcp-beancount-mcp/"
+}
