@@ -1,0 +1,11 @@
+{
+  "name": "pywhispercpp",
+  "version": "1.4.0",
+  "summary": "Python bindings for whisper.cpp",
+  "author": "absadiki",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pywhispercpp-1.4.0.tar.gz",
+  "download_time": "2025-11-27T02:22:12.720515",
+  "package_url": "https://pypi.org/project/pywhispercpp/"
+}

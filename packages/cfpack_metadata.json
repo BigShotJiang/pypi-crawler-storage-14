@@ -1,0 +1,11 @@
+{
+  "name": "cfpack",
+  "version": "0.5.3",
+  "summary": "Christoph Federrath (CF) python package (cfpack)",
+  "author": "Christoph Federrath",
+  "license": "MIT",
+  "home_page": "https://www.mso.anu.edu.au/~chfeder/codes/cfpack/cfpack.html",
+  "download_filename": "cfpack-0.5.3.tar.gz",
+  "download_time": "2025-11-27T02:21:57.085912",
+  "package_url": "https://pypi.org/project/cfpack/"
+}

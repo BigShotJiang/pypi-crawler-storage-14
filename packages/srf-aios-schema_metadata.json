@@ -1,0 +1,11 @@
+{
+  "name": "srf-aios-schema",
+  "version": "2.0.0",
+  "summary": "SRF AiOS Cognitive Architecture Schema Definitions",
+  "author": null,
+  "license": "FRAND/SEP - See LICENSE file",
+  "home_page": null,
+  "download_filename": "srf_aios_schema-2.0.0.tar.gz",
+  "download_time": "2025-11-27T02:21:37.640420",
+  "package_url": "https://pypi.org/project/srf-aios-schema/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sangreal-bt",
-  "version": "0.1.1",
-  "summary": "Vectorized backtesting framework for quantitative trading",
+  "version": "0.1.3",
+  "summary": "A high-performance vector backtesting framework for quantitative strategies",
   "author": "liubola",
-  "license": "GPL-3.0",
+  "license": "GNU General Public License v3.0",
   "home_page": "https://github.com/liubola/sangreal-bt",
-  "download_filename": "sangreal_bt-0.1.1.tar.gz",
-  "download_time": "2025-11-26T13:56:18.563709",
+  "download_filename": "sangreal_bt-0.1.3.tar.gz",
+  "download_time": "2025-11-27T02:22:04.982651",
   "package_url": "https://pypi.org/project/sangreal-bt/"
 }

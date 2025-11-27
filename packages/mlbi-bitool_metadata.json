@@ -1,11 +1,11 @@
 {
   "name": "mlbi-bitool",
-  "version": "0.1.11",
+  "version": "0.1.13",
   "summary": "Python interface to BioInfo tools for use in Google.Colab",
   "author": "MLBI Lab",
   "license": null,
   "home_page": "https://github.com/combio-dku",
-  "download_filename": "mlbi_bitool-0.1.11.tar.gz",
-  "download_time": "2025-11-26T12:18:30.865871",
+  "download_filename": "mlbi_bitool-0.1.13.tar.gz",
+  "download_time": "2025-11-27T02:22:12.180573",
   "package_url": "https://pypi.org/project/mlbi-bitool/"
 }

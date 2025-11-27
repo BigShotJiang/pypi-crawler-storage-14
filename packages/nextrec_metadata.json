@@ -1,11 +1,11 @@
 {
   "name": "nextrec",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "A comprehensive recommendation library with match, ranking, and multi-task learning models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nextrec-0.2.6-py3-none-any.whl",
-  "download_time": "2025-11-26T15:49:01.753835",
+  "download_filename": "nextrec-0.2.7-py3-none-any.whl",
+  "download_time": "2025-11-27T02:21:46.863742",
   "package_url": "https://pypi.org/project/nextrec/"
 }

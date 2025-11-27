@@ -1,0 +1,11 @@
+{
+  "name": "highway-dsl",
+  "version": "2.0.3",
+  "summary": "LTS Stable: Domain-specific language (DSL) for defining production-grade workflows with explicit coordination, event-driven patterns, and Temporal-style join operators.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "highway_dsl-2.0.3.tar.gz",
+  "download_time": "2025-11-27T02:21:43.137807",
+  "package_url": "https://pypi.org/project/highway-dsl/"
+}

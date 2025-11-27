@@ -1,0 +1,11 @@
+{
+  "name": "geosun-base",
+  "version": "0.3.0",
+  "summary": "GeoSun 基础库",
+  "author": "wenxi.da",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "geosun_base-0.3.0.tar.gz",
+  "download_time": "2025-11-27T02:21:54.469220",
+  "package_url": "https://pypi.org/project/geosun-base/"
+}

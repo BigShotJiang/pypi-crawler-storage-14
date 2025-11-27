@@ -1,0 +1,11 @@
+{
+  "name": "forkx",
+  "version": "0.1.1",
+  "summary": "Ultra-simple parallel processing",
+  "author": "bib_inf",
+  "license": "CC0 v1.0",
+  "home_page": "https://github.co.jp/",
+  "download_filename": "forkx-0.1.1.tar.gz",
+  "download_time": "2025-11-27T02:21:48.394091",
+  "package_url": "https://pypi.org/project/forkx/"
+}

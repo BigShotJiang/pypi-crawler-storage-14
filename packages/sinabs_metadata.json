@@ -1,0 +1,11 @@
+{
+  "name": "sinabs",
+  "version": "3.1.1",
+  "summary": "SynSense Spiking Neural Network simulator for deep neural networks (DNNs).",
+  "author": "SynSense (formerly AiCTX)",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "sinabs-3.1.1.tar.gz",
+  "download_time": "2025-11-27T02:21:43.681792",
+  "package_url": "https://pypi.org/project/sinabs/"
+}
