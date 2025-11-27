@@ -1,0 +1,11 @@
+{
+  "name": "marinabox",
+  "version": "1.0.4",
+  "summary": "An open-source toolkit for deploying containerized desktops and browsers tailored for AI agents",
+  "author": "bayllama",
+  "license": null,
+  "home_page": "https://github.com/bayllama/marinabox",
+  "download_filename": "marinabox-1.0.4.tar.gz",
+  "download_time": "2025-11-27T21:09:12.733057",
+  "package_url": "https://pypi.org/project/marinabox/"
+}

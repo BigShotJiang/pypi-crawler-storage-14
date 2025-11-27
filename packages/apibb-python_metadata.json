@@ -1,0 +1,11 @@
+{
+  "name": "apibb-python",
+  "version": "1.0.0",
+  "summary": "APIBB Python/CLI Renderer - Frozen v1.0",
+  "author": "APIBB",
+  "license": null,
+  "home_page": "https://apibb.org",
+  "download_filename": "apibb_python-1.0.0.tar.gz",
+  "download_time": "2025-11-27T21:09:23.572379",
+  "package_url": "https://pypi.org/project/apibb-python/"
+}
