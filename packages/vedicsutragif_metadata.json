@@ -1,0 +1,11 @@
+{
+  "name": "vedicsutragif",
+  "version": "0.0.1",
+  "summary": "A Python package implementing all 16 Vedic Sutras with GIF animation support.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vedicsutragif-0.0.1.tar.gz",
+  "download_time": "2025-11-27T08:16:05.430960",
+  "package_url": "https://pypi.org/project/vedicsutragif/"
+}

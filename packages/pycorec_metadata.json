@@ -1,0 +1,11 @@
+{
+  "name": "pycorec",
+  "version": "2.0.9",
+  "summary": "Interactive GUI tool to record clicked pixel coordinates on images",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycorec-2.0.9.tar.gz",
+  "download_time": "2025-11-27T08:16:12.703825",
+  "package_url": "https://pypi.org/project/pycorec/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "red-helper",
+  "version": "0.1.4",
+  "summary": "基于异步IO的Redis缓存操作工具",
+  "author": "Memory_Leak",
+  "license": "MIT",
+  "home_page": "https://github.com/irealing/red-helper",
+  "download_filename": "red_helper-0.1.4-py3-none-any.whl",
+  "download_time": "2025-11-27T08:16:09.069281",
+  "package_url": "https://pypi.org/project/red-helper/"
+}

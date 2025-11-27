@@ -1,0 +1,11 @@
+{
+  "name": "dao-treasury",
+  "version": "0.1.5",
+  "summary": "Produce comprehensive financial reports for your on-chain org",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dao_treasury-0.1.5.tar.gz",
+  "download_time": "2025-11-27T08:16:04.392193",
+  "package_url": "https://pypi.org/project/dao-treasury/"
+}

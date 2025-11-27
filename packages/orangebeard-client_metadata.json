@@ -1,0 +1,11 @@
+{
+  "name": "orangebeard-client",
+  "version": "2.7.3",
+  "summary": "A python3 client for Orangebeard",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "orangebeard_client-2.7.3.tar.gz",
+  "download_time": "2025-11-27T08:15:36.253434",
+  "package_url": "https://pypi.org/project/orangebeard-client/"
+}

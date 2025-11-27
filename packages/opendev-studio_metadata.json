@@ -1,0 +1,11 @@
+{
+  "name": "opendev-studio",
+  "version": "0.2.1",
+  "summary": "A local Agentic software engineer system accessible via web UI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opendev_studio-0.2.1.tar.gz",
+  "download_time": "2025-11-27T08:15:40.970265",
+  "package_url": "https://pypi.org/project/opendev-studio/"
+}

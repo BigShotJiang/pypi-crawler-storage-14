@@ -1,0 +1,11 @@
+{
+  "name": "DocumentTemplate",
+  "version": "5.0",
+  "summary": "Document Templating Markup Language (DTML)",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/DocumentTemplate",
+  "download_filename": "documenttemplate-5.0.tar.gz",
+  "download_time": "2025-11-27T08:16:09.586784",
+  "package_url": "https://pypi.org/project/DocumentTemplate/"
+}
