@@ -1,0 +1,11 @@
+{
+  "name": "drf-hooks",
+  "version": "0.1.5",
+  "summary": "A Django app for webhooks functionality",
+  "author": "Angira Tripathi",
+  "license": "ISC",
+  "home_page": "https://github.com/am-flow/drf-hooks",
+  "download_filename": "drf_hooks-0.1.5.tar.gz",
+  "download_time": "2025-11-27T15:33:03.387278",
+  "package_url": "https://pypi.org/project/drf-hooks/"
+}

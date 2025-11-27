@@ -1,11 +1,11 @@
 {
   "name": "pydna-utils",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Utility functions to ease interactive work with pydna.",
   "author": "Bjorn F. Johansson",
   "license": "BSD-3",
   "home_page": "https://github.com/BjornFJohansson/pydna-utils",
-  "download_filename": "pydna_utils-0.0.3.tar.gz",
-  "download_time": "2025-11-27T15:10:39.987080",
+  "download_filename": "pydna_utils-0.0.4.tar.gz",
+  "download_time": "2025-11-27T15:33:07.166675",
   "package_url": "https://pypi.org/project/pydna-utils/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "factpulse",
-  "version": "2.0.20",
+  "version": "2.0.21",
   "summary": "API REST FactPulse",
   "author": "OpenAPI Generator community",
   "license": null,
   "home_page": "https://github.com/factpulse/sdk-python",
-  "download_filename": "factpulse-2.0.20.tar.gz",
-  "download_time": "2025-11-26T14:35:58.169008",
+  "download_filename": "factpulse-2.0.21.tar.gz",
+  "download_time": "2025-11-27T15:33:10.301011",
   "package_url": "https://pypi.org/project/factpulse/"
 }

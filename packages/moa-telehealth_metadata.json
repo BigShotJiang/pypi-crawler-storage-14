@@ -1,0 +1,11 @@
+{
+  "name": "moa-telehealth",
+  "version": "1.0.0",
+  "summary": "Magnetic Outlier Agent for Telehealth Compliance",
+  "author": null,
+  "license": "BSL 1.1",
+  "home_page": null,
+  "download_filename": "moa_telehealth-1.0.0.tar.gz",
+  "download_time": "2025-11-27T15:33:16.155353",
+  "package_url": "https://pypi.org/project/moa-telehealth/"
+}

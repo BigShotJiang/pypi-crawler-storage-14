@@ -1,0 +1,11 @@
+{
+  "name": "pyfuelprices",
+  "version": "2025.11.1",
+  "summary": "A generic library to collect fuel prices of fuel stations around the world!",
+  "author": "pantherale0",
+  "license": "MIT",
+  "home_page": "http://github.com/pantherale0/pyfuelprices",
+  "download_filename": "pyfuelprices-2025.11.1.tar.gz",
+  "download_time": "2025-11-27T15:32:55.702599",
+  "package_url": "https://pypi.org/project/pyfuelprices/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "crawler-sdk",
-  "version": "1.0.2",
+  "version": "1.2.0",
   "summary": "A pluggable SDK for extracting author information from academic publisher websites",
   "author": "Marketing Crawlers Team",
   "license": null,
   "home_page": null,
-  "download_filename": "crawler_sdk-1.0.2.tar.gz",
-  "download_time": "2025-11-27T08:44:45.347047",
+  "download_filename": "crawler_sdk-1.2.0.tar.gz",
+  "download_time": "2025-11-27T15:33:26.975223",
   "package_url": "https://pypi.org/project/crawler-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "python-a2a-f01",
+  "version": "0.5.11",
+  "summary": "Python A2A - Agent-to-Agent Protocol",
+  "author": "Google LLC",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/google/python-a2a",
+  "download_filename": "python_a2a_f01-0.5.11.tar.gz",
+  "download_time": "2025-11-27T15:33:06.655223",
+  "package_url": "https://pypi.org/project/python-a2a-f01/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "flyn",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Natural-language to shell command converter / executor with Grok API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flyn-0.1.2.tar.gz",
-  "download_time": "2025-11-27T15:11:16.075093",
+  "download_filename": "flyn-0.1.4.tar.gz",
+  "download_time": "2025-11-27T15:33:15.643333",
   "package_url": "https://pypi.org/project/flyn/"
 }
