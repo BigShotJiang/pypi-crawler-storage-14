@@ -1,11 +1,11 @@
 {
   "name": "scalewob",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Python SDK for evaluating in ScaleWoB: Scalable world-of-bit that revolutionizes the evaluation of Computer-Use Agents.",
   "author": "Guohong Liu",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "scalewob-0.3.1.tar.gz",
-  "download_time": "2025-11-25T09:35:43.539792",
+  "download_filename": "scalewob-0.3.2.tar.gz",
+  "download_time": "2025-11-27T03:31:56.734020",
   "package_url": "https://pypi.org/project/scalewob/"
 }

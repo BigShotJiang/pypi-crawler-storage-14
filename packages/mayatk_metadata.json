@@ -1,11 +1,11 @@
 {
   "name": "mayatk",
-  "version": "0.9.37",
+  "version": "0.9.38",
   "summary": "*mayatk is a collection of utility functions and helper classes for Autodesk Maya, providing convenience wrappers and common workflow patterns for Maya scripting.*",
   "author": "Ryan Simpson",
   "license": null,
   "home_page": "https://github.com/m3trik/mayatk",
-  "download_filename": "mayatk-0.9.37.tar.gz",
-  "download_time": "2025-11-25T20:11:14.866088",
+  "download_filename": "mayatk-0.9.38.tar.gz",
+  "download_time": "2025-11-27T03:32:00.010632",
   "package_url": "https://pypi.org/project/mayatk/"
 }

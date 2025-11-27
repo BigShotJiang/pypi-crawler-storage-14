@@ -1,0 +1,11 @@
+{
+  "name": "pikaraoke",
+  "version": "1.14.1",
+  "summary": "Youtube-based Karaoke machine for Raspberry Pi, OSX, Windows, and Linux",
+  "author": "Vic Wong",
+  "license": null,
+  "home_page": "https://github.com/vicwomg/pikaraoke",
+  "download_filename": "pikaraoke-1.14.1.tar.gz",
+  "download_time": "2025-11-27T03:32:22.655353",
+  "package_url": "https://pypi.org/project/pikaraoke/"
+}

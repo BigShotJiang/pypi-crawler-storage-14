@@ -1,0 +1,11 @@
+{
+  "name": "pyflowreg",
+  "version": "0.1.0a8",
+  "summary": "Variational optical-flow motion correction for 2-photon microscopy videos and 3D scans",
+  "author": null,
+  "license": "CC BY-NC-SA 4.0",
+  "home_page": null,
+  "download_filename": "pyflowreg-0.1.0a8.tar.gz",
+  "download_time": "2025-11-27T03:32:16.528857",
+  "package_url": "https://pypi.org/project/pyflowreg/"
+}

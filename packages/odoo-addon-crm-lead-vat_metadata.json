@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-crm-lead-vat",
+  "version": "18.0.1.0.0.4",
+  "summary": "Add VAT field to leads",
+  "author": "=?utf-8?q?Antiun_Ingenier=C3=ADa_S=2EL=2E=2C_Odoo_Community_Association_=28OCA=29?=",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/crm",
+  "download_filename": "odoo_addon_crm_lead_vat-18.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-11-27T03:32:35.915852",
+  "package_url": "https://pypi.org/project/odoo-addon-crm-lead-vat/"
+}

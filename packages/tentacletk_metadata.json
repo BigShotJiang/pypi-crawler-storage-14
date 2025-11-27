@@ -1,11 +1,11 @@
 {
   "name": "tentacletk",
-  "version": "0.9.44",
+  "version": "0.9.45",
   "summary": null,
   "author": "Ryan Simpson",
   "license": "LGPLv3",
   "home_page": "https://github.com/m3trik/tentacle",
-  "download_filename": "tentacletk-0.9.44.tar.gz",
-  "download_time": "2025-11-25T20:10:49.798968",
+  "download_filename": "tentacletk-0.9.45.tar.gz",
+  "download_time": "2025-11-27T03:31:58.926948",
   "package_url": "https://pypi.org/project/tentacletk/"
 }

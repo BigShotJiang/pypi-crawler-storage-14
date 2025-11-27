@@ -1,0 +1,11 @@
+{
+  "name": "bentoml",
+  "version": "1.4.30",
+  "summary": "BentoML: The easiest way to serve AI apps and models",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "bentoml-1.4.30.tar.gz",
+  "download_time": "2025-11-27T03:32:07.481221",
+  "package_url": "https://pypi.org/project/bentoml/"
+}

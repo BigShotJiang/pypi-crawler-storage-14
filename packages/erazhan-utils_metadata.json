@@ -1,0 +1,11 @@
+{
+  "name": "erazhan-utils",
+  "version": "0.0.16",
+  "summary": "some common tools in work",
+  "author": "erazhan",
+  "license": "MIT Licence",
+  "home_page": "https://github.com/erazhan/erazhan_utils",
+  "download_filename": "erazhan_utils-0.0.16.tar.gz",
+  "download_time": "2025-11-27T03:31:52.853068",
+  "package_url": "https://pypi.org/project/erazhan-utils/"
+}

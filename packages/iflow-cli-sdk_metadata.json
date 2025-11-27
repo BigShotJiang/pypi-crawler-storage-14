@@ -1,0 +1,11 @@
+{
+  "name": "iflow-cli-sdk",
+  "version": "0.1.13",
+  "summary": "Python SDK for iFlow CLI - AI Agent Integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_cli_sdk-0.1.13.tar.gz",
+  "download_time": "2025-11-27T03:32:37.007325",
+  "package_url": "https://pypi.org/project/iflow-cli-sdk/"
+}

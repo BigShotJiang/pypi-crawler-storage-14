@@ -1,0 +1,11 @@
+{
+  "name": "agentbox-python-sdk",
+  "version": "1.0.5",
+  "summary": "AgentBox Python SDK that give agents cloud environments",
+  "author": "agentbox",
+  "license": "MIT",
+  "home_page": "https://agentbox.cloud/",
+  "download_filename": "agentbox_python_sdk-1.0.5.tar.gz",
+  "download_time": "2025-11-27T03:32:10.980747",
+  "package_url": "https://pypi.org/project/agentbox-python-sdk/"
+}

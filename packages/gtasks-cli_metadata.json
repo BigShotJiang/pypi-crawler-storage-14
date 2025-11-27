@@ -1,11 +1,11 @@
 {
   "name": "gtasks-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A powerful command-line interface for managing Google Tasks with enhanced features and functionality which is secure and easy to use with advanced features.",
-  "author": "Google Tasks CLI Team",
-  "license": "MIT",
-  "home_page": "https://github.com/example/gtasks-cli",
-  "download_filename": "gtasks_cli-0.1.0.tar.gz",
-  "download_time": "2025-11-26T06:15:59.337641",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gtasks_cli-0.1.1.tar.gz",
+  "download_time": "2025-11-27T03:32:05.258424",
   "package_url": "https://pypi.org/project/gtasks-cli/"
 }

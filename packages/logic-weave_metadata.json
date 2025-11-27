@@ -1,11 +1,11 @@
 {
   "name": "logic-weave",
-  "version": "0.4.3",
+  "version": "0.4.5",
   "summary": "A Python client library for communicating with the firmware device over serial.",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "logic_weave-0.4.3.tar.gz",
-  "download_time": "2025-11-27T02:22:18.345807",
+  "download_filename": "logic_weave-0.4.5.tar.gz",
+  "download_time": "2025-11-27T03:32:15.378697",
   "package_url": "https://pypi.org/project/logic-weave/"
 }
