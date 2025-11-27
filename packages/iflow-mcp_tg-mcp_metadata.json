@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_tg-mcp",
+  "version": "0.1.0",
+  "summary": "A lightweight Python interface that exposes TigerGraph operations as structured tools and URI-based resources for MCP agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_tg_mcp-0.1.0.tar.gz",
+  "download_time": "2025-11-27T06:16:08.296453",
+  "package_url": "https://pypi.org/project/iflow-mcp_tg-mcp/"
+}

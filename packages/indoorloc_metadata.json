@@ -1,11 +1,11 @@
 {
   "name": "indoorloc",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A unified framework for indoor localization",
   "author": "IndoorLoc Team",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "indoorloc-0.1.1.tar.gz",
-  "download_time": "2025-11-27T04:00:10.858811",
+  "download_filename": "indoorloc-0.1.2.tar.gz",
+  "download_time": "2025-11-27T06:16:37.382532",
   "package_url": "https://pypi.org/project/indoorloc/"
 }
