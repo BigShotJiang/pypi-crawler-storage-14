@@ -1,0 +1,11 @@
+{
+  "name": "wiremind-kubernetes",
+  "version": "7.6.0",
+  "summary": "Helper for Kubernetes.",
+  "author": "Wiremind",
+  "license": "LGPLv3+",
+  "home_page": "https://github.com/wiremind/wiremind-kubernetes",
+  "download_filename": "wiremind_kubernetes-7.6.0.tar.gz",
+  "download_time": "2025-11-27T19:32:48.473658",
+  "package_url": "https://pypi.org/project/wiremind-kubernetes/"
+}

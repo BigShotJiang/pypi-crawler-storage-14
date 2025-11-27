@@ -1,0 +1,11 @@
+{
+  "name": "ruptures",
+  "version": "1.1.10",
+  "summary": "Change point detection for signals in Python.",
+  "author": "Charles Truong, Laurent Oudre, Nicolas Vayatis",
+  "license": "BSD-2-Clause",
+  "home_page": "https://github.com/deepcharles/ruptures/",
+  "download_filename": "ruptures-1.1.10.tar.gz",
+  "download_time": "2025-11-27T19:32:51.707126",
+  "package_url": "https://pypi.org/project/ruptures/"
+}
