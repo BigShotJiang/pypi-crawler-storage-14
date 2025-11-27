@@ -1,0 +1,11 @@
+{
+  "name": "stagpy",
+  "version": "0.21.1",
+  "summary": "Tool for StagYY output files processing",
+  "author": "Adrien Morison, Martina Ulvrova, Stéphane Labrosse",
+  "license": null,
+  "home_page": null,
+  "download_filename": "stagpy-0.21.1.tar.gz",
+  "download_time": "2025-11-27T14:10:36.757766",
+  "package_url": "https://pypi.org/project/stagpy/"
+}

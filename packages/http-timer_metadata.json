@@ -1,0 +1,11 @@
+{
+  "name": "http-timer",
+  "version": "0.2.0",
+  "summary": "A minimal, zero-dependency library for timing HTTP requests",
+  "author": "Niler Barcelos",
+  "license": null,
+  "home_page": null,
+  "download_filename": "http_timer-0.2.0.tar.gz",
+  "download_time": "2025-11-27T14:10:39.486834",
+  "package_url": "https://pypi.org/project/http-timer/"
+}

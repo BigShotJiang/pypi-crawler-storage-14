@@ -1,11 +1,11 @@
 {
   "name": "msb-rpa",
-  "version": "0.1.41",
+  "version": "0.1.42",
   "summary": "Login metoder og diverse hjælper funktioner til RPA projekter",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "msb_rpa-0.1.41.tar.gz",
-  "download_time": "2025-11-26T11:09:24.389285",
+  "download_filename": "msb_rpa-0.1.42.tar.gz",
+  "download_time": "2025-11-27T14:10:45.760969",
   "package_url": "https://pypi.org/project/msb-rpa/"
 }

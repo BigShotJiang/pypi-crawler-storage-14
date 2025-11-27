@@ -1,0 +1,11 @@
+{
+  "name": "soup3D",
+  "version": "4.3.1",
+  "summary": "A 3D engine based on OpenGL and pygame for beginners",
+  "author": "OrangeSoup",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "soup3d-4.3.1-py3-none-any.whl",
+  "download_time": "2025-11-27T14:10:36.215195",
+  "package_url": "https://pypi.org/project/soup3D/"
+}

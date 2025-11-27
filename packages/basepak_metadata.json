@@ -1,11 +1,11 @@
 {
   "name": "basepak",
-  "version": "0.0.111",
+  "version": "0.0.112",
   "summary": "Iguazio CLI SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "basepak-0.0.111.tar.gz",
-  "download_time": "2025-11-27T13:42:49.161668",
+  "download_filename": "basepak-0.0.112.tar.gz",
+  "download_time": "2025-11-27T14:10:49.046246",
   "package_url": "https://pypi.org/project/basepak/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "toolz-stubs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Type stubs for toolz",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "toolz_stubs-0.1.0.tar.gz",
-  "download_time": "2025-11-26T17:48:53.533062",
+  "download_filename": "toolz_stubs-0.1.1.tar.gz",
+  "download_time": "2025-11-27T14:10:37.300475",
   "package_url": "https://pypi.org/project/toolz-stubs/"
 }
