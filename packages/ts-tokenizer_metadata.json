@@ -1,11 +1,11 @@
 {
   "name": "ts-tokenizer",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "summary": "TS Tokenizer is a hybrid (lexicon-based and rule-based) tokenizer designed specifically for tokenizing Turkish texts.",
   "author": "Taner Sezer",
   "license": "MIT",
   "home_page": "https://github.com/tanerim/ts_tokenizer",
-  "download_filename": "ts_tokenizer-0.1.21.tar.gz",
-  "download_time": "2025-11-27T11:47:44.009577",
+  "download_filename": "ts_tokenizer-0.1.22.tar.gz",
+  "download_time": "2025-11-27T12:19:09.032182",
   "package_url": "https://pypi.org/project/ts-tokenizer/"
 }

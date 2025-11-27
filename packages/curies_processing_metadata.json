@@ -1,0 +1,11 @@
+{
+  "name": "curies_processing",
+  "version": "0.1.6",
+  "summary": "Pre- and post-processing configuration for prefixes, CURIEs, and URIs",
+  "author": "Charles Tapley Hoyt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "curies_processing-0.1.6.tar.gz",
+  "download_time": "2025-11-27T12:19:19.420230",
+  "package_url": "https://pypi.org/project/curies_processing/"
+}

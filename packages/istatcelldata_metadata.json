@@ -1,0 +1,11 @@
+{
+  "name": "istatcelldata",
+  "version": "1.2.1",
+  "summary": "Con ISTAT Cell Data puoi ottenere facilmente il set di dati riferiti ai censimenti ISTAT in cui sono stati rilasciati anche i dati delle celle censuarie.",
+  "author": "Massimiliano Moraca",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "istatcelldata-1.2.1.tar.gz",
+  "download_time": "2025-11-27T12:18:50.123911",
+  "package_url": "https://pypi.org/project/istatcelldata/"
+}

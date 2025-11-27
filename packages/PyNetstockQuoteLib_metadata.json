@@ -1,0 +1,11 @@
+{
+  "name": "PyNetstockQuoteLib",
+  "version": "1.0.3",
+  "summary": "台湾金融家(Netstock)提供的台股报价API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pynetstockquotelib-1.0.3.tar.gz",
+  "download_time": "2025-11-27T12:19:07.143555",
+  "package_url": "https://pypi.org/project/PyNetstockQuoteLib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "json-diff-lite",
+  "version": "0.1.0",
+  "summary": "A minimal, zero-dependency library for comparing JSON objects with human-readable output",
+  "author": "Niler Barcelos",
+  "license": null,
+  "home_page": null,
+  "download_filename": "json_diff_lite-0.1.0.tar.gz",
+  "download_time": "2025-11-27T12:19:18.059235",
+  "package_url": "https://pypi.org/project/json-diff-lite/"
+}

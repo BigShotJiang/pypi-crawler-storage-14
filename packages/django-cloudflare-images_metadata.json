@@ -1,0 +1,11 @@
+{
+  "name": "django-cloudflare-images",
+  "version": "1.0.0",
+  "summary": "Cloudflare Images integration for Django",
+  "author": "Pierre Guillemot",
+  "license": "MIT",
+  "home_page": "https://github.com/KalvadTech/django-cloudflare-images/",
+  "download_filename": "django_cloudflare_images-1.0.0.tar.gz",
+  "download_time": "2025-11-27T12:18:46.966544",
+  "package_url": "https://pypi.org/project/django-cloudflare-images/"
+}
