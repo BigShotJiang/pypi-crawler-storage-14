@@ -1,11 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-27T04:54:29.388335
+- **Download Time**: 2025-11-27T05:12:18.969120
 - **Total Packages**: 89
-- **Total Size**: 15.66 MB
+- **Total Size**: 18.94 MB
 
 ## Packages List
+- water-conflict-classifier
+- labnirs2snirf
+- pyharp
+- synth-ai
+- formalyzer
+- fluxloop-cli
+- fgpyo
+- urllib3-future
+- gapless-crypto-clickhouse
+- hyperfunc
+- openstarlab-spaceEval
+- folder-crawl
+- abi-core-ai
+- gymnasium-sudoku
+- agentbox-python-sdk
+- sonarcal
+- waku
+- wfuzzserver
+- mmq-high-precision
+- agents-docs-sync
+- rapyuta-io-cli
+- rp-backscatter
 - supernote
 - ytp-dl
 - memdocs
@@ -17,12 +39,10 @@
 - srcly
 - iamdata
 - crismiau-de-toolkit
-- abi-core-ai
 - ezc3d
 - thingspanel-mcp
 - cqhyxk
 - matplotlibpyplot
-- labnirs2snirf
 - speterlin-crypto
 - lifx-async
 - crazymeow
@@ -39,12 +59,10 @@
 - flask-postgresql-audit
 - auto-coder
 - kitech-repository
-- wfuzzserver
 - ha-mcp
 - svg-turtle
 - ministatus
 - pulso
-- water-conflict-classifier
 - ai-infra
 - pyasic-rs
 - pandoc-embedz
@@ -77,21 +95,3 @@
 - iflow-mcp_openai-mcp
 - gllm-pipeline-binary
 - iflow-mcp_gerrit-review-mcp
-- dspy-cli
-- iflow-mcp_duckduckgo-mcp-server
-- graphlit-client
-- django-issue-capture
-- Kekik
-- iflow-mcp_langextract
-- iflow-mcp_langchain-mcp-adapters
-- httplint
-- tun2socks
-- gmpy2
-- snowflake-connector-python-nightly
-- jleechanorg-pr-automation
-- trophy
-- jettask
-- odoo-addon-base-model-restrict-update
-- pyprophet
-- utt-balance
-- nonebot-plugin-mccheck

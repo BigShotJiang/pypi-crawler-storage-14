@@ -1,0 +1,11 @@
+{
+  "name": "folder-crawl",
+  "version": "0.2.0",
+  "summary": "A CLI tool to display folder structure and contents with gitignore-style filtering",
+  "author": "Julius Olsson",
+  "license": "MIT",
+  "home_page": "https://github.com/juliusolsson/folder-crawl",
+  "download_filename": "folder_crawl-0.2.0.tar.gz",
+  "download_time": "2025-11-27T05:11:37.689183",
+  "package_url": "https://pypi.org/project/folder-crawl/"
+}
