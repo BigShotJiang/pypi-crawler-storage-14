@@ -1,0 +1,11 @@
+{
+  "name": "muwanx",
+  "version": "0.0.2",
+  "summary": "Browser-based MuJoCo simulation with real-time policy control",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "muwanx-0.0.2.tar.gz",
+  "download_time": "2025-11-27T16:12:43.911248",
+  "package_url": "https://pypi.org/project/muwanx/"
+}

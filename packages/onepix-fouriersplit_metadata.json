@@ -1,0 +1,11 @@
+{
+  "name": "onepix-fouriersplit",
+  "version": "0.1.0",
+  "summary": "Fourier Split imaging method for ONE-PIX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "onepix_fouriersplit-0.1.0.tar.gz",
+  "download_time": "2025-11-27T16:12:39.790596",
+  "package_url": "https://pypi.org/project/onepix-fouriersplit/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "strdrop",
-  "version": "0.1.0",
-  "summary": "Clinical DNA variant visualizer and browser",
+  "version": "0.2",
+  "summary": "Detect coverage drops in LRS STR expansion calls",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "strdrop-0.1.0.tar.gz",
-  "download_time": "2025-11-27T10:12:13.335557",
+  "download_filename": "strdrop-0.2.tar.gz",
+  "download_time": "2025-11-27T16:12:11.499109",
   "package_url": "https://pypi.org/project/strdrop/"
 }

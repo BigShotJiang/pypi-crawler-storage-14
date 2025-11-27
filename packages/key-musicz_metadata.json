@@ -1,0 +1,11 @@
+{
+  "name": "key-musicz",
+  "version": "0.3.4",
+  "summary": "键盘弹钢琴，keyboard to play piano",
+  "author": "Zzz",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/buildCodeZ/key_musicz",
+  "download_filename": "key_musicz-0.3.4.tar.gz",
+  "download_time": "2025-11-27T16:12:12.014042",
+  "package_url": "https://pypi.org/project/key-musicz/"
+}
