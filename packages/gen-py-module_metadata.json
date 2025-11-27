@@ -1,0 +1,11 @@
+{
+  "name": "gen-py-module",
+  "version": "1.5.7",
+  "summary": "Generating PY module",
+  "author": "Vladimir Roncevic",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://vroncevic.github.io/gen_py_module",
+  "download_filename": "gen_py_module-1.5.7.tar.gz",
+  "download_time": "2025-11-27T17:40:10.695052",
+  "package_url": "https://pypi.org/project/gen-py-module/"
+}

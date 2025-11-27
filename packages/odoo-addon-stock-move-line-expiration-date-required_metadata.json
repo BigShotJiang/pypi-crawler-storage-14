@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-move-line-expiration-date-required",
+  "version": "18.0.1.0.1",
+  "summary": "Stock Move Line Expiration Date Required",
+  "author": "Moduon, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-workflow",
+  "download_filename": "odoo_addon_stock_move_line_expiration_date_required-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-11-27T17:40:15.867571",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-move-line-expiration-date-required/"
+}

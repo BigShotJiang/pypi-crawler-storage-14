@@ -1,0 +1,11 @@
+{
+  "name": "omibio",
+  "version": "0.1.2",
+  "summary": "A lightweight and easy-to-use python bioinformatics toolkit.",
+  "author": "OceanMist",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "omibio-0.1.2.tar.gz",
+  "download_time": "2025-11-27T17:40:13.302845",
+  "package_url": "https://pypi.org/project/omibio/"
+}
