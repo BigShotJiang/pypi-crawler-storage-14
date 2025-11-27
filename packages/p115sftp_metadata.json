@@ -1,0 +1,11 @@
+{
+  "name": "p115sftp",
+  "version": "0.0.1",
+  "summary": "Python 115 SFTP Server.",
+  "author": "ChenyangGao",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenyangGao/p115client/tree/main/modules/p115sftp",
+  "download_filename": "p115sftp-0.0.1.tar.gz",
+  "download_time": "2025-11-27T23:38:12.645720",
+  "package_url": "https://pypi.org/project/p115sftp/"
+}

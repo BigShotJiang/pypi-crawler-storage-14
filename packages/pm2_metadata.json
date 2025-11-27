@@ -1,0 +1,11 @@
+{
+  "name": "pm2",
+  "version": "1.0.0",
+  "summary": "Professional Python wrapper for PM2 (Process Manager 2) with async support",
+  "author": "y4kupkaya",
+  "license": null,
+  "home_page": "https://projects.yakupkaya.me/pm2",
+  "download_filename": "pm2-1.0.0.tar.gz",
+  "download_time": "2025-11-27T23:38:15.827293",
+  "package_url": "https://pypi.org/project/pm2/"
+}

@@ -1,11 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-27T23:29:28.728047
-- **Total Packages**: 76
-- **Total Size**: 0.36 MB
+- **Download Time**: 2025-11-27T23:38:32.740282
+- **Total Packages**: 67
+- **Total Size**: 21.41 MB
 
 ## Packages List
+- policyengine
+- mo-collections
+- persian-figlet
+- pydantic-rng
+- lenslet
+- nv-ingest
+- nv-ingest-client
+- nv-ingest-api
+- nvidiautils
+- NikGapps
+- grnexus
+- sayna-client
+- mimetica
+- solveit-dmtools
+- niklibrary
+- fastapi-websocket-stabilizer
+- megatron-core
+- megatron-fsdp
+- riskfolio-lib
+- search-names
+- semantik-sdk
+- ai-infra
+- anna-protocol-sdk
+- bear-dereth
+- ahmaedinfo
+- nearust
+- secrets-sync
+- esphome
+- aiinbx
+- greenmountainpower
+- memalot
+- lintdata
+- p115sftp
+- chronos-forecasting
+- ipyslides
+- fake.py
+- pykalman
+- radboy
+- pm2
+- sharepointlib
 - jupyterlab-export-markdown-extension
 - ytp-dl
 - gcbrickwork
@@ -14,7 +54,6 @@
 - odsbox-jaquel-mcp
 - dbt-colibri
 - smartmemory
-- grnexus
 - fujin-cli
 - synod-cli
 - g2p
@@ -23,7 +62,6 @@
 - poelis-sdk
 - moose-lib
 - wop
-- ahmaedinfo
 - fallom
 - slownie
 - torchrun-jsc
@@ -32,53 +70,6 @@
 - decompressed
 - django-vies
 - pysigma-backend-splunk
-- lintdata
 - SoftiqTech-Sofi-Agent
 - hopx-cli
 - dateint
-- naeural-core
-- ratio1
-- eva4-aaa-ldap
-- pywb
-- causal_toolkit_tc
-- pyuiua
-- llama-index-llms-bedrock-converse
-- spectuel-engine-utils
-- llama-index-llms-anthropic
-- llama-index-vector-stores-azureaisearch
-- clarifai-grpc
-- mgraph-ai-service-cache-client
-- odoo-addon-account-vendor-bank-account-default-purchase
-- lambda-ai-cloud-api-client
-- secrets-sync
-- toms-structures
-- anncsu-sdk
-- pymvr
-- rggrader2
-- mschunker
-- sunpeek
-- recallbricks-langchain
-- athena-intelligence
-- nobs
-- sigplay
-- mbari-aidata
-- quadrilateral-interpolation
-- jupyterpack
-- vidurai
-- llama-index-llms-openai
-- llama-index-llms-google-genai
-- ankipan
-- avatarflow-r5
-- robosystems-client
-- super-bario
-- calibre
-- amsdal
-- locoformer
-- nova-pg
-- semlix
-- unaiverse
-- apple-search-ads-client
-- llama-index-vector-stores-postgres
-- mcp-servicenex
-- discord-selfsbotsx
-- megatron-core

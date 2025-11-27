@@ -1,0 +1,11 @@
+{
+  "name": "fake.py",
+  "version": "0.12",
+  "summary": "Minimalistic, standalone alternative fake data generator with no dependencies.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fake_py-0.12.tar.gz",
+  "download_time": "2025-11-27T23:38:14.218342",
+  "package_url": "https://pypi.org/project/fake.py/"
+}
