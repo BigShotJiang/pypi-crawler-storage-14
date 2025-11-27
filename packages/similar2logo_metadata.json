@@ -1,0 +1,11 @@
+{
+  "name": "similar2logo",
+  "version": "1.0.0",
+  "summary": "Python bindings for SIMILAR2Logo multi-agent simulation framework",
+  "author": "SIMILAR Team",
+  "license": "MIT",
+  "home_page": "https://github.com/gildasmorvan/similar",
+  "download_filename": "similar2logo-1.0.0-py3-none-any.whl",
+  "download_time": "2025-11-27T13:43:12.006635",
+  "package_url": "https://pypi.org/project/similar2logo/"
+}

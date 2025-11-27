@@ -1,11 +1,11 @@
 {
   "name": "crabdeposit",
-  "version": "0.7",
+  "version": "0.8",
   "summary": "A Python library for creating CRAB-compatible data deposits and interacting with CRAB programatically. ",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "crabdeposit-0.7.tar.gz",
-  "download_time": "2025-11-26T14:36:03.412112",
+  "download_filename": "crabdeposit-0.8.tar.gz",
+  "download_time": "2025-11-27T13:42:38.297770",
   "package_url": "https://pypi.org/project/crabdeposit/"
 }

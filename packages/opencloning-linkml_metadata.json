@@ -1,11 +1,11 @@
 {
   "name": "opencloning-linkml",
-  "version": "0.4.7",
+  "version": "0.4.8",
   "summary": "A LinkML data model for OpenCloning",
   "author": "Manuel Lera-Ramirez",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opencloning_linkml-0.4.7.tar.gz",
-  "download_time": "2025-11-27T11:30:13.666691",
+  "download_filename": "opencloning_linkml-0.4.8.tar.gz",
+  "download_time": "2025-11-27T13:42:33.428959",
   "package_url": "https://pypi.org/project/opencloning-linkml/"
 }

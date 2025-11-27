@@ -1,0 +1,11 @@
+{
+  "name": "aitronos-cli",
+  "version": "0.2.0",
+  "summary": "Unified CLI for managing all Aitronos services",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aitronos_cli-0.2.0.tar.gz",
+  "download_time": "2025-11-27T13:42:37.200839",
+  "package_url": "https://pypi.org/project/aitronos-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cmpparis",
+  "version": "1.13.4",
+  "summary": "Une bibliothèque pour CMP",
+  "author": "Sofiane Charrad | Hakim Lahiani",
+  "license": null,
+  "home_page": "https://codecatalyst.aws/spaces/CMP/projects/Coding-Tools/source-repositories/python-cmpparis-lib/",
+  "download_filename": "cmpparis-1.13.4.tar.gz",
+  "download_time": "2025-11-27T13:43:13.100522",
+  "package_url": "https://pypi.org/project/cmpparis/"
+}

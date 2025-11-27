@@ -1,0 +1,11 @@
+{
+  "name": "STEAM-materials",
+  "version": "2025.11.0",
+  "summary": "Python wrapper for the steam materials package.",
+  "author": "STEAM Team",
+  "license": null,
+  "home_page": "https://gitlab.cern.ch/steam/steam-material-library",
+  "download_filename": "steam_materials-2025.11.0.tar.gz",
+  "download_time": "2025-11-27T13:43:16.398191",
+  "package_url": "https://pypi.org/project/STEAM-materials/"
+}

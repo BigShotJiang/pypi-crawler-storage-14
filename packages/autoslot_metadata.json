@@ -1,0 +1,11 @@
+{
+  "name": "autoslot",
+  "version": "2025.11.1",
+  "summary": "Classes and metaclasses for easier ``__slots__`` handling.  ",
+  "author": "Caleb Hattingh",
+  "license": null,
+  "home_page": "http://pythonomicon.com",
+  "download_filename": "autoslot-2025.11.1.tar.gz",
+  "download_time": "2025-11-27T13:42:45.908146",
+  "package_url": "https://pypi.org/project/autoslot/"
+}

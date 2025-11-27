@@ -1,0 +1,11 @@
+{
+  "name": "scrybe-check",
+  "version": "0.1.1",
+  "summary": "Add inline annotations to check that files are self-consistent",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scrybe_check-0.1.1.tar.gz",
+  "download_time": "2025-11-27T13:42:28.615115",
+  "package_url": "https://pypi.org/project/scrybe-check/"
+}

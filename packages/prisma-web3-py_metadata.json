@@ -1,11 +1,11 @@
 {
   "name": "prisma-web3-py",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "summary": "Python/SQLAlchemy async implementation of Prisma Web3 database models",
   "author": "SmallCat",
   "license": "MIT",
   "home_page": "https://github.com/your-org/prisma-web3",
-  "download_filename": "prisma_web3_py-1.0.9.tar.gz",
-  "download_time": "2025-11-26T16:42:13.008979",
+  "download_filename": "prisma_web3_py-1.0.10.tar.gz",
+  "download_time": "2025-11-27T13:43:05.423260",
   "package_url": "https://pypi.org/project/prisma-web3-py/"
 }

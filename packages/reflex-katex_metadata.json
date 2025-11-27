@@ -1,0 +1,11 @@
+{
+  "name": "reflex-katex",
+  "version": "0.0.4",
+  "summary": "A Reflex custom component library for rendering beautiful mathematical expressions using KaTeX",
+  "author": "Tyler",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "reflex_katex-0.0.4.tar.gz",
+  "download_time": "2025-11-27T13:42:59.552080",
+  "package_url": "https://pypi.org/project/reflex-katex/"
+}
