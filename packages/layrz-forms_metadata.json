@@ -1,11 +1,11 @@
 {
   "name": "layrz-forms",
-  "version": "2.1.6",
+  "version": "2.1.7",
   "summary": "Layrz forms and tools for Python",
   "author": null,
-  "license": "MIT License",
+  "license": null,
   "home_page": null,
-  "download_filename": "layrz_forms-2.1.6.tar.gz",
-  "download_time": "2025-11-26T04:51:47.100506",
+  "download_filename": "layrz_forms-2.1.7.tar.gz",
+  "download_time": "2025-11-27T18:14:26.949517",
   "package_url": "https://pypi.org/project/layrz-forms/"
 }

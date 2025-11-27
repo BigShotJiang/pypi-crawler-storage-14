@@ -1,0 +1,11 @@
+{
+  "name": "commonlib-reader",
+  "version": "1.0.9",
+  "summary": "Reader for Equinor commonlib api.",
+  "author": "Åsmund Våge Fannemel",
+  "license": "MIT",
+  "home_page": "https://github.com/equinor/commonlib-reader.git",
+  "download_filename": "commonlib_reader-1.0.9.tar.gz",
+  "download_time": "2025-11-27T18:14:55.890750",
+  "package_url": "https://pypi.org/project/commonlib-reader/"
+}

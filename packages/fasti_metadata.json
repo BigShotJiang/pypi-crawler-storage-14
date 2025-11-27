@@ -1,0 +1,11 @@
+{
+  "name": "fasti",
+  "version": "0.0.0.dev1",
+  "summary": "fasti: FastAPI Project Manager",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fasti-0.0.0.dev1.tar.gz",
+  "download_time": "2025-11-27T18:14:47.405155",
+  "package_url": "https://pypi.org/project/fasti/"
+}

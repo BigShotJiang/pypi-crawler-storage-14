@@ -1,0 +1,11 @@
+{
+  "name": "budgero",
+  "version": "0.1.1",
+  "summary": "Official Python SDK for Budgero - Privacy-First Zero Based Budget Manager",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "budgero-0.1.1.tar.gz",
+  "download_time": "2025-11-27T18:14:25.341947",
+  "package_url": "https://pypi.org/project/budgero/"
+}

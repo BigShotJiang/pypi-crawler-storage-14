@@ -1,0 +1,11 @@
+{
+  "name": "cm-cluster-on-demand-oci",
+  "version": "11.0.3.1",
+  "summary": "NVIDIA Base Command Manager Cluster on Demand OCI",
+  "author": "Base Command Manager Cloud Team",
+  "license": null,
+  "home_page": "https://docs.nvidia.com/base-command-manager/",
+  "download_filename": "cm_cluster_on_demand_oci-11.0.3.1.tar.gz",
+  "download_time": "2025-11-27T18:14:37.438367",
+  "package_url": "https://pypi.org/project/cm-cluster-on-demand-oci/"
+}
