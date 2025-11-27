@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-invoice-check-total",
+  "version": "16.0.1.0.1",
+  "summary": "Check if the verification total is equal to the bill's total",
+  "author": "Acsone SA/NV, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-invoicing",
+  "download_filename": "odoo_addon_account_invoice_check_total-16.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-11-27T05:50:28.883726",
+  "package_url": "https://pypi.org/project/odoo-addon-account-invoice-check-total/"
+}

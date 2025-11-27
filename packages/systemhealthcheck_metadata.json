@@ -1,11 +1,11 @@
 {
   "name": "systemhealthcheck",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "A simple Python package to fetch system health metrics.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "systemhealthcheck-0.1.1.tar.gz",
-  "download_time": "2025-11-27T05:34:33.333591",
+  "download_filename": "systemhealthcheck-0.2.1.tar.gz",
+  "download_time": "2025-11-27T05:50:23.537777",
   "package_url": "https://pypi.org/project/systemhealthcheck/"
 }

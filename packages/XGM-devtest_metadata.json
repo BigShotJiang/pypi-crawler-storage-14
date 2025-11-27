@@ -1,11 +1,11 @@
 {
   "name": "XGM-devtest",
-  "version": "6.0.2",
+  "version": "6.0.3",
   "summary": "control, measure and visualization",
   "author": "baqis",
   "license": "MIT",
   "home_page": "https://gitee.com/",
-  "download_filename": "xgm_devtest-6.0.2.tar.gz",
-  "download_time": "2025-11-27T04:53:54.451528",
+  "download_filename": "xgm_devtest-6.0.3-py3-none-any.whl",
+  "download_time": "2025-11-27T05:50:15.294930",
   "package_url": "https://pypi.org/project/XGM-devtest/"
 }
