@@ -1,11 +1,11 @@
 {
   "name": "mltoolhub",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "A lightweight toolkit for faster model building.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mltoolhub-0.0.5.tar.gz",
-  "download_time": "2025-11-25T18:14:59.522560",
+  "download_filename": "mltoolhub-0.0.6.tar.gz",
+  "download_time": "2025-11-27T06:48:12.829982",
   "package_url": "https://pypi.org/project/mltoolhub/"
 }

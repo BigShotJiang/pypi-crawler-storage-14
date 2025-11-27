@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-optionsflow",
+  "version": "1.0.0",
+  "summary": "MCP server providing advanced options analysis through Yahoo Finance",
+  "author": "Todd Wolven",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_optionsflow-1.0.0.tar.gz",
+  "download_time": "2025-11-27T06:48:41.862565",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-optionsflow/"
+}

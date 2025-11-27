@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-k8s-server",
+  "version": "0.1.0",
+  "summary": "MCP Kubernetes Server for managing Kubernetes clusters through MCP protocol",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_k8s_server-0.1.0.tar.gz",
+  "download_time": "2025-11-27T06:48:30.917838",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-k8s-server/"
+}

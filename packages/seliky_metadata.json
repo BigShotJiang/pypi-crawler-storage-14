@@ -1,0 +1,11 @@
+{
+  "name": "seliky",
+  "version": "5.10",
+  "summary": "a better ui autotest lib based on selenium, compatible with robot framework",
+  "author": "TEARK",
+  "license": null,
+  "home_page": "https://gitee.com/teark/seliky.git",
+  "download_filename": "seliky-5.10.tar.gz",
+  "download_time": "2025-11-27T06:48:43.945804",
+  "package_url": "https://pypi.org/project/seliky/"
+}

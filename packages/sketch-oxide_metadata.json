@@ -1,11 +1,11 @@
 {
   "name": "sketch-oxide",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "State-of-the-art DataSketches library (2025) - UltraLogLog, Binary Fuse Filters, DDSketch",
   "author": null,
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "sketch_oxide-0.1.4-cp38-abi3-macosx_10_12_x86_64.whl",
-  "download_time": "2025-11-26T07:30:25.800510",
+  "download_filename": "sketch_oxide-0.1.5-cp38-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2025-11-27T06:48:28.774178",
   "package_url": "https://pypi.org/project/sketch-oxide/"
 }
