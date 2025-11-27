@@ -1,0 +1,11 @@
+{
+  "name": "obvyr-cli",
+  "version": "2.1.0",
+  "summary": "Command-line wrapper to allow Obvyr to capture evidence from any machine.",
+  "author": "Wyrd Technology Ltd",
+  "license": "Proprietary",
+  "home_page": "https://wyrd-technology.com",
+  "download_filename": "obvyr_cli-2.1.0.tar.gz",
+  "download_time": "2025-11-27T04:44:00.299288",
+  "package_url": "https://pypi.org/project/obvyr-cli/"
+}

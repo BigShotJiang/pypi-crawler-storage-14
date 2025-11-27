@@ -1,0 +1,11 @@
+{
+  "name": "vaultp",
+  "version": "0.1.0",
+  "summary": "A secure CLI password manager.",
+  "author": "Ktech404",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vaultp-0.1.0.tar.gz",
+  "download_time": "2025-11-27T04:43:54.148098",
+  "package_url": "https://pypi.org/project/vaultp/"
+}

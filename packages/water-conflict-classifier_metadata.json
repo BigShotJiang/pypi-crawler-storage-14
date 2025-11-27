@@ -1,11 +1,11 @@
 {
   "name": "water-conflict-classifier",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "SetFit-based multi-label classifier for water-related conflict events",
   "author": "Baobab Tech",
   "license": null,
   "home_page": null,
-  "download_filename": "water_conflict_classifier-0.1.8.tar.gz",
-  "download_time": "2025-11-27T04:22:57.020911",
+  "download_filename": "water_conflict_classifier-0.1.9.tar.gz",
+  "download_time": "2025-11-27T04:43:52.030047",
   "package_url": "https://pypi.org/project/water-conflict-classifier/"
 }
