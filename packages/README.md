@@ -1,12 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-27T07:13:17.808991
-- **Total Packages**: 82
-- **Total Size**: 58.6 MB
+- **Download Time**: 2025-11-27T07:32:44.381387
+- **Total Packages**: 85
+- **Total Size**: 23.74 MB
 
 ## Packages List
+- tdrpa.tdworker
+- novita-sandbox
+- imagedata
+- blogger-mon-sdk-py
+- scruby
+- pyspamsum
+- automatedmodeling
+- appinstalltest
+- dify-user-client
+- bizydraft
+- llmakits
+- dragon-ml-toolbox
+- packmol
+- pysail
+- serpshot
+- uniclogs-stationd
+- django-ddm
+- refedez_t
+- insein
+- aipyapp
+- kubiya-control-plane-api
+- machineconfig
+- tractusx-sdk
+- libmc
 - invink
+- apathetic-utils
 - parsec-cloud
 - warpdata
 - pytest-sbase
@@ -22,7 +47,6 @@
 - smartpush
 - mongfontbuilder
 - idiom-search
-- kubiya-control-plane-api
 - pyqqq
 - rypi
 - streamlit-nightly
@@ -32,7 +56,6 @@
 - kcli
 - comfyui-workflow-templates
 - comfyui-workflow-templates-media-image
-- appinstalltest
 - comfyui-workflow-templates-core
 - fastled
 - abacustest
@@ -58,7 +81,6 @@
 - iflow-mcp_pydantic-ai
 - indian-pincode
 - langchain-seahorse
-- insein
 - iflow-mcp_mcp-salesforce-connector
 - linksocks
 - kela-logger
@@ -69,22 +91,3 @@
 - iflow-mcp_mcp-server-gravitino
 - thingspanel-mcp
 - malifiscan
-- veriskgo
-- imgrs
-- zfx
-- converter-csv
-- httplint
-- nonebot-plugin-templates-draw
-- flyn
-- ytp-dl
-- cxx-image-io
-- apathetic-logging
-- waldiez-runner
-- iflow-mcp_cockroachdb-mcp-server
-- pdf-oxide
-- pyintellicenter
-- hypothesis
-- physionet
-- genlayer-test
-- mlbi-bitool
-- sketch-oxide

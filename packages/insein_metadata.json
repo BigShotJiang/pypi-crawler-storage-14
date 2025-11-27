@@ -1,11 +1,11 @@
 {
   "name": "insein",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "The Shapeshifting Network Scanner with Kernel Injection",
   "author": "R H A Ashan Imalka (scxr-dev)",
   "license": null,
   "home_page": "https://github.com/scxr-dev/insein",
-  "download_filename": "insein-1.0.0.tar.gz",
-  "download_time": "2025-11-27T07:13:00.841435",
+  "download_filename": "insein-1.0.2.tar.gz",
+  "download_time": "2025-11-27T07:32:03.058610",
   "package_url": "https://pypi.org/project/insein/"
 }

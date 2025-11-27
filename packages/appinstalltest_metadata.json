@@ -1,11 +1,11 @@
 {
   "name": "appinstalltest",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "APK Compatibility Testing Platform",
   "author": "Chen Wenkun",
   "license": null,
   "home_page": null,
-  "download_filename": "appinstalltest-0.1.1.tar.gz",
-  "download_time": "2025-11-27T07:12:45.638688",
+  "download_filename": "appinstalltest-0.1.2.tar.gz",
+  "download_time": "2025-11-27T07:31:56.473366",
   "package_url": "https://pypi.org/project/appinstalltest/"
 }

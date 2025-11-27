@@ -1,0 +1,11 @@
+{
+  "name": "django-ddm",
+  "version": "2.1.7",
+  "summary": "A Django app to setup data donation projects.",
+  "author": "Nico Pfiffner",
+  "license": "GPLv3",
+  "home_page": "https://github.com/uzh/ddm",
+  "download_filename": "django_ddm-2.1.7.tar.gz",
+  "download_time": "2025-11-27T07:32:01.879759",
+  "package_url": "https://pypi.org/project/django-ddm/"
+}
