@@ -1,16 +1,71 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-27T11:39:33.199442
-- **Total Packages**: 83
-- **Total Size**: 9.73 MB
+- **Download Time**: 2025-11-27T11:48:10.114160
+- **Total Packages**: 88
+- **Total Size**: 25.72 MB
 
 ## Packages List
+- kostyl-toolkit
+- aio-service-caller
+- traceloop-sdk
+- thoughtful
+- propagation-exporter
+- evol-aiq
+- opentelemetry-instrumentation-writer
+- opentelemetry-instrumentation-weaviate
+- opentelemetry-instrumentation-watsonx
+- opentelemetry-instrumentation-vertexai
+- opentelemetry-instrumentation-transformers
+- opentelemetry-instrumentation-together
+- opentelemetry-instrumentation-sagemaker
+- opentelemetry-instrumentation-replicate
+- opentelemetry-instrumentation-qdrant
+- opentelemetry-instrumentation-pinecone
+- opentelemetry-instrumentation-openai-agents
+- opentelemetry-instrumentation-openai
+- opentelemetry-instrumentation-ollama
+- opentelemetry-instrumentation-mistralai
+- opentelemetry-instrumentation-milvus
+- opentelemetry-instrumentation-mcp
+- utest-auto-core
+- eywa-client
+- opentelemetry-instrumentation-marqo
+- opentelemetry-instrumentation-llamaindex
+- opentelemetry-instrumentation-langchain
+- opentelemetry-instrumentation-lancedb
+- opentelemetry-instrumentation-haystack
+- opentelemetry-instrumentation-groq
+- holodeck-ai
+- opentelemetry-instrumentation-google-generativeai
+- opentelemetry-instrumentation-crewai
+- opentelemetry-instrumentation-cohere
+- opentelemetry-instrumentation-chromadb
+- opentelemetry-instrumentation-bedrock
+- opentelemetry-instrumentation-anthropic
+- opentelemetry-instrumentation-alephalpha
+- opentelemetry-instrumentation-agno
+- ts-tokenizer
+- AOT-biomaps
+- syside
+- python-package-folder
+- admin-scripts
+- feature-generate
+- eiogram
+- wagtail-dsfr
+- vibetuner
+- acontext
+- f3-data-models
+- connexity
+- pyochain
+- ryoma-nicer
+- buildgrid
+- haiway
+- opik
+- libxrk
 - diffusionx
 - volcengine-python-sdk
-- evol-aiq
 - pdfsmartocr
-- kostyl-toolkit
 - HHHHHH-dfghj
 - shared-exchange-config
 - djangocms-stories-agenda
@@ -39,53 +94,3 @@
 - tools-fghjk
 - datacrunch
 - openedx-authz
-- livechat-webservice
-- admin-scripts
-- vba-edit
-- codegraph-mcp-server
-- ubox-py-sdk
-- sag-py-logging
-- Skryaaa
-- nexaclient
-- mle-runtime
-- real-headers
-- dragon-ml-toolbox
-- ssb-nudb-use
-- mkrdf
-- flaw2flow
-- host-picker
-- XenAPI
-- nonebot-plugin-templates-draw
-- pyedb
-- pytest-funcnodes
-- khoai
-- sji
-- add-2-czy
-- obsah
-- opencloning-linkml
-- gdbrpc
-- dvt-core
-- cleanifier
-- yunzhanghu-sdk
-- pull-request-fixer
-- openmeter
-- mic-stream-util
-- SBART
-- jhub-apps
-- cadnaPromise
-- modelmirror
-- aiqtoolkit-mem0ai
-- openaivec
-- everycure-datasets
-- cognite-neat
-- arthur-client
-- funcnodes-core
-- aio-service-caller
-- rich-toolkit
-- blueno
-- remotion-lambda
-- ixmp4
-- pydpm-xl
-- dinja
-- crackerjack
-- defog

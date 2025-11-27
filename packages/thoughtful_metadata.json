@@ -1,0 +1,11 @@
+{
+  "name": "thoughtful",
+  "version": "3.2.3",
+  "summary": "Thoughtful is a python package by Thoughtful for helping manage automations with helpful packages like supervisor",
+  "author": "Thoughtful Automation",
+  "license": "Apache-2.0",
+  "home_page": "https://thoughtful.ai",
+  "download_filename": "thoughtful-3.2.3.tar.gz",
+  "download_time": "2025-11-27T11:47:25.501673",
+  "package_url": "https://pypi.org/project/thoughtful/"
+}
