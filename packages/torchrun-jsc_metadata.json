@@ -1,0 +1,11 @@
+{
+  "name": "torchrun-jsc",
+  "version": "0.0.19",
+  "summary": "Fixed version of `torchrun` on Jülich Supercomputing Centre. Requires Slurm usage.",
+  "author": "Jan Ebert",
+  "license": null,
+  "home_page": "https://github.com/HelmholtzAI-FZJ/torchrun_jsc",
+  "download_filename": "torchrun_jsc-0.0.19.tar.gz",
+  "download_time": "2025-11-27T23:10:06.747162",
+  "package_url": "https://pypi.org/project/torchrun-jsc/"
+}

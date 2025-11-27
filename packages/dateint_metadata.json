@@ -1,11 +1,11 @@
 {
   "name": "dateint",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Helper library for manipulation of formatted date/datetime values.",
   "author": "Bruno Amaral",
   "license": null,
   "home_page": null,
-  "download_filename": "dateint-0.1.1.tar.gz",
-  "download_time": "2025-11-27T19:11:38.631415",
+  "download_filename": "dateint-0.2.0.tar.gz",
+  "download_time": "2025-11-27T23:10:11.959817",
   "package_url": "https://pypi.org/project/dateint/"
 }

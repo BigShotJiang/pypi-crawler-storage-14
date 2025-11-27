@@ -1,0 +1,11 @@
+{
+  "name": "decompressed",
+  "version": "2.0.0",
+  "summary": "GPU-native vector compression and decompression library for embeddings and similarity search",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "decompressed-2.0.0.tar.gz",
+  "download_time": "2025-11-27T23:10:08.327668",
+  "package_url": "https://pypi.org/project/decompressed/"
+}

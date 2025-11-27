@@ -1,0 +1,11 @@
+{
+  "name": "pysigma-backend-splunk",
+  "version": "2.0.0",
+  "summary": "pySigma Splunk backend",
+  "author": "Thomas Patzke",
+  "license": "LGPL-2.1-only",
+  "home_page": null,
+  "download_filename": "pysigma_backend_splunk-2.0.0.tar.gz",
+  "download_time": "2025-11-27T23:10:09.887913",
+  "package_url": "https://pypi.org/project/pysigma-backend-splunk/"
+}

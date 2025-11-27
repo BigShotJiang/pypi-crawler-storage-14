@@ -1,11 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-27T22:52:13.129491
-- **Total Packages**: 79
-- **Total Size**: 6.26 MB
+- **Download Time**: 2025-11-27T23:10:36.837890
+- **Total Packages**: 76
+- **Total Size**: 10.42 MB
 
 ## Packages List
+- jupyterlab-export-markdown-extension
+- ytp-dl
+- gcbrickwork
+- git-profile
+- flwr-nightly
+- odsbox-jaquel-mcp
+- dbt-colibri
+- smartmemory
+- grnexus
+- fujin-cli
+- synod-cli
+- g2p
+- playbooks
+- agent-starter-pack
+- poelis-sdk
+- moose-lib
+- wop
+- ahmaedinfo
+- fallom
+- slownie
+- torchrun-jsc
+- django-pictures
+- camera2geo
+- decompressed
+- django-vies
+- pysigma-backend-splunk
+- lintdata
+- SoftiqTech-Sofi-Agent
+- hopx-cli
 - dateint
 - naeural-core
 - ratio1
@@ -13,7 +42,6 @@
 - pywb
 - causal_toolkit_tc
 - pyuiua
-- hopx-cli
 - llama-index-llms-bedrock-converse
 - spectuel-engine-utils
 - llama-index-llms-anthropic
@@ -29,11 +57,9 @@
 - rggrader2
 - mschunker
 - sunpeek
-- synod-cli
 - recallbricks-langchain
 - athena-intelligence
 - nobs
-- jupyterlab-export-markdown-extension
 - sigplay
 - mbari-aidata
 - quadrilateral-interpolation
@@ -52,36 +78,7 @@
 - semlix
 - unaiverse
 - apple-search-ads-client
-- grnexus
 - llama-index-vector-stores-postgres
 - mcp-servicenex
 - discord-selfsbotsx
 - megatron-core
-- megatron-fsdp
-- dhisana
-- steer-sdk
-- cybrid-api-bank-python
-- sapiens-dataset
-- lenslet
-- samplerate-ledfx
-- cybrid-api-organization-python
-- cybrid-api-id-python
-- PyPANRestV2
-- json-strong-typing
-- piicodev
-- shmlock
-- deepfabric
-- scc-firewall-manager-sdk
-- biblemategui
-- regula-documentreader-webclient
-- hyperspace-py
-- drpython
-- kermi-xcenter
-- jaxkan
-- lightphe
-- medusa-security
-- pyppmd
-- labdataplot
-- jsonbrotliminifyer
-- auto-adpq
-- semaphore-mcp

@@ -1,0 +1,11 @@
+{
+  "name": "django-pictures",
+  "version": "1.5.5",
+  "summary": "Responsive cross-browser image library using modern codes like AVIF & WebP.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_pictures-1.5.5.tar.gz",
+  "download_time": "2025-11-27T23:10:07.280262",
+  "package_url": "https://pypi.org/project/django-pictures/"
+}

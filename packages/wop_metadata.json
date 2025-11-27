@@ -1,0 +1,11 @@
+{
+  "name": "wop",
+  "version": "2.6.0",
+  "summary": "WhatsOpt Command Line Interface",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "wop-2.6.0.tar.gz",
+  "download_time": "2025-11-27T23:10:04.649554",
+  "package_url": "https://pypi.org/project/wop/"
+}

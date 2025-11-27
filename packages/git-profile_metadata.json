@@ -1,0 +1,11 @@
+{
+  "name": "git-profile",
+  "version": "1.1.4",
+  "summary": "Easily switch between Git configurations on a per-repository basis.",
+  "author": "Niklas Rosenstein",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "git_profile-1.1.4.tar.gz",
+  "download_time": "2025-11-27T23:09:56.060443",
+  "package_url": "https://pypi.org/project/git-profile/"
+}
