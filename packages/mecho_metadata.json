@@ -1,11 +1,11 @@
 {
   "name": "mecho",
-  "version": "1.0.3.10",
+  "version": "1.0.3.12",
   "summary": "mecho",
   "author": "qicongsheng",
   "license": null,
   "home_page": "https://github.com/qicongsheng/mecho",
-  "download_filename": "mecho-1.0.3.10.tar.gz",
-  "download_time": "2025-11-27T16:12:18.684397",
+  "download_filename": "mecho-1.0.3.12.tar.gz",
+  "download_time": "2025-11-27T16:53:58.233451",
   "package_url": "https://pypi.org/project/mecho/"
 }

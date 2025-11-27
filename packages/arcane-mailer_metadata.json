@@ -1,0 +1,11 @@
+{
+  "name": "arcane-mailer",
+  "version": "0.2.5",
+  "summary": "Mail sender",
+  "author": "Arcane",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arcane_mailer-0.2.5.tar.gz",
+  "download_time": "2025-11-27T16:54:27.899618",
+  "package_url": "https://pypi.org/project/arcane-mailer/"
+}

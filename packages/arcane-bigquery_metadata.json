@@ -1,0 +1,11 @@
+{
+  "name": "arcane-bigquery",
+  "version": "2.3.2",
+  "summary": "Override google bigquery python client",
+  "author": "Arcane",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arcane_bigquery-2.3.2.tar.gz",
+  "download_time": "2025-11-27T16:54:28.967289",
+  "package_url": "https://pypi.org/project/arcane-bigquery/"
+}

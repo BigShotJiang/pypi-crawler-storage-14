@@ -1,11 +1,11 @@
 {
   "name": "toonkit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Production-grade JSON ↔ TOON converter with multi-model tokenization benchmarks and streaming support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "toonkit-0.1.0.tar.gz",
-  "download_time": "2025-11-27T15:49:58.535919",
+  "download_filename": "toonkit-0.1.1.tar.gz",
+  "download_time": "2025-11-27T16:54:06.865351",
   "package_url": "https://pypi.org/project/toonkit/"
 }

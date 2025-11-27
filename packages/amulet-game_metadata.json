@@ -1,0 +1,11 @@
+{
+  "name": "amulet-game",
+  "version": "1.0.3a0",
+  "summary": "A Minecraft metadata and low level translation library.",
+  "author": "James Clare",
+  "license": null,
+  "home_page": null,
+  "download_filename": "amulet_game-1.0.3a0-cp311-cp311-macosx_10_15_universal2.whl",
+  "download_time": "2025-11-27T16:54:06.334532",
+  "package_url": "https://pypi.org/project/amulet-game/"
+}

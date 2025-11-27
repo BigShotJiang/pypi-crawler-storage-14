@@ -1,0 +1,11 @@
+{
+  "name": "arcane-tasks",
+  "version": "0.7.2",
+  "summary": "Override tasks client",
+  "author": "Arcane",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arcane_tasks-0.7.2.tar.gz",
+  "download_time": "2025-11-27T16:54:26.833461",
+  "package_url": "https://pypi.org/project/arcane-tasks/"
+}

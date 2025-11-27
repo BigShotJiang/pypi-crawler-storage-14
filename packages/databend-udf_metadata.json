@@ -1,11 +1,11 @@
 {
   "name": "databend-udf",
-  "version": "0.2.17",
+  "version": "0.2.18",
   "summary": "Databend UDF Server",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "databend_udf-0.2.17.tar.gz",
-  "download_time": "2025-11-27T16:40:24.809666",
+  "download_filename": "databend_udf-0.2.18.tar.gz",
+  "download_time": "2025-11-27T16:53:55.002881",
   "package_url": "https://pypi.org/project/databend-udf/"
 }

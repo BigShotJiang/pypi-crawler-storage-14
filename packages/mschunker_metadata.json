@@ -1,11 +1,11 @@
 {
   "name": "mschunker",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "MSchunker – Smart text chunker for LLM preprocessing",
   "author": "MS",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mschunker-0.1.2.tar.gz",
-  "download_time": "2025-11-27T15:33:20.791790",
+  "download_filename": "mschunker-0.1.3.tar.gz",
+  "download_time": "2025-11-27T16:53:45.062136",
   "package_url": "https://pypi.org/project/mschunker/"
 }

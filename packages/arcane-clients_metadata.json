@@ -1,0 +1,11 @@
+{
+  "name": "arcane-clients",
+  "version": "1.5.6",
+  "summary": "Utility functions to interact with our clients_service",
+  "author": "Arcane",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arcane_clients-1.5.6.tar.gz",
+  "download_time": "2025-11-27T16:54:26.296906",
+  "package_url": "https://pypi.org/project/arcane-clients/"
+}

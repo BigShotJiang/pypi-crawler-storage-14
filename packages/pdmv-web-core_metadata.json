@@ -1,0 +1,11 @@
+{
+  "name": "pdmv-web-core",
+  "version": "1.3.0",
+  "summary": "This package groups several modules to implement features across all PdmV applications like model objects, database access, SSH sessions, OAuth2 middleware layers, among others.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdmv_web_core-1.3.0.tar.gz",
+  "download_time": "2025-11-27T16:53:59.305553",
+  "package_url": "https://pypi.org/project/pdmv-web-core/"
+}
