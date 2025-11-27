@@ -1,11 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-27T21:09:48.478394
-- **Total Packages**: 75
-- **Total Size**: 38.37 MB
+- **Download Time**: 2025-11-27T21:28:55.796385
+- **Total Packages**: 82
+- **Total Size**: 21.56 MB
 
 ## Packages List
+- serialx
+- local-deep-research
+- ai-infra
+- one-interfaces
+- antflow
+- kermi-xcenter
+- nipoppy
+- wpiformat
+- linkarchivetools
+- super-bario
+- boutiques
+- wolfhece-tools
+- repo-ctx
+- translate-toolkit
+- namel3ss
+- mcp-feedback
+- aitril
+- octobot-services
+- kreuzberg
+- py-socproof
+- llmhub-runtime
+- seerpy
+- DjangX
+- railtracks-cli
+- railtracks
+- aiinbx
+- autopilot-tools
+- steely
+- fl4health
+- ytp-dl
+- gen-readme
+- eva4-aaa-ldap
+- ipyslides
+- gmail-archiver-cli
+- drpython
+- petropandas
+- jps-rag-assistant
+- aioaudiobookshelf
+- Logbook
+- hyprshade
+- sql-impressao
 - ipodnano-scrobbler
 - flixopt
 - jsonbrotliminifyer
@@ -28,7 +69,6 @@
 - ctao-dpps-clients
 - jupyterlab-export-markdown-extension
 - inbq
-- linkarchivetools
 - qutebrowser
 - calibrated-explanations
 - debug-dojo
@@ -40,44 +80,11 @@
 - pyintellicenter
 - untext
 - musipelago
-- steely
 - superdroid
-- aitril
 - grnexus
 - napistu-torch
-- ytp-dl
 - remotion-lambda
 - anyenv
 - secrets-sync
 - havoc-clustering-v2
 - cybrid-api-bank-python
-- worker-automate-hub
-- cybrid-api-organization-python
-- cybrid-api-id-python
-- renumerate
-- review-bot-automator
-- prompt-groomer
-- amiris-priceforecast
-- composennent
-- fdc-shared-kernel
-- czechfabric-sdk
-- yanat
-- nllw
-- evaics
-- token-injectable-docker-builder
-- dwave-optimization
-- weni-commons
-- nearest-advocate
-- petram
-- intelligence-builder-sdk
-- antonnia-conversations
-- factpulse
-- opexcore
-- videofetch
-- RepoPlone
-- depydency
-- numba-cuda
-- water-conflict-classifier
-- pharmaradar
-- havoc-clustering
-- dbnl

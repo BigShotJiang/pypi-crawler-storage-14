@@ -1,0 +1,11 @@
+{
+  "name": "aioaudiobookshelf",
+  "version": "0.1.9",
+  "summary": "Async library for Audiobookshelf",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "aioaudiobookshelf-0.1.9.tar.gz",
+  "download_time": "2025-11-27T21:28:31.925406",
+  "package_url": "https://pypi.org/project/aioaudiobookshelf/"
+}

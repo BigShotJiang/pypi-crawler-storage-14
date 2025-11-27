@@ -1,0 +1,11 @@
+{
+  "name": "gen-readme",
+  "version": "1.1.4",
+  "summary": "Readme doc generator",
+  "author": "Vladimir Roncevic",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://vroncevic.github.io/gen_readme/",
+  "download_filename": "gen_readme-1.1.4.tar.gz",
+  "download_time": "2025-11-27T21:28:28.192841",
+  "package_url": "https://pypi.org/project/gen-readme/"
+}
