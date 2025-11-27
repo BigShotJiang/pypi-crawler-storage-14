@@ -1,0 +1,11 @@
+{
+  "name": "opexcore",
+  "version": "0.4.2",
+  "summary": "A unified Python SDK for managing multiple VPN panel APIs including Marzban, Marzneshin, Guard, and PasarGuard",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opexcore-0.4.2.tar.gz",
+  "download_time": "2025-11-27T20:41:11.108563",
+  "package_url": "https://pypi.org/project/opexcore/"
+}

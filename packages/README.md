@@ -1,12 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-27T20:32:22.413269
-- **Total Packages**: 84
-- **Total Size**: 9.83 MB
+- **Download Time**: 2025-11-27T20:41:44.089467
+- **Total Packages**: 77
+- **Total Size**: 9.47 MB
 
 ## Packages List
+- fdc-shared-kernel
+- czechfabric-sdk
+- yanat
+- nllw
+- evaics
+- token-injectable-docker-builder
+- dwave-optimization
+- weni-commons
+- nearest-advocate
+- petram
+- steely
+- intelligence-builder-sdk
+- medusa-security
+- antonnia-conversations
 - factpulse
+- opexcore
+- videofetch
+- RepoPlone
+- depydency
+- numba-cuda
+- water-conflict-classifier
+- pharmaradar
+- havoc-clustering
+- dbnl
+- statsmodelp
+- weni-feature-flags
 - thunder-bench
 - calibre
 - linkarchivetools
@@ -17,7 +42,6 @@
 - aipyapp
 - statezero
 - slownie
-- water-conflict-classifier
 - pyxations
 - tiktools
 - osprey-framework
@@ -44,7 +68,6 @@
 - dlomix
 - juham-automation
 - pixmatch
-- fdc-shared-kernel
 - oca-odoo-pre-commit-hooks
 - another-uv
 - ordeq
@@ -57,36 +80,6 @@
 - apple-search-ads-client
 - notebook-checker
 - veee
-- medusa-security
 - praat-parselmouth
 - poemar
 - x-evolution
-- pycarlo
-- llama-stack-provider-ragas
-- auth-agent-mcp
-- c2cgeoportal-admin
-- cjm-fasthtml-interactions
-- c2cgeoportal-geoportal
-- c2cgeoportal-commons
-- simba-uw-tf-dev
-- rgbd-depth
-- pygitzen
-- ytp-dl
-- formalyzer
-- django-tree-queries
-- exn-report-sdk
-- dhisana
-- kognitos-bdk-api
-- reerelease
-- tlpytools
-- sse-plugin-interface
-- whatenc
-- czechfabric-sdk
-- pydrime
-- osa-tool
-- pycardano
-- rpa-quaestvm
-- zincdl
-- muc
-- sunpy
-- pollination-irradiance

@@ -1,0 +1,11 @@
+{
+  "name": "evaics",
+  "version": "0.2.36",
+  "summary": "EVA ICS v4 Python SDK",
+  "author": "Bohemia Automation / Altertech",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/eva-ics/eva4",
+  "download_filename": "evaics-0.2.36.tar.gz",
+  "download_time": "2025-11-27T20:41:05.304060",
+  "package_url": "https://pypi.org/project/evaics/"
+}
