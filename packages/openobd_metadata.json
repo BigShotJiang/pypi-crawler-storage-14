@@ -1,0 +1,11 @@
+{
+  "name": "openobd",
+  "version": "1.25.3",
+  "summary": "Jifeline Networks openOBD Python Client Library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openobd-1.25.3.tar.gz",
+  "download_time": "2025-11-27T11:10:00.394386",
+  "package_url": "https://pypi.org/project/openobd/"
+}

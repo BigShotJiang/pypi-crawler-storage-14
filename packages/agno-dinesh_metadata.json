@@ -1,11 +1,11 @@
 {
   "name": "agno-dinesh",
-  "version": "2.3.2.2",
+  "version": "2.3.2.3",
   "summary": "Agno: a lightweight library for building Multi-Agent Systems",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agno_dinesh-2.3.2.2.tar.gz",
-  "download_time": "2025-11-26T06:16:06.883065",
+  "download_filename": "agno_dinesh-2.3.2.3.tar.gz",
+  "download_time": "2025-11-27T11:10:07.072949",
   "package_url": "https://pypi.org/project/agno-dinesh/"
 }

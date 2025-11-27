@@ -1,0 +1,11 @@
+{
+  "name": "pydetach",
+  "version": "1.0.1",
+  "summary": "DeTACH: Detaching spatial Trascriptomics into Annotated Cells with High confidence",
+  "author": "Xindong Liu",
+  "license": "GPL3",
+  "home_page": null,
+  "download_filename": "pydetach-1.0.1.tar.gz",
+  "download_time": "2025-11-27T11:10:08.099835",
+  "package_url": "https://pypi.org/project/pydetach/"
+}

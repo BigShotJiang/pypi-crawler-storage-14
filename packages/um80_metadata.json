@@ -1,11 +1,11 @@
 {
   "name": "um80",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Microsoft MACRO-80 compatible assembler toolchain for Linux",
   "author": "um80 developers",
   "license": null,
   "home_page": null,
-  "download_filename": "um80-0.2.0-py3-none-any.whl",
-  "download_time": "2025-11-27T10:12:03.966470",
+  "download_filename": "um80-0.2.1-py3-none-any.whl",
+  "download_time": "2025-11-27T11:10:05.521108",
   "package_url": "https://pypi.org/project/um80/"
 }

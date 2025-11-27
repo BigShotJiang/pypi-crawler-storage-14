@@ -1,0 +1,11 @@
+{
+  "name": "mas-devops",
+  "version": "7.2.0",
+  "summary": "Python for Maximo Application Suite Dev/Ops",
+  "author": "David Parker",
+  "license": "Eclipse Public License - v1.0",
+  "home_page": "https://github.com/ibm-mas/python-devops",
+  "download_filename": "mas_devops-7.2.0.tar.gz",
+  "download_time": "2025-11-27T11:09:42.812004",
+  "package_url": "https://pypi.org/project/mas-devops/"
+}

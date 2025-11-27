@@ -1,0 +1,11 @@
+{
+  "name": "qiskit-ibm-ai-local-transpiler",
+  "version": "0.5.0",
+  "summary": "This package allows you to run a local version of the Qiskit AI-powered transpiler passes.",
+  "author": "IBM Quantum",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qiskit_ibm_ai_local_transpiler-0.5.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-27T11:10:06.554474",
+  "package_url": "https://pypi.org/project/qiskit-ibm-ai-local-transpiler/"
+}

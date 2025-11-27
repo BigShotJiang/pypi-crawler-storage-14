@@ -1,11 +1,11 @@
 {
   "name": "koder",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "An intuitive AI coding assistant and interactive CLI tool that boosts developer productivity with intelligent automation and context-aware support.",
   "author": "Pengfei Ni",
   "license": null,
   "home_page": null,
-  "download_filename": "koder-0.4.1.tar.gz",
-  "download_time": "2025-11-26T15:09:50.768968",
+  "download_filename": "koder-0.4.2.tar.gz",
+  "download_time": "2025-11-27T11:10:07.587441",
   "package_url": "https://pypi.org/project/koder/"
 }

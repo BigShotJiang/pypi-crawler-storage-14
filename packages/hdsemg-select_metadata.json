@@ -1,0 +1,11 @@
+{
+  "name": "hdsemg-select",
+  "version": "0.2.0",
+  "summary": "hdsemg-select package",
+  "author": "Johannes Kasser",
+  "license": null,
+  "home_page": "https://github.com/johanneskasser/hdsemg-select",
+  "download_filename": "hdsemg_select-0.2.0.tar.gz",
+  "download_time": "2025-11-27T11:09:41.273495",
+  "package_url": "https://pypi.org/project/hdsemg-select/"
+}

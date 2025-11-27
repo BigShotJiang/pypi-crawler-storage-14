@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-task-worker",
+  "version": "0.1.1",
+  "summary": "Fastapi Task Worker",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_task_worker-0.1.1.tar.gz",
+  "download_time": "2025-11-27T11:09:51.583485",
+  "package_url": "https://pypi.org/project/fastapi-task-worker/"
+}
