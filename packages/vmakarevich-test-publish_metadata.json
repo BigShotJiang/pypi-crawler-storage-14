@@ -1,11 +1,11 @@
 {
   "name": "vmakarevich-test-publish",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "A minimal Python package for testing PyPI publishing",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/test-publish",
-  "download_filename": "vmakarevich_test_publish-1.2.1.tar.gz",
-  "download_time": "2025-11-27T13:43:03.278034",
+  "download_filename": "vmakarevich_test_publish-1.2.2.tar.gz",
+  "download_time": "2025-11-27T14:52:35.354322",
   "package_url": "https://pypi.org/project/vmakarevich-test-publish/"
 }
