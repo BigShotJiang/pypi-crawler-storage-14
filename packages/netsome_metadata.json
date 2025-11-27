@@ -1,0 +1,11 @@
+{
+  "name": "netsome",
+  "version": "0.4.3",
+  "summary": "The one and only library to make your network code handsome",
+  "author": "kuderr",
+  "license": "X11-distribute-modifications-variant",
+  "home_page": "https://github.com/kuderr/netsome",
+  "download_filename": "netsome-0.4.3.tar.gz",
+  "download_time": "2025-11-27T19:11:25.723061",
+  "package_url": "https://pypi.org/project/netsome/"
+}

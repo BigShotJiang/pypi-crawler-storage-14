@@ -1,11 +1,11 @@
 {
   "name": "stockapis-bot",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Trading Bot SDK for StockAPIs - Build custom trading bots with ease",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "stockapis_bot-0.2.0.tar.gz",
-  "download_time": "2025-11-27T18:54:14.952262",
+  "download_filename": "stockapis_bot-0.3.0.tar.gz",
+  "download_time": "2025-11-27T19:11:26.887645",
   "package_url": "https://pypi.org/project/stockapis-bot/"
 }

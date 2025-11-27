@@ -1,0 +1,11 @@
+{
+  "name": "environmentaltools",
+  "version": "2026.3.1.1",
+  "summary": "environmentaltools is an open-source Python package for modular environmental management, integrating timeseries analysis, raster-based processing, decision matrices, sensor workflows, and legal-administrative support for coastal and terrestrial systems.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "environmentaltools-2026.3.1.1.tar.gz",
+  "download_time": "2025-11-27T19:11:37.602541",
+  "package_url": "https://pypi.org/project/environmentaltools/"
+}

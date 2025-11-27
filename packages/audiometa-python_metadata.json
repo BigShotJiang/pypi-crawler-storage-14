@@ -1,11 +1,11 @@
 {
   "name": "audiometa-python",
-  "version": "0.2.9",
+  "version": "0.3.0",
   "summary": "A comprehensive Python library for reading and writing audio metadata across multiple formats",
   "author": "AudioMeta Python Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "audiometa_python-0.2.9.tar.gz",
-  "download_time": "2025-11-25T13:06:04.421300",
+  "download_filename": "audiometa_python-0.3.0.tar.gz",
+  "download_time": "2025-11-27T19:11:58.039998",
   "package_url": "https://pypi.org/project/audiometa-python/"
 }

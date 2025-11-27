@@ -1,0 +1,11 @@
+{
+  "name": "mdformat_myst",
+  "version": "0.3.0",
+  "summary": "Mdformat plugin for MyST compatibility.",
+  "author": "Taneli Hukkinen",
+  "license": "MIT",
+  "home_page": "https://github.com/hukkinj1/mdformat-myst",
+  "download_filename": "mdformat_myst-0.3.0.tar.gz",
+  "download_time": "2025-11-27T19:11:56.495638",
+  "package_url": "https://pypi.org/project/mdformat_myst/"
+}
