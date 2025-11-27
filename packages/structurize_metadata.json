@@ -1,11 +1,11 @@
 {
   "name": "structurize",
-  "version": "2.18.1",
+  "version": "2.18.2",
   "summary": "Tools to convert from and to JSON Structure from various other schema languages.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "structurize-2.18.1.tar.gz",
-  "download_time": "2025-11-27T12:19:04.815252",
+  "download_filename": "structurize-2.18.2.tar.gz",
+  "download_time": "2025-11-27T14:34:27.029109",
   "package_url": "https://pypi.org/project/structurize/"
 }
