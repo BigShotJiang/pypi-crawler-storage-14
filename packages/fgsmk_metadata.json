@@ -1,0 +1,11 @@
+{
+  "name": "fgsmk",
+  "version": "0.1.2",
+  "summary": "Supporting functions for running Snakemake workflows.",
+  "author": "Fulcrum Genomics LLC",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fgsmk-0.1.2.tar.gz",
+  "download_time": "2025-11-27T00:43:21.323721",
+  "package_url": "https://pypi.org/project/fgsmk/"
+}

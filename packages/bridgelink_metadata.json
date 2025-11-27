@@ -1,0 +1,11 @@
+{
+  "name": "bridgelink",
+  "version": "0.3.0",
+  "summary": "CLI tool to expose Android devices remotely via NativeBridge",
+  "author": "Himanshu Kukreja",
+  "license": null,
+  "home_page": "https://github.com/AutoFlowLabs/bridgelink",
+  "download_filename": "bridgelink-0.3.0.tar.gz",
+  "download_time": "2025-11-27T00:43:42.695884",
+  "package_url": "https://pypi.org/project/bridgelink/"
+}

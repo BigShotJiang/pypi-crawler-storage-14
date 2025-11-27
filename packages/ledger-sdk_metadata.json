@@ -1,11 +1,11 @@
 {
   "name": "ledger-sdk",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "Production-ready observability SDK for Python web applications with FastAPI integration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ledger_sdk-1.0.6.tar.gz",
-  "download_time": "2025-11-25T23:46:52.908710",
+  "download_filename": "ledger_sdk-1.0.7.tar.gz",
+  "download_time": "2025-11-27T00:43:18.182607",
   "package_url": "https://pypi.org/project/ledger-sdk/"
 }

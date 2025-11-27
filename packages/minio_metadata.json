@@ -1,0 +1,11 @@
+{
+  "name": "minio",
+  "version": "7.2.20",
+  "summary": "MinIO Python SDK for Amazon S3 Compatible Cloud Storage",
+  "author": "MinIO, Inc.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/minio/minio-py",
+  "download_filename": "minio-7.2.20.tar.gz",
+  "download_time": "2025-11-27T00:43:19.779072",
+  "package_url": "https://pypi.org/project/minio/"
+}

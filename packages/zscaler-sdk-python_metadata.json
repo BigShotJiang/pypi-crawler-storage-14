@@ -1,11 +1,11 @@
 {
   "name": "zscaler-sdk-python",
-  "version": "1.9.3",
+  "version": "1.9.4",
   "summary": "Official Python SDK for the Zscaler Products",
   "author": "Zscaler, Inc.",
   "license": "MIT",
   "home_page": "https://github.com/zscaler/zscaler-sdk-python",
-  "download_filename": "zscaler_sdk_python-1.9.3.tar.gz",
-  "download_time": "2025-11-25T20:50:08.601276",
+  "download_filename": "zscaler_sdk_python-1.9.4.tar.gz",
+  "download_time": "2025-11-27T00:43:28.197229",
   "package_url": "https://pypi.org/project/zscaler-sdk-python/"
 }

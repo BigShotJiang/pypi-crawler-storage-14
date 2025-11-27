@@ -1,0 +1,11 @@
+{
+  "name": "osbot-utils",
+  "version": "3.44.0",
+  "summary": "OWASP Security Bot - Utils",
+  "author": "Dinis Cruz",
+  "license": "MIT",
+  "home_page": "https://github.com/owasp-sbot/OSBot-Utils",
+  "download_filename": "osbot_utils-3.44.0.tar.gz",
+  "download_time": "2025-11-27T00:43:41.148511",
+  "package_url": "https://pypi.org/project/osbot-utils/"
+}

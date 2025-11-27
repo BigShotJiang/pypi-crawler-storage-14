@@ -1,0 +1,11 @@
+{
+  "name": "aws-encryption-sdk-cli",
+  "version": "4.3.0",
+  "summary": "This command line tool can be used to encrypt and decrypt files and directories using the AWS Encryption SDK.",
+  "author": "Amazon Web Services",
+  "license": "Apache License 2.0",
+  "home_page": "http://aws-encryption-sdk-cli.readthedocs.io/en/latest/",
+  "download_filename": "aws_encryption_sdk_cli-4.3.0.tar.gz",
+  "download_time": "2025-11-27T00:44:01.498049",
+  "package_url": "https://pypi.org/project/aws-encryption-sdk-cli/"
+}
