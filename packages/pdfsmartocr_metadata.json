@@ -1,11 +1,11 @@
 {
   "name": "pdfsmartocr",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "OCR híbrido: Tesseract + PdfReader com paralelismo automático para PDFs grandes.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pdfsmartocr-0.1.0.tar.gz",
-  "download_time": "2025-11-27T11:30:09.628365",
+  "download_filename": "pdfsmartocr-0.1.1.tar.gz",
+  "download_time": "2025-11-27T11:38:49.010301",
   "package_url": "https://pypi.org/project/pdfsmartocr/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "lazyllm-verl",
+  "version": "0.3.2.dev1",
+  "summary": "An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL",
+  "author": "verl",
+  "license": "Apache 2.0 License",
+  "home_page": "https://github.com/volcengine/verl",
+  "download_filename": "lazyllm_verl-0.3.2.dev1-py3-none-any.whl",
+  "download_time": "2025-11-27T11:38:52.799478",
+  "package_url": "https://pypi.org/project/lazyllm-verl/"
+}

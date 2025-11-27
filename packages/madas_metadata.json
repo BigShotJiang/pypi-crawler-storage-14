@@ -1,0 +1,11 @@
+{
+  "name": "madas",
+  "version": "1.1.0",
+  "summary": "The MAterials DAta Similarity framework.",
+  "author": "Martin Kuban et al.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "madas-1.1.0.tar.gz",
+  "download_time": "2025-11-27T11:38:52.245149",
+  "package_url": "https://pypi.org/project/madas/"
+}

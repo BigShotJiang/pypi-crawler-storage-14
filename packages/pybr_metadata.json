@@ -1,11 +1,11 @@
 {
   "name": "pybr",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "Collection of utilities for Brazilian data and formats",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pybr-1.0.1.tar.gz",
-  "download_time": "2025-11-27T09:50:36.435714",
+  "download_filename": "pybr-1.1.0.tar.gz",
+  "download_time": "2025-11-27T11:39:03.785282",
   "package_url": "https://pypi.org/project/pybr/"
 }

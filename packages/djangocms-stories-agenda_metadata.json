@@ -1,0 +1,11 @@
+{
+  "name": "djangocms-stories-agenda",
+  "version": "0.1.0",
+  "summary": "Create an agenda on top of djangocms-stories!",
+  "author": "Corentin Bettiol, Adrien Delhorme",
+  "license": null,
+  "home_page": "https://gitlab.com/kapt/open-source/djangocms-stories-agenda",
+  "download_filename": "djangocms_stories_agenda-0.1.0.tar.gz",
+  "download_time": "2025-11-27T11:38:51.167655",
+  "package_url": "https://pypi.org/project/djangocms-stories-agenda/"
+}
