@@ -1,11 +1,11 @@
 {
   "name": "dgsmb",
-  "version": "1.0.0a5",
+  "version": "1.0.0a6",
   "summary": "PySMB client library",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "dgsmb-1.0.0a5.tar.gz",
-  "download_time": "2025-11-25T10:53:26.031100",
+  "download_filename": "dgsmb-1.0.0a6-py3-none-any.whl",
+  "download_time": "2025-11-27T08:45:09.602123",
   "package_url": "https://pypi.org/project/dgsmb/"
 }

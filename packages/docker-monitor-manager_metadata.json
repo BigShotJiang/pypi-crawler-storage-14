@@ -1,11 +1,11 @@
 {
   "name": "docker-monitor-manager",
-  "version": "1.2.5",
+  "version": "1.2.7",
   "summary": "A powerful desktop tool for monitoring and managing Docker containers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "docker_monitor_manager-1.2.5.tar.gz",
-  "download_time": "2025-11-27T08:15:32.445970",
+  "download_filename": "docker_monitor_manager-1.2.7.tar.gz",
+  "download_time": "2025-11-27T08:44:35.455559",
   "package_url": "https://pypi.org/project/docker-monitor-manager/"
 }

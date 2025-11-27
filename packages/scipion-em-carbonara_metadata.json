@@ -1,0 +1,11 @@
+{
+  "name": "scipion-em-carbonara",
+  "version": "0.0.2",
+  "summary": "Plugin to run CARBonAra within the Scipion framework",
+  "author": null,
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "scipion_em_carbonara-0.0.2.tar.gz",
+  "download_time": "2025-11-27T08:44:44.777049",
+  "package_url": "https://pypi.org/project/scipion-em-carbonara/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyblurry",
+  "version": "1.0.2",
+  "summary": "Performs analysis on images to determine whether they are blurry.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyblurry-1.0.2-py3-none-any.whl",
+  "download_time": "2025-11-27T08:45:08.504845",
+  "package_url": "https://pypi.org/project/pyblurry/"
+}

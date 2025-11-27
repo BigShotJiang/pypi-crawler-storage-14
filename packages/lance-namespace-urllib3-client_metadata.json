@@ -1,11 +1,11 @@
 {
   "name": "lance-namespace-urllib3-client",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Lance Namespace Specification",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "lance_namespace_urllib3_client-0.1.0.tar.gz",
-  "download_time": "2025-11-26T07:11:31.103482",
+  "download_filename": "lance_namespace_urllib3_client-0.2.0.tar.gz",
+  "download_time": "2025-11-27T08:44:59.408724",
   "package_url": "https://pypi.org/project/lance-namespace-urllib3-client/"
 }

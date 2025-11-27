@@ -1,11 +1,11 @@
 {
   "name": "cocat",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "CRDT-based tscat",
   "author": "David Brochart",
   "license": null,
   "home_page": null,
-  "download_filename": "cocat-0.8.0.tar.gz",
-  "download_time": "2025-11-26T16:56:34.847169",
+  "download_filename": "cocat-0.9.0.tar.gz",
+  "download_time": "2025-11-27T08:45:05.830353",
   "package_url": "https://pypi.org/project/cocat/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "avm-mcp-server",
+  "version": "0.1.4",
+  "summary": "MCP Server for discovering and exploring Azure Verified Modules (AVM)",
+  "author": "Stefan Stranger",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "avm_mcp_server-0.1.4.tar.gz",
+  "download_time": "2025-11-27T08:45:03.073897",
+  "package_url": "https://pypi.org/project/avm-mcp-server/"
+}

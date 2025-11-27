@@ -1,0 +1,11 @@
+{
+  "name": "binwalk-python-sdk",
+  "version": "0.0.1",
+  "summary": "Python bindings for running binwalk",
+  "author": "pUrGe12",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "binwalk_python_sdk-0.0.1.tar.gz",
+  "download_time": "2025-11-27T08:44:24.624746",
+  "package_url": "https://pypi.org/project/binwalk-python-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pymitsubishi",
+  "version": "0.4.2",
+  "summary": "Control and monitor Mitsubishi Air Conditioners",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pymitsubishi-0.4.2.tar.gz",
+  "download_time": "2025-11-27T08:45:00.433266",
+  "package_url": "https://pypi.org/project/pymitsubishi/"
+}

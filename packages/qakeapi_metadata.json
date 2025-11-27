@@ -1,0 +1,11 @@
+{
+  "name": "qakeapi",
+  "version": "1.2.0",
+  "summary": "Revolutionary Hybrid Async/Sync Web Framework for Python",
+  "author": "QakeAPI Team",
+  "license": null,
+  "home_page": "https://github.com/craxti/qakeapi",
+  "download_filename": "qakeapi-1.2.0.tar.gz",
+  "download_time": "2025-11-27T08:45:07.994795",
+  "package_url": "https://pypi.org/project/qakeapi/"
+}

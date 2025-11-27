@@ -1,0 +1,11 @@
+{
+  "name": "concept-sentinel-data-capturer",
+  "version": "1.2.0",
+  "summary": "A python package to capture, monitor, store all data communications across agents and It further extracts key entities from the data which will be used to detect the behavioral changes of the agents",
+  "author": "Infosys Responsible AI Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "concept_sentinel_data_capturer-1.2.0-py3-none-any.whl",
+  "download_time": "2025-11-27T08:44:34.874964",
+  "package_url": "https://pypi.org/project/concept-sentinel-data-capturer/"
+}
