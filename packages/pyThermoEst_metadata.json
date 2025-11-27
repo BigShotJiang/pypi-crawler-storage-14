@@ -1,0 +1,11 @@
+{
+  "name": "pyThermoEst",
+  "version": "0.1.1",
+  "summary": "A Python toolkit for estimating thermodynamic properties",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pythermoest-0.1.1.tar.gz",
+  "download_time": "2025-11-27T05:34:36.525025",
+  "package_url": "https://pypi.org/project/pyThermoEst/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cloudignite-sdk",
+  "version": "1.0.4",
+  "summary": "Official Python SDK for CloudIgnite Authentication Services",
+  "author": "CloudIgnite",
+  "license": "MIT",
+  "home_page": "https://cloudignite.in",
+  "download_filename": "cloudignite_sdk-1.0.4.tar.gz",
+  "download_time": "2025-11-27T05:34:34.995195",
+  "package_url": "https://pypi.org/project/cloudignite-sdk/"
+}
