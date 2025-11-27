@@ -1,11 +1,11 @@
 {
   "name": "vlcSim",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Python Package of Event-Oriented Simulation for visible light communication",
   "author": "Danilo Bórquez-Paredes",
   "license": "MIT",
   "home_page": "https://gitlab.com/DaniloBorquez/simvlc/",
-  "download_filename": "vlcsim-0.4.0.tar.gz",
-  "download_time": "2025-11-27T18:42:53.574582",
+  "download_filename": "vlcsim-0.4.1.tar.gz",
+  "download_time": "2025-11-27T20:31:47.727586",
   "package_url": "https://pypi.org/project/vlcSim/"
 }

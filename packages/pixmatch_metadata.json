@@ -1,11 +1,11 @@
 {
   "name": "pixmatch",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A modern VisiPics replacement.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pixmatch-0.1.1.tar.gz",
-  "download_time": "2025-11-26T21:28:21.128574",
+  "download_filename": "pixmatch-0.1.2.tar.gz",
+  "download_time": "2025-11-27T20:31:57.774795",
   "package_url": "https://pypi.org/project/pixmatch/"
 }

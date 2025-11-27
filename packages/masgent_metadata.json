@@ -1,11 +1,11 @@
 {
   "name": "masgent",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Masgent: Materials Simulation Agent",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "masgent-1.0.4.tar.gz",
-  "download_time": "2025-11-27T04:00:12.506992",
+  "download_filename": "masgent-1.0.5.tar.gz",
+  "download_time": "2025-11-27T20:31:53.148911",
   "package_url": "https://pypi.org/project/masgent/"
 }

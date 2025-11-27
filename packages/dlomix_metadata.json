@@ -1,0 +1,11 @@
+{
+  "name": "dlomix",
+  "version": "0.2.3",
+  "summary": "Deep Learning for Proteomics",
+  "author": "Wilhelm Lab",
+  "license": null,
+  "home_page": "https://github.com/wilhelm-lab/dlomix",
+  "download_filename": "dlomix-0.2.3.tar.gz",
+  "download_time": "2025-11-27T20:31:56.569442",
+  "package_url": "https://pypi.org/project/dlomix/"
+}

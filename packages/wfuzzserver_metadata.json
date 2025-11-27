@@ -1,11 +1,11 @@
 {
   "name": "wfuzzserver",
-  "version": "4.9",
+  "version": "4.9.2",
   "summary": "Wfuzz - The web fuzzer",
   "author": "Xavi Mendez (@x4vi_mendez)",
   "license": "GPLv2",
   "home_page": "http://wfuzz.org",
-  "download_filename": "wfuzzserver-4.9.tar.gz",
-  "download_time": "2025-11-27T20:09:53.068294",
+  "download_filename": "wfuzzserver-4.9.2.tar.gz",
+  "download_time": "2025-11-27T20:31:40.514835",
   "package_url": "https://pypi.org/project/wfuzzserver/"
 }

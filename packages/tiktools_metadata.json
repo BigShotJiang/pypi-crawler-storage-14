@@ -1,0 +1,11 @@
+{
+  "name": "tiktools",
+  "version": "0.3.0",
+  "summary": "A Python toolkit for TikTok data extraction and analysis using TikAPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tiktools-0.3.0.tar.gz",
+  "download_time": "2025-11-27T20:31:44.625939",
+  "package_url": "https://pypi.org/project/tiktools/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "gittask-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Git-Asana CLI & Time Tracker",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gittask_cli-0.1.0.tar.gz",
-  "download_time": "2025-11-27T20:09:55.069782",
+  "download_filename": "gittask_cli-0.1.1.tar.gz",
+  "download_time": "2025-11-27T20:31:51.421309",
   "package_url": "https://pypi.org/project/gittask-cli/"
 }

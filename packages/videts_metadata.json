@@ -1,11 +1,11 @@
 {
   "name": "videts",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "summary": "Video editing tools",
   "author": "MrSaeidSeyfi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "videts-1.0.1.tar.gz",
-  "download_time": "2025-11-27T20:09:44.669286",
+  "download_filename": "videts-1.0.0-py3-none-any.whl",
+  "download_time": "2025-11-27T20:31:50.333701",
   "package_url": "https://pypi.org/project/videts/"
 }

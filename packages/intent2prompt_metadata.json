@@ -1,0 +1,11 @@
+{
+  "name": "intent2prompt",
+  "version": "0.1.1",
+  "summary": "Convert raw human intent into structured prompts, optionally enhanced using Google Gemini.",
+  "author": "Rajdeep Rao",
+  "license": null,
+  "home_page": null,
+  "download_filename": "intent2prompt-0.1.1.tar.gz",
+  "download_time": "2025-11-27T20:31:54.302567",
+  "package_url": "https://pypi.org/project/intent2prompt/"
+}
