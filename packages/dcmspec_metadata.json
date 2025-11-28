@@ -1,0 +1,11 @@
+{
+  "name": "dcmspec",
+  "version": "0.3.0",
+  "summary": "Toolkit for extracting, parsing, and processing DICOM specifications.",
+  "author": "David Wikler",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/dwikler/dcmspec",
+  "download_filename": "dcmspec-0.3.0.tar.gz",
+  "download_time": "2025-11-28T08:15:38.183972",
+  "package_url": "https://pypi.org/project/dcmspec/"
+}

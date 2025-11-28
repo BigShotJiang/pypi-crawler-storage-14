@@ -1,0 +1,11 @@
+{
+  "name": "mock-firestore-sharp",
+  "version": "0.13.18",
+  "summary": "In-memory implementation of Google Cloud Firestore for use in tests",
+  "author": "Matt Dowds",
+  "license": null,
+  "home_page": "https://github.com/bziolo-sedric/python-mock-firestore",
+  "download_filename": "mock_firestore_sharp-0.13.18.tar.gz",
+  "download_time": "2025-11-28T08:15:37.672980",
+  "package_url": "https://pypi.org/project/mock-firestore-sharp/"
+}

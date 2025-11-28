@@ -1,11 +1,11 @@
 {
   "name": "light-splade",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Python library for efficient sparse retrieval using SPLADE models.",
   "author": null,
-  "license": null,
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "light_splade-0.1.1.tar.gz",
-  "download_time": "2025-11-28T07:31:38.128506",
+  "download_filename": "light_splade-0.1.2.tar.gz",
+  "download_time": "2025-11-28T08:15:56.790191",
   "package_url": "https://pypi.org/project/light-splade/"
 }

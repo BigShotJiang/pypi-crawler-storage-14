@@ -1,0 +1,11 @@
+{
+  "name": "sag-py-fastapi-request-id",
+  "version": "1.0.4",
+  "summary": "Adds an unique identifiert to fastapi requests",
+  "author": "Samhammer AG",
+  "license": "MIT",
+  "home_page": "https://github.com/SamhammerAG/sag_py_fastapi_request_id",
+  "download_filename": "sag_py_fastapi_request_id-1.0.4.tar.gz",
+  "download_time": "2025-11-28T08:15:36.133902",
+  "package_url": "https://pypi.org/project/sag-py-fastapi-request-id/"
+}

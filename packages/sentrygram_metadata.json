@@ -1,0 +1,11 @@
+{
+  "name": "sentrygram",
+  "version": "0.1.0",
+  "summary": "Python SDK for Sentrygram - send alerts to your Telegram",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sentrygram-0.1.0.tar.gz",
+  "download_time": "2025-11-28T08:15:34.086581",
+  "package_url": "https://pypi.org/project/sentrygram/"
+}

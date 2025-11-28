@@ -1,0 +1,11 @@
+{
+  "name": "autoyolo-trainer",
+  "version": "0.0.1",
+  "summary": "Auto YOLO Trainer with custom augmentations and model downloader",
+  "author": "Jagadeeshwaran",
+  "license": null,
+  "home_page": null,
+  "download_filename": "autoyolo_trainer-0.0.1.tar.gz",
+  "download_time": "2025-11-28T08:15:47.449819",
+  "package_url": "https://pypi.org/project/autoyolo-trainer/"
+}

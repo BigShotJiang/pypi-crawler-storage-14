@@ -1,0 +1,11 @@
+{
+  "name": "os-net-config",
+  "version": "18.1.0",
+  "summary": "Declarative network configuration tool for hosts",
+  "author": "os-net-config Community",
+  "license": "Apache License (2.0)",
+  "home_page": "https://github.com/os-net-config/os-net-config",
+  "download_filename": "os_net_config-18.1.0.tar.gz",
+  "download_time": "2025-11-28T08:15:50.018291",
+  "package_url": "https://pypi.org/project/os-net-config/"
+}
