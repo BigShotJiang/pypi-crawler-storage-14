@@ -1,11 +1,11 @@
 {
   "name": "wildfire-analyser",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "Python library for post-fire assessment and wildfire analysis using Google Earth Engine.",
   "author": "Marcelo Camargo",
   "license": null,
   "home_page": null,
-  "download_filename": "wildfire_analyser-0.1.0.tar.gz",
-  "download_time": "2025-11-26T23:28:40.816402",
+  "download_filename": "wildfire_analyser-0.1.3.tar.gz",
+  "download_time": "2025-11-28T11:27:43.654396",
   "package_url": "https://pypi.org/project/wildfire-analyser/"
 }

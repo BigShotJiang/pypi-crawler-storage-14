@@ -1,0 +1,11 @@
+{
+  "name": "benchmark-ips",
+  "version": "2.14.1",
+  "summary": "Iterations per second benchmarking for Python",
+  "author": "Python port by Claude",
+  "license": "MIT",
+  "home_page": "https://github.com/gogainda/benchmark-ips-python",
+  "download_filename": "benchmark_ips-2.14.1.tar.gz",
+  "download_time": "2025-11-28T11:27:51.986935",
+  "package_url": "https://pypi.org/project/benchmark-ips/"
+}

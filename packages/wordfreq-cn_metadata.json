@@ -1,11 +1,11 @@
 {
   "name": "wordfreq-cn",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "中文新闻词频分析与趋势词云工具",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wordfreq_cn-0.0.2.tar.gz",
-  "download_time": "2025-11-28T08:15:46.940400",
+  "download_filename": "wordfreq_cn-0.0.3.tar.gz",
+  "download_time": "2025-11-28T11:27:50.248820",
   "package_url": "https://pypi.org/project/wordfreq-cn/"
 }

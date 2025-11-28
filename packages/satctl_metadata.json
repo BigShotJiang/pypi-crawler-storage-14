@@ -1,0 +1,11 @@
+{
+  "name": "satctl",
+  "version": "0.3.6",
+  "summary": "Toolkit to search, download and process Earth Observation data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "satctl-0.3.6.tar.gz",
+  "download_time": "2025-11-28T11:27:46.121308",
+  "package_url": "https://pypi.org/project/satctl/"
+}
