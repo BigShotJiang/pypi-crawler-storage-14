@@ -1,11 +1,11 @@
 {
   "name": "jsonbrotliminifyer",
-  "version": "1.1.2",
+  "version": "1.1.6",
   "summary": "A Python library for compressing and decompressing JSON data using Brotli",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jsonbrotliminifyer-1.1.2.tar.gz",
-  "download_time": "2025-11-28T16:53:11.809811",
+  "download_filename": "jsonbrotliminifyer-1.1.6.tar.gz",
+  "download_time": "2025-11-28T18:43:43.120169",
   "package_url": "https://pypi.org/project/jsonbrotliminifyer/"
 }

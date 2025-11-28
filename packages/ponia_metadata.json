@@ -1,0 +1,11 @@
+{
+  "name": "ponia",
+  "version": "0.1.0",
+  "summary": "Query pandas DataFrames with natural language using OpenAI function calling",
+  "author": "PABLo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ponia-0.1.0.tar.gz",
+  "download_time": "2025-11-28T18:43:31.926646",
+  "package_url": "https://pypi.org/project/ponia/"
+}

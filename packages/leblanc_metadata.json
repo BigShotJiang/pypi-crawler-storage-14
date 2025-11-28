@@ -1,0 +1,11 @@
+{
+  "name": "leblanc",
+  "version": "0.6.2",
+  "summary": "A Python library to generate various synthetic DataFrames for different business sectors (Tech, Food, Finance, Apparel, forestry, etc.).",
+  "author": "wSanice",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/wSanice/leblanc",
+  "download_filename": "leblanc-0.6.2.tar.gz",
+  "download_time": "2025-11-28T18:43:34.090595",
+  "package_url": "https://pypi.org/project/leblanc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "drawpyo",
+  "version": "0.2.3",
+  "summary": "A Python library for programmatically generating Draw.io charts.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "drawpyo-0.2.3.tar.gz",
+  "download_time": "2025-11-28T18:43:52.169739",
+  "package_url": "https://pypi.org/project/drawpyo/"
+}

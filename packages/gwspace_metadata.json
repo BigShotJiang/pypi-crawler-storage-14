@@ -1,0 +1,11 @@
+{
+  "name": "gwspace",
+  "version": "0.0.1",
+  "summary": "Simplified Google Workspace integration tools for building AI agents and automation workflows in Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gwspace-0.0.1.tar.gz",
+  "download_time": "2025-11-28T18:43:44.653356",
+  "package_url": "https://pypi.org/project/gwspace/"
+}

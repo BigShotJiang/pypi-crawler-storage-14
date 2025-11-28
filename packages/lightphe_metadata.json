@@ -1,11 +1,11 @@
 {
   "name": "lightphe",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "summary": "A Lightweight Partially Homomorphic Encryption Library for Python",
   "author": "Sefik Ilkin Serengil",
   "license": null,
   "home_page": "https://github.com/serengil/LightPHE",
-  "download_filename": "lightphe-0.0.16.tar.gz",
-  "download_time": "2025-11-27T22:09:54.569436",
+  "download_filename": "lightphe-0.0.17.tar.gz",
+  "download_time": "2025-11-28T18:43:39.477833",
   "package_url": "https://pypi.org/project/lightphe/"
 }

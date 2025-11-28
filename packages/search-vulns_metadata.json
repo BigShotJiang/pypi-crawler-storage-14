@@ -1,0 +1,11 @@
+{
+  "name": "search-vulns",
+  "version": "0.8.3",
+  "summary": "Search for known vulnerabilities in software using software titles or a CPE 2.3 string.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "search_vulns-0.8.3.tar.gz",
+  "download_time": "2025-11-28T18:43:37.413723",
+  "package_url": "https://pypi.org/project/search-vulns/"
+}
