@@ -1,0 +1,11 @@
+{
+  "name": "wifilyzer",
+  "version": "5.0.0",
+  "summary": "Complete WiFi 4/5/6/7 packet analysis platform",
+  "author": "Niresh Shanmugam",
+  "license": "MIT",
+  "home_page": "https://github.com/nireshshanmugam/wifilyzer",
+  "download_filename": "wifilyzer-5.0.0.tar.gz",
+  "download_time": "2025-11-28T12:19:01.414951",
+  "package_url": "https://pypi.org/project/wifilyzer/"
+}

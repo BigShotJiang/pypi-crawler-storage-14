@@ -1,11 +1,11 @@
 {
   "name": "undefined-python",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A Python implementation of undefined value similar to JavaScript",
   "author": "Маг Ильяс DOMA (MagIlyasDOMA)",
   "license": "MIT",
   "home_page": "https://github.com/MagIlyasDOMA/undefined-python",
-  "download_filename": "undefined_python-1.0.0.tar.gz",
-  "download_time": "2025-11-28T11:27:39.411555",
+  "download_filename": "undefined_python-1.0.1.tar.gz",
+  "download_time": "2025-11-28T12:19:02.444697",
   "package_url": "https://pypi.org/project/undefined-python/"
 }

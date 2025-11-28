@@ -1,0 +1,11 @@
+{
+  "name": "dataverse-api",
+  "version": "1.4.2",
+  "summary": "Abstraction layer for interacting with Microsoft Dataverse Web API using Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dataverse_api-1.4.2.tar.gz",
+  "download_time": "2025-11-28T12:19:14.780410",
+  "package_url": "https://pypi.org/project/dataverse-api/"
+}

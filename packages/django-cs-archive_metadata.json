@@ -1,0 +1,11 @@
+{
+  "name": "django-cs-archive",
+  "version": "0.1.0",
+  "summary": "Django aplikazioetarako New York Times estiloko data-artxibo sistema konfiguragarria.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_cs_archive-0.1.0.tar.gz",
+  "download_time": "2025-11-28T12:19:00.902279",
+  "package_url": "https://pypi.org/project/django-cs-archive/"
+}

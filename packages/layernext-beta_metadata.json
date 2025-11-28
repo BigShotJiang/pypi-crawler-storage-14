@@ -1,11 +1,11 @@
 {
   "name": "layernext-beta",
-  "version": "3.21.8b1",
+  "version": "3.21.8b3",
   "summary": "LayerNext Python SDK",
   "author": "LayerNext",
   "license": null,
   "home_page": null,
-  "download_filename": "layernext_beta-3.21.8b1-py3-none-any.whl",
-  "download_time": "2025-11-28T11:47:41.511638",
+  "download_filename": "layernext_beta-3.21.8b3.tar.gz",
+  "download_time": "2025-11-28T12:18:40.267670",
   "package_url": "https://pypi.org/project/layernext-beta/"
 }

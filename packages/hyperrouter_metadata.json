@@ -1,0 +1,11 @@
+{
+  "name": "hyperrouter",
+  "version": "2025.11.28.0",
+  "summary": "A performant rules-based routing engine, especially (but not necessarily exclusively) for http(s)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hyperrouter-2025.11.28.0.tar.gz",
+  "download_time": "2025-11-28T12:18:46.488317",
+  "package_url": "https://pypi.org/project/hyperrouter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "phage-annotator",
+  "version": "1.0.0",
+  "summary": "General keypoint annotation GUI for 2D/3D/time microscopy, with a phage preset",
+  "author": "Chandrasekar Subramani Narayana",
+  "license": null,
+  "home_page": null,
+  "download_filename": "phage_annotator-1.0.0.tar.gz",
+  "download_time": "2025-11-28T12:18:51.624680",
+  "package_url": "https://pypi.org/project/phage-annotator/"
+}

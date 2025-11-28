@@ -1,11 +1,11 @@
 {
   "name": "python-yandex-cloud-monitoring",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "Python Client for Yandex Cloud Monitoring",
   "author": "MCode GmbH",
   "license": "GPLv3",
   "home_page": "https://github.com/mcode-cc/python-yandex-cloud-monitoring",
-  "download_filename": "python_yandex_cloud_monitoring-0.1.0.tar.gz",
-  "download_time": "2025-11-28T09:34:40.149186",
+  "download_filename": "python_yandex_cloud_monitoring-1.0.0.tar.gz",
+  "download_time": "2025-11-28T12:19:09.669531",
   "package_url": "https://pypi.org/project/python-yandex-cloud-monitoring/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "reversi42",
-  "version": "7.0.12",
+  "version": "7.0.13",
   "summary": "Reversi42: Fast AI Reversi",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "reversi42-7.0.12-py3-none-any.whl",
-  "download_time": "2025-11-26T22:47:53.651999",
+  "download_filename": "reversi42-7.0.13-py3-none-any.whl",
+  "download_time": "2025-11-28T12:19:06.544491",
   "package_url": "https://pypi.org/project/reversi42/"
 }

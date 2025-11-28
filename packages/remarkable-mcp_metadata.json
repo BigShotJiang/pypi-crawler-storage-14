@@ -1,11 +1,11 @@
 {
   "name": "remarkable-mcp",
-  "version": "0.4.0",
+  "version": "0.5.1",
   "summary": "MCP server for accessing reMarkable tablet data",
   "author": "Sam Morrow",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "remarkable_mcp-0.4.0.tar.gz",
-  "download_time": "2025-11-28T07:41:57.473561",
+  "download_filename": "remarkable_mcp-0.5.1.tar.gz",
+  "download_time": "2025-11-28T12:18:43.855337",
   "package_url": "https://pypi.org/project/remarkable-mcp/"
 }
