@@ -1,11 +1,11 @@
 {
   "name": "bqdf",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "summary": "Ergonomic wrapper for pandas_gbq that simplifies loading BigQuery data into DataFrames",
   "author": "motdam",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/motdam/bqdf",
-  "download_filename": "bqdf-0.0.5.tar.gz",
-  "download_time": "2025-11-28T23:10:36.542761",
+  "download_filename": "bqdf-0.0.7.tar.gz",
+  "download_time": "2025-11-28T23:29:22.566364",
   "package_url": "https://pypi.org/project/bqdf/"
 }

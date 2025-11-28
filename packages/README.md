@@ -1,32 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-28T23:11:05.754885
-- **Total Packages**: 83
-- **Total Size**: 18.63 MB
+- **Download Time**: 2025-11-28T23:30:01.384685
+- **Total Packages**: 76
+- **Total Size**: 24.55 MB
 
 ## Packages List
+- omibio
+- django-core-micha
+- biblemategui
+- bioscience-engine
+- jararaca
+- xpander-sdk
+- brmspy
+- bqdf
+- netloom
+- holodeck-ai
+- semaphore-mcp
+- django-htmx
+- pySPFM
+- condynsate
+- paytechuz
+- whitepossum
+- dbt-col-lineage
+- attending-machine
+- napari-piscis
+- ciit-checkin
+- xtalx
+- minireqs
+- oldaplib
 - dnssec-cli
 - guide-framework
 - lmcache
 - odoo-addon-fieldservice-sale
 - lionpride
 - mieltocore
-- biblemategui
 - MinecraftDockerCLI
 - berconpy
 - flwr-nightly
 - prompt-groomer
 - anyenv
 - scikit-surgerycalibration
-- jararaca
 - dyngle
 - artificer-workflows
 - viur-shop
-- django-core-micha
 - f9columnar
 - nui-lambda-shared-utils
-- paytechuz
 - fromjcl
 - brahe
 - BatchalignHK
@@ -35,7 +54,6 @@
 - py-ballisticcalc
 - fmot
 - vector-task-mcp
-- bqdf
 - moptipy
 - megatron-core
 - megatron-fsdp
@@ -43,14 +61,12 @@
 - livef1
 - agentexec
 - PyInventory
-- semaphore-mcp
 - libtmux
 - pysio-hermes
 - credal
 - cocotbext-jtag
 - pwnit
 - matplobbot-shared
-- napari-piscis
 - quantconnect-stubs
 - shoggoth
 - pandera-unified-validator
@@ -66,26 +82,3 @@
 - jupyterlab-export-markdown-extension
 - umara
 - mostlyai
-- uvlink
-- alexwlchan-chives
-- robust-python
-- sigplay
-- nifti2bids
-- gamdl
-- bgg-api
-- smartmemory
-- sqlo
-- zz-tools
-- airweave-sdk
-- whatsapp-trend-plotter
-- aitril
-- snowflake-data-exchange-agent
-- snowflake-data-validation
-- gateway-defender
-- softiqtech-sofi-agent
-- sleipnirgroup-jormungandr
-- sedb
-- redbot
-- firework-sandbox
-- arglite
-- cdek

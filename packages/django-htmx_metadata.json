@@ -1,0 +1,11 @@
+{
+  "name": "django-htmx",
+  "version": "1.27.0",
+  "summary": "Extensions for using Django with htmx.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_htmx-1.27.0.tar.gz",
+  "download_time": "2025-11-28T23:29:24.690673",
+  "package_url": "https://pypi.org/project/django-htmx/"
+}
