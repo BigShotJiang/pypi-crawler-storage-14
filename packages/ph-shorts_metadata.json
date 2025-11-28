@@ -1,11 +1,11 @@
 {
   "name": "ph-shorts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Download PornHub Shorts videos - Simpler & lighter than yt-dlp",
   "author": "PH Shorts Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ph_shorts-1.0.2.tar.gz",
-  "download_time": "2025-11-28T10:37:28.674590",
+  "download_filename": "ph_shorts-1.0.3.tar.gz",
+  "download_time": "2025-11-28T11:09:55.726748",
   "package_url": "https://pypi.org/project/ph-shorts/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "infoman-pykit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Infoman base library - A comprehensive toolkit for modern Python applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "infoman_pykit-0.1.0.tar.gz",
-  "download_time": "2025-11-28T10:57:22.976663",
+  "download_filename": "infoman_pykit-0.1.1.tar.gz",
+  "download_time": "2025-11-28T11:09:29.875353",
   "package_url": "https://pypi.org/project/infoman-pykit/"
 }

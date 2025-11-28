@@ -1,11 +1,11 @@
 {
   "name": "hallyd",
-  "version": "0.9003.29",
+  "version": "0.9004.30",
   "summary": "Various tools for filesystem, io, processes, other stuff.",
   "author": "Josef Hahn",
   "license": "AGPL 3",
   "home_page": "https://pseudopolis.eu/pino/hallyd",
-  "download_filename": "hallyd-0.9003.29-py3-none-any.whl",
-  "download_time": "2025-11-28T10:18:02.374133",
+  "download_filename": "hallyd-0.9004.30-py3-none-any.whl",
+  "download_time": "2025-11-28T11:09:28.837464",
   "package_url": "https://pypi.org/project/hallyd/"
 }

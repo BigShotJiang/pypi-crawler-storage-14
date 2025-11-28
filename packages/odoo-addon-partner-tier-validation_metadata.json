@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-partner-tier-validation",
+  "version": "18.0.1.0.0.2",
+  "summary": "Support a tier validation process for Contacts",
+  "author": "Open Source Integrators, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/partner-contact",
+  "download_filename": "odoo_addon_partner_tier_validation-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-11-28T11:09:20.400306",
+  "package_url": "https://pypi.org/project/odoo-addon-partner-tier-validation/"
+}

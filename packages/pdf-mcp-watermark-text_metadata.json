@@ -1,0 +1,11 @@
+{
+  "name": "pdf-mcp-watermark-text",
+  "version": "0.1.2",
+  "summary": "MCP服务：PDF 添加文字水印，仅提供 add_text_watermark_direct",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pdf_mcp_watermark_text-0.1.2.tar.gz",
+  "download_time": "2025-11-28T11:09:49.006509",
+  "package_url": "https://pypi.org/project/pdf-mcp-watermark-text/"
+}
