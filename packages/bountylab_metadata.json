@@ -1,0 +1,11 @@
+{
+  "name": "bountylab",
+  "version": "0.28.1",
+  "summary": "The official Python library for the bountylab API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "bountylab-0.28.1.tar.gz",
+  "download_time": "2025-11-28T04:00:11.120007",
+  "package_url": "https://pypi.org/project/bountylab/"
+}

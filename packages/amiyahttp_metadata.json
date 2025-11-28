@@ -1,0 +1,11 @@
+{
+  "name": "amiyahttp",
+  "version": "0.0.8",
+  "summary": "对 FastApi 进行二次封装的简易 HTTP Web 服务 SDK",
+  "author": "vivien8261",
+  "license": "MIT Licence",
+  "home_page": "https://www.amiyabot.com/develop/advanced/httpSupport.html",
+  "download_filename": "amiyahttp-0.0.8-545-py3-none-any.whl",
+  "download_time": "2025-11-28T04:00:10.092884",
+  "package_url": "https://pypi.org/project/amiyahttp/"
+}

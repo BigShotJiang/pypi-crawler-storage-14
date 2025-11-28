@@ -1,0 +1,11 @@
+{
+  "name": "phoebe-bird",
+  "version": "0.1.0a12",
+  "summary": "The official Python library for the phoebe API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "phoebe_bird-0.1.0a12.tar.gz",
+  "download_time": "2025-11-28T04:00:01.216637",
+  "package_url": "https://pypi.org/project/phoebe-bird/"
+}

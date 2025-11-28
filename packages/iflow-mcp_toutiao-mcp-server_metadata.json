@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_toutiao-mcp-server",
+  "version": "1.0.0",
+  "summary": "今日头条 MCP 服务器 - 支持内容发布和管理的 Model Context Protocol 服务器",
+  "author": "TouTiao MCP Developer",
+  "license": "MIT",
+  "home_page": "https://github.com/your-username/toutiao-mcp-server",
+  "download_filename": "iflow_mcp_toutiao_mcp_server-1.0.0.tar.gz",
+  "download_time": "2025-11-28T04:00:05.447722",
+  "package_url": "https://pypi.org/project/iflow-mcp_toutiao-mcp-server/"
+}

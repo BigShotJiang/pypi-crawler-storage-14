@@ -1,0 +1,11 @@
+{
+  "name": "vllm-cpu-avx512bf16",
+  "version": "0.10.0",
+  "summary": "vLLM CPU inference engine (AVX512 + VNNI + BF16 optimized)",
+  "author": "vLLM Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vllm_cpu_avx512bf16-0.10.0-cp310-cp310-manylinux_2_17_x86_64.whl",
+  "download_time": "2025-11-28T04:00:24.115241",
+  "package_url": "https://pypi.org/project/vllm-cpu-avx512bf16/"
+}
