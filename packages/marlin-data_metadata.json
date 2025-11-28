@@ -1,0 +1,11 @@
+{
+  "name": "marlin-data",
+  "version": "15.0.0",
+  "summary": "Marlin Learn | Framework Data Adapter",
+  "author": "Rahul Tandon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "marlin_data-15.0.0.tar.gz",
+  "download_time": "2025-11-28T13:05:30.009709",
+  "package_url": "https://pypi.org/project/marlin-data/"
+}

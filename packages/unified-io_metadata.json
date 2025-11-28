@@ -1,0 +1,11 @@
+{
+  "name": "unified-io",
+  "version": "0.1.2",
+  "summary": "Unified I/O interface for Python",
+  "author": "Elias Bassani",
+  "license": null,
+  "home_page": "https://github.com/AmenRa/unified-io",
+  "download_filename": "unified_io-0.1.2-py3-none-any.whl",
+  "download_time": "2025-11-28T13:05:39.937960",
+  "package_url": "https://pypi.org/project/unified-io/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kson-lang",
+  "version": "0.2.1",
+  "summary": "KSON: a next-gen configuration language and love letter to the humans maintaining computer configuration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kson_lang-0.2.1.tar.gz",
+  "download_time": "2025-11-28T13:05:37.338231",
+  "package_url": "https://pypi.org/project/kson-lang/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fastgenerateapi",
-  "version": "1.2.13",
+  "version": "1.2.14",
   "summary": "FastAPIView Class View",
   "author": "ShiLiang",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "fastgenerateapi-1.2.13.tar.gz",
-  "download_time": "2025-11-27T02:22:07.033450",
+  "download_filename": "fastgenerateapi-1.2.14.tar.gz",
+  "download_time": "2025-11-28T13:05:43.572051",
   "package_url": "https://pypi.org/project/fastgenerateapi/"
 }

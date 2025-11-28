@@ -1,11 +1,11 @@
 {
   "name": "Asialuxe",
-  "version": "0.6",
+  "version": "0.7",
   "summary": "Asialuxe API",
   "author": "rodnoc",
   "license": null,
   "home_page": null,
-  "download_filename": "asialuxe-0.6.tar.gz",
-  "download_time": "2025-11-27T11:39:01.587847",
+  "download_filename": "asialuxe-0.7.tar.gz",
+  "download_time": "2025-11-28T13:05:18.922191",
   "package_url": "https://pypi.org/project/Asialuxe/"
 }

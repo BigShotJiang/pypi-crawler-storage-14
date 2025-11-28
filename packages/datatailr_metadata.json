@@ -1,11 +1,11 @@
 {
   "name": "datatailr",
-  "version": "0.1.88",
+  "version": "0.1.90",
   "summary": "Ready-to-Use Platform That Drives Business Insights",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "datatailr-0.1.88.tar.gz",
-  "download_time": "2025-11-25T14:51:51.231270",
+  "download_filename": "datatailr-0.1.90.tar.gz",
+  "download_time": "2025-11-28T13:05:57.672072",
   "package_url": "https://pypi.org/project/datatailr/"
 }
