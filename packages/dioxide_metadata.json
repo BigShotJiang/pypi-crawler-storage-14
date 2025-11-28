@@ -1,11 +1,11 @@
 {
   "name": "dioxide",
-  "version": "0.2.1",
+  "version": "0.3.1",
   "summary": "Fast, Rust-backed declarative dependency injection for Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dioxide-0.2.1.tar.gz",
-  "download_time": "2025-11-26T04:51:48.137025",
+  "download_filename": "dioxide-0.3.1.tar.gz",
+  "download_time": "2025-11-28T05:35:05.824790",
   "package_url": "https://pypi.org/project/dioxide/"
 }

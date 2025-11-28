@@ -1,0 +1,11 @@
+{
+  "name": "mlops-fast-api",
+  "version": "0.0.1",
+  "summary": "This package contains a FastAPI template for databricks projects",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mlops_fast_api-0.0.1.tar.gz",
+  "download_time": "2025-11-28T05:35:02.551467",
+  "package_url": "https://pypi.org/project/mlops-fast-api/"
+}

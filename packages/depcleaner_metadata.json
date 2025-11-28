@@ -1,11 +1,11 @@
 {
   "name": "depcleaner",
-  "version": "1.0.1",
+  "version": "1.2.1",
   "summary": "Detect and remove unused Python dependencies",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "depcleaner-1.0.1.tar.gz",
-  "download_time": "2025-11-27T07:12:37.054732",
+  "download_filename": "depcleaner-1.2.1.tar.gz",
+  "download_time": "2025-11-28T05:35:08.773389",
   "package_url": "https://pypi.org/project/depcleaner/"
 }

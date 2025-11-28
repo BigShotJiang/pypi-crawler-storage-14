@@ -1,11 +1,11 @@
 {
   "name": "Coreform-Cubit-Mesh-Export",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "summary": "Cubit mesh export to various formats including Gmsh, Nastran, VTK, and Netgen",
   "author": null,
   "license": "LGPL-2.1",
   "home_page": null,
-  "download_filename": "coreform_cubit_mesh_export-1.5.0.tar.gz",
-  "download_time": "2025-11-28T03:32:08.895070",
+  "download_filename": "coreform_cubit_mesh_export-1.6.0.tar.gz",
+  "download_time": "2025-11-28T05:35:08.193961",
   "package_url": "https://pypi.org/project/Coreform-Cubit-Mesh-Export/"
 }

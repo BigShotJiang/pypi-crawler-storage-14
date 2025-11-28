@@ -1,0 +1,11 @@
+{
+  "name": "openbb-pydantic-ai",
+  "version": "0.1.6",
+  "summary": "Pydantic AI adapter for OpenBB SDK. Enables connettion any pydantic-ai agent to the OpenBB Workspace.",
+  "author": "Magnus Samuelsen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openbb_pydantic_ai-0.1.6.tar.gz",
+  "download_time": "2025-11-28T05:34:57.267547",
+  "package_url": "https://pypi.org/project/openbb-pydantic-ai/"
+}

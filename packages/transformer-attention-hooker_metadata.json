@@ -1,0 +1,11 @@
+{
+  "name": "transformer-attention-hooker",
+  "version": "0.1.0a1",
+  "summary": "A lightweight, robust utility for extracting and visualizing attention weights from PyTorch Transformer models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "transformer_attention_hooker-0.1.0a1.tar.gz",
+  "download_time": "2025-11-28T05:34:59.328537",
+  "package_url": "https://pypi.org/project/transformer-attention-hooker/"
+}

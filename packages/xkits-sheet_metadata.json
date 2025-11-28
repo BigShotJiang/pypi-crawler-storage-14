@@ -1,0 +1,11 @@
+{
+  "name": "xkits-sheet",
+  "version": "0.2",
+  "summary": "Form module",
+  "author": "Mingzhe Zou",
+  "license": "GPLv2",
+  "home_page": "https://github.com/bondbox/xsheet/",
+  "download_filename": "xkits_sheet-0.2.tar.gz",
+  "download_time": "2025-11-28T05:35:04.666655",
+  "package_url": "https://pypi.org/project/xkits-sheet/"
+}
