@@ -1,11 +1,11 @@
 {
   "name": "sigplay",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "A retro-modern terminal music player",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sigplay-0.0.5.tar.gz",
-  "download_time": "2025-11-27T22:32:12.116442",
+  "download_filename": "sigplay-0.0.6.tar.gz",
+  "download_time": "2025-11-28T20:33:37.487636",
   "package_url": "https://pypi.org/project/sigplay/"
 }

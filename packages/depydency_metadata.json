@@ -1,11 +1,11 @@
 {
   "name": "depydency",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "summary": "Dependency Injection (DI) Container for Inversion of Control (IoC) and automatic dependency tree resolution",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "depydency-1.0.11.tar.gz",
-  "download_time": "2025-11-28T18:20:07.455490",
+  "download_filename": "depydency-1.0.12.tar.gz",
+  "download_time": "2025-11-28T20:33:19.543357",
   "package_url": "https://pypi.org/project/depydency/"
 }

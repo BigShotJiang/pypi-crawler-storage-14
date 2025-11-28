@@ -1,11 +1,11 @@
 {
   "name": "textual-filelink",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Clickable file links for Textual applications.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "textual_filelink-0.1.0.tar.gz",
-  "download_time": "2025-11-27T05:50:24.686846",
+  "download_filename": "textual_filelink-0.2.0.tar.gz",
+  "download_time": "2025-11-28T20:33:33.128597",
   "package_url": "https://pypi.org/project/textual-filelink/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "geminiai-cli",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "summary": "Gemini AI CLI Tool for automation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "geminiai_cli-5.1.0.tar.gz",
-  "download_time": "2025-11-26T05:48:58.844665",
+  "download_filename": "geminiai_cli-5.1.1.tar.gz",
+  "download_time": "2025-11-28T20:33:58.712466",
   "package_url": "https://pypi.org/project/geminiai-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "wwpdb.utils.emdb",
+  "version": "1.15",
+  "summary": "wwPDB EMDB to XML converter",
+  "author": "Ezra Peisach",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/rcsb/py-wwpdb_utils_config",
+  "download_filename": "wwpdb_utils_emdb-1.15.tar.gz",
+  "download_time": "2025-11-28T20:33:39.609133",
+  "package_url": "https://pypi.org/project/wwpdb.utils.emdb/"
+}

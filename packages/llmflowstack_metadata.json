@@ -1,11 +1,11 @@
 {
   "name": "llmflowstack",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "LLMFlowStack is a framework for training and using LLMs (LLaMA, GPT-OSS, Gemma, ...). Supports DAPT, fine-tuning, and distributed inference. Public fork without institution-specific components.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llmflowstack-1.2.1.tar.gz",
-  "download_time": "2025-11-26T17:48:58.938615",
+  "download_filename": "llmflowstack-1.2.2.tar.gz",
+  "download_time": "2025-11-28T20:33:35.335041",
   "package_url": "https://pypi.org/project/llmflowstack/"
 }

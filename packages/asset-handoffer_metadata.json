@@ -1,0 +1,11 @@
+{
+  "name": "asset-handoffer",
+  "version": "0.9.9",
+  "summary": "美术资产交接自动化工具",
+  "author": "Refactor",
+  "license": "MIT",
+  "home_page": "https://github.com/HeBtcd/asset-handoffer",
+  "download_filename": "asset_handoffer-0.9.9.tar.gz",
+  "download_time": "2025-11-28T20:33:29.399584",
+  "package_url": "https://pypi.org/project/asset-handoffer/"
+}

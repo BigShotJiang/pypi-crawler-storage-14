@@ -1,0 +1,11 @@
+{
+  "name": "deepagent-dash",
+  "version": "0.1.0",
+  "summary": "AI Agent Web Interface with Filesystem and Canvas Visualization",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "deepagent_dash-0.1.0.tar.gz",
+  "download_time": "2025-11-28T20:33:58.185283",
+  "package_url": "https://pypi.org/project/deepagent-dash/"
+}
