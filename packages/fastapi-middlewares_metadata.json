@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-middlewares",
+  "version": "0.1.1",
+  "summary": "Essential middlewares for FastAPI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_middlewares-0.1.1.tar.gz",
+  "download_time": "2025-11-28T08:59:09.414672",
+  "package_url": "https://pypi.org/project/fastapi-middlewares/"
+}

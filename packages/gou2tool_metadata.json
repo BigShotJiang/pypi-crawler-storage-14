@@ -1,11 +1,11 @@
 {
   "name": "gou2tool",
-  "version": "0.2.4",
+  "version": "0.2.8",
   "summary": "🐶 Python工具类库 更加快速的开发项目 便捷优雅的使用类库",
   "author": "kingood",
   "license": null,
   "home_page": "https://gitee.com/kingood/gou2tool",
-  "download_filename": "gou2tool-0.2.4.tar.gz",
-  "download_time": "2025-11-28T06:16:23.226289",
+  "download_filename": "gou2tool-0.2.8.tar.gz",
+  "download_time": "2025-11-28T08:58:34.162239",
   "package_url": "https://pypi.org/project/gou2tool/"
 }

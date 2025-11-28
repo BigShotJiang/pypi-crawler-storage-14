@@ -1,0 +1,11 @@
+{
+  "name": "onepix-dct",
+  "version": "0.1.0",
+  "summary": "DCT imaging method plugin for ONE-PIX",
+  "author": "M. Ribes",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "onepix_dct-0.1.0.tar.gz",
+  "download_time": "2025-11-28T08:58:53.851975",
+  "package_url": "https://pypi.org/project/onepix-dct/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "clox",
+  "version": "1.3",
+  "summary": "A Geeky Clock for Terminal Enthusiasts",
+  "author": "Sepand Haghighi",
+  "license": "MIT",
+  "home_page": "https://github.com/sepandhaghighi/clox",
+  "download_filename": "clox-1.3.tar.gz",
+  "download_time": "2025-11-28T08:58:33.008073",
+  "package_url": "https://pypi.org/project/clox/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sag-py-logging-logstash",
+  "version": "3.0.4",
+  "summary": "Python logging logstash handler",
+  "author": "Samhammer AG",
+  "license": "MIT",
+  "home_page": "https://github.com/SamhammerAG/sag_py_logging_logstash",
+  "download_filename": "sag_py_logging_logstash-3.0.4.tar.gz",
+  "download_time": "2025-11-28T08:58:58.474927",
+  "package_url": "https://pypi.org/project/sag-py-logging-logstash/"
+}

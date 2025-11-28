@@ -1,0 +1,11 @@
+{
+  "name": "ennam-django-apidog",
+  "version": "0.1.0",
+  "summary": "Django integration for APIDOG - Export, sync, and manage OpenAPI schemas",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ennam_django_apidog-0.1.0.tar.gz",
+  "download_time": "2025-11-28T08:58:41.726583",
+  "package_url": "https://pypi.org/project/ennam-django-apidog/"
+}

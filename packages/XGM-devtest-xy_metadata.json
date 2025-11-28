@@ -1,0 +1,11 @@
+{
+  "name": "XGM-devtest-xy",
+  "version": "1.2.0",
+  "summary": "XGM MDS24 设备驱动",
+  "author": "baqis",
+  "license": "MIT",
+  "home_page": "https://gitee.com/",
+  "download_filename": "xgm_devtest_xy-1.2.0.tar.gz",
+  "download_time": "2025-11-28T08:59:01.375625",
+  "package_url": "https://pypi.org/project/XGM-devtest-xy/"
+}
