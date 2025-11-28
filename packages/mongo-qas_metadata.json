@@ -1,0 +1,11 @@
+{
+  "name": "mongo-qas",
+  "version": "0.4.0",
+  "summary": "A job queuing and scheduling library based on mongodb",
+  "author": "Giles Tetteh",
+  "license": null,
+  "home_page": "https://github.com/giesekow/mongo-qas",
+  "download_filename": "mongo_qas-0.4.0.tar.gz",
+  "download_time": "2025-11-28T22:22:52.081740",
+  "package_url": "https://pypi.org/project/mongo-qas/"
+}

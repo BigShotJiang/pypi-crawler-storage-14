@@ -1,11 +1,11 @@
 {
   "name": "firework-sandbox",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Local sandbox client for Firecracker/Docker execution with E2B/Daytona ergonomics",
   "author": "Firework Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "firework_sandbox-0.1.1.tar.gz",
-  "download_time": "2025-11-28T21:36:36.017968",
+  "download_filename": "firework_sandbox-0.2.0.tar.gz",
+  "download_time": "2025-11-28T22:22:45.927858",
   "package_url": "https://pypi.org/project/firework-sandbox/"
 }

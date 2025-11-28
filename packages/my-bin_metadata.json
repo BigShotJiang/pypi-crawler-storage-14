@@ -1,11 +1,11 @@
 {
   "name": "my-bin",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "my_bin-0.0.0.tar.gz",
-  "download_time": "2025-11-26T04:02:20.490024",
+  "download_filename": "my_bin-1.0.0.tar.gz",
+  "download_time": "2025-11-28T22:22:58.388705",
   "package_url": "https://pypi.org/project/my-bin/"
 }

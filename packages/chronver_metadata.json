@@ -1,0 +1,11 @@
+{
+  "name": "chronver",
+  "version": "20251128.215305",
+  "summary": "Setuptools plugin for chronological versions from Git",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chronver-20251128.215305.tar.gz",
+  "download_time": "2025-11-28T22:23:00.533323",
+  "package_url": "https://pypi.org/project/chronver/"
+}
