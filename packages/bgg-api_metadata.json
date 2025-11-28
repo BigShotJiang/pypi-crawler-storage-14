@@ -1,0 +1,11 @@
+{
+  "name": "bgg-api",
+  "version": "1.1.14",
+  "summary": "A Python API for boardgamegeek.com",
+  "author": "Jakub Boukal",
+  "license": "BSD",
+  "home_page": "https://github.com/SukiCZ/boardgamegeek",
+  "download_filename": "bgg_api-1.1.14.tar.gz",
+  "download_time": "2025-11-28T22:32:36.752400",
+  "package_url": "https://pypi.org/project/bgg-api/"
+}
