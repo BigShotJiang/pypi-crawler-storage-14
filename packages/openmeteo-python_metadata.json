@@ -1,0 +1,11 @@
+{
+  "name": "openmeteo-python",
+  "version": "1.0.0",
+  "summary": "A comprehensive Python client for all Open-Meteo weather APIs (community package, not affiliated with openmeteo-sdk)",
+  "author": "OpenMeteo Python Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openmeteo_python-1.0.0.tar.gz",
+  "download_time": "2025-11-28T07:47:44.734635",
+  "package_url": "https://pypi.org/project/openmeteo-python/"
+}

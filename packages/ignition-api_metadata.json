@@ -1,0 +1,11 @@
+{
+  "name": "ignition-api",
+  "version": "8.3.1.post1",
+  "summary": "Ignition Scripting API",
+  "author": "César Román",
+  "license": "MIT",
+  "home_page": "https://github.com/ignition-devs/ignition-api-8.3",
+  "download_filename": "ignition_api-8.3.1.post1.tar.gz",
+  "download_time": "2025-11-28T07:47:40.278494",
+  "package_url": "https://pypi.org/project/ignition-api/"
+}

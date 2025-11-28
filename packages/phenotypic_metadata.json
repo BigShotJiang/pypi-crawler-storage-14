@@ -1,11 +1,11 @@
 {
   "name": "phenotypic",
-  "version": "0.11.0",
+  "version": "0.11.1",
   "summary": "An image processing framework created for Ex-FAB NSF BioFoundry that aims to streamline the development of image processing pipelines for images analysis of phenotypes.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "phenotypic-0.11.0.tar.gz",
-  "download_time": "2025-11-28T06:16:40.591780",
+  "download_filename": "phenotypic-0.11.1.tar.gz",
+  "download_time": "2025-11-28T07:47:36.046570",
   "package_url": "https://pypi.org/project/phenotypic/"
 }

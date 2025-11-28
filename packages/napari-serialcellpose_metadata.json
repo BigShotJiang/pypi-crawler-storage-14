@@ -1,0 +1,11 @@
+{
+  "name": "napari-serialcellpose",
+  "version": "0.5.0",
+  "summary": "A simple plugin to batch segment cells with cellpose",
+  "author": "Guillaume Witz",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/guiwitz/napari-serialcellpose",
+  "download_filename": "napari_serialcellpose-0.5.0-py3-none-any.whl",
+  "download_time": "2025-11-28T07:47:56.166002",
+  "package_url": "https://pypi.org/project/napari-serialcellpose/"
+}

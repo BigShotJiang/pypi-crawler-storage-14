@@ -1,11 +1,11 @@
 {
   "name": "dockai-cli",
-  "version": "2.3.0",
+  "version": "3.0.0",
   "summary": "The Customizable AI Dockerfile Generation Framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dockai_cli-2.3.0.tar.gz",
-  "download_time": "2025-11-26T19:23:40.555730",
+  "download_filename": "dockai_cli-3.0.0.tar.gz",
+  "download_time": "2025-11-28T07:48:12.984293",
   "package_url": "https://pypi.org/project/dockai-cli/"
 }
