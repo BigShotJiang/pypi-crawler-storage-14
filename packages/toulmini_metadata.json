@@ -1,0 +1,11 @@
+{
+  "name": "toulmini",
+  "version": "1.0.0",
+  "summary": "Argumentation model: 7 components, 4 phases. Bad logic crashes. Good logic flows.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "toulmini-1.0.0.tar.gz",
+  "download_time": "2025-11-28T18:19:55.547224",
+  "package_url": "https://pypi.org/project/toulmini/"
+}

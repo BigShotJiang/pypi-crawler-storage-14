@@ -1,0 +1,11 @@
+{
+  "name": "pySigma-backend-secops",
+  "version": "1.0.0",
+  "summary": "pySigma Google SecOps Backend",
+  "author": "Stephen Lincoln",
+  "license": "LGPL-3.0-only",
+  "home_page": "https://github.com/AttackIQ/pySigma-backend-secops",
+  "download_filename": "pysigma_backend_secops-1.0.0.tar.gz",
+  "download_time": "2025-11-28T18:20:05.829385",
+  "package_url": "https://pypi.org/project/pySigma-backend-secops/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lit-mlflow",
+  "version": "0.1.1",
+  "summary": "An improved Lightning mlflow logger",
+  "author": "twsl",
+  "license": "MIT",
+  "home_page": "https://twsl.github.io/lit-mlflow/",
+  "download_filename": "lit_mlflow-0.1.1.tar.gz",
+  "download_time": "2025-11-28T18:20:04.288798",
+  "package_url": "https://pypi.org/project/lit-mlflow/"
+}

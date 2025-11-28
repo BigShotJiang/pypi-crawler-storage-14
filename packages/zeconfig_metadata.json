@@ -1,11 +1,11 @@
 {
   "name": "zeconfig",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "Configuration Manager Package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zeconfig-0.2.1.tar.gz",
-  "download_time": "2025-11-28T17:47:54.849913",
+  "download_filename": "zeconfig-0.2.3.tar.gz",
+  "download_time": "2025-11-28T18:19:58.126913",
   "package_url": "https://pypi.org/project/zeconfig/"
 }

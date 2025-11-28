@@ -1,0 +1,11 @@
+{
+  "name": "rqbit-mcp",
+  "version": "0.9.2",
+  "summary": "Python wrapper & MCP server for the rqbit API",
+  "author": "philogicae",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rqbit_mcp-0.9.2.tar.gz",
+  "download_time": "2025-11-28T18:19:59.154130",
+  "package_url": "https://pypi.org/project/rqbit-mcp/"
+}

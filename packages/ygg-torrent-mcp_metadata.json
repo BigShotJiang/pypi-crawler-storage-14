@@ -1,0 +1,11 @@
+{
+  "name": "ygg-torrent-mcp",
+  "version": "1.8.2",
+  "summary": "Ygg Torrent MCP Server",
+  "author": "philogicae",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ygg_torrent_mcp-1.8.2.tar.gz",
+  "download_time": "2025-11-28T18:20:12.614579",
+  "package_url": "https://pypi.org/project/ygg-torrent-mcp/"
+}

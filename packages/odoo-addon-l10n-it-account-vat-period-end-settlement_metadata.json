@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-it-account-vat-period-end-settlement",
+  "version": "18.0.1.0.4",
+  "summary": "Allow to create the 'VAT Settlement'.",
+  "author": "Agile Business Group, Odoo Community Association (OCA), LinkIt Spa",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-italy",
+  "download_filename": "odoo_addon_l10n_it_account_vat_period_end_settlement-18.0.1.0.4-py3-none-any.whl",
+  "download_time": "2025-11-28T18:20:12.103117",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-it-account-vat-period-end-settlement/"
+}
