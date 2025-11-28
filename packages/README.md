@@ -1,11 +1,26 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-28T07:12:50.816929
-- **Total Packages**: 82
-- **Total Size**: 1.13 MB
+- **Download Time**: 2025-11-28T07:32:05.084491
+- **Total Packages**: 80
+- **Total Size**: 2.07 MB
 
 ## Packages List
+- abstract-ai
+- ctyun-cli
+- pyintellicenter
+- thermohipy
+- iflow-mcp_mcp-jira
+- netbox-interface-view
+- miunlock
+- iflow-mcp_mcp-goodnews
+- selenium-browserkit
+- aruco-markers-cv-localisation-arnard76
+- edx-enterprise
+- conson-xp
+- PyNetstockQuoteLib
+- mini-sisso
+- omniedge
 - typ2docx
 - scmiracle
 - src-trading
@@ -14,9 +29,7 @@
 - good-agent
 - example-package-feitian
 - dyngle
-- abstract-ai
 - iflow-mcp_cortex-mcp
-- aruco-markers-cv-localisation-arnard76
 - mcp-git-analyzer
 - cdk-opinionated-constructs
 - cherry-pick-check
@@ -25,12 +38,12 @@
 - kuaijs-ios
 - dynamodelx
 - persona-agent
+- light-splade
 - iflow-mcp_claude-code-gemini-mcp
 - PyNinja
 - jre-mirror
 - PyObservability
 - slikemedia
-- miunlock
 - XGM-devtest-qa
 - perceptic-core-client
 - qr-ghosh
@@ -73,18 +86,3 @@
 - alibabacloud-lingmou20250527
 - pdf2dwg
 - zrb
-- fret-trainer
-- cbzutils
-- gen-stm8
-- job-template
-- release-flow-with-sample-api
-- Coreform-Cubit-Mesh-Export
-- scriptplan
-- zorkie
-- alibabacloud-polardb20170801
-- z2js
-- a2u
-- cognite-toolkit
-- snowflake-tool
-- gou2tool
-- pulumi-command

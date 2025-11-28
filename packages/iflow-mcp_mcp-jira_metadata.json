@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-jira",
+  "version": "0.1.1",
+  "summary": "Model Context Protocol server for Jira with Scrum Master capabilities",
+  "author": "Warzuponus",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_jira-0.1.1.tar.gz",
+  "download_time": "2025-11-28T07:31:19.735441",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-jira/"
+}

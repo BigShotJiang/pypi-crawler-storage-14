@@ -1,11 +1,11 @@
 {
   "name": "easy-use-tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "An easy use tools package",
   "author": "yuanyang.li",
   "license": null,
   "home_page": "https://github.com/XXX",
-  "download_filename": "easy_use_tools-1.0.0-py3-none-any.whl",
-  "download_time": "2025-11-28T06:48:48.831008",
+  "download_filename": "easy_use_tools-1.0.1.tar.gz",
+  "download_time": "2025-11-28T07:31:51.344901",
   "package_url": "https://pypi.org/project/easy-use-tools/"
 }
