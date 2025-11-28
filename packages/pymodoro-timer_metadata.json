@@ -1,0 +1,11 @@
+{
+  "name": "pymodoro-timer",
+  "version": "1.0.0",
+  "summary": "Un chronomètre Pomodoro en ligne de commande simple et efficace",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymodoro_timer-1.0.0.tar.gz",
+  "download_time": "2025-11-28T18:54:09.073720",
+  "package_url": "https://pypi.org/project/pymodoro-timer/"
+}
