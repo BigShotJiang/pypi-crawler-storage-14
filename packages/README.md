@@ -1,14 +1,26 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-28T19:26:06.308456
-- **Total Packages**: 71
-- **Total Size**: 21.77 MB
+- **Download Time**: 2025-11-28T19:33:23.122893
+- **Total Packages**: 76
+- **Total Size**: 10.91 MB
 
 ## Packages List
+- pyqrack-complex128
+- reliapi-sdk
+- leblanc
+- pyqrack
+- jararaca
+- locoformer
+- chainswarm-core
+- svc-infra
+- django-core-micha
+- emerge
+- audio-connected
+- lrclib-python
+- abstract-utilities
 - pyfluids
 - shotgrid-mcp-server
-- abstract-utilities
 - bigdatadunking
 - cloudvault4
 - sapiens-stack
@@ -26,7 +38,6 @@
 - megatron-fsdp
 - gdsfactoryplus
 - pve-cloud-schemas
-- locoformer
 - workspace-mcp
 - gradio-neoviewer
 - rowdybottypiper
@@ -39,7 +50,6 @@
 - mcli-framework
 - n7
 - llm-prompt-refiner
-- lrclib-python
 - DockSuiteX
 - dftoy
 - pygeist-client
@@ -72,8 +82,3 @@
 - mikrowerk-edi-invoicing
 - browser-service
 - depcleaner
-- mcp-it
-- scellop
-- bigdata-hur
-- gwspace
-- pokemon-project

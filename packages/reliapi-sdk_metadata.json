@@ -1,0 +1,11 @@
+{
+  "name": "reliapi-sdk",
+  "version": "1.0.2",
+  "summary": "Python SDK for reliapi - Reliability layer for API calls",
+  "author": "KikuAI-Lab",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "reliapi_sdk-1.0.2.tar.gz",
+  "download_time": "2025-11-28T19:32:44.157293",
+  "package_url": "https://pypi.org/project/reliapi-sdk/"
+}

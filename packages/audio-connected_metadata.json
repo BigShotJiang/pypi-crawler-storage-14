@@ -1,11 +1,11 @@
 {
   "name": "audio-connected",
-  "version": "0.202511260756",
+  "version": "0.202511281927",
   "summary": "Watches PulseAudio events for new sinks connected, and if the name matches the configured name, make that sink the default sink.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "audio_connected-0.202511260756.tar.gz",
-  "download_time": "2025-11-26T08:14:35.669737",
+  "download_filename": "audio_connected-0.202511281927.tar.gz",
+  "download_time": "2025-11-28T19:32:49.106871",
   "package_url": "https://pypi.org/project/audio-connected/"
 }
