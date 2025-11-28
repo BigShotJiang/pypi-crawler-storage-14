@@ -1,11 +1,11 @@
 {
   "name": "bluecellulab",
-  "version": "2.6.74",
+  "version": "2.6.75",
   "summary": "Biologically detailed neural network simulations and analysis.",
   "author": "Blue Brain Project, EPFL",
   "license": "Apache2.0",
   "home_page": null,
-  "download_filename": "bluecellulab-2.6.74.tar.gz",
-  "download_time": "2025-11-26T15:49:05.627613",
+  "download_filename": "bluecellulab-2.6.75.tar.gz",
+  "download_time": "2025-11-28T10:37:01.931490",
   "package_url": "https://pypi.org/project/bluecellulab/"
 }

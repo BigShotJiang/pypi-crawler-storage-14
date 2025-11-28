@@ -1,0 +1,11 @@
+{
+  "name": "pytoniq-core",
+  "version": "0.1.46",
+  "summary": "TON Blockchain SDK",
+  "author": "Maksim Kurbatov",
+  "license": null,
+  "home_page": "https://github.com/yungwine/pytoniq",
+  "download_filename": "pytoniq_core-0.1.46.tar.gz",
+  "download_time": "2025-11-28T10:37:13.288077",
+  "package_url": "https://pypi.org/project/pytoniq-core/"
+}

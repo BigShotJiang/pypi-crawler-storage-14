@@ -1,11 +1,11 @@
 {
   "name": "aibox-cli",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Container-Based Multi-AI Development Environment",
   "author": "fogXploit",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aibox_cli-0.3.1.tar.gz",
-  "download_time": "2025-11-28T10:17:48.455432",
+  "download_filename": "aibox_cli-0.3.2.tar.gz",
+  "download_time": "2025-11-28T10:37:20.478242",
   "package_url": "https://pypi.org/project/aibox-cli/"
 }

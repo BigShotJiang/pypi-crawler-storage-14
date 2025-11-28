@@ -1,0 +1,11 @@
+{
+  "name": "quickcrop",
+  "version": "0.1.1",
+  "summary": "A minimal GUI app for image cropping",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quickcrop-0.1.1.tar.gz",
+  "download_time": "2025-11-28T10:37:10.730101",
+  "package_url": "https://pypi.org/project/quickcrop/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hgvs2seq",
+  "version": "0.2.1b0",
+  "summary": "From table file containing HGVS column, it returns a fixed size sequence",
+  "author": "Benoit Guibert",
+  "license": "GPLv3",
+  "home_page": "https://github.com/bio2m/hgvs2seq",
+  "download_filename": "hgvs2seq-0.2.1b0.tar.gz",
+  "download_time": "2025-11-28T10:37:08.685128",
+  "package_url": "https://pypi.org/project/hgvs2seq/"
+}

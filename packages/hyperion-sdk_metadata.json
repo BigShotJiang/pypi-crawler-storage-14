@@ -1,0 +1,11 @@
+{
+  "name": "hyperion-sdk",
+  "version": "0.14.1",
+  "summary": "A headless ETL / ELT / data pipeline and integration SDK for Python.",
+  "author": "Tomas Votava",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hyperion_sdk-0.14.1.tar.gz",
+  "download_time": "2025-11-28T10:36:55.424228",
+  "package_url": "https://pypi.org/project/hyperion-sdk/"
+}
