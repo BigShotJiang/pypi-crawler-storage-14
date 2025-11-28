@@ -1,11 +1,11 @@
 {
   "name": "hpfracc",
-  "version": "3.0.2",
+  "version": "3.1.0",
   "summary": "High-Performance Fractional Calculus Library with Neural Fractional SDE Solvers, Intelligent Backend Selection, GPU Acceleration, Machine Learning Integration, and Revolutionary Spectral Autograd Framework",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hpfracc-3.0.2.tar.gz",
-  "download_time": "2025-11-28T09:15:16.173458",
+  "download_filename": "hpfracc-3.1.0.tar.gz",
+  "download_time": "2025-11-28T16:12:58.059068",
   "package_url": "https://pypi.org/project/hpfracc/"
 }

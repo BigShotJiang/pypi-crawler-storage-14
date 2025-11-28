@@ -1,0 +1,11 @@
+{
+  "name": "acurl",
+  "version": "1.1.0",
+  "summary": "An async Curl library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "acurl-1.1.0.tar.gz",
+  "download_time": "2025-11-28T16:12:45.356800",
+  "package_url": "https://pypi.org/project/acurl/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "jewelmusic",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Official Python SDK for the JewelMusic AI-powered music distribution platform",
   "author": "JewelMusic Team",
   "license": "MIT",
   "home_page": "https://github.com/jewelmusic/sdk",
-  "download_filename": "jewelmusic-1.0.1.tar.gz",
-  "download_time": "2025-11-28T14:34:00.939625",
+  "download_filename": "jewelmusic-1.0.2.tar.gz",
+  "download_time": "2025-11-28T16:12:33.218711",
   "package_url": "https://pypi.org/project/jewelmusic/"
 }

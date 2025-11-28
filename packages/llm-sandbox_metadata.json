@@ -1,11 +1,11 @@
 {
   "name": "llm-sandbox",
-  "version": "0.3.26",
+  "version": "0.3.27",
   "summary": "LLM Sandbox is a lightweight and portable sandbox environment designed to run large language model (LLM) generated code in a safe and isolated mode.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llm_sandbox-0.3.26.tar.gz",
-  "download_time": "2025-11-28T14:11:43.935228",
+  "download_filename": "llm_sandbox-0.3.27.tar.gz",
+  "download_time": "2025-11-28T16:12:56.462479",
   "package_url": "https://pypi.org/project/llm-sandbox/"
 }

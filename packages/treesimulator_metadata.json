@@ -1,0 +1,11 @@
+{
+  "name": "treesimulator",
+  "version": "0.2.25",
+  "summary": "Simulation of rooted phylogenetic trees under a given Multi-Type Birth–Death model, with or without Contact Tracing, with or without a Skyline.",
+  "author": "Anna Zhukova",
+  "license": null,
+  "home_page": "https://github.com/evolbioinfo/treesimulator",
+  "download_filename": "treesimulator-0.2.25.tar.gz",
+  "download_time": "2025-11-28T16:12:47.996998",
+  "package_url": "https://pypi.org/project/treesimulator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zhinst-comms",
+  "version": "3.4.0.2512638",
+  "summary": "Zurich Instruments internal python bindings for Capnp",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zhinst_comms-3.4.0.2512638-cp310-cp310-macosx_10_11_x86_64.whl",
+  "download_time": "2025-11-28T16:13:00.166601",
+  "package_url": "https://pypi.org/project/zhinst-comms/"
+}

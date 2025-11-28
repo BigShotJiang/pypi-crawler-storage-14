@@ -1,0 +1,11 @@
+{
+  "name": "cfin-merge-sort",
+  "version": "0.3.2",
+  "summary": "Pure Python external merge sort implementation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cfin_merge_sort-0.3.2.tar.gz",
+  "download_time": "2025-11-28T16:12:24.063610",
+  "package_url": "https://pypi.org/project/cfin-merge-sort/"
+}

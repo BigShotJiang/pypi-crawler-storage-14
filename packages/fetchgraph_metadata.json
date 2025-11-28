@@ -1,0 +1,11 @@
+{
+  "name": "fetchgraph",
+  "version": "0.0.3",
+  "summary": "Graph-like planning → context fetching → synthesis agent (library-style).",
+  "author": "Alexander Onischenko",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fetchgraph-0.0.3.tar.gz",
+  "download_time": "2025-11-28T16:12:50.076024",
+  "package_url": "https://pypi.org/project/fetchgraph/"
+}

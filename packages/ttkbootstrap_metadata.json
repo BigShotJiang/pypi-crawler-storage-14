@@ -1,0 +1,11 @@
+{
+  "name": "ttkbootstrap",
+  "version": "1.19.1",
+  "summary": "A supercharged theme extension for tkinter that enables on-demand modern flat style themes inspired by Bootstrap.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ttkbootstrap-1.19.1.tar.gz",
+  "download_time": "2025-11-28T16:12:43.240388",
+  "package_url": "https://pypi.org/project/ttkbootstrap/"
+}

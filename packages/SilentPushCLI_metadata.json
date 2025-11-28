@@ -1,0 +1,11 @@
+{
+  "name": "SilentPushCLI",
+  "version": "1.2.2",
+  "summary": "Silent Push - Command Line Interface",
+  "author": "Jorgeley",
+  "license": "https://www.silentpush.com/terms-of-use/",
+  "home_page": "https://www.silentpush.com",
+  "download_filename": "silentpushcli-1.2.2.tar.gz",
+  "download_time": "2025-11-28T16:12:31.637048",
+  "package_url": "https://pypi.org/project/SilentPushCLI/"
+}
