@@ -1,0 +1,11 @@
+{
+  "name": "Flake8-pyproject",
+  "version": "1.2.4",
+  "summary": "Flake8 plug-in loading the configuration from pyproject.toml",
+  "author": "John Hennig",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flake8_pyproject-1.2.4-py3-none-any.whl",
+  "download_time": "2025-11-28T21:47:49.789052",
+  "package_url": "https://pypi.org/project/Flake8-pyproject/"
+}

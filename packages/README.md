@@ -1,11 +1,32 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-28T21:37:16.378652
-- **Total Packages**: 83
-- **Total Size**: 3.11 MB
+- **Download Time**: 2025-11-28T21:48:26.148883
+- **Total Packages**: 81
+- **Total Size**: 8.7 MB
 
 ## Packages List
+- chainswarm-core
+- mne-xdf
+- snowflake-data-exchange-agent
+- snowflake-data-validation
+- llm_mri
+- mimetica
+- um80
+- libephemeris
+- antioch-py
+- cppython
+- gen-vhost
+- pycli2
+- sleipnirgroup-jormungandr
+- Flake8-pyproject
+- viu-chem
+- plantvarfilter
+- fromjcl
+- aitril
+- lshrs
+- notionalpha-clarity
+- abstract-flask
 - daglint
 - symbolite
 - flycatcher
@@ -24,7 +45,6 @@
 - scahpy
 - simulateur-trafic-package
 - human-eval-rust
-- aitril
 - followthemoney
 - deephaven-coreplus-client
 - sigilderg-finetuner
@@ -38,7 +58,6 @@
 - clitoolset
 - lusid-sdk
 - nsj-rest-lib
-- viu-chem
 - simpnmr
 - grizabella
 - paytechuz
@@ -46,16 +65,13 @@
 - liveimport
 - Habitrax
 - alubia
-- um80
 - plyrfm
 - WUADS
-- libephemeris
 - worker-automate-hub
 - gen-unix-domain-socket
 - rfc9180
 - mumble-authenticator-templinks
 - vbase-api
-- abstract-flask
 - volkswagencarnet
 - alita-sdk
 - masgent
@@ -69,23 +85,5 @@
 - rumdl
 - python3-cyberfusion-cluster-support
 - grammar-school
-- chainswarm-core
 - corij9-hello-world
 - robot-chronograf
-- simba-uw-tf-dev
-- ai-lls-lib
-- langswarm
-- davext
-- ibm-watson-openscale
-- fastapi-request-context
-- anydi
-- libtmux
-- supervisely
-- xqute
-- meteaudata
-- aiophyn
-- file-stacker
-- tilt-pitch
-- price-comparator
-- kcpwd
-- pydrime

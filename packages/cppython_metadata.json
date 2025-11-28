@@ -1,0 +1,11 @@
+{
+  "name": "cppython",
+  "version": "0.9.12",
+  "summary": "A Python management solution for C++ dependencies",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cppython-0.9.12.tar.gz",
+  "download_time": "2025-11-28T21:47:47.592020",
+  "package_url": "https://pypi.org/project/cppython/"
+}

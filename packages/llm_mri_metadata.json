@@ -1,0 +1,11 @@
+{
+  "name": "llm_mri",
+  "version": "0.2.1",
+  "summary": "Package to visualize LLM's Neural Networks activation regions",
+  "author": "lipecorradini",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_mri-0.2.1.tar.gz",
+  "download_time": "2025-11-28T21:47:44.896483",
+  "package_url": "https://pypi.org/project/llm_mri/"
+}
