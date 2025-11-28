@@ -1,11 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-28T23:30:01.384685
-- **Total Packages**: 76
-- **Total Size**: 24.55 MB
+- **Download Time**: 2025-11-28T23:44:57.916762
+- **Total Packages**: 77
+- **Total Size**: 22.09 MB
 
 ## Packages List
+- WUADS
+- megatron-core
+- megatron-fsdp
+- nifti2bids
+- siglab-py
+- toollist
+- kerykeion
+- refvar
+- napari-clusters-plotter
+- github-backup
+- consenrich
+- napari-piscis
+- anyio
+- memory-hub-mcp
+- pandarm
+- ReverseBox
+- llmling-agent
+- nv-ingest
+- nv-ingest-client
+- contract-schema
+- nv-ingest-api
+- fastapi-gen8
+- relationalai
+- yt-dlp
+- docpull
+- ddd-cli
+- ohmqtt
+- listening-machine
+- libephemeris
 - omibio
 - django-core-micha
 - biblemategui
@@ -24,7 +53,6 @@
 - whitepossum
 - dbt-col-lineage
 - attending-machine
-- napari-piscis
 - ciit-checkin
 - xtalx
 - minireqs
@@ -55,30 +83,3 @@
 - fmot
 - vector-task-mcp
 - moptipy
-- megatron-core
-- megatron-fsdp
-- osbot-fast-api-serverless
-- livef1
-- agentexec
-- PyInventory
-- libtmux
-- pysio-hermes
-- credal
-- cocotbext-jtag
-- pwnit
-- matplobbot-shared
-- quantconnect-stubs
-- shoggoth
-- pandera-unified-validator
-- genesys-framework-cli
-- gradio-neomultimodaltextbox
-- gym-examples
-- privatera
-- faststripe
-- flock-core
-- libephemeris
-- context-async-sqlalchemy
-- pysio-hermes-pupillabs
-- jupyterlab-export-markdown-extension
-- umara
-- mostlyai
