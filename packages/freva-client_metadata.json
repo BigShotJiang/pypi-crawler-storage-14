@@ -1,0 +1,11 @@
+{
+  "name": "freva-client",
+  "version": "2511.0.0",
+  "summary": "Search for climate data based on key-value pairs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "freva_client-2511.0.0.tar.gz",
+  "download_time": "2025-11-28T05:51:09.289831",
+  "package_url": "https://pypi.org/project/freva-client/"
+}

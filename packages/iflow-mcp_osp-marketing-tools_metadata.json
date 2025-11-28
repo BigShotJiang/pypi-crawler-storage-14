@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_osp-marketing-tools",
+  "version": "0.1.1",
+  "summary": "OSP Marketing Tools using Model Context Protocol",
+  "author": "Robert Douglass, Tracy Evans, Jeffrey McGuire, other Open Srategy Partners contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_osp_marketing_tools-0.1.1.tar.gz",
+  "download_time": "2025-11-28T05:51:09.802588",
+  "package_url": "https://pypi.org/project/iflow-mcp_osp-marketing-tools/"
+}
