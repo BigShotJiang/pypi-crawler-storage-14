@@ -1,0 +1,11 @@
+{
+  "name": "sardana-limaccd",
+  "version": "0.12.1",
+  "summary": "LimaCCD Sardana plugin (controllers, macros, tools)",
+  "author": "ALBA controls team",
+  "license": "GPLv3",
+  "home_page": "https://github.com/ALBA-Synchrotron/sardana-limaccd",
+  "download_filename": "sardana_limaccd-0.12.1.tar.gz",
+  "download_time": "2025-11-28T11:35:44.566560",
+  "package_url": "https://pypi.org/project/sardana-limaccd/"
+}

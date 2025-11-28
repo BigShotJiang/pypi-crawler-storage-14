@@ -1,0 +1,11 @@
+{
+  "name": "py-semtools",
+  "version": "1.3",
+  "summary": "Library to handle ontologies that allows queries and calculations such as information coefficients, semantic similarity, ontology representations, etc in a easy way. It can load any ontology that complies the obo format supported by OBO Foundry.",
+  "author": "seoanezonjic",
+  "license": "MIT",
+  "home_page": "https://github.com/seoanezonjic/py_semtools",
+  "download_filename": "py_semtools-1.3.tar.gz",
+  "download_time": "2025-11-28T11:35:44.054510",
+  "package_url": "https://pypi.org/project/py-semtools/"
+}

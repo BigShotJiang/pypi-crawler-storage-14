@@ -1,0 +1,11 @@
+{
+  "name": "py-report-html",
+  "version": "1.2.0",
+  "summary": "Create compressed, interactive HTML reports with embedded Python code, custom JS and CSS, and wrappers for CanvasXpress plots, networks and more.",
+  "author": "seoanezonjic",
+  "license": "MIT",
+  "home_page": "https://github.com/seoanezonjic/py_report_html",
+  "download_filename": "py_report_html-1.2.0-py3-none-any.whl",
+  "download_time": "2025-11-28T11:35:46.646333",
+  "package_url": "https://pypi.org/project/py-report-html/"
+}

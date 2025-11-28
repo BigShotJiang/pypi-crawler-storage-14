@@ -1,11 +1,11 @@
 {
   "name": "pyutilities",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "summary": "PyUtilities :: Useful python 3 utilities library for various use cases.",
   "author": "Dmitrii Gusev",
   "license": null,
   "home_page": "https://pypi.org/project/pyutilities",
-  "download_filename": "pyutilities-2.1.1.tar.gz",
-  "download_time": "2025-11-28T10:37:00.132484",
+  "download_filename": "pyutilities-2.1.2.tar.gz",
+  "download_time": "2025-11-28T11:35:42.376020",
   "package_url": "https://pypi.org/project/pyutilities/"
 }
