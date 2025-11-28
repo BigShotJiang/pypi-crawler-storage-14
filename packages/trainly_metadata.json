@@ -1,0 +1,11 @@
+{
+  "name": "trainly",
+  "version": "0.1.2",
+  "summary": "Dead simple RAG integration for Python applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trainly-0.1.2.tar.gz",
+  "download_time": "2025-11-28T21:28:27.808109",
+  "package_url": "https://pypi.org/project/trainly/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gen-unix-domain-socket",
+  "version": "1.0.6",
+  "summary": "Generating Unix Domain Socket",
+  "author": "Vladimir Roncevic",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://vroncevic.github.io/gen_unix_domain_socket",
+  "download_filename": "gen_unix_domain_socket-1.0.6.tar.gz",
+  "download_time": "2025-11-28T21:28:40.100345",
+  "package_url": "https://pypi.org/project/gen-unix-domain-socket/"
+}

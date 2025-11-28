@@ -1,11 +1,11 @@
 {
   "name": "grizabella",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "A tri-layer memory framework for LLM solutions.",
   "author": "Grizabella Project Contributors",
   "license": "MIT",
   "home_page": "https://github.com/pwilkin/grizabella",
-  "download_filename": "grizabella-0.5.2.tar.gz",
-  "download_time": "2025-11-28T18:43:50.571636",
+  "download_filename": "grizabella-0.5.3.tar.gz",
+  "download_time": "2025-11-28T21:28:33.297775",
   "package_url": "https://pypi.org/project/grizabella/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mumble-authenticator-templinks",
+  "version": "2.0.7",
+  "summary": "AllianceAuth Authenticator for Mumble server with support for templinks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mumble_authenticator_templinks-2.0.7.tar.gz",
+  "download_time": "2025-11-28T21:28:41.145931",
+  "package_url": "https://pypi.org/project/mumble-authenticator-templinks/"
+}

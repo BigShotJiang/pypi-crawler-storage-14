@@ -1,0 +1,11 @@
+{
+  "name": "tilt-pitch",
+  "version": "2.0.0",
+  "summary": "Simple replacement for the Tilt Hydrometer mobile apps and TiltPi with lots of features",
+  "author": null,
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "tilt_pitch-2.0.0.tar.gz",
+  "download_time": "2025-11-28T21:28:58.869310",
+  "package_url": "https://pypi.org/project/tilt-pitch/"
+}

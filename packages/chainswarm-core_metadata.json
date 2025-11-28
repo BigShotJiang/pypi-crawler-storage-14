@@ -1,11 +1,11 @@
 {
   "name": "chainswarm-core",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Shared constants and utilities for ChainSwarm blockchain analytics projects",
   "author": "ChainSwarm Team",
   "license": null,
   "home_page": null,
-  "download_filename": "chainswarm_core-0.1.4.tar.gz",
-  "download_time": "2025-11-28T19:32:46.994553",
+  "download_filename": "chainswarm_core-0.1.5.tar.gz",
+  "download_time": "2025-11-28T21:28:49.447609",
   "package_url": "https://pypi.org/project/chainswarm-core/"
 }

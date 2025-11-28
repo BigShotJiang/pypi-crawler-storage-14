@@ -1,0 +1,11 @@
+{
+  "name": "factrainer",
+  "version": "0.1.28",
+  "summary": "Framework Agnostic Cross-validation Trainer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "factrainer-0.1.28.tar.gz",
+  "download_time": "2025-11-28T21:29:05.116667",
+  "package_url": "https://pypi.org/project/factrainer/"
+}

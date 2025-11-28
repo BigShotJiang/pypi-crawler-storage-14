@@ -1,11 +1,11 @@
 {
   "name": "volkswagencarnet",
-  "version": "5.1.2",
+  "version": "5.1.3",
   "summary": "Communicate with Volkswagen Connect",
   "author": "Robin Ostlund",
   "license": "GPLv3",
   "home_page": "https://github.com/robinostlund/volkswagencarnet",
-  "download_filename": "volkswagencarnet-5.1.2.tar.gz",
-  "download_time": "2025-11-26T23:28:31.866032",
+  "download_filename": "volkswagencarnet-5.1.3.tar.gz",
+  "download_time": "2025-11-28T21:28:42.694728",
   "package_url": "https://pypi.org/project/volkswagencarnet/"
 }

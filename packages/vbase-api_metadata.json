@@ -1,0 +1,11 @@
+{
+  "name": "vbase-api",
+  "version": "0.1.1",
+  "summary": "vBase REST API Python Client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vbase_api-0.1.1.tar.gz",
+  "download_time": "2025-11-28T21:28:41.661515",
+  "package_url": "https://pypi.org/project/vbase-api/"
+}

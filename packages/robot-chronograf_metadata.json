@@ -1,11 +1,11 @@
 {
   "name": "robot-chronograf",
-  "version": "0.1.0",
-  "summary": "A Multi-Layer Temporal Architecture and Encoding Method for Embodied Artificial Agents.",
-  "author": null,
-  "license": "Polyform Noncommercial 1.0.0",
+  "version": "0.1.2",
+  "summary": "Python SDK & CLI for the Chronograf temporal standard (Time Atoms, Uncertainty, Temporal Barcodes).",
+  "author": "RobotChronograf Project",
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "robot_chronograf-0.1.0.tar.gz",
-  "download_time": "2025-11-28T02:21:45.631531",
+  "download_filename": "robot_chronograf-0.1.2.tar.gz",
+  "download_time": "2025-11-28T21:28:50.479829",
   "package_url": "https://pypi.org/project/robot-chronograf/"
 }
