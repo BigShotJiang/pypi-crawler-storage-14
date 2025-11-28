@@ -1,11 +1,11 @@
 {
   "name": "continuum-objects",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Python package to load, validate and export objects of the digital continuum",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "continuum_objects-0.0.1.tar.gz",
-  "download_time": "2025-11-27T16:40:25.391973",
+  "download_filename": "continuum_objects-0.0.2.tar.gz",
+  "download_time": "2025-11-28T09:15:46.682040",
   "package_url": "https://pypi.org/project/continuum-objects/"
 }

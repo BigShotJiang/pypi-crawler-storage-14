@@ -1,0 +1,11 @@
+{
+  "name": "tripgenie",
+  "version": "0.1.0",
+  "summary": "AI-powered CLI travel planner that generates trip itineraries from your terminal.",
+  "author": "Anush Harish",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tripgenie-0.1.0.tar.gz",
+  "download_time": "2025-11-28T09:15:11.946933",
+  "package_url": "https://pypi.org/project/tripgenie/"
+}
