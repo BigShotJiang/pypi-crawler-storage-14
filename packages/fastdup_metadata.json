@@ -1,0 +1,11 @@
+{
+  "name": "fastdup",
+  "version": "2.49",
+  "summary": "Fast tool for gaining insights from large image repositories.",
+  "author": "Dr. Danny Bickson & Dr. Amir Alush",
+  "license": "Non commercial",
+  "home_page": "https://github.com/visualdatabase/fastdup",
+  "download_filename": "fastdup-2.49-py2-none-any.whl",
+  "download_time": "2025-11-28T05:12:36.872567",
+  "package_url": "https://pypi.org/project/fastdup/"
+}
