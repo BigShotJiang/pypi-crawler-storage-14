@@ -1,0 +1,11 @@
+{
+  "name": "tungsten-ui",
+  "version": "0.1.1",
+  "summary": "Tungsten UI - A Django component library with Cotton, HTMX, JavaScript, Tailwind CSS and DaisyUI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tungsten_ui-0.1.1.tar.gz",
+  "download_time": "2025-11-28T13:51:48.287741",
+  "package_url": "https://pypi.org/project/tungsten-ui/"
+}

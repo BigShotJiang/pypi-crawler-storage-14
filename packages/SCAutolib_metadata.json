@@ -1,0 +1,11 @@
+{
+  "name": "SCAutolib",
+  "version": "3.4.9",
+  "summary": "Python library for automation tests of smart cards using virtualization.",
+  "author": "Pavel Yadlouski",
+  "license": null,
+  "home_page": "https://github.com/redhat-qe-security/SCAutolib",
+  "download_filename": "scautolib-3.4.9.tar.gz",
+  "download_time": "2025-11-28T13:51:42.640220",
+  "package_url": "https://pypi.org/project/SCAutolib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "prompty-dumpty",
+  "version": "0.8.0",
+  "summary": "Universal package manager for AI coding assistants",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "prompty_dumpty-0.8.0.tar.gz",
+  "download_time": "2025-11-28T13:51:54.489345",
+  "package_url": "https://pypi.org/project/prompty-dumpty/"
+}

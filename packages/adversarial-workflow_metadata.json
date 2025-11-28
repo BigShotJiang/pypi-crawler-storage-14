@@ -1,0 +1,11 @@
+{
+  "name": "adversarial-workflow",
+  "version": "0.4.0",
+  "summary": "Multi-stage AI code review system preventing phantom work - Author/Evaluator pattern",
+  "author": "Fredrik Matheson",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adversarial_workflow-0.4.0.tar.gz",
+  "download_time": "2025-11-28T13:51:59.124903",
+  "package_url": "https://pypi.org/project/adversarial-workflow/"
+}

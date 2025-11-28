@@ -1,11 +1,11 @@
 {
   "name": "psqlc",
-  "version": "1.1.16",
+  "version": "1.1.17",
   "summary": "Feature-rich command-line interface tool for managing PostgreSQL databases. Built with `asyncpg` and featuring beautiful output formatting with Rich, it provides intelligent auto-detection of database configurations from Django settings, environment files, and various configuration formats.",
   "author": "cumulus13",
   "license": "MIT",
   "home_page": "https://github.com/cumulus13/psqlc",
-  "download_filename": "psqlc-1.1.16.tar.gz",
-  "download_time": "2025-11-26T11:47:38.558658",
+  "download_filename": "psqlc-1.1.17.tar.gz",
+  "download_time": "2025-11-28T13:51:25.005200",
   "package_url": "https://pypi.org/project/psqlc/"
 }

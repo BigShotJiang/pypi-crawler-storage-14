@@ -1,0 +1,11 @@
+{
+  "name": "pysiglib",
+  "version": "0.2.3",
+  "summary": "Fast Signature Computations on CPU and GPU",
+  "author": "Daniil Shmelev",
+  "license": null,
+  "home_page": "https://github.com/daniil-shmelev/pySigLib",
+  "download_filename": "pysiglib-0.2.3.tar.gz",
+  "download_time": "2025-11-28T13:52:05.275285",
+  "package_url": "https://pypi.org/project/pysiglib/"
+}

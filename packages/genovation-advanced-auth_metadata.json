@@ -1,0 +1,11 @@
+{
+  "name": "genovation-advanced-auth",
+  "version": "0.1.0",
+  "summary": "Advanced authentication library for FastAPI with JWT and MFA support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "genovation_advanced_auth-0.1.0.tar.gz",
+  "download_time": "2025-11-28T13:51:43.151750",
+  "package_url": "https://pypi.org/project/genovation-advanced-auth/"
+}

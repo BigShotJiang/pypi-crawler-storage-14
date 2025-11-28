@@ -1,0 +1,11 @@
+{
+  "name": "reponews",
+  "version": "0.6.2",
+  "summary": "Send e-mails about new events on your GitHub repositories",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "reponews-0.6.2.tar.gz",
+  "download_time": "2025-11-28T13:51:34.279820",
+  "package_url": "https://pypi.org/project/reponews/"
+}
