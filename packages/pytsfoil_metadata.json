@@ -1,0 +1,11 @@
+{
+  "name": "pytsfoil",
+  "version": "0.2.0",
+  "summary": "A Python interface for TSFOIL2, an inviscid transonic small-disturbance (TSD) solver for flow past lifting airfoils",
+  "author": "Runze LI",
+  "license": "MIT",
+  "home_page": "https://github.com/swayli94/pyTSFoil",
+  "download_filename": "pytsfoil-0.2.0.tar.gz",
+  "download_time": "2025-11-28T19:47:51.013437",
+  "package_url": "https://pypi.org/project/pytsfoil/"
+}

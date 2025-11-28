@@ -1,0 +1,11 @@
+{
+  "name": "fastmrz",
+  "version": "2.1.2",
+  "summary": "Extracts the Machine Readable Zone (MRZ) data from document images",
+  "author": "Sivakumar Mahalingam",
+  "license": "AGPLv3",
+  "home_page": "https://github.com/sivakumar-mahalingam/fastmrz/",
+  "download_filename": "fastmrz-2.1.2.tar.gz",
+  "download_time": "2025-11-28T19:47:43.283072",
+  "package_url": "https://pypi.org/project/fastmrz/"
+}

@@ -1,17 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-28T19:33:23.122893
-- **Total Packages**: 76
-- **Total Size**: 10.91 MB
+- **Download Time**: 2025-11-28T19:48:22.366239
+- **Total Packages**: 80
+- **Total Size**: 14.97 MB
 
 ## Packages List
-- pyqrack-complex128
+- treesitter-chunker
+- vendor-connectors
+- stockapis-bot
+- Coreform-Cubit-Mesh-Export
+- pqthreads
+- stockapis-tg
 - reliapi-sdk
+- fastmrz
+- rowdybottypiper
+- langgraph-runtime-firestore
+- setupEM
+- locoformer
+- fastapi-depends-anywhere
+- malha
+- doordeck-headless-sdk
+- bigdatadunking
+- plyrfm
+- lht
+- BatchalignHK
+- vogel-video-analyzer
+- py-pve-cloud-backup
+- pytsfoil
+- mtcli-market
+- aitril
+- dyngle
+- lalamo
+- pyqrack-cuda-complex128
+- pyqrack-cuda
+- wwpdb.utils.nmr
+- pyqrack-cpu-complex128
+- pyqrack-cpu
+- pyqrack-complex128
 - leblanc
 - pyqrack
 - jararaca
-- locoformer
 - chainswarm-core
 - svc-infra
 - django-core-micha
@@ -21,7 +50,6 @@
 - abstract-utilities
 - pyfluids
 - shotgrid-mcp-server
-- bigdatadunking
 - cloudvault4
 - sapiens-stack
 - eea.api.redirector
@@ -40,10 +68,8 @@
 - pve-cloud-schemas
 - workspace-mcp
 - gradio-neoviewer
-- rowdybottypiper
 - sphinx-metadata-figure
 - bluer-ugv
-- malha
 - airlock-ai-audit
 - ph-shorts
 - aitraining
@@ -60,25 +86,3 @@
 - tzafon
 - pyogrio
 - tencent-cloud-hackathon-intelligent-pentest-competition-api-server
-- pydrime
-- doc-manager-mcp
-- topgrade
-- noetl
-- neural-crispr
-- livecheck
-- threaded-order
-- sapiens-dataset
-- r2x-core
-- qcfinancial
-- local-deep-research
-- mock-firestore-sharp
-- nonebot-plugin-templates-draw
-- echosms
-- tenzir-common
-- sigil-pipeline
-- tenzir
-- rommer
-- evariste
-- mikrowerk-edi-invoicing
-- browser-service
-- depcleaner

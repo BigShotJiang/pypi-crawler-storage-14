@@ -1,0 +1,11 @@
+{
+  "name": "stockapis-tg",
+  "version": "0.1.0",
+  "summary": "Telegram channel monitoring for trading signals - StockAPIs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stockapis_tg-0.1.0.tar.gz",
+  "download_time": "2025-11-28T19:47:42.014866",
+  "package_url": "https://pypi.org/project/stockapis-tg/"
+}

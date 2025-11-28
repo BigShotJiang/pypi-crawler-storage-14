@@ -1,11 +1,11 @@
 {
   "name": "malha",
-  "version": "0.10.6",
+  "version": "0.10.7",
   "summary": "Fat Kernel - Unified Data & Compute Kernel with Lifecycle Management",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "malha-0.10.6.tar.gz",
-  "download_time": "2025-11-28T19:25:40.878644",
+  "download_filename": "malha-0.10.7.tar.gz",
+  "download_time": "2025-11-28T19:47:46.503879",
   "package_url": "https://pypi.org/project/malha/"
 }
