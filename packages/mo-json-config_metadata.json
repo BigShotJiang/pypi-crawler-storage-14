@@ -1,0 +1,11 @@
+{
+  "name": "mo-json-config",
+  "version": "5.698.25331",
+  "summary": "More JSON Configuration! JSON configuration files with `$ref` and template overlays",
+  "author": "Kyle Lahnakoski",
+  "license": "MPL 2.0",
+  "home_page": "https://github.com/klahnakoski/mo-json-config",
+  "download_filename": "mo_json_config-5.698.25331.tar.gz",
+  "download_time": "2025-11-28T00:43:27.885282",
+  "package_url": "https://pypi.org/project/mo-json-config/"
+}

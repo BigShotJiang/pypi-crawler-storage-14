@@ -1,0 +1,11 @@
+{
+  "name": "cipherspy",
+  "version": "0.7.1",
+  "summary": "Cipher algorithms implemented in python.",
+  "author": "Fathi AbdelMalek",
+  "license": "OSI Approved :: MIT License",
+  "home_page": "https://github.com/fathiabdelmalek/cipherspy.git",
+  "download_filename": "cipherspy-0.7.1.tar.gz",
+  "download_time": "2025-11-28T00:43:20.819907",
+  "package_url": "https://pypi.org/project/cipherspy/"
+}

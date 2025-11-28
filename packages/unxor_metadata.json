@@ -1,0 +1,11 @@
+{
+  "name": "unxor",
+  "version": "1.0.0",
+  "summary": "Advanced XOR-analysis toolkit.",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "unxor-1.0.0.tar.gz",
+  "download_time": "2025-11-28T00:42:58.287328",
+  "package_url": "https://pypi.org/project/unxor/"
+}
