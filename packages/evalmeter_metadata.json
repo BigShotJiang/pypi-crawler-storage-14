@@ -1,0 +1,11 @@
+{
+  "name": "evalmeter",
+  "version": "0.1.0",
+  "summary": "Comprehensive evaluation library for Gen AI applications using AWS Bedrock",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "evalmeter-0.1.0.tar.gz",
+  "download_time": "2025-11-28T16:53:01.596758",
+  "package_url": "https://pypi.org/project/evalmeter/"
+}

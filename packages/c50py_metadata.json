@@ -1,11 +1,11 @@
 {
   "name": "c50py",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "C5.0-like Decision Trees in Python (scikit-learn style)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "c50py-0.2.7.tar.gz",
-  "download_time": "2025-11-28T15:48:08.024472",
+  "download_filename": "c50py-0.2.8.tar.gz",
+  "download_time": "2025-11-28T16:53:19.352838",
   "package_url": "https://pypi.org/project/c50py/"
 }

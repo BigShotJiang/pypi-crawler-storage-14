@@ -1,11 +1,11 @@
 {
   "name": "ilo",
-  "version": "0.0.60",
+  "version": "0.0.61",
   "summary": "Control ilo robot using python command.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ilo-0.0.60.tar.gz",
-  "download_time": "2025-11-27T12:18:35.526613",
+  "download_filename": "ilo-0.0.61.tar.gz",
+  "download_time": "2025-11-28T16:53:17.781962",
   "package_url": "https://pypi.org/project/ilo/"
 }

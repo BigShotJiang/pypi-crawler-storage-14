@@ -1,0 +1,11 @@
+{
+  "name": "dr-agent",
+  "version": "0.1.2",
+  "summary": "dr-agent-lib is an agent library for building deep research agents",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "dr_agent-0.1.2.tar.gz",
+  "download_time": "2025-11-28T16:53:06.387800",
+  "package_url": "https://pypi.org/project/dr-agent/"
+}

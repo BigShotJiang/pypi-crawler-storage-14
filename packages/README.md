@@ -1,11 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-28T16:39:12.986456
-- **Total Packages**: 70
-- **Total Size**: 65.86 MB
+- **Download Time**: 2025-11-28T16:53:39.212343
+- **Total Packages**: 81
+- **Total Size**: 29.04 MB
 
 ## Packages List
+- agatha-protobuf
+- xmu-rollcall-cli
+- mostlyai-engine
+- tnfr
+- pygeist-client
+- curllm
+- cyvest
+- RydOpt
+- humanmint
+- locust
+- jgo
+- nnunetv2-cam
+- clue-api
+- pythonpine
+- evalmeter
+- cborJ
+- strnd
+- pyannote-audio-ng
+- streamlit-octostar-utils
+- infomankit
+- LAgencia-orion
+- pytapo
+- dr-agent
+- rectified-flow-pytorch
+- LAgencia-prospects-softseguros
+- tactigon-gear
+- pennylane-scaleway
+- jua
+- assert-llm-tools
+- torch-batteries
+- paddlecodec
+- stockapis-bot
+- jsonbrotliminifyer
+- agentic-layer-sdk-adk
+- lzl-pytools
+- batem
+- sqlbench
+- dustr
+- chen-signatures
+- biblemategui
+- sphinxcontrib-generate-include
+- yanat
+- ilo
+- veriskgo
+- c50py
+- dr-agent-ui
+- tt-smi
+- sai-pg
+- solveit-dmtools
+- localstack-core
+- gcl-classifier
+- tt-flash
+- trustgraph-vertexai
+- trustgraph-ocr
+- trustgraph-mcp
 - trustgraph-flow
 - trustgraph-embeddings-hf
 - trustgraph-cli
@@ -14,7 +69,6 @@
 - trustgraph
 - feeluown
 - simba-uw-tf-dev
-- veriskgo
 - openreview-dl
 - awslabs.aws-api-mcp-server
 - aiobmsble
@@ -25,7 +79,6 @@
 - kgnode
 - rayforcedb
 - nexium-exchanger
-- solveit-dmtools
 - aimodelshare
 - rayforce
 - sentry-infra-tools
@@ -34,45 +87,3 @@
 - pywiim
 - pattern-agentic-messaging
 - netron
-- pyghgaq
-- multi-join
-- pycdfpp
-- coiled
-- color-blink
-- lima2-client
-- passagemath-sws2rst
-- passagemath-standard
-- passagemath-setup
-- passagemath-repl
-- passagemath-pari-seadata-small
-- sqlalchemy-mimer
-- picklejar
-- passagemath-pari-nftables
-- passagemath-pari-nflistdata
-- passagemath-pari-galdata
-- config-cli-gui
-- aitraining
-- passagemath-gap-pkg-sonata-data
-- passagemath-gap-pkg-simpcomp-data
-- ai-stats-py-sdk
-- passagemath-brial
-- passagemath-gap-pkg-numericalsgps-data
-- delphai-rpc
-- passagemath-gap-pkg-factint-data
-- passagemath-bliss
-- passagemath-gap-pkg-difsets-data
-- passagemath-benzene
-- passagemath-environment
-- passagemath-database-symbolic-data
-- simulation-alg
-- passagemath-database-mutation-class
-- sphinxcontrib-generate-include
-- passagemath-database-jones-numfield
-- passagemath-database-cunningham
-- passagemath-bootstrap
-- xmu-rollcall-cli
-- pyluwen
-- rectified-flow-pytorch
-- trustgraph-vertexai
-- trustgraph-ocr
-- trustgraph-mcp

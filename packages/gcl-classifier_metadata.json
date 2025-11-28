@@ -1,0 +1,11 @@
+{
+  "name": "gcl-classifier",
+  "version": "0.1.0",
+  "summary": "Ganglion cell layer (GCL) response classifier",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gcl_classifier-0.1.0.tar.gz",
+  "download_time": "2025-11-28T16:53:22.576192",
+  "package_url": "https://pypi.org/project/gcl-classifier/"
+}

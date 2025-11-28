@@ -1,0 +1,11 @@
+{
+  "name": "strnd",
+  "version": "0.3.0",
+  "summary": "STRND: Graph reconstruction via Node2Vec (pecanpy) + UMAP",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "strnd-0.3.0.tar.gz",
+  "download_time": "2025-11-28T16:53:02.655098",
+  "package_url": "https://pypi.org/project/strnd/"
+}
