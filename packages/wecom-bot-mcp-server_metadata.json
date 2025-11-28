@@ -1,11 +1,11 @@
 {
   "name": "wecom-bot-mcp-server",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "summary": "WeCom Bot MCP Server - A Python server for WeCom (WeChat Work) bot following the Model Context Protocol (MCP)",
   "author": "longhao",
   "license": null,
   "home_page": null,
-  "download_filename": "wecom_bot_mcp_server-0.8.2.tar.gz",
-  "download_time": "2025-11-28T16:12:40.068295",
+  "download_filename": "wecom_bot_mcp_server-0.8.3.tar.gz",
+  "download_time": "2025-11-28T17:09:35.852723",
   "package_url": "https://pypi.org/project/wecom-bot-mcp-server/"
 }

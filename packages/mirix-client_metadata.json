@@ -1,0 +1,11 @@
+{
+  "name": "mirix-client",
+  "version": "0.1.0",
+  "summary": "Mirix Client - Lightweight Python client for Mirix server",
+  "author": "Mirix AI",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/Mirix-AI/MIRIX",
+  "download_filename": "mirix_client-0.1.0.tar.gz",
+  "download_time": "2025-11-28T17:09:33.071611",
+  "package_url": "https://pypi.org/project/mirix-client/"
+}

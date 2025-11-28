@@ -1,0 +1,11 @@
+{
+  "name": "coc.py",
+  "version": "3.10.0",
+  "summary": "A python wrapper for the Clash of Clans API",
+  "author": "mathsman5133",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "coc_py-3.10.0.tar.gz",
+  "download_time": "2025-11-28T17:09:15.432442",
+  "package_url": "https://pypi.org/project/coc.py/"
+}

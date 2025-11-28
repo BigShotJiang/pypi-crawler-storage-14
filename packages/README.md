@@ -1,16 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-28T16:53:39.212343
-- **Total Packages**: 81
-- **Total Size**: 29.04 MB
+- **Download Time**: 2025-11-28T17:10:03.521306
+- **Total Packages**: 86
+- **Total Size**: 13.44 MB
 
 ## Packages List
+- coc.py
+- revng
+- mlrun
+- reality-stone
+- python-http-helper
+- wz-code
+- la-convertoche
+- kektordb-client
+- movoid-function
+- pyalamake
+- batem
+- fonttools
+- openmeter
+- mcli-framework
+- picozero
+- grizabella
+- mknodes
+- modal
+- mkdocs-kroki-plugin
+- neuracore
+- zz-tools
+- fenji
+- cribl-control-plane
+- rmbloat
+- django-geowidgets
+- aimlapi-sdk-python
+- fenly
+- stellars-jupyterlab-extensions
+- rectified-flow-pytorch
+- pyintellicenter
+- jaxsim
+- aoc-data-structures
+- mirix-client
+- aiomrim
+- jupyterlab-terraform-file-type-extension
+- privatera
+- bardata
+- wecom-bot-mcp-server
+- lean-xplore
+- color-blink
 - agatha-protobuf
 - xmu-rollcall-cli
 - mostlyai-engine
 - tnfr
-- pygeist-client
 - curllm
 - cyvest
 - RydOpt
@@ -29,7 +68,6 @@
 - LAgencia-orion
 - pytapo
 - dr-agent
-- rectified-flow-pytorch
 - LAgencia-prospects-softseguros
 - tactigon-gear
 - pennylane-scaleway
@@ -41,7 +79,6 @@
 - jsonbrotliminifyer
 - agentic-layer-sdk-adk
 - lzl-pytools
-- batem
 - sqlbench
 - dustr
 - chen-signatures
@@ -55,35 +92,3 @@
 - tt-smi
 - sai-pg
 - solveit-dmtools
-- localstack-core
-- gcl-classifier
-- tt-flash
-- trustgraph-vertexai
-- trustgraph-ocr
-- trustgraph-mcp
-- trustgraph-flow
-- trustgraph-embeddings-hf
-- trustgraph-cli
-- trustgraph-bedrock
-- trustgraph-base
-- trustgraph
-- feeluown
-- simba-uw-tf-dev
-- openreview-dl
-- awslabs.aws-api-mcp-server
-- aiobmsble
-- awslabs.aws-network-mcp-server
-- ppllm
-- ilo-binding
-- slurmray
-- kgnode
-- rayforcedb
-- nexium-exchanger
-- aimodelshare
-- rayforce
-- sentry-infra-tools
-- cppmake
-- cppmakelib
-- pywiim
-- pattern-agentic-messaging
-- netron

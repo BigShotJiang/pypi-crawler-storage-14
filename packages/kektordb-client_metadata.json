@@ -1,0 +1,11 @@
+{
+  "name": "kektordb-client",
+  "version": "0.2.2",
+  "summary": "An official Python client for KektorDB, a high-performance in-memory vector database.",
+  "author": "Sanonone",
+  "license": null,
+  "home_page": "https://github.com/sanonone/kektordb",
+  "download_filename": "kektordb_client-0.2.2.tar.gz",
+  "download_time": "2025-11-28T17:09:19.265238",
+  "package_url": "https://pypi.org/project/kektordb-client/"
+}

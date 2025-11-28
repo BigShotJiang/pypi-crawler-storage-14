@@ -1,0 +1,11 @@
+{
+  "name": "fonttools",
+  "version": "4.61.0",
+  "summary": "Tools to manipulate font files",
+  "author": "Just van Rossum",
+  "license": "MIT",
+  "home_page": "http://github.com/fonttools/fonttools",
+  "download_filename": "fonttools-4.61.0.tar.gz",
+  "download_time": "2025-11-28T17:09:21.596527",
+  "package_url": "https://pypi.org/project/fonttools/"
+}
