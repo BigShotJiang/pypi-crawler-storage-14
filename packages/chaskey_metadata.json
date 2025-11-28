@@ -1,0 +1,11 @@
+{
+  "name": "chaskey",
+  "version": "0.0.4",
+  "summary": "Pure Python Chaskey LTS implementation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chaskey-0.0.4.tar.gz",
+  "download_time": "2025-11-28T15:48:21.240658",
+  "package_url": "https://pypi.org/project/chaskey/"
+}

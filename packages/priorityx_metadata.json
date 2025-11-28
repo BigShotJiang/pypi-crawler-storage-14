@@ -1,0 +1,11 @@
+{
+  "name": "priorityx",
+  "version": "0.2.6",
+  "summary": "Entity prioritization and escalation detection using GLMM statistical models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "priorityx-0.2.6.tar.gz",
+  "download_time": "2025-11-28T15:48:14.323776",
+  "package_url": "https://pypi.org/project/priorityx/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "codeset",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "The official Python library for the codeset API",
   "author": "Codeset",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "codeset-0.4.0.tar.gz",
-  "download_time": "2025-11-25T16:58:17.526047",
+  "download_filename": "codeset-0.4.1.tar.gz",
+  "download_time": "2025-11-28T15:48:12.754473",
   "package_url": "https://pypi.org/project/codeset/"
 }

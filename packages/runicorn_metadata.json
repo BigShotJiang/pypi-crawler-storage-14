@@ -1,0 +1,11 @@
+{
+  "name": "runicorn",
+  "version": "0.5.3",
+  "summary": "Local experiment tracking with model versioning - self-hosted W&B alternative with Artifacts",
+  "author": "Runicorn Authors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "runicorn-0.5.3.tar.gz",
+  "download_time": "2025-11-28T15:48:15.377376",
+  "package_url": "https://pypi.org/project/runicorn/"
+}

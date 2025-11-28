@@ -1,0 +1,11 @@
+{
+  "name": "async-gaussdb",
+  "version": "0.30.2",
+  "summary": "An asyncio GaussDB driver",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "async_gaussdb-0.30.2.tar.gz",
+  "download_time": "2025-11-28T15:48:03.290872",
+  "package_url": "https://pypi.org/project/async-gaussdb/"
+}

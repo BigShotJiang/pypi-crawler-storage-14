@@ -1,0 +1,11 @@
+{
+  "name": "finda",
+  "version": "0.1.0",
+  "summary": "A unified financial data fetching engine for Stocks, Crypto, and Forex.",
+  "author": "Kushal Garg",
+  "license": null,
+  "home_page": "https://github.com/kshlgrg/finda",
+  "download_filename": "finda-0.1.0.tar.gz",
+  "download_time": "2025-11-28T15:48:04.861675",
+  "package_url": "https://pypi.org/project/finda/"
+}
