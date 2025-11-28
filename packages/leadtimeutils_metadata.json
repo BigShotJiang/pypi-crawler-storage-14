@@ -1,11 +1,11 @@
 {
   "name": "leadtimeutils",
-  "version": "0.1.0",
-  "summary": "A utility module for lead time analysis",
+  "version": "0.1.1",
+  "summary": "a utility module for lead time analysis in procurement & logistic division mineral alam abadi",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "leadtimeutils-0.1.0.tar.gz",
-  "download_time": "2025-11-28T07:47:58.801619",
+  "download_filename": "leadtimeutils-0.1.1.tar.gz",
+  "download_time": "2025-11-28T08:44:10.962518",
   "package_url": "https://pypi.org/project/leadtimeutils/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dsm-django-socialauth",
+  "version": "1.0.35",
+  "summary": "A simple way to use Custom authentication in django application. for dsm",
+  "author": "DigitalStoreMesh Co.,Ltd",
+  "license": "MIT License",
+  "home_page": "https://gitlab.com/public-project2/dsm-django-oauth",
+  "download_filename": "dsm_django_socialauth-1.0.35.tar.gz",
+  "download_time": "2025-11-28T08:44:40.045290",
+  "package_url": "https://pypi.org/project/dsm-django-socialauth/"
+}
