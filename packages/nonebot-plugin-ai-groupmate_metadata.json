@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-ai-groupmate",
-  "version": "1.0.0",
-  "summary": "miyuki",
+  "version": "1.0.1",
+  "summary": "ai 群友",
   "author": "yaowan233",
   "license": null,
   "home_page": null,
-  "download_filename": "nonebot_plugin_ai_groupmate-1.0.0.tar.gz",
-  "download_time": "2025-11-28T05:35:18.242245",
+  "download_filename": "nonebot_plugin_ai_groupmate-1.0.1.tar.gz",
+  "download_time": "2025-11-28T14:11:58.914789",
   "package_url": "https://pypi.org/project/nonebot-plugin-ai-groupmate/"
 }

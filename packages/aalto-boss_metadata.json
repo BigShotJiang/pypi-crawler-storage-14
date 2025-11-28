@@ -1,11 +1,11 @@
 {
   "name": "aalto-boss",
-  "version": "1.13.3",
+  "version": "1.14.1",
   "summary": "Bayesian optimization structure search",
   "author": "Yuhao Zhang, Ville Parkkinen, Henri Paulamaki, Arttu Tolvanen, Ulpu Remes, Nuutti Sten, Emma Lehto, Mikael Granit, Manuel Kuchelmeister, Tatu Linnala, Tuomas Rossi, Ransell Dsouza, Matthias Stosiek, Armi Tiihonen, Joakim Loefgren, Milica Todorovic,",
   "license": "Apache License 2.0",
   "home_page": "https://gitlab.com/cest-group/boss",
-  "download_filename": "aalto_boss-1.13.3.tar.gz",
-  "download_time": "2025-11-28T13:05:33.146450",
+  "download_filename": "aalto_boss-1.14.1.tar.gz",
+  "download_time": "2025-11-28T14:11:42.874516",
   "package_url": "https://pypi.org/project/aalto-boss/"
 }

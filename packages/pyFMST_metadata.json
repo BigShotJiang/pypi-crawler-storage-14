@@ -1,11 +1,11 @@
 {
   "name": "pyFMST",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Python wrapper for FMST",
   "author": "Will Pizii",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "pyfmst-0.0.4.tar.gz",
-  "download_time": "2025-11-28T13:51:42.128802",
+  "download_filename": "pyfmst-0.0.5.tar.gz",
+  "download_time": "2025-11-28T14:12:04.133101",
   "package_url": "https://pypi.org/project/pyFMST/"
 }

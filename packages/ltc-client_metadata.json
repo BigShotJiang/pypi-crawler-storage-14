@@ -1,11 +1,11 @@
 {
   "name": "ltc-client",
-  "version": "0.2.54",
+  "version": "0.2.56",
   "summary": "Client and Worker module for Tin Arm Engineering LTC service",
   "author": "Martin West",
   "license": "MIT",
   "home_page": "https://github.com/TinArmEngineering/ltc_client/",
-  "download_filename": "ltc_client-0.2.54.tar.gz",
-  "download_time": "2025-11-27T15:33:17.692096",
+  "download_filename": "ltc_client-0.2.56.tar.gz",
+  "download_time": "2025-11-28T14:12:07.777740",
   "package_url": "https://pypi.org/project/ltc-client/"
 }
