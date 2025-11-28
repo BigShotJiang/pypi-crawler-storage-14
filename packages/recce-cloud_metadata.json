@@ -1,11 +1,11 @@
 {
   "name": "recce-cloud",
-  "version": "1.26.0",
+  "version": "1.26.1",
   "summary": "Lightweight CLI for Recce Cloud operations",
   "author": "InfuseAI Dev Team",
   "license": null,
   "home_page": "https://github.com/InfuseAI/recce",
-  "download_filename": "recce_cloud-1.26.0.tar.gz",
-  "download_time": "2025-11-26T09:35:58.750717",
+  "download_filename": "recce_cloud-1.26.1.tar.gz",
+  "download_time": "2025-11-28T04:22:29.258929",
   "package_url": "https://pypi.org/project/recce-cloud/"
 }

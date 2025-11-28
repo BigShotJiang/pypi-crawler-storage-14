@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_ops_mcp_server",
+  "version": "0.1.0",
+  "summary": "服务器、网络设备巡检和运维MCP工具",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_ops_mcp_server-0.1.0.tar.gz",
+  "download_time": "2025-11-28T04:22:38.075125",
+  "package_url": "https://pypi.org/project/iflow-mcp_ops_mcp_server/"
+}

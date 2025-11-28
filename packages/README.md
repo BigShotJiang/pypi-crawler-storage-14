@@ -1,13 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-28T04:00:37.471711
-- **Total Packages**: 75
-- **Total Size**: 22.56 MB
+- **Download Time**: 2025-11-28T04:23:07.112587
+- **Total Packages**: 80
+- **Total Size**: 15.87 MB
 
 ## Packages List
-- jacksung
+- dvt-core
+- exnest-ai
+- mcp-git-analyzer
+- moa-telehealth
+- recce
+- aiinbx
+- streamlit-notebook
+- recce-cloud
+- sctypepy
+- f1gp
+- standard-block-auditor
+- ha-mcp
+- openubmc-bingo
+- dataflow-core
+- iflow-mcp_winautowx
+- iflow-mcp_amazon-ads-mcp
+- odoo-addons-oca-server-backend
+- xdk
+- tirex-mirror
+- aenet-gpr
 - sunsehttp
+- chill
+- cdktf-cdktf-provider-pagerduty
+- iflow-mcp_z3
+- iflow-mcp_ops_mcp_server
+- mcp-ai-forever
+- iflow-mcp_tradingview-mcp
+- bankai
+- zerotrust-framework
+- aitril
+- mchnpkg
+- prisma-web3-py
+- oursprivacy-client
+- jacksung
 - mojentic
 - odoo14-addon-ssi-l10n-id-taxform-faktur-pajak
 - iflow-mcp_toolfront
@@ -34,7 +66,6 @@
 - kotinjection
 - mh-sys-gen
 - odoo-addons-oca-partner-contact
-- aitril
 - megatron-core
 - cbzutils
 - megatron-fsdp
@@ -55,29 +86,3 @@
 - pyimagecuda
 - arsc
 - iflow-mcp_openai-agents
-- vllm-cpu-avx512bf16
-- masgent
-- GANDLF
-- scc-firewall-manager-sdk
-- agilicus
-- odoo-addons-oca-maintenance
-- locoformer
-- pythoc
-- mcp-ai-forever
-- flyn
-- pinionai
-- wujihandpy
-- cqc-quam-state
-- aibooster
-- agentlin-client
-- archetypeai
-- iflow-mcp_http-4-mcp
-- iflow-mcp_mcp-agent
-- opensensor-enviroplus
-- dragon-ml-toolbox
-- pyAgrum-nightly
-- iflow-mcp_linear-regression-mcp
-- ctyunsdk-hpfs20220909
-- vtk-slice3d
-- checkout-intents
-- page-eyes
