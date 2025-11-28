@@ -1,11 +1,11 @@
 {
   "name": "arsc",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Compute ARSC (N/C/S/AvgResMW) from protein fasta files",
   "author": "Satoshi Nishino",
   "license": "GPL-2.0",
   "home_page": "https://github.com/stsnsn/ARSC",
-  "download_filename": "arsc-0.2.0.tar.gz",
-  "download_time": "2025-11-28T04:00:23.015407",
+  "download_filename": "arsc-0.2.1.tar.gz",
+  "download_time": "2025-11-28T04:43:50.803967",
   "package_url": "https://pypi.org/project/arsc/"
 }

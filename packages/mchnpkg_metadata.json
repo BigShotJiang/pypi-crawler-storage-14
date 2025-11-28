@@ -1,11 +1,11 @@
 {
   "name": "mchnpkg",
-  "version": "0.4.7",
+  "version": "0.4.9",
   "summary": "Simple Torch neural net for diabetes homework",
   "author": "AhmadRasa",
   "license": null,
   "home_page": null,
-  "download_filename": "mchnpkg-0.4.7.tar.gz",
-  "download_time": "2025-11-28T04:22:41.218461",
+  "download_filename": "mchnpkg-0.4.9.tar.gz",
+  "download_time": "2025-11-28T04:43:46.003159",
   "package_url": "https://pypi.org/project/mchnpkg/"
 }

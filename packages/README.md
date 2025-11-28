@@ -1,11 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-28T04:23:07.112587
-- **Total Packages**: 80
-- **Total Size**: 15.87 MB
+- **Download Time**: 2025-11-28T04:44:27.388764
+- **Total Packages**: 81
+- **Total Size**: 14.91 MB
 
 ## Packages List
+- fastapi-clean-archi
+- iconer
+- mchnpkg
+- fin-infra
+- human-eval-rust
+- synchromcp
+- weather-decoder
+- apyds
+- odoo-addon-web-dialog-size
+- ministatus
+- masgent
+- arsc
+- odoo-addons-oca-stock-logistics-workflow
+- pipreq-distill
+- vllm-cpu-avx512bf16
+- cycless
+- keras-nlp-nightly
+- keras-hub-nightly
+- wujihandpy
+- svc-infra
+- hbat
+- valid8r
+- ha-mcp
 - dvt-core
 - exnest-ai
 - mcp-git-analyzer
@@ -17,7 +40,6 @@
 - sctypepy
 - f1gp
 - standard-block-auditor
-- ha-mcp
 - openubmc-bingo
 - dataflow-core
 - iflow-mcp_winautowx
@@ -36,7 +58,6 @@
 - bankai
 - zerotrust-framework
 - aitril
-- mchnpkg
 - prisma-web3-py
 - oursprivacy-client
 - jacksung
@@ -54,7 +75,6 @@
 - iflow-mcp_toutiao-mcp-server
 - tunacode-cli
 - pulumi-pagerduty
-- hbat
 - spotted
 - gradeschoolmathsolver
 - pygnss-tec
@@ -67,22 +87,3 @@
 - mh-sys-gen
 - odoo-addons-oca-partner-contact
 - megatron-core
-- cbzutils
-- megatron-fsdp
-- sciv
-- localsage
-- echosms
-- iflow-mcp_zettelkasten-mcp
-- build-qt
-- iflow-mcp_video-audio-mcp
-- odoo-addon-openupgrade-scripts
-- usdk
-- trtc-migration-assistant
-- human-eval-rust
-- scylla-driver
-- XGM-devtest-qa
-- keras-rs-nightly
-- odoo-addons-oca-margin-analysis
-- pyimagecuda
-- arsc
-- iflow-mcp_openai-agents
