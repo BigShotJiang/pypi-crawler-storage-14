@@ -1,0 +1,11 @@
+{
+  "name": "bqat",
+  "version": "1.8.5",
+  "summary": "Biometric Quality Assessment Tool - CLI (BQAT-CLI)",
+  "author": "Liam Wu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bqat-1.8.5-py3-none-any.whl",
+  "download_time": "2025-11-28T04:53:10.330904",
+  "package_url": "https://pypi.org/project/bqat/"
+}

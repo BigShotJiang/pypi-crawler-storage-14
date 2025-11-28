@@ -1,11 +1,24 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-28T04:44:27.388764
-- **Total Packages**: 81
-- **Total Size**: 14.91 MB
+- **Download Time**: 2025-11-28T04:53:48.111635
+- **Total Packages**: 83
+- **Total Size**: 3.77 MB
 
 ## Packages List
+- fm-prime
+- edupsyadmin
+- pygformula
+- rectified-flow-pytorch
+- iamdata
+- flatiron-cleaner
+- arsc
+- pycep-parser
+- opensensor-enviroplus
+- github-heatmap
+- rust-graph
+- bqat
+- PyNinja
 - fastapi-clean-archi
 - iconer
 - mchnpkg
@@ -17,7 +30,6 @@
 - odoo-addon-web-dialog-size
 - ministatus
 - masgent
-- arsc
 - odoo-addons-oca-stock-logistics-workflow
 - pipreq-distill
 - vllm-cpu-avx512bf16
@@ -77,13 +89,3 @@
 - pulumi-pagerduty
 - spotted
 - gradeschoolmathsolver
-- pygnss-tec
-- agentic-fleet
-- ghpr-py
-- amiyahttp
-- ajwt
-- bountylab
-- kotinjection
-- mh-sys-gen
-- odoo-addons-oca-partner-contact
-- megatron-core

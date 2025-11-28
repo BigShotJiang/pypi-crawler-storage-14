@@ -1,0 +1,11 @@
+{
+  "name": "rust-graph",
+  "version": "0.1.2",
+  "summary": "Simple and fast graph operations written in Rust",
+  "author": "Kiyoon Kim",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rust_graph-0.1.2.tar.gz",
+  "download_time": "2025-11-28T04:53:09.783465",
+  "package_url": "https://pypi.org/project/rust-graph/"
+}
