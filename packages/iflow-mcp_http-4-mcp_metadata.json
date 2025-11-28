@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_http-4-mcp",
+  "version": "1.0.0",
+  "summary": "HTTP-4-MCP configuration tool allows you to easily convert HTTP API to MCP tool without writing code",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_http_4_mcp-1.0.0.tar.gz",
+  "download_time": "2025-11-28T03:32:03.182035",
+  "package_url": "https://pypi.org/project/iflow-mcp_http-4-mcp/"
+}

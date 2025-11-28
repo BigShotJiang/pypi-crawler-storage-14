@@ -1,0 +1,11 @@
+{
+  "name": "agentlin-client",
+  "version": "1.8.3",
+  "summary": "The official Python library for the client API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentlin_client-1.8.3.tar.gz",
+  "download_time": "2025-11-28T03:32:02.106682",
+  "package_url": "https://pypi.org/project/agentlin-client/"
+}

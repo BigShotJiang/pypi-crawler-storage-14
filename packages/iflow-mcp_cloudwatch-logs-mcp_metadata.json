@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_cloudwatch-logs-mcp",
+  "version": "0.1.0",
+  "summary": "CloudWatch Logs MCP Server for accessing AWS CloudWatch logs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_cloudwatch_logs_mcp-0.1.0.tar.gz",
+  "download_time": "2025-11-28T03:32:36.030958",
+  "package_url": "https://pypi.org/project/iflow-mcp_cloudwatch-logs-mcp/"
+}

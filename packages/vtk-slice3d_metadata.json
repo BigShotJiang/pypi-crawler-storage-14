@@ -1,0 +1,11 @@
+{
+  "name": "vtk-slice3d",
+  "version": "0.1.0",
+  "summary": "3D slice visualization with VTK",
+  "author": "Taihui Yang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vtk_slice3d-0.1.0.tar.gz",
+  "download_time": "2025-11-28T03:32:07.050172",
+  "package_url": "https://pypi.org/project/vtk-slice3d/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-dst",
+  "version": "1.0.0",
+  "summary": "MCP server for Danmarks Statistik's Statistikbank API",
+  "author": "Brokk Sindre",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_dst-1.0.0.tar.gz",
+  "download_time": "2025-11-28T03:32:33.155536",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-dst/"
+}

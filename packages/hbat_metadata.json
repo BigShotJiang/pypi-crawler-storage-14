@@ -1,0 +1,11 @@
+{
+  "name": "hbat",
+  "version": "2.3.2",
+  "summary": "Hydrogen Bond Analysis Tool for PDB structures",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hbat-2.3.2.tar.gz",
+  "download_time": "2025-11-28T03:32:01.577330",
+  "package_url": "https://pypi.org/project/hbat/"
+}

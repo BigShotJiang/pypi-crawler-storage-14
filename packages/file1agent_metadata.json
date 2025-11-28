@@ -1,0 +1,11 @@
+{
+  "name": "file1agent",
+  "version": "0.0.2",
+  "summary": "Tired of main_fixed.py? file1.agent cleans up the mess from AI agents.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "file1agent-0.0.2.tar.gz",
+  "download_time": "2025-11-28T03:32:30.798806",
+  "package_url": "https://pypi.org/project/file1agent/"
+}

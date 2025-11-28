@@ -1,11 +1,11 @@
 {
   "name": "synod-cli",
-  "version": "0.3.3",
+  "version": "0.3.9",
   "summary": "Intelligent multi-model coding agent with adversarial debate. Ancient Councils. Modern Intelligence. Open Source.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "synod_cli-0.3.3.tar.gz",
-  "download_time": "2025-11-28T02:22:04.529369",
+  "download_filename": "synod_cli-0.3.9.tar.gz",
+  "download_time": "2025-11-28T03:31:52.831974",
   "package_url": "https://pypi.org/project/synod-cli/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "kotinjection",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Koin-like lightweight dependency injection container for Python with type inference support",
   "author": "Vatis",
   "license": "MIT",
   "home_page": "https://github.com/Lalcs/kotinjection",
-  "download_filename": "kotinjection-0.0.4.tar.gz",
-  "download_time": "2025-11-27T05:34:41.651655",
+  "download_filename": "kotinjection-0.0.5.tar.gz",
+  "download_time": "2025-11-28T03:32:34.213735",
   "package_url": "https://pypi.org/project/kotinjection/"
 }

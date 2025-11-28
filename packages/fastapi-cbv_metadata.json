@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-cbv",
+  "version": "0.2.0",
+  "summary": "Django REST Framework style class-based views for FastAPI with Tortoise ORM support",
+  "author": "FastAPI CBV Development Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_cbv-0.2.0-py3-none-any.whl",
+  "download_time": "2025-11-28T03:32:14.261307",
+  "package_url": "https://pypi.org/project/fastapi-cbv/"
+}

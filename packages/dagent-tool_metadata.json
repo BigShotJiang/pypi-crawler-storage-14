@@ -1,11 +1,11 @@
 {
   "name": "dagent-tool",
-  "version": "0.1.13",
+  "version": "0.1.15",
   "summary": "DAgent Network Tool - Intelligent AI Agent Router",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dagent_tool-0.1.13.tar.gz",
-  "download_time": "2025-11-28T00:43:03.727770",
+  "download_filename": "dagent_tool-0.1.15.tar.gz",
+  "download_time": "2025-11-28T03:32:24.071553",
   "package_url": "https://pypi.org/project/dagent-tool/"
 }
