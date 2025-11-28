@@ -1,11 +1,11 @@
 {
   "name": "faststripe",
-  "version": "2025.11.17.2",
+  "version": "2025.11.17.3",
   "summary": "Fastest way to use the Stripe API in python",
   "author": "ncoop57",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/AnswerDotAI/faststripe",
-  "download_filename": "faststripe-2025.11.17.2.tar.gz",
-  "download_time": "2025-11-28T21:29:01.504118",
+  "download_filename": "faststripe-2025.11.17.3.tar.gz",
+  "download_time": "2025-11-28T22:48:03.298263",
   "package_url": "https://pypi.org/project/faststripe/"
 }

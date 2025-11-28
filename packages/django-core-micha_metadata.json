@@ -1,11 +1,11 @@
 {
   "name": "django-core-micha",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Core utilities and settings for Django Apps",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_core_micha-1.1.0.tar.gz",
-  "download_time": "2025-11-28T22:23:07.396756",
+  "download_filename": "django_core_micha-1.1.1.tar.gz",
+  "download_time": "2025-11-28T22:47:51.563730",
   "package_url": "https://pypi.org/project/django-core-micha/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "privatera",
-  "version": "0.1.9",
+  "version": "0.1.11",
   "summary": "Accelerate your drug discovery R&D in private (VPC, on-prem, on-lap) with a RAG. Everything is free and open source to give you a state-of-the-art RAG without the rugpull.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "privatera-0.1.9.tar.gz",
-  "download_time": "2025-11-28T17:09:34.725151",
+  "download_filename": "privatera-0.1.11.tar.gz",
+  "download_time": "2025-11-28T22:48:02.263810",
   "package_url": "https://pypi.org/project/privatera/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pandera-unified-validator",
+  "version": "0.1.0",
+  "summary": "Advanced data validation library unifying Pydantic and Pandera with multi-backend support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pandera_unified_validator-0.1.0.tar.gz",
+  "download_time": "2025-11-28T22:47:59.567798",
+  "package_url": "https://pypi.org/project/pandera-unified-validator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cocotbext-jtag",
+  "version": "0.3.1",
+  "summary": "jtag modules for cocotb",
+  "author": "Dave Keeshan",
+  "license": "MIT",
+  "home_page": "https://github.com/daxzio/cocotbext-jtag",
+  "download_filename": "cocotbext_jtag-0.3.1.tar.gz",
+  "download_time": "2025-11-28T22:47:56.326893",
+  "package_url": "https://pypi.org/project/cocotbext-jtag/"
+}
