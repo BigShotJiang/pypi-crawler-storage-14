@@ -1,0 +1,11 @@
+{
+  "name": "teracrafts-huefy-sdk-python",
+  "version": "2.1.4",
+  "summary": "Official Python SDK for Huefy - App Mail Templates with dynamic email sending",
+  "author": "Huefy Team",
+  "license": "MIT",
+  "home_page": "https://github.com/teracrafts/huefy-sdk-py",
+  "download_filename": "teracrafts_huefy_sdk_python-2.1.4.tar.gz",
+  "download_time": "2025-11-28T07:41:41.210918",
+  "package_url": "https://pypi.org/project/teracrafts-huefy-sdk-python/"
+}

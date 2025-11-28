@@ -1,0 +1,11 @@
+{
+  "name": "tess-localize",
+  "version": "0.7.6",
+  "summary": "Package for localizing variable stars in TESS Photometry",
+  "author": "Michael Higgins",
+  "license": "GNU General Public License v3.0",
+  "home_page": "https://github.com/Higgins00/TESS-Localize",
+  "download_filename": "tess_localize-0.7.6.tar.gz",
+  "download_time": "2025-11-28T07:41:46.976779",
+  "package_url": "https://pypi.org/project/tess-localize/"
+}
