@@ -1,0 +1,11 @@
+{
+  "name": "sphinxcontrib-spelling",
+  "version": "8.0.2",
+  "summary": "Sphinx spelling extension",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinxcontrib_spelling-8.0.2.tar.gz",
+  "download_time": "2025-11-28T15:32:29.167797",
+  "package_url": "https://pypi.org/project/sphinxcontrib-spelling/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ob-dj-store",
-  "version": "0.0.22.8",
+  "version": "0.0.22.9",
   "summary": "OBytes django application for managing ecommerce stores.",
   "author": "OBytes",
   "license": "BSD-3-Clause",
   "home_page": "https://www.obytes.com/",
-  "download_filename": "ob_dj_store-0.0.22.8.tar.gz",
-  "download_time": "2025-11-25T15:33:42.124529",
+  "download_filename": "ob_dj_store-0.0.22.9.tar.gz",
+  "download_time": "2025-11-28T15:32:54.528871",
   "package_url": "https://pypi.org/project/ob-dj-store/"
 }

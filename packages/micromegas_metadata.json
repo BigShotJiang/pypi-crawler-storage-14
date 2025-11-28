@@ -1,0 +1,11 @@
+{
+  "name": "micromegas",
+  "version": "0.16.1",
+  "summary": "Python analytics client for https://github.com/madesroches/micromegas/",
+  "author": "Marc-Antoine Desroches",
+  "license": null,
+  "home_page": null,
+  "download_filename": "micromegas-0.16.1.tar.gz",
+  "download_time": "2025-11-28T15:32:43.183577",
+  "package_url": "https://pypi.org/project/micromegas/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "frequenz-client-reporting",
+  "version": "0.20.0",
+  "summary": "Reporting API client for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "frequenz_client_reporting-0.20.0.tar.gz",
+  "download_time": "2025-11-28T15:33:14.130504",
+  "package_url": "https://pypi.org/project/frequenz-client-reporting/"
+}

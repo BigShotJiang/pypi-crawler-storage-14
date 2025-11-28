@@ -1,0 +1,11 @@
+{
+  "name": "xdsl",
+  "version": "0.55.3",
+  "summary": "xDSL",
+  "author": null,
+  "license": "Apache License v2.0 with LLVM Exceptions",
+  "home_page": null,
+  "download_filename": "xdsl-0.55.3.tar.gz",
+  "download_time": "2025-11-28T15:33:05.388353",
+  "package_url": "https://pypi.org/project/xdsl/"
+}

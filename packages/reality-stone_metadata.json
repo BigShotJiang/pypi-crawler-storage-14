@@ -1,0 +1,11 @@
+{
+  "name": "reality-stone",
+  "version": "0.2.0",
+  "summary": "High-performance hyperbolic neural networks library powered by Rust",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/jigglypop/reality_stone",
+  "download_filename": "reality_stone-0.2.0.tar.gz",
+  "download_time": "2025-11-28T15:32:50.919148",
+  "package_url": "https://pypi.org/project/reality-stone/"
+}

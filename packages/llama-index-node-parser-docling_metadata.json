@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-node-parser-docling",
+  "version": "0.4.2",
+  "summary": "llama-index node_parser docling integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_node_parser_docling-0.4.2.tar.gz",
+  "download_time": "2025-11-28T15:32:47.309689",
+  "package_url": "https://pypi.org/project/llama-index-node-parser-docling/"
+}

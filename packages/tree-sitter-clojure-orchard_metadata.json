@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-clojure-orchard",
+  "version": "0.2.5",
+  "summary": "Parser for Clojure files",
+  "author": "a",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tree_sitter_clojure_orchard-0.2.5.tar.gz",
+  "download_time": "2025-11-28T15:32:45.258227",
+  "package_url": "https://pypi.org/project/tree-sitter-clojure-orchard/"
+}

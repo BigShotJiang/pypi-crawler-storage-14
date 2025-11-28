@@ -1,0 +1,11 @@
+{
+  "name": "slack-clacks",
+  "version": "0.3.0",
+  "summary": "Control Slack from your command line",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "slack_clacks-0.3.0.tar.gz",
+  "download_time": "2025-11-28T15:32:44.228540",
+  "package_url": "https://pypi.org/project/slack-clacks/"
+}

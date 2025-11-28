@@ -1,11 +1,11 @@
 {
   "name": "allure-robotframework",
-  "version": "2.15.1",
+  "version": "2.15.2",
   "summary": "Allure Robot Framework integration",
   "author": "Sergey Khomutinin",
   "license": "Apache-2.0",
   "home_page": "https://allurereport.org/",
-  "download_filename": "allure_robotframework-2.15.1.tar.gz",
-  "download_time": "2025-11-28T13:41:13.906166",
+  "download_filename": "allure_robotframework-2.15.2.tar.gz",
+  "download_time": "2025-11-28T15:32:56.599188",
   "package_url": "https://pypi.org/project/allure-robotframework/"
 }

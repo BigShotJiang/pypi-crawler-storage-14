@@ -1,11 +1,11 @@
 {
   "name": "elevator-traffic-analysis",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "A Python package for elevator traffic analysis and simulation",
   "author": "tkosman",
   "license": "MIT",
   "home_page": "https://github.com/tkosman/elevator-traffic-analysis",
-  "download_filename": "elevator_traffic_analysis-0.1.2.tar.gz",
-  "download_time": "2025-11-28T15:10:59.751305",
+  "download_filename": "elevator_traffic_analysis-0.1.4.tar.gz",
+  "download_time": "2025-11-28T15:32:29.687693",
   "package_url": "https://pypi.org/project/elevator-traffic-analysis/"
 }
