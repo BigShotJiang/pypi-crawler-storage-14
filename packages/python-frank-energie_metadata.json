@@ -1,0 +1,11 @@
+{
+  "name": "python-frank-energie",
+  "version": "2025.11.29",
+  "summary": "Asynchronous Python client for the Frank Energie",
+  "author": "HiDiHo01",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/HiDiHo01/python-frank-energie",
+  "download_filename": "python_frank_energie-2025.11.29.tar.gz",
+  "download_time": "2025-11-28T23:47:51.711393",
+  "package_url": "https://pypi.org/project/python-frank-energie/"
+}

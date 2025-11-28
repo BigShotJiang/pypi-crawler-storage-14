@@ -1,11 +1,11 @@
 {
   "name": "heart-centered-prompts",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Heart-centered system prompts for AI assistants",
   "author": "TechnickAI",
   "license": null,
   "home_page": "https://github.com/technickai/heart-centered-prompts",
-  "download_filename": "heart_centered_prompts-0.4.0.tar.gz",
-  "download_time": "2025-11-27T19:12:00.603189",
+  "download_filename": "heart_centered_prompts-0.5.0.tar.gz",
+  "download_time": "2025-11-28T23:47:53.805624",
   "package_url": "https://pypi.org/project/heart-centered-prompts/"
 }
