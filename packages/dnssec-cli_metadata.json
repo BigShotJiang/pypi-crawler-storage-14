@@ -1,0 +1,11 @@
+{
+  "name": "dnssec-cli",
+  "version": "1.0.0",
+  "summary": "A professional CLI toolkit for DNSSEC scanning and DNS forensic analysis.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/tuusuario/dnssec-toolkit",
+  "download_filename": "dnssec_cli-1.0.0.tar.gz",
+  "download_time": "2025-11-28T23:10:20.112446",
+  "package_url": "https://pypi.org/project/dnssec-cli/"
+}

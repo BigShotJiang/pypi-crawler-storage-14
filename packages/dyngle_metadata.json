@@ -1,11 +1,11 @@
 {
   "name": "dyngle",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "summary": "Run lightweight local workflows",
   "author": "Steampunk Wizard",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dyngle-2.1.0.tar.gz",
-  "download_time": "2025-11-28T20:33:43.916729",
+  "download_filename": "dyngle-2.2.0.tar.gz",
+  "download_time": "2025-11-28T23:10:28.155474",
   "package_url": "https://pypi.org/project/dyngle/"
 }
