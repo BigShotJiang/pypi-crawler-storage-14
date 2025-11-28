@@ -1,11 +1,11 @@
 {
   "name": "superposition-bindings",
-  "version": "0.95.0",
+  "version": "0.95.1",
   "summary": "Python bindings for Superposition",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "superposition_bindings-0.95.0-py3-none-any.whl",
-  "download_time": "2025-11-27T08:15:28.711104",
+  "download_filename": "superposition_bindings-0.95.1-py3-none-any.whl",
+  "download_time": "2025-11-28T14:50:22.704734",
   "package_url": "https://pypi.org/project/superposition-bindings/"
 }

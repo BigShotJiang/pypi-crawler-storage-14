@@ -1,17 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-28T14:34:36.720210
-- **Total Packages**: 86
-- **Total Size**: 29.18 MB
+- **Download Time**: 2025-11-28T14:51:08.251381
+- **Total Packages**: 87
+- **Total Size**: 25.72 MB
 
 ## Packages List
+- rayforce-py
+- knoxnl
+- softiqtech-sofi-agent
+- vasudev-cli
+- experimaestro
+- mgraph-ai-service-cache-client
+- pylongslit
+- charmed-kubeflow-chisme
+- spsdk
+- superposition-sdk
+- superposition-provider
+- superposition-bindings
+- streamerate
+- mcp-database-manager
+- mortm
+- spsdk-pyocd
+- spsdk-lauterbach
+- fractal-server
+- sqlbench
+- flashorm
 - nonebot-plugin-pErithacus
+- elastic-blast
+- k7sfunc
+- files-com
+- xxtea
+- game-ai-client
+- pysills
+- c50py
+- ame-json
+- synmax-api-python-client
+- basketball-reference-webscrapper
+- typst-pagemaker
 - slip39
 - envresolve
 - fm-prime
-- zk-test20251125-mcp-server
-- c50py
 - matrixpythonclient
 - qt-main
 - ccd2md
@@ -45,12 +74,10 @@
 - kodexa
 - metal-stack-api
 - Geode-Background
-- softiqtech-sofi-agent
 - django-lifecycle-hooks
 - django-cs-archive
 - wavespeed
 - nxp-codecheck
-- fractal-server
 - lalamo
 - covertreex
 - python-dcm230
@@ -66,29 +93,3 @@
 - kailash-dataflow
 - lsmtool
 - deepsights-api
-- Geode-Common
-- dsf-mobility
-- barc4sr
-- half-orm-dev
-- pyFMST
-- mysqltuner-mcp
-- apolo-kube-client
-- private-attribute
-- lovlig
-- SnakeScan
-- spakky-fastapi
-- spakky-security
-- spakky-typer
-- spakky-kafka
-- spakky
-- aalto-boss
-- nexus_api_client
-- llm-sandbox
-- unique_internal_search
-- nicerpdb
-- dagster-uc
-- lht
-- amp-rsl-rl
-- ltcpy
-- zeconfig
-- ph-shorts

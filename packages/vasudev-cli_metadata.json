@@ -1,11 +1,11 @@
 {
   "name": "vasudev-cli",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Your personal AI assistant in the terminal",
   "author": "Vasudev AI",
   "license": null,
   "home_page": "https://github.com/yourusername/vasudev-cli",
-  "download_filename": "vasudev_cli-1.0.0.tar.gz",
-  "download_time": "2025-11-28T10:57:49.103094",
+  "download_filename": "vasudev_cli-1.0.2.tar.gz",
+  "download_time": "2025-11-28T14:50:17.830776",
   "package_url": "https://pypi.org/project/vasudev-cli/"
 }

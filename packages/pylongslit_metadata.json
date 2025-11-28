@@ -1,0 +1,11 @@
+{
+  "name": "pylongslit",
+  "version": "1.1.1",
+  "summary": "PyLongslit is a simple manual Python pipeline for processing astronomical long-slit spectra recorded with CCD detectors.",
+  "author": "Kostas Valeckas",
+  "license": "MIT",
+  "home_page": "https://kostasvaleckas.github.io/PyLongslit/",
+  "download_filename": "pylongslit-1.1.1-py3-none-any.whl",
+  "download_time": "2025-11-28T14:50:19.786098",
+  "package_url": "https://pypi.org/project/pylongslit/"
+}

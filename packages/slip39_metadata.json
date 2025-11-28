@@ -1,11 +1,11 @@
 {
   "name": "slip39",
-  "version": "14.0.1",
+  "version": "14.0.2",
   "summary": "Standards-compliant SLIP-39 cryptocurrency seed generation and recovery, compatible with Trezor hardware wallets",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "slip39-14.0.1.tar.gz",
-  "download_time": "2025-11-28T14:33:48.155320",
+  "download_filename": "slip39-14.0.2.tar.gz",
+  "download_time": "2025-11-28T14:50:34.919011",
   "package_url": "https://pypi.org/project/slip39/"
 }
