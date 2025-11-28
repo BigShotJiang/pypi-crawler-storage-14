@@ -1,0 +1,11 @@
+{
+  "name": "atsphinx-footnotes",
+  "version": "0.3.2",
+  "summary": "Powered footnotes extension for Sphinx.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "atsphinx_footnotes-0.3.2.tar.gz",
+  "download_time": "2025-11-28T17:33:30.068796",
+  "package_url": "https://pypi.org/project/atsphinx-footnotes/"
+}

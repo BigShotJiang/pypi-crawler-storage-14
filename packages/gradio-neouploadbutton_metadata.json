@@ -1,0 +1,11 @@
+{
+  "name": "gradio-neouploadbutton",
+  "version": "0.0.10",
+  "summary": "A custom upload button for Gradio that allows users to upload with a loading message",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gradio_neouploadbutton-0.0.10.tar.gz",
+  "download_time": "2025-11-28T17:33:35.682676",
+  "package_url": "https://pypi.org/project/gradio-neouploadbutton/"
+}

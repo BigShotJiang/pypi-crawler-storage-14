@@ -1,11 +1,11 @@
 {
   "name": "base-api-utils",
-  "version": "1.1.49",
+  "version": "1.1.50",
   "summary": "Django Rest Framework micro services common utilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "base_api_utils-1.1.49.tar.gz",
-  "download_time": "2025-11-27T18:54:13.742229",
+  "download_filename": "base_api_utils-1.1.50.tar.gz",
+  "download_time": "2025-11-28T17:33:53.417408",
   "package_url": "https://pypi.org/project/base-api-utils/"
 }

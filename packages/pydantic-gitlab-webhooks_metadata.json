@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-gitlab-webhooks",
+  "version": "0.3.49",
+  "summary": "Pydantic models for GitLab webhook payloads",
+  "author": "Rich Wareham",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pydantic_gitlab_webhooks-0.3.49.tar.gz",
+  "download_time": "2025-11-28T17:33:16.417489",
+  "package_url": "https://pypi.org/project/pydantic-gitlab-webhooks/"
+}

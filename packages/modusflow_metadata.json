@@ -1,0 +1,11 @@
+{
+  "name": "modusflow",
+  "version": "1.0.0",
+  "summary": "A self-hostable, zero-cost, local-first automation platform for creating and running visual workflows",
+  "author": "ModusFlow",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/modusflow",
+  "download_filename": "modusflow-1.0.0.tar.gz",
+  "download_time": "2025-11-28T17:33:21.349847",
+  "package_url": "https://pypi.org/project/modusflow/"
+}

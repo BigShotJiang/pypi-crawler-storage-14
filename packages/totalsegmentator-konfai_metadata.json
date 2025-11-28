@@ -1,0 +1,11 @@
+{
+  "name": "totalsegmentator-konfai",
+  "version": "1.0.3",
+  "summary": "TotalSegmentator running on the KonfAI framework for fast inference.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "totalsegmentator_konfai-1.0.3.tar.gz",
+  "download_time": "2025-11-28T17:33:26.978881",
+  "package_url": "https://pypi.org/project/totalsegmentator-konfai/"
+}

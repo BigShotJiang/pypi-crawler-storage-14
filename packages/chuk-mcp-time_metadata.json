@@ -1,0 +1,11 @@
+{
+  "name": "chuk-mcp-time",
+  "version": "1.0.2",
+  "summary": "High-accuracy time oracle MCP server using NTP consensus and multiple time sources",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chuk_mcp_time-1.0.2.tar.gz",
+  "download_time": "2025-11-28T17:33:19.045753",
+  "package_url": "https://pypi.org/project/chuk-mcp-time/"
+}

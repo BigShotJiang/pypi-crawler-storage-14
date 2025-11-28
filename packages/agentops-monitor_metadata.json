@@ -1,11 +1,11 @@
 {
   "name": "agentops-monitor",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Monitoring SDK for AI agents built with Google ADK",
   "author": "AgentOps Monitor Team",
   "license": "MIT",
   "home_page": "https://github.com/sayandas24/agentops-monitor",
-  "download_filename": "agentops_monitor-0.1.1.tar.gz",
-  "download_time": "2025-11-26T18:13:07.159482",
+  "download_filename": "agentops_monitor-0.1.2.tar.gz",
+  "download_time": "2025-11-28T17:33:24.936814",
   "package_url": "https://pypi.org/project/agentops-monitor/"
 }
