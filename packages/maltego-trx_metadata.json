@@ -1,0 +1,11 @@
+{
+  "name": "maltego-trx",
+  "version": "1.7.0",
+  "summary": "Python library used to develop Maltego transforms",
+  "author": "Maltego Staff",
+  "license": "MIT",
+  "home_page": "https://github.com/paterva/maltego-trx/",
+  "download_filename": "maltego_trx-1.7.0.tar.gz",
+  "download_time": "2025-11-28T10:18:02.981264",
+  "package_url": "https://pypi.org/project/maltego-trx/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pulsar-app",
+  "version": "0.15.12",
+  "summary": "Distributed job execution application built for Galaxy (http://galaxyproject.org/).",
+  "author": "Galaxy Project",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/galaxyproject/pulsar",
+  "download_filename": "pulsar_app-0.15.12.tar.gz",
+  "download_time": "2025-11-28T10:18:12.440889",
+  "package_url": "https://pypi.org/project/pulsar-app/"
+}

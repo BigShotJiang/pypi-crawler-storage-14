@@ -1,0 +1,11 @@
+{
+  "name": "alnp",
+  "version": "1.2.2",
+  "summary": "Python helpers for the Authenticated Lighting Network Protocol.",
+  "author": "ALNP Maintainers",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "alnp-1.2.2.tar.gz",
+  "download_time": "2025-11-28T10:18:25.782268",
+  "package_url": "https://pypi.org/project/alnp/"
+}

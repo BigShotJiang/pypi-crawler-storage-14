@@ -1,11 +1,11 @@
 {
   "name": "clumpygui",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A collection of clumpy web apps",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clumpygui-0.1.1.tar.gz",
-  "download_time": "2025-11-27T16:53:52.274682",
+  "download_filename": "clumpygui-0.1.2.tar.gz",
+  "download_time": "2025-11-28T10:18:13.658775",
   "package_url": "https://pypi.org/project/clumpygui/"
 }
