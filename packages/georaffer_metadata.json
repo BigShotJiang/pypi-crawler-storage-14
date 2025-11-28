@@ -1,0 +1,11 @@
+{
+  "name": "georaffer",
+  "version": "0.1.0",
+  "summary": "Download and process geospatial tiles (JP2, LAZ) from German state geodata providers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "georaffer-0.1.0.tar.gz",
+  "download_time": "2025-11-28T20:11:39.229141",
+  "package_url": "https://pypi.org/project/georaffer/"
+}

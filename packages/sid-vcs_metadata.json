@@ -1,0 +1,11 @@
+{
+  "name": "sid-vcs",
+  "version": "0.1.0",
+  "summary": "A minimal Git-like version control system",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sid_vcs-0.1.0.tar.gz",
+  "download_time": "2025-11-28T20:11:20.748334",
+  "package_url": "https://pypi.org/project/sid-vcs/"
+}

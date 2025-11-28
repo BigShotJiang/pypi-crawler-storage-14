@@ -1,0 +1,11 @@
+{
+  "name": "riptide-plugin-php-xdebug",
+  "version": "0.10.0",
+  "summary": "Tool to manage development environments for web applications using containers - PHP Xdebug integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "riptide_plugin_php_xdebug-0.10.0-py3-none-any.whl",
+  "download_time": "2025-11-28T20:11:46.689829",
+  "package_url": "https://pypi.org/project/riptide-plugin-php-xdebug/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-flaui",
+  "version": "4.0.4",
+  "summary": "Windows GUI testing library for Robot Framework",
+  "author": "G DATA CyberDefense AG",
+  "license": "MIT",
+  "home_page": "https://github.com/GDATASoftwareAG/robotframework-flaui",
+  "download_filename": "robotframework_flaui-4.0.4.tar.gz",
+  "download_time": "2025-11-28T20:11:50.997428",
+  "package_url": "https://pypi.org/project/robotframework-flaui/"
+}
