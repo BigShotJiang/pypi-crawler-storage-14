@@ -1,11 +1,11 @@
 {
   "name": "steer-sdk",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "The Active Reliability Layer for AI Agents",
   "author": "Steer Dev",
   "license": null,
   "home_page": "https://github.com/imtt-dev/steer",
-  "download_filename": "steer_sdk-0.1.6.tar.gz",
-  "download_time": "2025-11-27T22:32:27.132930",
+  "download_filename": "steer_sdk-0.1.7.tar.gz",
+  "download_time": "2025-11-28T17:47:59.520072",
   "package_url": "https://pypi.org/project/steer-sdk/"
 }

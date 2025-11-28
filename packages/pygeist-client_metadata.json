@@ -1,11 +1,11 @@
 {
   "name": "pygeist-client",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Pygeist client package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pygeist_client-0.0.5-py3-none-any.whl",
-  "download_time": "2025-11-28T16:52:56.143896",
+  "download_filename": "pygeist_client-0.0.6-py3-none-any.whl",
+  "download_time": "2025-11-28T17:47:51.201806",
   "package_url": "https://pypi.org/project/pygeist-client/"
 }

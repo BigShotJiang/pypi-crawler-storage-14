@@ -1,0 +1,11 @@
+{
+  "name": "pywal16",
+  "version": "3.8.12",
+  "summary": "Generate and change color-schemes on the fly",
+  "author": "Dylan Araps",
+  "license": "MIT",
+  "home_page": "https://github.com/eylles/pywal16",
+  "download_filename": "pywal16-3.8.12.tar.gz",
+  "download_time": "2025-11-28T17:47:57.974367",
+  "package_url": "https://pypi.org/project/pywal16/"
+}

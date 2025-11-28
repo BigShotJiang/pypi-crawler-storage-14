@@ -1,0 +1,11 @@
+{
+  "name": "nbsphinx",
+  "version": "0.9.8",
+  "summary": "Jupyter Notebook Tools for Sphinx",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nbsphinx-0.9.8.tar.gz",
+  "download_time": "2025-11-28T17:47:57.454373",
+  "package_url": "https://pypi.org/project/nbsphinx/"
+}

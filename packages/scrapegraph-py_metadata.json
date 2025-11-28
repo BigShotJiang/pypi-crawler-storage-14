@@ -1,0 +1,11 @@
+{
+  "name": "scrapegraph-py",
+  "version": "1.44.0",
+  "summary": "ScrapeGraph Python SDK for API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scrapegraph_py-1.44.0.tar.gz",
+  "download_time": "2025-11-28T17:48:12.486627",
+  "package_url": "https://pypi.org/project/scrapegraph-py/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tgreports",
+  "version": "0.17",
+  "summary": "Reports and logs on Telegram",
+  "author": "Alex Poloz",
+  "license": "MIT",
+  "home_page": "https://github.com/chilleco/tgreports",
+  "download_filename": "tgreports-0.17.tar.gz",
+  "download_time": "2025-11-28T17:48:01.068775",
+  "package_url": "https://pypi.org/project/tgreports/"
+}

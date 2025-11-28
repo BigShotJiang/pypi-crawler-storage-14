@@ -1,0 +1,11 @@
+{
+  "name": "nlptermux",
+  "version": "0.1.0",
+  "summary": "A lightweight Natural Language Processing library optimized for Termux and mobile development",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nlptermux-0.1.0.tar.gz",
+  "download_time": "2025-11-28T17:47:49.113718",
+  "package_url": "https://pypi.org/project/nlptermux/"
+}

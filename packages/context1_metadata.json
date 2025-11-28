@@ -1,0 +1,11 @@
+{
+  "name": "context1",
+  "version": "0.2.0",
+  "summary": "在您的代码库和 LLM 之间架设桥梁的强大 CLI 工具",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "context1-0.2.0.tar.gz",
+  "download_time": "2025-11-28T17:48:02.606807",
+  "package_url": "https://pypi.org/project/context1/"
+}

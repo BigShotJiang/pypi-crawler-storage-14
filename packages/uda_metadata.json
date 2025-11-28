@@ -1,0 +1,11 @@
+{
+  "name": "uda",
+  "version": "2.9.2",
+  "summary": "Universal Data Access (UDA)",
+  "author": null,
+  "license": "Apache-2.0 license",
+  "home_page": null,
+  "download_filename": "uda-2.9.2.tar.gz",
+  "download_time": "2025-11-28T17:48:00.549425",
+  "package_url": "https://pypi.org/project/uda/"
+}

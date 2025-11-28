@@ -1,0 +1,11 @@
+{
+  "name": "wistx-mcp",
+  "version": "1.0.35",
+  "summary": "WISTX MCP Server - DevOps compliance and pricing context for coding agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wistx_mcp-1.0.35.tar.gz",
+  "download_time": "2025-11-28T17:47:55.894114",
+  "package_url": "https://pypi.org/project/wistx-mcp/"
+}
