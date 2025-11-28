@@ -1,0 +1,11 @@
+{
+  "name": "autoeq-py313",
+  "version": "1.4.3",
+  "summary": "Automatic headphone equalizer config generator - Python 3.13/3.14 optimized with free-threaded support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autoeq_py313-1.4.3.tar.gz",
+  "download_time": "2025-11-28T10:57:21.823271",
+  "package_url": "https://pypi.org/project/autoeq-py313/"
+}

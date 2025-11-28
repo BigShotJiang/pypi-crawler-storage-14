@@ -1,0 +1,11 @@
+{
+  "name": "smart-babylon-library",
+  "version": "1.0.0",
+  "summary": "Smart Babylon Library. A deterministic infinite library generator. Generate unique, deterministic books and pages based on coordinate systems without storing any data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smart_babylon_library-1.0.0.tar.gz",
+  "download_time": "2025-11-28T10:57:32.130567",
+  "package_url": "https://pypi.org/project/smart-babylon-library/"
+}

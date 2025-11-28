@@ -1,0 +1,11 @@
+{
+  "name": "chorus-api",
+  "version": "1.0.6",
+  "summary": "Chorus API Package https://piste.gouv.fr",
+  "author": "Joel ONIPOH",
+  "license": null,
+  "home_page": "https://github.com/cnfilms/chorus-api",
+  "download_filename": "chorus_api-1.0.6.tar.gz",
+  "download_time": "2025-11-28T10:57:44.625294",
+  "package_url": "https://pypi.org/project/chorus-api/"
+}

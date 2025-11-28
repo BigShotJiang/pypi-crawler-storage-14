@@ -1,11 +1,11 @@
 {
   "name": "wind-farm-loads",
-  "version": "0.20.0",
+  "version": "0.20.1",
   "summary": "Couple load surrogate models with PyWake and Floris.",
   "author": "DTU Wind and Energy Systems",
   "license": "Proprietary",
   "home_page": "https://gitlab.windenergy.dtu.dk/surrogate-models/wind-farm-loads",
-  "download_filename": "wind_farm_loads-0.20.0.tar.gz",
-  "download_time": "2025-11-28T09:15:07.139484",
+  "download_filename": "wind_farm_loads-0.20.1.tar.gz",
+  "download_time": "2025-11-28T10:57:23.553339",
   "package_url": "https://pypi.org/project/wind-farm-loads/"
 }

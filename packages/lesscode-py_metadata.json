@@ -1,11 +1,11 @@
 {
   "name": "lesscode-py",
-  "version": "0.4.22",
+  "version": "0.4.23",
   "summary": "lesscode-python 是基于tornado的web开发脚手架项目，该项目初衷为简化开发过程，让研发人员更加关注业务。",
   "author": "Chao.yy",
   "license": null,
   "home_page": "https://gitee.com/yongchao9/lesscode-python",
-  "download_filename": "lesscode_py-0.4.22-py3-none-any.whl",
-  "download_time": "2025-11-28T09:49:19.431151",
+  "download_filename": "lesscode_py-0.4.23.tar.gz",
+  "download_time": "2025-11-28T10:57:20.683564",
   "package_url": "https://pypi.org/project/lesscode-py/"
 }
