@@ -1,11 +1,11 @@
 {
   "name": "lite-recall",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "ReCALL Lite — A lightweight, AGI-inspired memory layer for LLMs.",
   "author": "Project Genesis",
   "license": null,
   "home_page": "https://github.com/projectGenesisEngine/ReCALL_Lite",
-  "download_filename": "lite_recall-0.1.0.tar.gz",
-  "download_time": "2025-11-28T14:11:50.570618",
+  "download_filename": "lite_recall-0.1.1.tar.gz",
+  "download_time": "2025-11-28T14:34:18.200908",
   "package_url": "https://pypi.org/project/lite-recall/"
 }

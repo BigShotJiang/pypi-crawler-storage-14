@@ -1,0 +1,11 @@
+{
+  "name": "m3-cli",
+  "version": "4.154.10",
+  "summary": "The Maestro3 Command Line Interface (CLI) is a unified tool to manage your Maestro services and resources",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "m3_cli-4.154.10.tar.gz",
+  "download_time": "2025-11-28T14:34:19.796880",
+  "package_url": "https://pypi.org/project/m3-cli/"
+}
