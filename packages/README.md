@@ -1,11 +1,16 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-28T06:49:13.158410
+- **Download Time**: 2025-11-28T07:12:50.816929
 - **Total Packages**: 82
-- **Total Size**: 16.2 MB
+- **Total Size**: 1.13 MB
 
 ## Packages List
+- typ2docx
+- scmiracle
+- src-trading
+- lsp-types
+- iflow-mcp_mcp-hydra
 - good-agent
 - example-package-feitian
 - dyngle
@@ -20,7 +25,6 @@
 - kuaijs-ios
 - dynamodelx
 - persona-agent
-- light-splade
 - iflow-mcp_claude-code-gemini-mcp
 - PyNinja
 - jre-mirror
@@ -84,7 +88,3 @@
 - snowflake-tool
 - gou2tool
 - pulumi-command
-- aliyun-python-sdk-polardb
-- flotorch
-- gllm-core-binary
-- tea-bond

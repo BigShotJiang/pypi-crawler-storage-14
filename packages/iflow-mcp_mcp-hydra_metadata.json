@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp-hydra",
+  "version": "0.1.0",
+  "summary": "A lightweight, extensible cybersecurity toolkit that connects AI assistants to security tools through the Model Context Protocol (MCP), enabling AI-assisted security research, scanning, and analysis.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_hydra-0.1.0.tar.gz",
+  "download_time": "2025-11-28T07:12:09.274099",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp-hydra/"
+}

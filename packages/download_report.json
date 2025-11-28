@@ -1,8 +1,13 @@
 {
-  "download_time": "2025-11-28T06:49:13.158410",
+  "download_time": "2025-11-28T07:12:50.816929",
   "total_packages_downloaded": 82,
-  "total_size_mb": 16.2,
+  "total_size_mb": 1.13,
   "packages": [
+    "typ2docx",
+    "scmiracle",
+    "src-trading",
+    "lsp-types",
+    "iflow-mcp_mcp-hydra",
     "good-agent",
     "example-package-feitian",
     "dyngle",
@@ -17,7 +22,6 @@
     "kuaijs-ios",
     "dynamodelx",
     "persona-agent",
-    "light-splade",
     "iflow-mcp_claude-code-gemini-mcp",
     "PyNinja",
     "jre-mirror",
@@ -80,10 +84,6 @@
     "cognite-toolkit",
     "snowflake-tool",
     "gou2tool",
-    "pulumi-command",
-    "aliyun-python-sdk-polardb",
-    "flotorch",
-    "gllm-core-binary",
-    "tea-bond"
+    "pulumi-command"
   ]
 }
