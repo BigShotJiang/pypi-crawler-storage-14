@@ -1,0 +1,11 @@
+{
+  "name": "sigwin-infra",
+  "version": "1.22.0",
+  "summary": "Sigwin's default per-project infra",
+  "author": "Dalibor Karlović",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sigwin_infra-1.22.0.tar.gz",
+  "download_time": "2025-11-28T09:34:38.101554",
+  "package_url": "https://pypi.org/project/sigwin-infra/"
+}

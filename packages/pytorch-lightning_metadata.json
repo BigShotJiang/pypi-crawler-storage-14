@@ -1,0 +1,11 @@
+{
+  "name": "pytorch-lightning",
+  "version": "2.6.0",
+  "summary": "PyTorch Lightning is the lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate.",
+  "author": "Lightning AI et al.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Lightning-AI/lightning",
+  "download_filename": "pytorch_lightning-2.6.0.tar.gz",
+  "download_time": "2025-11-28T09:34:27.697502",
+  "package_url": "https://pypi.org/project/pytorch-lightning/"
+}

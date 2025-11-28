@@ -1,0 +1,11 @@
+{
+  "name": "zonolayer",
+  "version": "0.5.0",
+  "summary": "Last-layer uncertainty modeling via zonotopic representations.",
+  "author": "Matthew McCann, Marco De Angelis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zonolayer-0.5.0.tar.gz",
+  "download_time": "2025-11-28T09:34:47.839352",
+  "package_url": "https://pypi.org/project/zonolayer/"
+}

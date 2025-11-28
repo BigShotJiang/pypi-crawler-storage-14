@@ -1,0 +1,11 @@
+{
+  "name": "ebrains-drive",
+  "version": "0.6.2",
+  "summary": "Python client interface for EBRAINS Collaboratory Drive and Bucket storage",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ebrains_drive-0.6.2.tar.gz",
+  "download_time": "2025-11-28T09:34:42.206733",
+  "package_url": "https://pypi.org/project/ebrains-drive/"
+}

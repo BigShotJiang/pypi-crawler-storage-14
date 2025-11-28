@@ -1,0 +1,11 @@
+{
+  "name": "solarvox-bot-helper",
+  "version": "0.1.1",
+  "summary": "SolarVox Bot Helper (Python) — utilities for building Discord bots with discord.py (command loader, event loader, cooldowns, embeds, paginator, json DB).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "solarvox_bot_helper-0.1.1.tar.gz",
+  "download_time": "2025-11-28T09:34:43.229715",
+  "package_url": "https://pypi.org/project/solarvox-bot-helper/"
+}

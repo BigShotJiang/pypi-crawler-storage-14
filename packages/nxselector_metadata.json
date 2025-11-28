@@ -1,0 +1,11 @@
+{
+  "name": "nxselector",
+  "version": "3.22.4",
+  "summary": "GUI for Setting Nexus Sardana Recorder",
+  "author": "Jan Kotanski",
+  "license": "GNU GENERAL PUBLIC LICENSE, version 3",
+  "home_page": "https://github.com/nexdatas/nxselector",
+  "download_filename": "nxselector-3.22.4.tar.gz",
+  "download_time": "2025-11-28T09:34:58.766769",
+  "package_url": "https://pypi.org/project/nxselector/"
+}

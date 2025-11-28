@@ -1,11 +1,11 @@
 {
   "name": "fetchcode",
-  "version": "0.7.1",
+  "version": "0.8.0",
   "summary": "fetchcode is a library to reliably fetch code via HTTP, FTP and version control systems.",
   "author": "nexB. Inc. and others",
   "license": "Apache-2.0",
   "home_page": "https://github.com/aboutcode-org/fetchcode",
-  "download_filename": "fetchcode-0.7.1.tar.gz",
-  "download_time": "2025-11-27T10:43:29.329345",
+  "download_filename": "fetchcode-0.8.0.tar.gz",
+  "download_time": "2025-11-28T09:35:01.384350",
   "package_url": "https://pypi.org/project/fetchcode/"
 }

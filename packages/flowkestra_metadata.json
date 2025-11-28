@@ -1,0 +1,11 @@
+{
+  "name": "flowkestra",
+  "version": "0.1.0",
+  "summary": "A streamlined MLflow orchestrator for hybrid LLM training and tuning",
+  "author": "Hasby Fahrudin",
+  "license": null,
+  "home_page": "https://github.com/hfahrudin/flowkestra",
+  "download_filename": "flowkestra-0.1.0.tar.gz",
+  "download_time": "2025-11-28T09:34:32.949347",
+  "package_url": "https://pypi.org/project/flowkestra/"
+}

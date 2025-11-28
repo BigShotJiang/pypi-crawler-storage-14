@@ -1,0 +1,11 @@
+{
+  "name": "ansys-scade-ps",
+  "version": "0.4.3",
+  "summary": "Collection of command-line scripts for SCADE.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ansys_scade_ps-0.4.3.tar.gz",
+  "download_time": "2025-11-28T09:34:52.050219",
+  "package_url": "https://pypi.org/project/ansys-scade-ps/"
+}
