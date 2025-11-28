@@ -1,11 +1,11 @@
 {
   "name": "src-trading",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Una librería simple y modular para realizar backtesting de estrategias de trading en Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "src_trading-0.1.0.tar.gz",
-  "download_time": "2025-11-28T07:12:07.689963",
+  "download_filename": "src_trading-0.1.2.tar.gz",
+  "download_time": "2025-11-28T21:36:35.496675",
   "package_url": "https://pypi.org/project/src-trading/"
 }

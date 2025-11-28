@@ -1,0 +1,11 @@
+{
+  "name": "simulateur-trafic-package",
+  "version": "0.1.1",
+  "summary": "Un simulateur modulaire du trafic routier permettant de modéliser des routes, intersections et véhicules, et de visualiser les résultats de simulation sous forme graphique.",
+  "author": "Amaidi Chaima",
+  "license": null,
+  "home_page": null,
+  "download_filename": "simulateur_trafic_package-0.1.1-py3-none-any.whl",
+  "download_time": "2025-11-28T21:36:40.825028",
+  "package_url": "https://pypi.org/project/simulateur-trafic-package/"
+}

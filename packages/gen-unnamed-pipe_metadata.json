@@ -1,0 +1,11 @@
+{
+  "name": "gen-unnamed-pipe",
+  "version": "1.0.8",
+  "summary": "Generating Unnamed Pipe Modules",
+  "author": "Vladimir Roncevic",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://vroncevic.github.io/gen_unnamed_pipe",
+  "download_filename": "gen_unnamed_pipe-1.0.8.tar.gz",
+  "download_time": "2025-11-28T21:36:39.251180",
+  "package_url": "https://pypi.org/project/gen-unnamed-pipe/"
+}

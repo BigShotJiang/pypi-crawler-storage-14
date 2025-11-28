@@ -1,0 +1,11 @@
+{
+  "name": "pmmc",
+  "version": "0.3.8",
+  "summary": "Python bindings for Mesh-based Monte Carlo (MMC) photon transport simulator",
+  "author": "Qianqian Fang",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/fangq/mmc",
+  "download_filename": "pmmc-0.3.8-cp310-cp310-macosx_13_0_x86_64.whl",
+  "download_time": "2025-11-28T21:36:37.618982",
+  "package_url": "https://pypi.org/project/pmmc/"
+}

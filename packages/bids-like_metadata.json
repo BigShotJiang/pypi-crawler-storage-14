@@ -1,0 +1,11 @@
+{
+  "name": "bids-like",
+  "version": "0.1.0",
+  "summary": "A lightweight Python library for handling BIDS-like datasets. They do not need to strictly follow the BIDS specification, but they should have a similar folder and file structure. All valid BIDS datasets are valid BIDS-like datasets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bids_like-0.1.0.tar.gz",
+  "download_time": "2025-11-28T21:36:33.905921",
+  "package_url": "https://pypi.org/project/bids-like/"
+}
