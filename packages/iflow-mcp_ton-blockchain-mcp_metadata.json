@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_ton-blockchain-mcp",
+  "version": "0.1.0",
+  "summary": "A Model Context Protocol (MCP) server written in Python for natural language interaction with the TON blockchain",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_ton_blockchain_mcp-0.1.0.tar.gz",
+  "download_time": "2025-11-28T06:16:42.145259",
+  "package_url": "https://pypi.org/project/iflow-mcp_ton-blockchain-mcp/"
+}

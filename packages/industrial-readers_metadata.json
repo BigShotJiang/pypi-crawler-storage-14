@@ -1,0 +1,11 @@
+{
+  "name": "industrial-readers",
+  "version": "0.1.0",
+  "summary": "Fast, cross-platform readers for .txt, .xlsx/.xls, .docx/.doc, .pptx/.ppt implemented in Rust via PyO3 and packaged with maturin.",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "industrial_readers-0.1.0-cp38-abi3-win_amd64.whl",
+  "download_time": "2025-11-28T06:16:41.121388",
+  "package_url": "https://pypi.org/project/industrial-readers/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gen-rv64asm",
+  "version": "1.0.6",
+  "summary": "Generating risc-v 64-bit asm project",
+  "author": "Vladimir Roncevic",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://vroncevic.github.io/gen_rv64asm",
+  "download_filename": "gen_rv64asm-1.0.6.tar.gz",
+  "download_time": "2025-11-28T06:16:49.994284",
+  "package_url": "https://pypi.org/project/gen-rv64asm/"
+}

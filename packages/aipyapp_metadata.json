@@ -1,11 +1,11 @@
 {
   "name": "aipyapp",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "AIPyApp: AI-Powered Python & Python-Powered AI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aipyapp-0.3.0.tar.gz",
-  "download_time": "2025-11-25T10:40:08.042449",
+  "download_filename": "aipyapp-0.4.0.tar.gz",
+  "download_time": "2025-11-28T06:16:33.703336",
   "package_url": "https://pypi.org/project/aipyapp/"
 }

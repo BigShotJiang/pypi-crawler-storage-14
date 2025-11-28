@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_llm-sandbox",
+  "version": "0.3.13",
+  "summary": "LLM Sandbox is a lightweight and portable sandbox environment designed to run large language model (LLM) generated code in a safe and isolated mode.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_llm_sandbox-0.3.13.tar.gz",
+  "download_time": "2025-11-28T06:16:48.926566",
+  "package_url": "https://pypi.org/project/iflow-mcp_llm-sandbox/"
+}

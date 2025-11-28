@@ -1,0 +1,11 @@
+{
+  "name": "flac-checker",
+  "version": "2.0.0",
+  "summary": "Detect fake FLAC files (transcoded from lossy formats) by analyzing frequency spectrum",
+  "author": "FakeFLAC Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flac_checker-2.0.0.tar.gz",
+  "download_time": "2025-11-28T06:16:41.633717",
+  "package_url": "https://pypi.org/project/flac-checker/"
+}
