@@ -1,11 +1,11 @@
 {
   "name": "huayi-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Huayi MCP Servers",
   "author": "Chen Zhongrun",
   "license": null,
   "home_page": null,
-  "download_filename": "huayi_mcp-0.1.1.tar.gz",
-  "download_time": "2025-11-28T13:51:56.028435",
+  "download_filename": "huayi_mcp-0.1.2.tar.gz",
+  "download_time": "2025-11-28T15:10:41.505109",
   "package_url": "https://pypi.org/project/huayi-mcp/"
 }

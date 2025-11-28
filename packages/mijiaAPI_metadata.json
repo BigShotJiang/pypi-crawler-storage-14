@@ -1,0 +1,11 @@
+{
+  "name": "mijiaAPI",
+  "version": "3.0.0",
+  "summary": "A Python API for Xiaomi Mijia",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "mijiaapi-3.0.0.tar.gz",
+  "download_time": "2025-11-28T15:10:48.189922",
+  "package_url": "https://pypi.org/project/mijiaAPI/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "persona-agent",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "PersonaAgent: a configurable, persona-based LLM agent wrapper with memory, skills, and adaptive behavior.",
   "author": "littledumb",
   "license": null,
   "home_page": null,
-  "download_filename": "persona_agent-0.1.0.tar.gz",
-  "download_time": "2025-11-28T06:48:35.652204",
+  "download_filename": "persona_agent-0.1.1.tar.gz",
+  "download_time": "2025-11-28T15:10:52.719259",
   "package_url": "https://pypi.org/project/persona-agent/"
 }

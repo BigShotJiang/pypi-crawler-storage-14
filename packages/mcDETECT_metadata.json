@@ -1,0 +1,11 @@
+{
+  "name": "mcDETECT",
+  "version": "2.0.13",
+  "summary": "Uncovering the dark transcriptome in polarized neuronal compartments with mcDETECT",
+  "author": "Chenyang Yuan",
+  "license": null,
+  "home_page": "https://github.com/chen-yang-yuan/mcDETECT",
+  "download_filename": "mcdetect-2.0.13.tar.gz",
+  "download_time": "2025-11-28T15:10:36.457900",
+  "package_url": "https://pypi.org/project/mcDETECT/"
+}

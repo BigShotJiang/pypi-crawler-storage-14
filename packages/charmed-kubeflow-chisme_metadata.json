@@ -1,11 +1,11 @@
 {
   "name": "charmed-kubeflow-chisme",
-  "version": "0.4.13",
+  "version": "0.4.14",
   "summary": "A collection of helpers for Charms maintained by the Charmed Kubeflow team",
   "author": "Charmed Kubeflow",
   "license": null,
   "home_page": "https://github.com/canonical/charmed-kubeflow-chisme",
-  "download_filename": "charmed_kubeflow_chisme-0.4.13.tar.gz",
-  "download_time": "2025-11-28T14:50:20.362208",
+  "download_filename": "charmed_kubeflow_chisme-0.4.14.tar.gz",
+  "download_time": "2025-11-28T15:10:53.827278",
   "package_url": "https://pypi.org/project/charmed-kubeflow-chisme/"
 }

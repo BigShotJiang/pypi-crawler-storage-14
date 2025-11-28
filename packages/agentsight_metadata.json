@@ -1,0 +1,11 @@
+{
+  "name": "agentsight",
+  "version": "0.0.17",
+  "summary": "Python SDK for AgentSight: seamlessly track AI conversations, metrics, and deliver client-facing insights and dashboards.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentsight-0.0.17.tar.gz",
+  "download_time": "2025-11-28T15:10:31.166733",
+  "package_url": "https://pypi.org/project/agentsight/"
+}

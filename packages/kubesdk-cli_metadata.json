@@ -1,0 +1,11 @@
+{
+  "name": "kubesdk-cli",
+  "version": "0.0.1",
+  "summary": "Kubernetes API models and CRD generator",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kubesdk_cli-0.0.1.tar.gz",
+  "download_time": "2025-11-28T15:11:12.547360",
+  "package_url": "https://pypi.org/project/kubesdk-cli/"
+}

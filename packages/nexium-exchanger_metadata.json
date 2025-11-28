@@ -1,11 +1,11 @@
 {
   "name": "nexium-exchanger",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Nexium Exchanger API",
   "author": "Nexium",
   "license": null,
   "home_page": null,
-  "download_filename": "nexium_exchanger-0.1.0.tar.gz",
-  "download_time": "2025-11-27T10:12:38.872588",
+  "download_filename": "nexium_exchanger-0.1.1.tar.gz",
+  "download_time": "2025-11-28T15:10:47.093351",
   "package_url": "https://pypi.org/project/nexium-exchanger/"
 }

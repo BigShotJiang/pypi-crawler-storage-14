@@ -1,11 +1,11 @@
 {
   "name": "cm-colors",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "You pick your colors, we make it readable",
   "author": "Lalitha A R",
   "license": null,
   "home_page": "https://github.com/comfort-mode-toolkit/cm-colors",
-  "download_filename": "cm_colors-0.4.1.tar.gz",
-  "download_time": "2025-11-28T13:05:27.882873",
+  "download_filename": "cm_colors-0.4.2.tar.gz",
+  "download_time": "2025-11-28T15:11:13.076049",
   "package_url": "https://pypi.org/project/cm-colors/"
 }

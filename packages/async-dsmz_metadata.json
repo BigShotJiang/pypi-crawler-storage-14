@@ -1,11 +1,11 @@
 {
   "name": "async-dsmz",
-  "version": "2025.0.2",
+  "version": "2025.0.3",
   "summary": "Asyncio wrappers for the DSMZ LPSN and BacDive APIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "async_dsmz-2025.0.2.tar.gz",
-  "download_time": "2025-11-25T19:08:58.170062",
+  "download_filename": "async_dsmz-2025.0.3.tar.gz",
+  "download_time": "2025-11-28T15:10:32.900452",
   "package_url": "https://pypi.org/project/async-dsmz/"
 }

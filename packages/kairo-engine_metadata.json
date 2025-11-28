@@ -1,0 +1,11 @@
+{
+  "name": "kairo-engine",
+  "version": "1.0.1",
+  "summary": "A configuration-driven engine that dynamically mutates incoming payloads based on conditional rules defined in YAML or JSON.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kairo_engine-1.0.1.tar.gz",
+  "download_time": "2025-11-28T15:11:18.457200",
+  "package_url": "https://pypi.org/project/kairo-engine/"
+}

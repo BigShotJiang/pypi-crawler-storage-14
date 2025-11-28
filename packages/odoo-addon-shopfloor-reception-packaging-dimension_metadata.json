@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-shopfloor-reception-packaging-dimension",
-  "version": "18.0.1.2.0",
+  "version": "18.0.1.3.0",
   "summary": "Collect Packaging Dimension from the Reception scenario",
   "author": "Camptocamp, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/stock-logistics-shopfloor",
-  "download_filename": "odoo_addon_shopfloor_reception_packaging_dimension-18.0.1.2.0-py3-none-any.whl",
-  "download_time": "2025-11-28T13:05:46.183046",
+  "download_filename": "odoo_addon_shopfloor_reception_packaging_dimension-18.0.1.3.0-py3-none-any.whl",
+  "download_time": "2025-11-28T15:11:05.767526",
   "package_url": "https://pypi.org/project/odoo-addon-shopfloor-reception-packaging-dimension/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "seabirdfilehandler",
+  "version": "0.11.3",
+  "summary": "Library of parsers to interact with SeaBird CTD files.",
+  "author": "Emil Michels",
+  "license": null,
+  "home_page": "https://ctd-software.pages.iow.de/seabirdfilehandler",
+  "download_filename": "seabirdfilehandler-0.11.3.tar.gz",
+  "download_time": "2025-11-28T15:11:17.355427",
+  "package_url": "https://pypi.org/project/seabirdfilehandler/"
+}

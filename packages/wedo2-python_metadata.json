@@ -1,0 +1,11 @@
+{
+  "name": "wedo2-python",
+  "version": "0.1.2",
+  "summary": "A lightweight and modern Python library for controlling the LEGO WeDo 2.0 Smart Hub using Bluetooth Low Energy.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wedo2_python-0.1.2.tar.gz",
+  "download_time": "2025-11-28T15:10:44.301790",
+  "package_url": "https://pypi.org/project/wedo2-python/"
+}
