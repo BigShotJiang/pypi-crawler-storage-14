@@ -1,0 +1,11 @@
+{
+  "name": "uvx-demo-vanaraj",
+  "version": "0.2.0",
+  "summary": "A simple Hello World Python package using uv",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uvx_demo_vanaraj-0.2.0.tar.gz",
+  "download_time": "2025-11-28T09:49:08.827859",
+  "package_url": "https://pypi.org/project/uvx-demo-vanaraj/"
+}

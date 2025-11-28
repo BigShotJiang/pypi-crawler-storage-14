@@ -1,11 +1,11 @@
 {
   "name": "example-package-feitian",
-  "version": "1.1.10",
+  "version": "1.1.12",
   "summary": "A small example package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "example_package_feitian-1.1.10-py3-none-any.whl",
-  "download_time": "2025-11-28T08:44:44.818878",
+  "download_filename": "example_package_feitian-1.1.12.tar.gz",
+  "download_time": "2025-11-28T09:49:23.658313",
   "package_url": "https://pypi.org/project/example-package-feitian/"
 }

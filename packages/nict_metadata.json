@@ -1,0 +1,11 @@
+{
+  "name": "nict",
+  "version": "0.3.1",
+  "summary": "magicmind examples, An easy to use library to speed up computation (by parallelizing on multi CPUs).",
+  "author": "NICHOLAS WU",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nict-0.3.1.tar.gz",
+  "download_time": "2025-11-28T09:49:27.456537",
+  "package_url": "https://pypi.org/project/nict/"
+}

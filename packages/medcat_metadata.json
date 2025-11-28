@@ -1,0 +1,11 @@
+{
+  "name": "medcat",
+  "version": "2.4.0",
+  "summary": "Medical Concept Annotation Toolkit (v2)",
+  "author": "Z. Kraljevic, A. Shek, T. Searle, X. Bai, M. Ratas",
+  "license": null,
+  "home_page": null,
+  "download_filename": "medcat-2.4.0.tar.gz",
+  "download_time": "2025-11-28T09:49:12.100735",
+  "package_url": "https://pypi.org/project/medcat/"
+}
