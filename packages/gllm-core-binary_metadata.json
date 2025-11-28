@@ -5,7 +5,7 @@
   "author": "Dimitrij Ray",
   "license": null,
   "home_page": null,
-  "download_filename": "gllm_core_binary-0.4.2-cp312-cp312-manylinux_2_31_x86_64.whl",
-  "download_time": "2025-11-28T06:16:26.292082",
+  "download_filename": "gllm_core_binary-0.4.2-cp311-cp311-macosx_13_0_arm64.whl",
+  "download_time": "2025-11-28T06:49:12.146966",
   "package_url": "https://pypi.org/project/gllm-core-binary/"
 }

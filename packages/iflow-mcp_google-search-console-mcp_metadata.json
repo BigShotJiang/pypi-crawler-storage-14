@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_google-search-console-mcp",
+  "version": "0.2.2",
+  "summary": "Connect Google Search Console data to Claude, Cursor and other MCP clients. Query your website's search performance data in natural language.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_google_search_console_mcp-0.2.2.tar.gz",
+  "download_time": "2025-11-28T06:48:58.694877",
+  "package_url": "https://pypi.org/project/iflow-mcp_google-search-console-mcp/"
+}

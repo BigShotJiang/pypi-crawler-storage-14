@@ -1,11 +1,11 @@
 {
   "name": "rggrader2",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Submission tool for Ruangguru AI Bootcamp",
   "author": "Ruangguru AI Team",
   "license": null,
   "home_page": "https://github.com/ruang-guru/ai-grader",
-  "download_filename": "rggrader2-0.1.1.tar.gz",
-  "download_time": "2025-11-27T22:51:42.535409",
+  "download_filename": "rggrader2-0.1.2.tar.gz",
+  "download_time": "2025-11-28T06:48:54.540656",
   "package_url": "https://pypi.org/project/rggrader2/"
 }

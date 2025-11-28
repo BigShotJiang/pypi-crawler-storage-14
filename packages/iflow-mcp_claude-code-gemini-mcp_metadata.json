@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_claude-code-gemini-mcp",
+  "version": "1.0.0",
+  "summary": "Claude Code + Gemini MCP Server - Connect Claude Code with Google's Gemini AI for powerful AI collaboration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_claude_code_gemini_mcp-1.0.0.tar.gz",
+  "download_time": "2025-11-28T06:48:36.699868",
+  "package_url": "https://pypi.org/project/iflow-mcp_claude-code-gemini-mcp/"
+}

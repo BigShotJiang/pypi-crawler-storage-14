@@ -1,0 +1,11 @@
+{
+  "name": "kxy-framework",
+  "version": "1.4.10",
+  "summary": "封装了ORM框架",
+  "author": "Johnliu",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/kxy-framework/",
+  "download_filename": "kxy_framework-1.4.10.tar.gz",
+  "download_time": "2025-11-28T06:48:46.184457",
+  "package_url": "https://pypi.org/project/kxy-framework/"
+}

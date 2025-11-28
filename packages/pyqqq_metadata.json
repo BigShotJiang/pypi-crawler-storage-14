@@ -1,11 +1,11 @@
 {
   "name": "pyqqq",
-  "version": "0.12.213",
+  "version": "0.12.214",
   "summary": "Package for quantitative strategy development on the PyQQQ platform",
   "author": "PyQQQ team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyqqq-0.12.213.tar.gz",
-  "download_time": "2025-11-27T07:12:40.269780",
+  "download_filename": "pyqqq-0.12.214.tar.gz",
+  "download_time": "2025-11-28T06:48:41.915477",
   "package_url": "https://pypi.org/project/pyqqq/"
 }

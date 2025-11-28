@@ -1,11 +1,11 @@
 {
   "name": "alibabacloud-lingmou20250527",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "summary": "Alibaba Cloud LingMou (20250527) SDK Library for Python",
   "author": "Alibaba Cloud SDK",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
-  "download_filename": "alibabacloud_lingmou20250527-1.2.1.tar.gz",
-  "download_time": "2025-11-28T02:21:34.773640",
+  "download_filename": "alibabacloud_lingmou20250527-1.3.0.tar.gz",
+  "download_time": "2025-11-28T06:49:01.278001",
   "package_url": "https://pypi.org/project/alibabacloud-lingmou20250527/"
 }

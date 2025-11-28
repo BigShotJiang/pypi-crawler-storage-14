@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_cortex-mcp",
+  "version": "0.0.0",
+  "summary": "MCP (Model Context Protocol) server for Cortex API integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_cortex_mcp-0.0.0.tar.gz",
+  "download_time": "2025-11-28T06:48:30.828453",
+  "package_url": "https://pypi.org/project/iflow-mcp_cortex-mcp/"
+}
