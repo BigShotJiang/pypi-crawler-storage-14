@@ -1,24 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-28T19:07:39.331827
-- **Total Packages**: 72
-- **Total Size**: 22.49 MB
+- **Download Time**: 2025-11-28T19:26:06.308456
+- **Total Packages**: 71
+- **Total Size**: 21.77 MB
 
 ## Packages List
+- pyfluids
+- shotgrid-mcp-server
+- abstract-utilities
+- bigdatadunking
+- cloudvault4
+- sapiens-stack
+- eea.api.redirector
+- humanmint
+- izulu
+- listofdicts
+- utn-fra
+- railtracks-cli
+- schedule-management
+- ironoc-pytest-conor-heffron
+- auroraview
+- railtracks
+- megatron-core
+- megatron-fsdp
+- gdsfactoryplus
+- pve-cloud-schemas
+- locoformer
+- workspace-mcp
+- gradio-neoviewer
+- rowdybottypiper
+- sphinx-metadata-figure
+- bluer-ugv
+- malha
+- airlock-ai-audit
+- ph-shorts
+- aitraining
+- mcli-framework
+- n7
+- llm-prompt-refiner
+- lrclib-python
+- DockSuiteX
+- dftoy
+- pygeist-client
+- deepfabric
+- sage-timer
+- pandoraaperture
+- mcp-ticketer
+- tzafon
+- pyogrio
+- tencent-cloud-hackathon-intelligent-pentest-competition-api-server
+- pydrime
 - doc-manager-mcp
 - topgrade
 - noetl
-- humanmint
 - neural-crispr
 - livecheck
 - threaded-order
 - sapiens-dataset
 - r2x-core
 - qcfinancial
-- malha
 - local-deep-research
-- airlock-ai-audit
 - mock-firestore-sharp
 - nonebot-plugin-templates-draw
 - echosms
@@ -28,7 +70,6 @@
 - rommer
 - evariste
 - mikrowerk-edi-invoicing
-- abstract-utilities
 - browser-service
 - depcleaner
 - mcp-it
@@ -36,45 +77,3 @@
 - bigdata-hur
 - gwspace
 - pokemon-project
-- the-convergence
-- iroiro
-- pylxpweb
-- visusat
-- py-pve-cloud
-- gwsumm
-- pennylane-qrack-cpu
-- pennylane-qrack
-- fastapi-depends-anywhere
-- utils-YILINGLEI
-- pymodoro-timer
-- mat3ra-standata
-- cribl-control-plane
-- digipinpy
-- ponia
-- aiecs
-- bluetti-bt-lib
-- e2efast
-- leblanc
-- torrent-search-mcp
-- breesy
-- DockSuiteX
-- yaroc
-- search-vulns
-- scicookie
-- sergiocalderon-holamundoplayer
-- adv-optm
-- lightphe
-- ydata-sdk
-- pySigma-backend-kusto
-- qciconnect
-- aitril
-- agentic-memory
-- pyvista-gridder
-- jsonbrotliminifyer
-- pve-cloud-schemas
-- pytest-pve-cloud
-- vault-check
-- tt-burnin
-- aimodelshare
-- leverage
-- paylink
