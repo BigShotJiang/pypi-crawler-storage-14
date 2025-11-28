@@ -1,11 +1,11 @@
 {
   "name": "musipelago",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "Play Archipelago with your own music!",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "musipelago-0.2.6.tar.gz",
-  "download_time": "2025-11-27T21:09:25.155953",
+  "download_filename": "musipelago-0.2.7.tar.gz",
+  "download_time": "2025-11-28T13:41:01.587294",
   "package_url": "https://pypi.org/project/musipelago/"
 }

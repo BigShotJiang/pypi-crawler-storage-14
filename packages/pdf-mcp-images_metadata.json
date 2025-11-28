@@ -1,11 +1,11 @@
 {
   "name": "pdf-mcp-images",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "MCP服务：PDF 页面转图片，仅提供 convert_pdf_to_images",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pdf_mcp_images-0.1.3.tar.gz",
-  "download_time": "2025-11-28T12:19:10.179471",
+  "download_filename": "pdf_mcp_images-0.1.4.tar.gz",
+  "download_time": "2025-11-28T13:41:11.090713",
   "package_url": "https://pypi.org/project/pdf-mcp-images/"
 }

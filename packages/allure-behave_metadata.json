@@ -1,0 +1,11 @@
+{
+  "name": "allure-behave",
+  "version": "2.15.1",
+  "summary": "Allure behave integration",
+  "author": "Qameta Software Inc., Stanislav Seliverstov",
+  "license": "Apache-2.0",
+  "home_page": "https://allurereport.org/",
+  "download_filename": "allure_behave-2.15.1.tar.gz",
+  "download_time": "2025-11-28T13:41:16.188398",
+  "package_url": "https://pypi.org/project/allure-behave/"
+}

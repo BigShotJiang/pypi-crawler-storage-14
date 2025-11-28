@@ -1,56 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-28T13:06:02.330724
-- **Total Packages**: 91
-- **Total Size**: 29.89 MB
+- **Download Time**: 2025-11-28T13:41:21.188016
+- **Total Packages**: 88
+- **Total Size**: 14.61 MB
 
 ## Packages List
-- umbra-architect
-- riptide-proxy
-- openstack-image-manager
-- riptide-cli
-- riptide-engine-docker
-- pasarguard-node-bridge
-- pykimix
-- jesterTOV
-- mcpcn-gif-animation-mcp
-- maquinaweb-shared-auth
-- Asialuxe
-- nonebot-plugin-templates-draw
-- api-foundry
-- mns-common
-- ame-json
-- crested
-- foundationallm-agent-plugins-langchain
-- foundationallm-agent-plugins-azure-ai
-- foundationallm-agent-plugins-experimental
-- foundationallm-agent-plugins
-- nexus_api_client
-- foundationallm
-- pybotchi
-- softiqtech-sofi-agent
-- lht
-- tensorcircuit-nightly
-- opsgeniecli
-- cm-colors
-- revenium-mcp
-- syspath-hack
-- riptide-lib
-- marlin-data
-- passworder
-- aignostics
-- ai-atlas-nexus
-- repo-review-readme
-- hex-device
-- aalto-boss
-- apify
-- euroncalcu-raj
-- identity_clustering
-- ppllm
-- casmo-optimizer
-- llm-aggregator
-- nonebot-plugin-pErithacus
 - kson-lang
 - templatey
 - 2401469-hello
@@ -59,6 +14,7 @@
 - libinephany
 - datamarket
 - fossilfree-ecoinvent
+- jesterTOV
 - agentic-layer-sdk-adk
 - ph-shorts
 - fastgenerateapi
@@ -78,6 +34,7 @@
 - pandas-plots
 - docx-replace-ms
 - ga4gh.cat-vrs
+- umbra-architect
 - ftllexbuffer
 - wujihandpy
 - agenta
@@ -97,3 +54,43 @@
 - robocad-py
 - garminconnect
 - pixelarraylib
+- evaltree
+- pnl-watchdog
+- revenium-middleware-litellm
+- xontrib-dalias
+- io4edge-client
+- msound
+- robot-hat
+- musipelago
+- sensingpy
+- changedetection.io
+- aiemailautomationutility
+- hicue
+- mapify-cli
+- octodns-cloudns
+- cubesat-space-protocol-py
+- gaik
+- pasarguard-node-bridge
+- django-daiquiri
+- apify
+- dragon-ml-toolbox
+- merobox
+- smart-ace
+- pdf-mcp-images
+- putergenai
+- human-eval-rust
+- orq-ai-sdk
+- anemoi-inference
+- allure-robotframework
+- allure-pytest-bdd
+- allure-pytest
+- allure-nose2
+- allure-behave
+- dart-api-client
+- allure-python-commons
+- allure-python-commons-test
+- spectuel-engine-utils
+- pdf-mcp-watermark-text
+- mimerpy
+- MaaDebugger
+- pdf-mcp-watermark-image

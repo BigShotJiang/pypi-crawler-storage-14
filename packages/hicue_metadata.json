@@ -1,11 +1,11 @@
 {
   "name": "hicue",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "A visualisation tool for Hi-C dataset.",
   "author": null,
   "license": "CC BY-NC 4.0",
   "home_page": null,
-  "download_filename": "hicue-0.4.0-py3-none-any.whl",
-  "download_time": "2025-11-25T13:54:11.289907",
+  "download_filename": "hicue-0.4.1-py3-none-any.whl",
+  "download_time": "2025-11-28T13:41:04.315471",
   "package_url": "https://pypi.org/project/hicue/"
 }

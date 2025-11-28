@@ -1,0 +1,11 @@
+{
+  "name": "allure-python-commons",
+  "version": "2.15.1",
+  "summary": "Contains the API for end users as well as helper functions and classes to build Allure adapters for Python test frameworks",
+  "author": "Qameta Software Inc., Stanislav Seliverstov",
+  "license": "Apache-2.0",
+  "home_page": "https://allurereport.org/",
+  "download_filename": "allure_python_commons-2.15.1.tar.gz",
+  "download_time": "2025-11-28T13:41:17.356900",
+  "package_url": "https://pypi.org/project/allure-python-commons/"
+}
