@@ -1,11 +1,11 @@
 {
   "name": "airlock-ai-audit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A CLI tool to audit code changes using AI before you commit.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "airlock_ai_audit-0.1.1.tar.gz",
-  "download_time": "2025-11-28T18:54:05.991563",
+  "download_filename": "airlock_ai_audit-0.1.2.tar.gz",
+  "download_time": "2025-11-28T19:07:03.176688",
   "package_url": "https://pypi.org/project/airlock-ai-audit/"
 }

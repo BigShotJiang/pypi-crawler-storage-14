@@ -1,0 +1,11 @@
+{
+  "name": "rommer",
+  "version": "0.1.0",
+  "summary": "Rommer: Organize your ROMs.",
+  "author": "Curtis Rueden",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rommer-0.1.0.tar.gz",
+  "download_time": "2025-11-28T19:07:07.855410",
+  "package_url": "https://pypi.org/project/rommer/"
+}

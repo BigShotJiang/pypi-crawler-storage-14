@@ -1,0 +1,11 @@
+{
+  "name": "neural-crispr",
+  "version": "0.0.1",
+  "summary": "CRISPR",
+  "author": "Neural-CRISPR Team",
+  "license": null,
+  "home_page": "https://github.com/neural.crispr/__",
+  "download_filename": "neural_crispr-0.0.1.tar.gz",
+  "download_time": "2025-11-28T19:06:58.168110",
+  "package_url": "https://pypi.org/project/neural-crispr/"
+}
