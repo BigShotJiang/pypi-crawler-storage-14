@@ -1,16 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-28T11:36:26.466947
-- **Total Packages**: 87
-- **Total Size**: 17.88 MB
+- **Download Time**: 2025-11-28T11:48:20.828347
+- **Total Packages**: 80
+- **Total Size**: 19.3 MB
 
 ## Packages List
+- intreg
+- rcrlm
+- pandasaurus
+- nonebot-plugin-pErithacus
+- gopro-sdk-py
+- ai4gs
+- ltcpy
+- cellphe
+- layernext-beta
+- genome-uploader
+- orq-ai-sdk
+- pyrig
+- eqt
+- retab
+- achatbot
+- i18n-check
+- sceneflow
+- paytechuz
+- covertreex
+- aryx
+- PackLab
+- arycx
+- eida-statistics-aggregator
+- h2o-mlops
+- opinion-clob-sdk
+- arycodesextension
+- arycodes-acx
+- opinion-api
+- arybuild
+- ary-acx
+- acx-builder
+- mlde-utils
+- notify-bridge
+- nucleofind
+- msound
+- openBES
+- fn-dbscan
+- jbconsts
+- BoschMiniRpa
 - NetAnalyzer
 - eliteRAG
 - pyutilities
 - private-attribute
-- BoschMiniRpa
 - py-semtools
 - sardana-limaccd
 - chellow
@@ -20,10 +58,8 @@
 - labdataplot
 - simplevk
 - perry-utils
-- layernext-beta
 - mlcflow
 - creditpulse
-- jbconsts
 - aleph-client
 - nb-venv-kernels
 - openmeter
@@ -38,7 +74,6 @@
 - ezMM
 - siga-mcp
 - wildfire-analyser
-- paytechuz
 - sc2ts
 - vlcishared
 - satctl
@@ -49,47 +84,5 @@
 - pywebtransport
 - ddb_single
 - wordfreq-cn
-- nonebot-plugin-pErithacus
 - code-editor-mcp
 - benchmark-ips
-- aiinbx
-- easyborg
-- aioia-core
-- matrice-analytics
-- odoo-addon-gestion-editorial
-- kcli
-- mcp-data-lens
-- pycommons
-- realtimex-manifest-tools
-- pyarud
-- tf-keras-nightly
-- panoptic
-- commizard
-- mcp-server-stdio
-- klovis
-- flask-blog-app
-- retab
-- ltcpy
-- ldc-lender-datalayer
-- morta
-- acx
-- merobox
-- dgsettings
-- weixinautox4
-- revng
-- bittensor-sentinel
-- timewise
-- instana
-- matplobbot-shared
-- alethiotx
-- ssb-nudb-use
-- worker-automate-hub
-- metanetmap
-- hhg9
-- sigil-pipeline
-- cpu-loader
-- django-admin-advanced-search
-- xml-to-csv
-- jsonschema-rs
-- veriskgo
-- odoo-addon-partner-tier-validation

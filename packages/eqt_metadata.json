@@ -1,0 +1,11 @@
+{
+  "name": "eqt",
+  "version": "2.0.1",
+  "summary": "A number of templates and tools to develop Qt GUIs with Python effectively",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "eqt-2.0.1.tar.gz",
+  "download_time": "2025-11-28T11:47:43.615915",
+  "package_url": "https://pypi.org/project/eqt/"
+}

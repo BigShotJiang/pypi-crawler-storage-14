@@ -1,0 +1,11 @@
+{
+  "name": "genome-uploader",
+  "version": "2.5.1",
+  "summary": "Python script to upload bins and MAGs in fasta format to ENA (European Nucleotide Archive). This script generates xmls and manifests necessary for submission with webin-cli.",
+  "author": null,
+  "license": "Apache Software License 2.0",
+  "home_page": null,
+  "download_filename": "genome_uploader-2.5.1.tar.gz",
+  "download_time": "2025-11-28T11:47:42.034630",
+  "package_url": "https://pypi.org/project/genome-uploader/"
+}
