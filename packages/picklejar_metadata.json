@@ -1,0 +1,11 @@
+{
+  "name": "picklejar",
+  "version": "4.1.0",
+  "summary": "Read and write pickles to a single file",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "picklejar-4.1.0.tar.gz",
+  "download_time": "2025-11-28T16:38:46.402508",
+  "package_url": "https://pypi.org/project/picklejar/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cppmake",
-  "version": "28",
+  "version": "30",
   "summary": "A modern C++ builder based on C++20 Modules.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cppmake-28.tar.gz",
-  "download_time": "2025-11-28T09:15:40.988844",
+  "download_filename": "cppmake-30.tar.gz",
+  "download_time": "2025-11-28T16:38:36.040362",
   "package_url": "https://pypi.org/project/cppmake/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy-mimer",
+  "version": "1.0.3",
+  "summary": "SQLAlchemy dialect for Mimer SQL (via MimerPy/PEP 249)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sqlalchemy_mimer-1.0.3.tar.gz",
+  "download_time": "2025-11-28T16:38:45.862776",
+  "package_url": "https://pypi.org/project/sqlalchemy-mimer/"
+}
