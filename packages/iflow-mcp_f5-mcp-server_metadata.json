@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_f5-mcp-server",
+  "version": "1.0.0",
+  "summary": "MCP server for F5 device management using iControl REST API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_f5_mcp_server-1.0.0.tar.gz",
+  "download_time": "2025-11-28T02:21:28.520464",
+  "package_url": "https://pypi.org/project/iflow-mcp_f5-mcp-server/"
+}

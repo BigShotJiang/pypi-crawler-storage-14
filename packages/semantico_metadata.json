@@ -1,11 +1,11 @@
 {
   "name": "semantico",
-  "version": "0.4.1",
-  "summary": "Ontologia Core - Camada Semântica (Pure Layer 5) - DSL for Ontology as Code",
+  "version": "0.4.3",
+  "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "semantico-0.4.1.tar.gz",
-  "download_time": "2025-11-26T21:09:21.649221",
+  "download_filename": "semantico-0.4.3.tar.gz",
+  "download_time": "2025-11-28T02:21:36.319681",
   "package_url": "https://pypi.org/project/semantico/"
 }

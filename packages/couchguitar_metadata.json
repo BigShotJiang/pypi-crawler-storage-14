@@ -1,0 +1,11 @@
+{
+  "name": "couchguitar",
+  "version": "0.2.0",
+  "summary": "A small PyQt6 app for musicians to display songs teleprompter style,and make short recordings to play along with",
+  "author": "Scott Peterman",
+  "license": "GPLv3",
+  "home_page": "https://github.com/scottpeterman/couchguitar",
+  "download_filename": "couchguitar-0.2.0-py3-none-any.whl",
+  "download_time": "2025-11-28T02:22:00.896812",
+  "package_url": "https://pypi.org/project/couchguitar/"
+}

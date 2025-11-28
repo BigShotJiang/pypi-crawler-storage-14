@@ -1,0 +1,11 @@
+{
+  "name": "niji",
+  "version": "0.1.0",
+  "summary": "A library for optimistically and explicitly generating and printing ANSI color and style codes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "niji-0.1.0.tar.gz",
+  "download_time": "2025-11-28T02:21:46.144301",
+  "package_url": "https://pypi.org/project/niji/"
+}

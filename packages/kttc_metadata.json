@@ -1,0 +1,11 @@
+{
+  "name": "kttc",
+  "version": "0.4.2",
+  "summary": "Knowledge Translation Transmutation Core - Transforming translations into gold-standard quality",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kttc-0.4.2.tar.gz",
+  "download_time": "2025-11-28T02:21:25.361593",
+  "package_url": "https://pypi.org/project/kttc/"
+}

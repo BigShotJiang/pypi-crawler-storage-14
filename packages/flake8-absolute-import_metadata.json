@@ -1,0 +1,11 @@
+{
+  "name": "flake8-absolute-import",
+  "version": "1.0.0.3",
+  "summary": "flake8 plugin to require absolute imports",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flake8_absolute_import-1.0.0.3.tar.gz",
+  "download_time": "2025-11-28T02:21:29.034605",
+  "package_url": "https://pypi.org/project/flake8-absolute-import/"
+}

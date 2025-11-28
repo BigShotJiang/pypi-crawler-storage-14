@@ -1,0 +1,11 @@
+{
+  "name": "sherpa-onnx",
+  "version": "1.12.18",
+  "summary": null,
+  "author": "The sherpa-onnx development team",
+  "license": "Apache licensed, as found in the LICENSE file",
+  "home_page": "https://github.com/k2-fsa/sherpa-onnx",
+  "download_filename": "sherpa_onnx-1.12.18.tar.gz",
+  "download_time": "2025-11-28T02:21:51.874526",
+  "package_url": "https://pypi.org/project/sherpa-onnx/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "QtFactor",
+  "version": "0.1.3",
+  "summary": "A client for the QtFactor API",
+  "author": "User",
+  "license": null,
+  "home_page": "https://github.com/pypa/sampleproject",
+  "download_filename": "qtfactor-0.1.3.tar.gz",
+  "download_time": "2025-11-28T02:21:39.406828",
+  "package_url": "https://pypi.org/project/QtFactor/"
+}

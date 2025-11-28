@@ -1,0 +1,11 @@
+{
+  "name": "fnos-exporter",
+  "version": "0.5.0",
+  "summary": "Prometheus Exporter for fnOS",
+  "author": "Timandes White",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Timandes/fnos-prometheus-exporter",
+  "download_filename": "fnos_exporter-0.5.0.tar.gz",
+  "download_time": "2025-11-28T02:21:59.865908",
+  "package_url": "https://pypi.org/project/fnos-exporter/"
+}
