@@ -1,11 +1,11 @@
 {
   "name": "weni-agenteval",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "summary": "A generative AI-powered framework for testing virtual agents.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "weni_agenteval-1.0.10.tar.gz",
-  "download_time": "2025-11-29T02:21:29.820150",
+  "download_filename": "weni_agenteval-1.0.11.tar.gz",
+  "download_time": "2025-11-29T19:48:29.001582",
   "package_url": "https://pypi.org/project/weni-agenteval/"
 }

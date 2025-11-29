@@ -1,11 +1,11 @@
 {
   "name": "dars-framework",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "summary": "Dars is a Python UI framework for building modern, interactive web apps with only Python code. Write your interface in Python, export it to static HTML/CSS/JS, and deploy anywhere.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dars_framework-1.5.0-py3-none-any.whl",
-  "download_time": "2025-11-28T07:41:52.251554",
+  "download_filename": "dars_framework-1.5.1-py3-none-any.whl",
+  "download_time": "2025-11-29T19:48:31.672285",
   "package_url": "https://pypi.org/project/dars-framework/"
 }
