@@ -1,11 +1,11 @@
 {
   "name": "trism-cv",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "summary": "A lightweight and modular Python package for handling computer vision inference (image/video) with Triton Inference Server.",
   "author": "Tien Nguyen Van",
   "license": "GNU AGPL v3.0",
   "home_page": "https://github.com/tien-ngnvan/trism-cv",
-  "download_filename": "trism_cv-0.0.3.tar.gz",
-  "download_time": "2025-11-28T20:11:15.336461",
+  "download_filename": "trism_cv-0.1.0.tar.gz",
+  "download_time": "2025-11-29T17:47:32.604091",
   "package_url": "https://pypi.org/project/trism-cv/"
 }

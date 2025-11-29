@@ -1,0 +1,11 @@
+{
+  "name": "habana-pyhlml",
+  "version": "1.22.2.32",
+  "summary": "Python3 wrapper for the HLML library.",
+  "author": "HabanaAI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "habana_pyhlml-1.22.2.32-py3-none-any.whl",
+  "download_time": "2025-11-29T17:47:34.735621",
+  "package_url": "https://pypi.org/project/habana-pyhlml/"
+}

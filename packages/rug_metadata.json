@@ -1,0 +1,11 @@
+{
+  "name": "rug",
+  "version": "0.12",
+  "summary": "Library for fetching various stock data from the internet (official and unofficial APIs).",
+  "author": "Pavel Hrdina",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rug-0.12.tar.gz",
+  "download_time": "2025-11-29T17:47:31.539725",
+  "package_url": "https://pypi.org/project/rug/"
+}
