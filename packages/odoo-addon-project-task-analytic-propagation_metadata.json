@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-project-task-analytic-propagation",
-  "version": "18.0.3.0.1",
+  "version": "18.0.3.0.1.1",
   "summary": "Updates timesheet's analytic account when their task changes the analytic.",
   "author": "Moduon, Odoo Community Association (OCA)",
   "license": "LGPL-3",
   "home_page": "https://github.com/OCA/timesheet",
-  "download_filename": "odoo_addon_project_task_analytic_propagation-18.0.3.0.1-py3-none-any.whl",
-  "download_time": "2025-11-28T20:11:47.741469",
+  "download_filename": "odoo_addon_project_task_analytic_propagation-18.0.3.0.1.1-py3-none-any.whl",
+  "download_time": "2025-11-29T04:43:35.911968",
   "package_url": "https://pypi.org/project/odoo-addon-project-task-analytic-propagation/"
 }

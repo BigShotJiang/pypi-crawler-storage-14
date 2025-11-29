@@ -1,11 +1,11 @@
 {
   "name": "mcpcn-video-image-watermark-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "MCP server for adding image watermarks and overlays to videos",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcpcn_video_image_watermark_mcp-0.1.0.tar.gz",
-  "download_time": "2025-11-29T03:33:28.343715",
+  "download_filename": "mcpcn_video_image_watermark_mcp-0.1.1.tar.gz",
+  "download_time": "2025-11-29T04:43:14.346195",
   "package_url": "https://pypi.org/project/mcpcn-video-image-watermark-mcp/"
 }

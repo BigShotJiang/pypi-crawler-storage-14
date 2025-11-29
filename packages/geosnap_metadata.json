@@ -1,0 +1,11 @@
+{
+  "name": "geosnap",
+  "version": "0.16.0",
+  "summary": "The Geospatial Neighborhood Analysis Package",
+  "author": null,
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "geosnap-0.16.0-py3-none-any.whl",
+  "download_time": "2025-11-29T04:43:17.818912",
+  "package_url": "https://pypi.org/project/geosnap/"
+}
