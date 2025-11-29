@@ -1,11 +1,24 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-29T11:26:47.501731
-- **Total Packages**: 93
-- **Total Size**: 34.72 MB
+- **Download Time**: 2025-11-29T11:33:58.725341
+- **Total Packages**: 92
+- **Total Size**: 19.76 MB
 
 ## Packages List
+- imgrs
+- Nuitka
+- torchlitex
+- cheetah-greb
+- db-model-generator
+- reclaimor
+- plusml-rh56dftp
+- shellrecharge
+- SHICTHRSConfigLoader
+- kafklient
+- passworder
+- SHICTHRSJsonLoader
+- SHICTHRSCSVLoader
 - sayitahminoyunusto
 - gpx
 - SHICTHRSLogCore
@@ -43,7 +56,6 @@
 - fastapi-profiler-rust
 - environ-odoo-config
 - pnl-watchdog
-- reclaimor
 - s2t
 - webull-openapi-python-sdk
 - profiler-viz
@@ -52,7 +64,6 @@
 - oelint-data
 - aubellhop
 - confetti-ts
-- torchlitex
 - asgikit
 - mlbi-bitool
 - odoo-addon-maintenance-plan-activity
@@ -87,15 +98,3 @@
 - nvidia-nat-strands
 - dspy-code
 - nvidia-nat-ingestion
-- nvidia-nat-mysql
-- konduktor-nightly
-- nvidia-nat-vanna
-- py-ezl
-- nvidia-nat-mcp
-- factpulse
-- nvidia-nat-ragaai
-- nvidia-nat-profiling
-- nvidia-nat-adk
-- nvidia-nat-s3
-- delete-me-discord
-- nvidia-nat-weave

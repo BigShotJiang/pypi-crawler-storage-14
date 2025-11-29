@@ -1,11 +1,11 @@
 {
   "name": "torchlitex",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Tiny DDP training toolkit for quick-launch distributed training loops.",
   "author": "Torchlitex Authors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "torchlitex-0.1.7.tar.gz",
-  "download_time": "2025-11-29T11:26:22.499850",
+  "download_filename": "torchlitex-0.1.8.tar.gz",
+  "download_time": "2025-11-29T11:33:11.640900",
   "package_url": "https://pypi.org/project/torchlitex/"
 }
