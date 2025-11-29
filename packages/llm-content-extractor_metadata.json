@@ -1,0 +1,11 @@
+{
+  "name": "llm-content-extractor",
+  "version": "1.0.1",
+  "summary": "A robust content extractor for LLM outputs with support for JSON, XML, HTML, and code blocks",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/aihes/llm-content-extractor",
+  "download_filename": "llm_content_extractor-1.0.1.tar.gz",
+  "download_time": "2025-11-29T15:10:16.703753",
+  "package_url": "https://pypi.org/project/llm-content-extractor/"
+}

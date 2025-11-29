@@ -1,0 +1,11 @@
+{
+  "name": "detection-fusion",
+  "version": "1.1.0",
+  "summary": "Object detection ensemble toolkit with ground truth validation",
+  "author": "Abhik Sarkar",
+  "license": "MIT",
+  "home_page": "https://github.com/abhiksark/detection-fusion",
+  "download_filename": "detection_fusion-1.1.0.tar.gz",
+  "download_time": "2025-11-29T15:10:14.603496",
+  "package_url": "https://pypi.org/project/detection-fusion/"
+}

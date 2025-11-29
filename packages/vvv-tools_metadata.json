@@ -1,11 +1,11 @@
 {
   "name": "vvv-tools",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vvv_tools-0.4.1-py3-none-any.whl",
-  "download_time": "2025-11-27T16:40:40.665374",
+  "download_filename": "vvv_tools-0.4.2-py3-none-any.whl",
+  "download_time": "2025-11-29T15:10:04.254902",
   "package_url": "https://pypi.org/project/vvv-tools/"
 }

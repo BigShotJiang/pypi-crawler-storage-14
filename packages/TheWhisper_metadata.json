@@ -1,0 +1,11 @@
+{
+  "name": "TheWhisper",
+  "version": "0.1.0",
+  "summary": "A placeholder package for Whisper-related functionality",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/TheWhisper",
+  "download_filename": "thewhisper-0.1.0.tar.gz",
+  "download_time": "2025-11-29T15:10:11.960572",
+  "package_url": "https://pypi.org/project/TheWhisper/"
+}

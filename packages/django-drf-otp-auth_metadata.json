@@ -1,0 +1,11 @@
+{
+  "name": "django-drf-otp-auth",
+  "version": "0.1.1",
+  "summary": "Reusable Django OTP Authentication",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_drf_otp_auth-0.1.1.tar.gz",
+  "download_time": "2025-11-29T15:10:15.132713",
+  "package_url": "https://pypi.org/project/django-drf-otp-auth/"
+}
