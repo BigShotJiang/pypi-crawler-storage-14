@@ -1,11 +1,11 @@
 {
   "name": "vibe-coding-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "MCP server and CLI for the Vibe Coding methodology",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vibe_coding_mcp-0.1.0.tar.gz",
-  "download_time": "2025-11-29T22:32:44.070317",
+  "download_filename": "vibe_coding_mcp-0.1.1.tar.gz",
+  "download_time": "2025-11-29T22:48:22.889158",
   "package_url": "https://pypi.org/project/vibe-coding-mcp/"
 }

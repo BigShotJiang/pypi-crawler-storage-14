@@ -1,13 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-29T22:33:30.119065
-- **Total Packages**: 89
-- **Total Size**: 10.3 MB
+- **Download Time**: 2025-11-29T22:49:06.282859
+- **Total Packages**: 91
+- **Total Size**: 8.29 MB
 
 ## Packages List
-- extended-data-types
+- tensorwatchext
+- remdb
+- ciscoconfparse2
+- Graphinate
+- python-jack-knife
+- aioesphomeapi
 - vibe-coding-mcp
+- causal-toolkit-yanranhan
+- apc-ups-security-auditor
+- spectuel-engine-utils
+- Nanashi-OpenShockPY
+- agent-diff
+- odoo14-addon-ssi-odoo-implementation
+- simple-trade
+- httpdiff
+- apppy-env
+- apppy-logger
+- jetflow
+- apppy-clients
+- apppy-db
+- apppy-aws
+- apppy-fs
+- apppy-sb
+- apppy-queues
+- apppy-app
+- apppy-generic
+- apppy-auth
+- apppy-fastql
+- pico-agent
+- benchmark-runner
+- extended-data-types
 - beacon-dl
 - tumblr-backup
 - super-bario
@@ -25,13 +54,11 @@
 - tvi-solphit-discera-capability-image-gen
 - langswarm
 - ciga
-- Nanashi-OpenShockPY
 - chat-prompt-logger
 - blazeio
 - flask-pass0
 - sqlbench
 - marsel
-- jetflow
 - mdformat-mdslw
 - cgm-format
 - vision-agents-plugins-elevenlabs
@@ -70,28 +97,3 @@
 - task-sequencer
 - agentic-coder
 - tinyshift
-- rust-native-keyring
-- django-new
-- vision-agents-plugins-decart
-- remdb
-- shedboxai
-- chainswarm-core
-- pytrilogy
-- mrs-scaffold
-- basicrta
-- tiddl
-- pi-zero-pytorch
-- mlx-lm-lora
-- adoaler-sdk
-- config-cli-gui
-- rebase-dashboard
-- vision-agents-plugins-smart-turn
-- vision-agents-plugins-deepgram
-- vision-agents-plugins-moondream
-- vision-agents-plugins-wizper
-- vision-agents-plugins-ultralytics
-- icalendar
-- ssc_codegen
-- spectuel-engine-utils
-- sceneweaver
-- dependence
