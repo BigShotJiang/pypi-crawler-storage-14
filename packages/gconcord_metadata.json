@@ -1,0 +1,11 @@
+{
+  "name": "gconcord",
+  "version": "1.0.2",
+  "summary": "Unified CONCORD Package for Sparse Precision Matrix Estimation",
+  "author": "CONCORD Development Team",
+  "license": "MIT License",
+  "home_page": "https://github.com/your-org/gconcord",
+  "download_filename": "gconcord-1.0.2.tar.gz",
+  "download_time": "2025-11-29T21:28:13.482166",
+  "package_url": "https://pypi.org/project/gconcord/"
+}

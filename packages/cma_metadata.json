@@ -1,0 +1,11 @@
+{
+  "name": "cma",
+  "version": "4.4.1",
+  "summary": "CMA-ES, Covariance Matrix Adaptation Evolution Strategy for non-linear numerical optimization in Python",
+  "author": "Nikolaus Hansen, Youhei Akimoto, Petr Baudis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cma-4.4.1.tar.gz",
+  "download_time": "2025-11-29T21:28:11.580000",
+  "package_url": "https://pypi.org/project/cma/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "graphql-schema-diff",
+  "version": "1.2.5",
+  "summary": "Compare GraphQL Schemas",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "graphql_schema_diff-1.2.5.tar.gz",
+  "download_time": "2025-11-29T21:28:16.130900",
+  "package_url": "https://pypi.org/project/graphql-schema-diff/"
+}
