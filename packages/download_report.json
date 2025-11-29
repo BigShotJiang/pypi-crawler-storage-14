@@ -1,8 +1,14 @@
 {
-  "download_time": "2025-11-29T23:11:02.918689",
-  "total_packages_downloaded": 83,
-  "total_size_mb": 36.15,
+  "download_time": "2025-11-29T23:30:22.757653",
+  "total_packages_downloaded": 85,
+  "total_size_mb": 16.28,
   "packages": [
+    "directed-inputs-class",
+    "AbuLang",
+    "kuzu-memory",
+    "lifecyclelogging",
+    "optwps",
+    "kinglet",
     "python-base-toolkit",
     "gradeschoolmathsolver",
     "markhor",
@@ -38,7 +44,6 @@
     "twevals",
     "jetflow",
     "synthetmic",
-    "AbuLang",
     "ciscoconfparse2",
     "Graphinate",
     "python-jack-knife",
@@ -82,9 +87,6 @@
     "tvi-solphit-discera-capability-image-gen",
     "langswarm",
     "ciga",
-    "blazeio",
-    "flask-pass0",
-    "marsel",
-    "mdformat-mdslw"
+    "blazeio"
   ]
 }

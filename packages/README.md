@@ -1,11 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-29T23:11:02.918689
-- **Total Packages**: 83
-- **Total Size**: 36.15 MB
+- **Download Time**: 2025-11-29T23:30:22.757653
+- **Total Packages**: 85
+- **Total Size**: 16.28 MB
 
 ## Packages List
+- directed-inputs-class
+- AbuLang
+- kuzu-memory
+- lifecyclelogging
+- optwps
+- kinglet
 - python-base-toolkit
 - gradeschoolmathsolver
 - markhor
@@ -41,7 +47,6 @@
 - twevals
 - jetflow
 - synthetmic
-- AbuLang
 - ciscoconfparse2
 - Graphinate
 - python-jack-knife
@@ -86,6 +91,3 @@
 - langswarm
 - ciga
 - blazeio
-- flask-pass0
-- marsel
-- mdformat-mdslw

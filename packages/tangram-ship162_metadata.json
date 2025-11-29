@@ -5,7 +5,7 @@
   "author": null,
   "license": null,
   "home_page": "https://mode-s.org/tangram/",
-  "download_filename": "tangram_ship162-0.2.0-cp310-cp310-manylinux_2_28_aarch64.whl",
-  "download_time": "2025-11-29T23:10:17.776465",
+  "download_filename": "tangram_ship162-0.2.0-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2025-11-29T23:29:36.405379",
   "package_url": "https://pypi.org/project/tangram-ship162/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "optwps",
+  "version": "1.2.0",
+  "summary": "Fast Window Protection Score calculator for cell-free DNA analysis",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "optwps-1.2.0.tar.gz",
+  "download_time": "2025-11-29T23:29:33.223981",
+  "package_url": "https://pypi.org/project/optwps/"
+}

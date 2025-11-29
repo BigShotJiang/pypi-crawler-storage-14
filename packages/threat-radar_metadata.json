@@ -1,11 +1,11 @@
 {
   "name": "threat-radar",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Enterprise-grade threat assessment and vulnerability analysis platform for Docker containers and software dependencies",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "threat_radar-0.4.0.tar.gz",
-  "download_time": "2025-11-29T23:10:22.861849",
+  "download_filename": "threat_radar-0.5.0.tar.gz",
+  "download_time": "2025-11-29T23:29:42.534890",
   "package_url": "https://pypi.org/project/threat-radar/"
 }
