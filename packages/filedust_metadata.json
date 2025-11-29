@@ -1,11 +1,11 @@
 {
   "name": "filedust",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Opinionated junk cleaner for dev machines (caches, build artifacts, editor backups).",
   "author": "Marco D'Aleo",
   "license": "GPL-3.0-or-later",
   "home_page": "https://github.com/guardutils/filedust",
-  "download_filename": "filedust-0.3.0.tar.gz",
-  "download_time": "2025-11-29T11:26:24.691096",
+  "download_filename": "filedust-0.3.1.tar.gz",
+  "download_time": "2025-11-29T17:30:20.238925",
   "package_url": "https://pypi.org/project/filedust/"
 }

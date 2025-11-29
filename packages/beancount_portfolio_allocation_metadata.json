@@ -1,0 +1,11 @@
+{
+  "name": "beancount_portfolio_allocation",
+  "version": "1.0.0",
+  "summary": "Beancount portfolio allocation report",
+  "author": "Ghislain Bourgeois",
+  "license": null,
+  "home_page": null,
+  "download_filename": "beancount_portfolio_allocation-1.0.0.tar.gz",
+  "download_time": "2025-11-29T17:30:21.259620",
+  "package_url": "https://pypi.org/project/beancount_portfolio_allocation/"
+}

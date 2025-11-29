@@ -1,11 +1,11 @@
 {
   "name": "python-sn2",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Python library for SystemNexa2 device integration",
   "author": "Claes Nordmark",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "python_sn2-0.1.0.tar.gz",
-  "download_time": "2025-11-25T18:14:37.242338",
+  "download_filename": "python_sn2-0.1.1.tar.gz",
+  "download_time": "2025-11-29T17:30:18.700997",
   "package_url": "https://pypi.org/project/python-sn2/"
 }

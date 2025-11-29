@@ -1,0 +1,11 @@
+{
+  "name": "inema",
+  "version": "1.0.3",
+  "summary": "A Python interface to the Deutsche Post Internetmarke and Warenpost International Online Franking",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "inema-1.0.3.tar.gz",
+  "download_time": "2025-11-29T17:30:21.770412",
+  "package_url": "https://pypi.org/project/inema/"
+}

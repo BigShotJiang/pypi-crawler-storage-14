@@ -1,0 +1,11 @@
+{
+  "name": "conllu-tools",
+  "version": "1.3.0",
+  "summary": "A set of convenience tools for Natural Language Processing work with CoNLL-U files, UD treebanks, and annotated corpora.",
+  "author": "Gabe Pizzorno",
+  "license": null,
+  "home_page": null,
+  "download_filename": "conllu_tools-1.3.0.tar.gz",
+  "download_time": "2025-11-29T17:30:13.044640",
+  "package_url": "https://pypi.org/project/conllu-tools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "neverthrow",
+  "version": "0.2.3",
+  "summary": "An implementation of the either monad (rust's Result type)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "neverthrow-0.2.3.tar.gz",
+  "download_time": "2025-11-29T17:30:00.983679",
+  "package_url": "https://pypi.org/project/neverthrow/"
+}

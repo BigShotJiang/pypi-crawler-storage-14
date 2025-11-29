@@ -1,0 +1,11 @@
+{
+  "name": "nbgen-cli-amirbnsl",
+  "version": "0.3.2",
+  "summary": "A CLI tool to generate Jupyter Notebooks with data loading scripts.",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nbgen_cli_amirbnsl-0.3.2.tar.gz",
+  "download_time": "2025-11-29T17:30:00.473889",
+  "package_url": "https://pypi.org/project/nbgen-cli-amirbnsl/"
+}

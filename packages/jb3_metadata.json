@@ -1,11 +1,11 @@
 {
   "name": "jb3",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "JB3 package – unified access to LJSE and NASDAQ financial data",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jb3-0.1.0.tar.gz",
-  "download_time": "2025-11-29T12:59:03.157874",
+  "download_filename": "jb3-0.1.1.tar.gz",
+  "download_time": "2025-11-29T17:30:19.729077",
   "package_url": "https://pypi.org/project/jb3/"
 }

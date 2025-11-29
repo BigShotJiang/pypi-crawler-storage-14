@@ -1,0 +1,11 @@
+{
+  "name": "a42-proto",
+  "version": "0.4.2",
+  "summary": "Protobuf Python bindings for A42 sensor data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "a42_proto-0.4.2.tar.gz",
+  "download_time": "2025-11-29T17:29:58.932389",
+  "package_url": "https://pypi.org/project/a42-proto/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "teltasync",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Async, typed API client for Teltonika routers, built for Home Assistant",
   "author": "Karl Beecken",
   "license": null,
   "home_page": null,
-  "download_filename": "teltasync-0.1.1.tar.gz",
-  "download_time": "2025-11-29T12:17:08.704456",
+  "download_filename": "teltasync-0.1.3.tar.gz",
+  "download_time": "2025-11-29T17:30:02.522195",
   "package_url": "https://pypi.org/project/teltasync/"
 }
