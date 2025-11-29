@@ -1,11 +1,11 @@
 {
   "name": "rcsb-embedding-model",
-  "version": "0.0.42",
+  "version": "0.0.43",
   "summary": "Protein Embedding Model for Structure Search",
   "author": null,
   "license": "# Cambrian Non-Commercial License Agreement\n        \n        This project is licensed under the EvolutionaryScale Cambrian Non-Commercial License Agreement.\n        See: https://www.evolutionaryscale.ai/policies/cambrian-non-commercial-license-agreement",
   "home_page": null,
-  "download_filename": "rcsb_embedding_model-0.0.42.tar.gz",
-  "download_time": "2025-11-25T21:38:24.644718",
+  "download_filename": "rcsb_embedding_model-0.0.43.tar.gz",
+  "download_time": "2025-11-29T00:43:29.755089",
   "package_url": "https://pypi.org/project/rcsb-embedding-model/"
 }

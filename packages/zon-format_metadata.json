@@ -1,0 +1,11 @@
+{
+  "name": "zon-format",
+  "version": "1.0.3",
+  "summary": "Zero Overhead Notation v1.0.3 - Human-readable data format with 30%+ compression over JSON",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zon_format-1.0.3.tar.gz",
+  "download_time": "2025-11-29T00:43:31.892571",
+  "package_url": "https://pypi.org/project/zon-format/"
+}

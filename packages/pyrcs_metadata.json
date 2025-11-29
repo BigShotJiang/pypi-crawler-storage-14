@@ -1,0 +1,11 @@
+{
+  "name": "pyrcs",
+  "version": "1.0.3",
+  "summary": "An open-source tool for collecting railway codes used in different UK rail industry systems",
+  "author": "Qian Fu",
+  "license": "MIT",
+  "home_page": "https://github.com/mikeqfu/pyrcs",
+  "download_filename": "pyrcs-1.0.3.tar.gz",
+  "download_time": "2025-11-29T00:43:42.010867",
+  "package_url": "https://pypi.org/project/pyrcs/"
+}

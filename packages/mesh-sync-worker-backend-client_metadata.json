@@ -1,0 +1,11 @@
+{
+  "name": "mesh-sync-worker-backend-client",
+  "version": "1.0.3",
+  "summary": "Auto-generated Python client for Mesh-Sync worker-backend",
+  "author": "Mesh-Sync",
+  "license": "ISC",
+  "home_page": "https://github.com/Mesh-Sync/worker-backend",
+  "download_filename": "mesh_sync_worker_backend_client-1.0.3.tar.gz",
+  "download_time": "2025-11-29T00:43:30.791221",
+  "package_url": "https://pypi.org/project/mesh-sync-worker-backend-client/"
+}

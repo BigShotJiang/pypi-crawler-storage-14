@@ -1,0 +1,11 @@
+{
+  "name": "d2grid",
+  "version": "0.3.0",
+  "summary": "Highly customizable Dota 2 hero grid generator",
+  "author": "Denys Vasylyshyn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "d2grid-0.3.0.tar.gz",
+  "download_time": "2025-11-29T00:43:50.474353",
+  "package_url": "https://pypi.org/project/d2grid/"
+}

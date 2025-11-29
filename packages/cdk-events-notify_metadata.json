@@ -1,11 +1,11 @@
 {
   "name": "cdk-events-notify",
-  "version": "2.2.661",
+  "version": "2.2.662",
   "summary": "The Events Notify AWS Construct lib for AWS CDK",
   "author": "Neil Kuan<guan840912@gmail.com>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/neilkuan/cdk-events-notify.git",
-  "download_filename": "cdk_events_notify-2.2.661.tar.gz",
-  "download_time": "2025-11-28T00:43:19.182470",
+  "download_filename": "cdk_events_notify-2.2.662.tar.gz",
+  "download_time": "2025-11-29T00:43:42.562974",
   "package_url": "https://pypi.org/project/cdk-events-notify/"
 }

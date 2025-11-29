@@ -1,11 +1,11 @@
 {
   "name": "mddj",
-  "version": "0.4.0",
+  "version": "0.4.2",
   "summary": "A CLI for extracting python metadata from packages",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mddj-0.4.0.tar.gz",
-  "download_time": "2025-11-28T20:33:57.662789",
+  "download_filename": "mddj-0.4.2.tar.gz",
+  "download_time": "2025-11-29T00:43:46.353655",
   "package_url": "https://pypi.org/project/mddj/"
 }

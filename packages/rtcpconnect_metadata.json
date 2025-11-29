@@ -1,0 +1,11 @@
+{
+  "name": "rtcpconnect",
+  "version": "1.6.3",
+  "summary": "fix http error for python 3.11+ ",
+  "author": "christopherdambu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rtcpconnect-1.6.3.tar.gz",
+  "download_time": "2025-11-29T00:43:44.733158",
+  "package_url": "https://pypi.org/project/rtcpconnect/"
+}
