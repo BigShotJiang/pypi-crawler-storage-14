@@ -1,0 +1,11 @@
+{
+  "name": "unified-file-reader",
+  "version": "0.1.1",
+  "summary": "A clean, extensible file reader library supporting CSV, JSON, TXT, XLSX, PDF, and DOCX formats. Developed and tested on Python 3.12.8 (recommended). Other versions within 3.9–3.12 should also work.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "unified_file_reader-0.1.1.tar.gz",
+  "download_time": "2025-11-29T08:53:50.278287",
+  "package_url": "https://pypi.org/project/unified-file-reader/"
+}

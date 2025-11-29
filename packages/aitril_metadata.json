@@ -1,11 +1,11 @@
 {
   "name": "aitril",
-  "version": "0.0.32",
-  "summary": "AiTril - Multi-LLM orchestration CLI tool",
+  "version": "0.0.34",
+  "summary": "AiTril - Multi-LLM orchestration CLI tool with specialized code/agent providers",
   "author": "Collin Paran",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "aitril-0.0.32.tar.gz",
-  "download_time": "2025-11-29T07:10:37.664469",
+  "download_filename": "aitril-0.0.34.tar.gz",
+  "download_time": "2025-11-29T08:53:55.454127",
   "package_url": "https://pypi.org/project/aitril/"
 }

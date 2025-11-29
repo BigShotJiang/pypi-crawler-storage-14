@@ -1,0 +1,11 @@
+{
+  "name": "DecimalCalculator",
+  "version": "0.2",
+  "summary": "计算库（整合decimal）",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "decimalcalculator-0.2.tar.gz",
+  "download_time": "2025-11-29T08:53:46.644482",
+  "package_url": "https://pypi.org/project/DecimalCalculator/"
+}

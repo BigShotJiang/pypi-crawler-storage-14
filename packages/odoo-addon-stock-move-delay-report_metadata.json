@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-move-delay-report",
+  "version": "18.0.1.0.0.2",
+  "summary": "Stock Move Delay Report",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-reporting",
+  "download_filename": "odoo_addon_stock_move_delay_report-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-11-29T08:54:08.335382",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-move-delay-report/"
+}

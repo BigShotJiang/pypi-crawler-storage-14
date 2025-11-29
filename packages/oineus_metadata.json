@@ -1,0 +1,11 @@
+{
+  "name": "oineus",
+  "version": "0.9.21",
+  "summary": "Library for computing persistent homology",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "oineus-0.9.21-cp310-cp310-manylinux_2_26_aarch64.manylinux_2_28_aarch64.whl",
+  "download_time": "2025-11-29T08:53:49.765249",
+  "package_url": "https://pypi.org/project/oineus/"
+}
