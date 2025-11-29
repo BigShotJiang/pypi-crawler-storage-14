@@ -1,11 +1,11 @@
 {
   "name": "dominfo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A modern, lightweight Python library and CLI for WHOIS domain lookups.",
   "author": "M4RC0Sx",
   "license": "MIT",
   "home_page": "https://github.com/M4RC0Sx/dominfo",
-  "download_filename": "dominfo-1.0.1.tar.gz",
-  "download_time": "2025-11-29T18:41:59.435387",
+  "download_filename": "dominfo-1.0.2.tar.gz",
+  "download_time": "2025-11-29T19:03:23.888393",
   "package_url": "https://pypi.org/project/dominfo/"
 }
