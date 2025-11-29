@@ -1,11 +1,11 @@
 {
   "name": "spakky",
-  "version": "3.4.0",
+  "version": "4.0.0",
   "summary": "Core module for Spakky framework to support DI/IoC, AOP, Plugin system, and more.",
   "author": "Spakky",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spakky-3.4.0.tar.gz",
-  "download_time": "2025-11-28T14:11:42.356388",
+  "download_filename": "spakky-4.0.0.tar.gz",
+  "download_time": "2025-11-29T07:10:40.387083",
   "package_url": "https://pypi.org/project/spakky/"
 }

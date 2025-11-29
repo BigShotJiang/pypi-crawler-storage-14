@@ -1,0 +1,11 @@
+{
+  "name": "ai-bridge-cli",
+  "version": "1.0.1",
+  "summary": "AI Bridge: A unified tool for Chat & Batch processing with Kimi, Qwen, and Gemini.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_bridge_cli-1.0.1.tar.gz",
+  "download_time": "2025-11-29T07:10:29.146336",
+  "package_url": "https://pypi.org/project/ai-bridge-cli/"
+}

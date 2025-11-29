@@ -1,11 +1,11 @@
 {
   "name": "commit-genie",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A CLI tool that writes your git commit messages.",
   "author": "Shivam Bhosle",
   "license": null,
   "home_page": "https://github.com/007-shivam/commit-genie",
-  "download_filename": "commit_genie-1.0.3.tar.gz",
-  "download_time": "2025-11-29T06:45:17.315371",
+  "download_filename": "commit_genie-1.0.4.tar.gz",
+  "download_time": "2025-11-29T07:10:34.111548",
   "package_url": "https://pypi.org/project/commit-genie/"
 }
