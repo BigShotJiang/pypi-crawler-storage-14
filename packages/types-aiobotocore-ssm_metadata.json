@@ -1,0 +1,11 @@
+{
+  "name": "types-aiobotocore-ssm",
+  "version": "2.26.0",
+  "summary": "Type annotations for aiobotocore SSM 2.26.0 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_aiobotocore_ssm-2.26.0.tar.gz",
+  "download_time": "2025-11-29T02:22:12.642409",
+  "package_url": "https://pypi.org/project/types-aiobotocore-ssm/"
+}

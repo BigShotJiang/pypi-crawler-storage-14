@@ -1,0 +1,11 @@
+{
+  "name": "types-aiobotocore-lite",
+  "version": "2.26.0",
+  "summary": "Lite type annotations for aiobotocore 2.26.0 generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_aiobotocore_lite-2.26.0.tar.gz",
+  "download_time": "2025-11-29T02:21:46.867366",
+  "package_url": "https://pypi.org/project/types-aiobotocore-lite/"
+}

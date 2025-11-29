@@ -1,11 +1,11 @@
 {
   "name": "idiom-search",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "成语检索工具",
   "author": "HSQK",
   "license": "MIT",
   "home_page": "https://gitee.com/cnhsqk/idiom_search.git",
-  "download_filename": "idiom_search-1.0.8.tar.gz",
-  "download_time": "2025-11-28T09:49:28.657366",
+  "download_filename": "idiom_search-1.0.9.tar.gz",
+  "download_time": "2025-11-29T02:21:45.170956",
   "package_url": "https://pypi.org/project/idiom-search/"
 }

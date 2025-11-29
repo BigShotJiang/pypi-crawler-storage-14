@@ -1,0 +1,11 @@
+{
+  "name": "SurvivalScale",
+  "version": "0.0.10",
+  "summary": "Package to compute survival scale estimates.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "survivalscale-0.0.10.tar.gz",
+  "download_time": "2025-11-29T02:21:33.792236",
+  "package_url": "https://pypi.org/project/SurvivalScale/"
+}

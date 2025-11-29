@@ -1,11 +1,11 @@
 {
   "name": "minireqs",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A lightweight Python utility that scans .py files to detect all import statements, identifies the corresponding PyPI packages, and determines their installed version numbers. This tool automatically generates an accurate and minimal requirements.txt (or dependency list), making it ideal for packaging, deployment, and environment reproduction.",
   "author": null,
   "license": "LICENSE",
   "home_page": null,
-  "download_filename": "minireqs-0.1.0.tar.gz",
-  "download_time": "2025-11-28T23:29:32.263571",
+  "download_filename": "minireqs-0.1.2.tar.gz",
+  "download_time": "2025-11-29T02:21:37.663030",
   "package_url": "https://pypi.org/project/minireqs/"
 }

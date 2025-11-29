@@ -1,11 +1,11 @@
 {
   "name": "opensensor-enviroplus",
-  "version": "0.4.8",
+  "version": "0.5.0",
   "summary": "Modern CLI-based environmental sensor collector using Polars, Arrow, and Delta Lake for Enviro+",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opensensor_enviroplus-0.4.8.tar.gz",
-  "download_time": "2025-11-28T06:16:31.077690",
+  "download_filename": "opensensor_enviroplus-0.5.0.tar.gz",
+  "download_time": "2025-11-29T02:21:34.900393",
   "package_url": "https://pypi.org/project/opensensor-enviroplus/"
 }
