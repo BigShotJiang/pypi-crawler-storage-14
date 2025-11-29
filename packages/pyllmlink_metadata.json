@@ -1,0 +1,11 @@
+{
+  "name": "pyllmlink",
+  "version": "0.6.0",
+  "summary": "Python wrapper that downloads and launches the llm-link binary",
+  "author": "LLM Link Maintainers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyllmlink-0.6.0.tar.gz",
+  "download_time": "2025-11-29T14:10:05.072476",
+  "package_url": "https://pypi.org/project/pyllmlink/"
+}

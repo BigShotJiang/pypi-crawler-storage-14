@@ -1,0 +1,11 @@
+{
+  "name": "compz",
+  "version": "1.0.0",
+  "summary": "Privacy-Preserving Compliance Attestation SDK with Zcash blockchain anchoring",
+  "author": "CompliLedger",
+  "license": null,
+  "home_page": "https://github.com/Compliledger/CompZ",
+  "download_filename": "compz-1.0.0.tar.gz",
+  "download_time": "2025-11-29T14:10:03.516610",
+  "package_url": "https://pypi.org/project/compz/"
+}

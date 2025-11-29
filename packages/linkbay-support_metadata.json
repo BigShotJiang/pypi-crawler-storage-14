@@ -1,0 +1,11 @@
+{
+  "name": "linkbay-support",
+  "version": "0.1.0",
+  "summary": "Protocol-based, database-agnostic support and helpdesk system for multi-tenant SaaS",
+  "author": "Alessio Quagliara",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "linkbay_support-0.1.0.tar.gz",
+  "download_time": "2025-11-29T14:09:50.026841",
+  "package_url": "https://pypi.org/project/linkbay-support/"
+}

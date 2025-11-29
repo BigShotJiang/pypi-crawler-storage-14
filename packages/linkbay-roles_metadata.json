@@ -1,0 +1,11 @@
+{
+  "name": "linkbay-roles",
+  "version": "0.1.0",
+  "summary": "Protocol-based, database-agnostic roles and permissions framework for multi-tenant SaaS",
+  "author": "Alessio Quagliara",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "linkbay_roles-0.1.0.tar.gz",
+  "download_time": "2025-11-29T14:10:02.997257",
+  "package_url": "https://pypi.org/project/linkbay-roles/"
+}
