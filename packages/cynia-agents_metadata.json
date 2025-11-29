@@ -1,0 +1,11 @@
+{
+  "name": "cynia-agents",
+  "version": "2.0.0",
+  "summary": "A lightweight framework for running generative agents through a Streamlit interface.",
+  "author": "CyniaAgents Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cynia_agents-2.0.0.tar.gz",
+  "download_time": "2025-11-29T12:58:33.266498",
+  "package_url": "https://pypi.org/project/cynia-agents/"
+}

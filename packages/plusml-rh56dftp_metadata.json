@@ -1,11 +1,11 @@
 {
   "name": "plusml-rh56dftp",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "A Python library for communicating with RH56DFTP devices (tactile hand)",
   "author": "plus-m-r",
   "license": null,
   "home_page": "https://github.com/plus-m-r/RH56DFTP_teach",
-  "download_filename": "plusml_rh56dftp-0.1.4.tar.gz",
-  "download_time": "2025-11-29T11:48:13.528632",
+  "download_filename": "plusml_rh56dftp-0.1.6.tar.gz",
+  "download_time": "2025-11-29T12:58:49.550495",
   "package_url": "https://pypi.org/project/plusml-rh56dftp/"
 }

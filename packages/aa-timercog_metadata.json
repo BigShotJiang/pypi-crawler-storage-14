@@ -1,0 +1,11 @@
+{
+  "name": "aa-timercog",
+  "version": "0.0.7",
+  "summary": "Discord bot command extension for aa-structuretimers",
+  "author": "crazydisi",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/aa-timercog",
+  "download_filename": "aa_timercog-0.0.7.tar.gz",
+  "download_time": "2025-11-29T12:58:58.460388",
+  "package_url": "https://pypi.org/project/aa-timercog/"
+}

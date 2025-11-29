@@ -1,11 +1,11 @@
 {
   "name": "streamware",
-  "version": "0.2.4",
+  "version": "0.2.7",
   "summary": "Modern Python stream processing framework inspired by Apache Camel",
   "author": "Softreck Team",
   "license": null,
   "home_page": "https://github.com/softreck/streamware",
-  "download_filename": "streamware-0.2.4.tar.gz",
-  "download_time": "2025-11-29T12:16:58.545503",
+  "download_filename": "streamware-0.2.7.tar.gz",
+  "download_time": "2025-11-29T12:58:54.743395",
   "package_url": "https://pypi.org/project/streamware/"
 }

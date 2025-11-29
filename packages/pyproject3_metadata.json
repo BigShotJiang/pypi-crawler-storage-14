@@ -1,0 +1,11 @@
+{
+  "name": "pyproject3",
+  "version": "1.2.2",
+  "summary": "一个快速创建Python新项目的轮子",
+  "author": "Peter Jiang",
+  "license": null,
+  "home_page": "https://gitee.com/jiangbin2020/py-project",
+  "download_filename": "pyproject3-1.2.2-py3-none-any.whl",
+  "download_time": "2025-11-29T12:58:45.875094",
+  "package_url": "https://pypi.org/project/pyproject3/"
+}

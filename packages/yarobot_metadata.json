@@ -1,11 +1,11 @@
 {
   "name": "yarobot",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "YARA generator inspired by yarGen",
   "author": null,
   "license": "GPL-3.0-only",
   "home_page": "https://github.com/ogre2007/yarobot",
-  "download_filename": "yarobot-0.3.3.tar.gz",
-  "download_time": "2025-11-29T10:11:12.950516",
+  "download_filename": "yarobot-0.3.4.tar.gz",
+  "download_time": "2025-11-29T12:59:03.699698",
   "package_url": "https://pypi.org/project/yarobot/"
 }

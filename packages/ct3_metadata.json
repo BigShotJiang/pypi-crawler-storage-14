@@ -1,0 +1,11 @@
+{
+  "name": "ct3",
+  "version": "3.4.0.post5",
+  "summary": "Cheetah is a template engine and code generation tool",
+  "author": "Tavis Rudd",
+  "license": "MIT",
+  "home_page": "https://cheetahtemplate.org/",
+  "download_filename": "ct3-3.4.0.post5.tar.gz",
+  "download_time": "2025-11-29T12:58:55.279134",
+  "package_url": "https://pypi.org/project/ct3/"
+}

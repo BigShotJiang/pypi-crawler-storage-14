@@ -1,0 +1,11 @@
+{
+  "name": "batch-router",
+  "version": "0.2.7",
+  "summary": "A Python package designed to facilitate batch LLM requests efficiently across multiple providers with a unified interface.",
+  "author": "javi22020",
+  "license": null,
+  "home_page": null,
+  "download_filename": "batch_router-0.2.7.tar.gz",
+  "download_time": "2025-11-29T12:59:08.520722",
+  "package_url": "https://pypi.org/project/batch-router/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "xai",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "XAI - An industry-ready machine learning library that ensures explainable AI by design",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xai-0.2.0.tar.gz",
-  "download_time": "2025-11-29T11:33:24.268552",
+  "download_filename": "xai-0.3.0.tar.gz",
+  "download_time": "2025-11-29T12:58:32.682519",
   "package_url": "https://pypi.org/project/xai/"
 }

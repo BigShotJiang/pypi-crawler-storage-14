@@ -1,0 +1,11 @@
+{
+  "name": "rath",
+  "version": "3.8.0",
+  "summary": "async transport-agnostic graphql client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rath-3.8.0.tar.gz",
+  "download_time": "2025-11-29T12:58:51.112192",
+  "package_url": "https://pypi.org/project/rath/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "supplychainlib",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A private Python library for AWS service integrations in the Supply Chain project",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "supplychainlib-0.1.5.tar.gz",
-  "download_time": "2025-11-29T12:17:14.787580",
+  "download_filename": "supplychainlib-0.1.6.tar.gz",
+  "download_time": "2025-11-29T12:59:10.618184",
   "package_url": "https://pypi.org/project/supplychainlib/"
 }
