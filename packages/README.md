@@ -1,24 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-29T05:11:44.569468
-- **Total Packages**: 55
-- **Total Size**: 2.67 MB
+- **Download Time**: 2025-11-29T05:34:17.100721
+- **Total Packages**: 71
+- **Total Size**: 5.61 MB
 
 ## Packages List
+- n-sum
+- lifecyclelogging
+- svc-infra
+- starbash
+- lfcs
+- zeta-mlx-langchain
+- zeta-mlx-rag
+- pygcprofiler
+- zeta-mlx-cli
+- zeta-mlx-embedding
+- zeta-mlx-inference
+- zeta-mlx-core
+- edt
+- cortex-omega
+- dremioframe
+- moltres
+- opensensor-enviroplus
+- python-tm1637
+- lumera
+- openai-agents-testkit
+- secret-learn
+- hdim-opt
+- codegen-2
+- tsmasterapi
+- clappia-api-tools
+- deepseek-ocr-cliv2
+- raggify-client
+- raggify
+- pulumi-aws-native
+- enecoq-data-fetcher
+- better-auth
 - yaaat
 - feature-generate
 - fontforge-stubs
 - gemini-api-toolkit
-- opensensor-enviroplus
-- secret-learn
 - etielle
 - tumblr-backup
 - lacrei-models
 - vop-poc-nz
 - cosmol-viewer
 - schedule-management
-- enecoq-data-fetcher
 - terrain-diffusion
 - liscopelens
 - pulumi-scm
@@ -30,7 +58,6 @@
 - serger
 - pulumi-xyz
 - civic-exchange-protocol
-- n-sum
 - iamdata
 - aitril
 - holodeck-ai
@@ -39,7 +66,6 @@
 - gym-examples
 - mcpcn-video-format-converter
 - mcpcn-video-silence-remover-mcp
-- starbash
 - bear-utils
 - mcpcn-video-extract-audio-mcp
 - mcpcn-video-text-watermark-mcp
@@ -51,13 +77,3 @@
 - karrio-teleship
 - karrio-shipengine
 - geosnap
-- karrio-seko
-- karrio-sapient
-- python-qlv-helper
-- karrio-mydhl
-- karrio-landmark
-- karrio-hay-post
-- pydoll-python
-- karrio-easyship
-- karrio-dhl-parcel-de
-- karrio-cli

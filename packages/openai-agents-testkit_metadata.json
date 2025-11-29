@@ -1,0 +1,11 @@
+{
+  "name": "openai-agents-testkit",
+  "version": "0.1.0",
+  "summary": "Testing utilities for openai-agents-python: fake models, providers, and pytest fixtures",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openai_agents_testkit-0.1.0.tar.gz",
+  "download_time": "2025-11-29T05:33:49.775902",
+  "package_url": "https://pypi.org/project/openai-agents-testkit/"
+}

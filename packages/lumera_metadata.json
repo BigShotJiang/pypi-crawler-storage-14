@@ -1,11 +1,11 @@
 {
   "name": "lumera",
-  "version": "0.4.16",
-  "summary": "Lumera Agent SDK for API interaction and dynamic UI generation.",
+  "version": "0.4.17",
+  "summary": "SDK for building on Lumera platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lumera-0.4.16.tar.gz",
-  "download_time": "2025-11-28T05:35:16.116372",
+  "download_filename": "lumera-0.4.17.tar.gz",
+  "download_time": "2025-11-29T05:33:49.248758",
   "package_url": "https://pypi.org/project/lumera/"
 }
