@@ -1,11 +1,24 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-29T08:14:27.124489
-- **Total Packages**: 79
-- **Total Size**: 33.38 MB
+- **Download Time**: 2025-11-29T08:39:26.192875
+- **Total Packages**: 77
+- **Total Size**: 13.48 MB
 
 ## Packages List
+- Essentiax
+- jleechanorg-pr-automation
+- jleechanorg-orchestration
+- falkordb-orm
+- ultimateraylib
+- aithreads
+- COOLBOOY
+- mcpcn-video-info-mcp
+- mapify-cli
+- flix-cli
+- mcli-framework
+- pyglove
+- StreamingCommunity
 - curllm
 - passagemath-docbuild
 - passagemath-doc-pdf
@@ -17,7 +30,6 @@
 - verge-auth
 - kotu
 - bug-tracker-cli
-- Essentiax
 - test-ylang
 - bear-epoch-time
 - tf-models-nightly
@@ -61,7 +73,6 @@
 - py-ezl
 - ai-edge-litert-nightly
 - keyboardsounds
-- mcli-framework
 - linux-ssh-mcp
 - cv2-enumerate-cameras
 - streamware
@@ -72,16 +83,3 @@
 - Nanashi-OpenShockPY
 - stellium
 - langchain-dev-utils
-- bangla-render
-- delta-trace-db
-- commit-genie
-- fengchao-sdk
-- videofetch
-- juham-automation
-- ai-safety-tester
-- aitril
-- rhosocial-activerecord-postgres
-- spakky-typer
-- spakky-rabbitmq
-- spakky-fastapi
-- spakky

@@ -1,11 +1,11 @@
 {
   "name": "mcli-framework",
-  "version": "7.19.12",
+  "version": "7.19.13",
   "summary": "Universal script runner with intelligent tab completion. Run any Python/Shell/Jupyter script directly with mcli run ./script.py, or register as versioned workflows for scheduling and sharing.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcli_framework-7.19.12.tar.gz",
-  "download_time": "2025-11-29T07:37:33.921569",
+  "download_filename": "mcli_framework-7.19.13.tar.gz",
+  "download_time": "2025-11-29T08:38:49.777296",
   "package_url": "https://pypi.org/project/mcli-framework/"
 }
