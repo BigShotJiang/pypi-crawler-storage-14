@@ -1,0 +1,11 @@
+{
+  "name": "supplytrack-co2-analytics",
+  "version": "1.0.0",
+  "summary": "A Python library for calculating and tracking CO2 emissions from shipments",
+  "author": "SupplyTrack Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/co2-analytics",
+  "download_filename": "supplytrack_co2_analytics-1.0.0.tar.gz",
+  "download_time": "2025-11-29T11:48:15.177499",
+  "package_url": "https://pypi.org/project/supplytrack-co2-analytics/"
+}

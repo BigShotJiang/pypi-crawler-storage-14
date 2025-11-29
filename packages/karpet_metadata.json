@@ -1,11 +1,11 @@
 {
   "name": "karpet",
-  "version": "0.5.3.post1",
+  "version": "0.5.4",
   "summary": "Library for fetching coin/token historical data, trends and more.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "karpet-0.5.3.post1.tar.gz",
-  "download_time": "2025-11-25T18:45:51.222348",
+  "download_filename": "karpet-0.5.4.tar.gz",
+  "download_time": "2025-11-29T11:48:14.641113",
   "package_url": "https://pypi.org/project/karpet/"
 }

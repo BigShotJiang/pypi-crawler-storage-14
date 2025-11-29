@@ -1,0 +1,11 @@
+{
+  "name": "elf",
+  "version": "1.0.0",
+  "summary": "Advent of Code helper for Python: fetch and cache inputs, submit answers, and pull private leaderboards.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "elf-1.0.0.tar.gz",
+  "download_time": "2025-11-29T11:48:00.371078",
+  "package_url": "https://pypi.org/project/elf/"
+}

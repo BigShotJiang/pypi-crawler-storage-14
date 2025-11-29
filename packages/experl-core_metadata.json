@@ -1,0 +1,11 @@
+{
+  "name": "experl-core",
+  "version": "0.1.0.dev6",
+  "summary": "Train large language models using reinforcement learning with human feedback.",
+  "author": "Vijay Khambe",
+  "license": null,
+  "home_page": "https://github.com/vjkhambe/experl-core",
+  "download_filename": "experl_core-0.1.0.dev6.tar.gz",
+  "download_time": "2025-11-29T11:48:11.888448",
+  "package_url": "https://pypi.org/project/experl-core/"
+}
