@@ -1,11 +1,11 @@
 {
   "name": "vendor-connectors",
-  "version": "202511.7.0",
+  "version": "202511.8.0",
   "summary": "Universal vendor connectors with transparent secret management",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vendor_connectors-202511.7.0.tar.gz",
-  "download_time": "2025-11-29T05:49:18.324251",
+  "download_filename": "vendor_connectors-202511.8.0.tar.gz",
+  "download_time": "2025-11-29T08:13:55.212419",
   "package_url": "https://pypi.org/project/vendor-connectors/"
 }

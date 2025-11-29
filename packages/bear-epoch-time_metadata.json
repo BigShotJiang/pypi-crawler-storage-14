@@ -1,11 +1,11 @@
 {
   "name": "bear-epoch-time",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "summary": "Elegant epoch timestamp handling with timezone-aware operations, fluent API, and smart defaults for Python developers who hate datetime complexity.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bear_epoch_time-1.2.8.tar.gz",
-  "download_time": "2025-11-26T07:11:06.481057",
+  "download_filename": "bear_epoch_time-1.2.9.tar.gz",
+  "download_time": "2025-11-29T08:13:47.914577",
   "package_url": "https://pypi.org/project/bear-epoch-time/"
 }
