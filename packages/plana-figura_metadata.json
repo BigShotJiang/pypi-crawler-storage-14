@@ -1,0 +1,11 @@
+{
+  "name": "plana-figura",
+  "version": "100.30",
+  "summary": "A 2D geometry library for surveying and CAD applications",
+  "author": "SurveyOS Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "plana_figura-100.30-py3-none-any.whl",
+  "download_time": "2025-11-29T17:09:59.214935",
+  "package_url": "https://pypi.org/project/plana-figura/"
+}

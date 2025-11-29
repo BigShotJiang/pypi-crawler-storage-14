@@ -1,11 +1,11 @@
 {
   "name": "versecbot-interface",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Versioned interface for VerSecBot and its plugins",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "versecbot_interface-0.4.1.tar.gz",
-  "download_time": "2025-11-29T05:11:26.148030",
+  "download_filename": "versecbot_interface-0.4.2.tar.gz",
+  "download_time": "2025-11-29T17:09:54.449571",
   "package_url": "https://pypi.org/project/versecbot-interface/"
 }

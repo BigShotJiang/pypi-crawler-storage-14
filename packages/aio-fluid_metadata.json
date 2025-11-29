@@ -1,0 +1,11 @@
+{
+  "name": "aio-fluid",
+  "version": "1.6.3",
+  "summary": "Tools for backend python services",
+  "author": "Luca Sbardella",
+  "license": "BSD",
+  "home_page": "https://github.com/quantmind/aio-fluid",
+  "download_filename": "aio_fluid-1.6.3.tar.gz",
+  "download_time": "2025-11-29T17:09:51.816302",
+  "package_url": "https://pypi.org/project/aio-fluid/"
+}
