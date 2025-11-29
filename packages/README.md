@@ -1,20 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-29T03:33:55.881705
-- **Total Packages**: 86
-- **Total Size**: 26.54 MB
+- **Download Time**: 2025-11-29T04:00:19.872485
+- **Total Packages**: 79
+- **Total Size**: 19.55 MB
 
 ## Packages List
+- better-auth
+- odoo-addons-oca-sale-reporting
+- python-roborock
+- pulumi-hcloud
+- sqlbench
+- ai-lls-lib
+- ikabot
+- vop-poc-nz
+- mcp-server-nbotbb
+- mrender
+- odoo-addon-purchase-default-terms-conditions
+- odoo-addon-purchase-manual-delivery
+- music-assistant-frontend
+- odoo-addon-purchase-return
+- sirs-import
+- cubething_psync
+- guide-framework
+- python-ember-mug
+- pytest-test-categories
+- opensensor-enviroplus
+- python-qlv-helper
+- openubmc-bingo
+- mcpcn-video-to-gif
+- zizmor
+- masgent
+- weather-decoder
+- veriskgo
+- koder
+- odoo-addon-payroll
+- odoo-addons-oca-partner-contact
+- odoo-addon-partner-firstname
+- odoo-addon-partner-contact-address-default
+- mcp-ticketer
+- egokit
+- nhl-vis-386
+- pg-sui
+- cortex-omega
+- checksum-dict
 - dooit
 - odoo-addon-mis-builder-demo
 - commit-genie
 - GANDLF
-- opensensor-enviroplus
 - sqless
 - sparkwheel
 - pylint-cache
-- weather-decoder
 - odoo-addon-mgmtsystem-nonconformity-type
 - bantam
 - airball
@@ -26,7 +62,6 @@
 - odoo12-addon-mgmtsystem-nonconformity-type
 - odoo11-addon-mgmtsystem-nonconformity-type
 - napari-piscis
-- mcp-server-nbotbb
 - cheetah-greb
 - mcpcn-video-concatenate-mcp
 - echograph
@@ -39,56 +74,14 @@
 - mcpcn-video-cover-mcp
 - mcpcn-video-silence-remover-mcp
 - mcpcn-video-speed-mcp
-- guide-framework
 - mcpcn-video-image-watermark-mcp
 - pyBLUP
 - mcpcn-video-text-watermark-mcp
 - feature-generate
 - mcpcn-video-aspect-ratio-mcp
 - mns-scheduler
-- sirs-import
 - cwsl
 - radboy
 - pyAgrum-nightly
 - proviso
 - audio-properties-mcp
-- lazyllm-verl
-- openmeter
-- jeremydimond.pymlga
-- dremioframe
-- ha-epb
-- cosmol-viewer
-- dr-agent-ui
-- ypricemagic
-- audio-format-mcp
-- velocidictate
-- mcpcn-video-to-gif
-- pdf-mcp-encrypt
-- spotsweeper
-- aitril
-- moltres
-- zizmor
-- pzu
-- odoo-addon-hr-holidays-summary-email
-- odoo-addon-hr-expense-advance-overdue-reminder
-- odoo-addons-oca-hr
-- odoo-addon-hr-appraisal-oca
-- DjangX
-- PrintTolCalc
-- agrifrika-shared
-- types-docker
-- types-psutil
-- odoo-addon-helpdesk-mgmt-activity
-- memorygraphMCP
-- UtilityLibAPI
-- etielle
-- artificer-workflows
-- mdformat-mkdocs
-- mcpcn-video-compressor-mcp
-- odoo-addon-edi-core-oca
-- flufl.i18n
-- odoo-addon-edi-oca
-- odoo-addons-oca-edi
-- trade-safety
-- flixopt
-- odoo-addon-website-sale-empty-cart

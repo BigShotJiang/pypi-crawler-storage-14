@@ -1,11 +1,11 @@
 {
   "name": "weather-decoder",
-  "version": "1.0.9",
+  "version": "1.1.1",
   "summary": "A comprehensive METAR and TAF decoder for aviation weather reports",
   "author": "Justin",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "weather_decoder-1.0.9.tar.gz",
-  "download_time": "2025-11-29T03:33:14.936851",
+  "download_filename": "weather_decoder-1.1.1.tar.gz",
+  "download_time": "2025-11-29T03:59:51.353778",
   "package_url": "https://pypi.org/project/weather-decoder/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-purchase-default-terms-conditions",
+  "version": "18.0.1.0.0.6",
+  "summary": "This module allows purchase default terms & conditions",
+  "author": "Escodoo,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/purchase-workflow",
+  "download_filename": "odoo_addon_purchase_default_terms_conditions-18.0.1.0.0.6-py3-none-any.whl",
+  "download_time": "2025-11-29T03:59:42.970045",
+  "package_url": "https://pypi.org/project/odoo-addon-purchase-default-terms-conditions/"
+}

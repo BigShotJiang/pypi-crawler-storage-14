@@ -1,0 +1,11 @@
+{
+  "name": "checksum-dict",
+  "version": "2.1.14",
+  "summary": "checksum_dict's objects handle the simple but repetitive task of checksumming addresses before setting/getting dictionary values.",
+  "author": "BobTheBuidler",
+  "license": "MIT",
+  "home_page": "https://github.com/BobTheBuidler/checksum_dict",
+  "download_filename": "checksum_dict-2.1.14.tar.gz",
+  "download_time": "2025-11-29T03:59:57.710586",
+  "package_url": "https://pypi.org/project/checksum-dict/"
+}
