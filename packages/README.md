@@ -1,11 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-29T21:37:16.411934
-- **Total Packages**: 84
-- **Total Size**: 6.66 MB
+- **Download Time**: 2025-11-29T21:49:36.396348
+- **Total Packages**: 92
+- **Total Size**: 11.06 MB
 
 ## Packages List
+- backmap
+- premium-lib
+- c2cwsgiutils
+- viva-datacreator
+- pyarud
+- orthoxml-tools
+- dars-framework
+- sentinel-core
+- conversation-tk
+- agentic-coder
+- cmsend
+- formalyzer
+- githerer
+- reach_commons
+- mcp-browser
+- agentmail
+- pyvegh
+- apppy-env
+- apppy-logger
+- apppy-clients
+- apppy-db
+- apppy-aws
+- depcleaner
+- apppy-fs
+- apppy-sb
+- trame-vtklocal
+- apppy-queues
+- promptsql
+- apppy-app
+- openmeter
+- apppy-generic
+- apppy-auth
+- apppy-fastql
+- tvi-solphit-discera-capability-web-search
+- mcp_mail
 - symetrie-hexapod
 - plato-spw
 - plato-hdf5
@@ -60,33 +95,6 @@
 - smartmemory
 - mcp-refactoring
 - google-nest-sdm
-- agentic-coder
 - emhass
 - llm-session
 - abstract-ide
-- rk-transformers
-- flowyml
-- pyiron-atomistics
-- abstract-clipit
-- qualibrate
-- chen-signatures
-- refundengine
-- pulka
-- hydraflow
-- nprompter
-- copium
-- svs-core
-- redfetch
-- bookmark-tk
-- komodo-api
-- simplyprint-bambu-lab
-- mcp-skillset
-- semantico
-- brand.dev
-- ofscraper
-- jiro-dreams-of-code
-- pypuml
-- hermes-deployer
-- cortex-omega
-- mdformat-mkdocs
-- ha-mcp
