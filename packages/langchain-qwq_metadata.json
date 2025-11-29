@@ -1,0 +1,11 @@
+{
+  "name": "langchain-qwq",
+  "version": "0.3.1",
+  "summary": "An integration package connecting Qwen 3, QwQ and LangChain",
+  "author": "Yiğit Bekir Kaya, PhD",
+  "license": "MIT",
+  "home_page": "https://github.com/yigit353/langchain-qwq",
+  "download_filename": "langchain_qwq-0.3.1.tar.gz",
+  "download_time": "2025-11-29T09:41:07.487786",
+  "package_url": "https://pypi.org/project/langchain-qwq/"
+}

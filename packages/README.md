@@ -1,11 +1,19 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-29T09:31:38.254208
-- **Total Packages**: 72
-- **Total Size**: 18.86 MB
+- **Download Time**: 2025-11-29T09:41:47.843296
+- **Total Packages**: 74
+- **Total Size**: 11.88 MB
 
 ## Packages List
+- weconnect
+- langchain-qwq
+- pytots
+- spectroview
+- yarobot
+- aicrowd-cli
+- nonebot-plugin-templates-draw
+- gpack
 - lsyiot-adapter-hub-sdk
 - pyolive-ng
 - starbash
@@ -24,7 +32,6 @@
 - tabstar
 - cr-utils
 - volkswagencarnet
-- gpack
 - odoo-addon-partner-vat-unique
 - aiinbx
 - reclaimor
@@ -73,8 +80,3 @@
 - logguru
 - oineus
 - unified-file-reader
-- brahe
-- faster-hexbytes
-- lazy-log-formatter
-- openmemory-py
-- connectonion

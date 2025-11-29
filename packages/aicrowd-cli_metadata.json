@@ -1,0 +1,11 @@
+{
+  "name": "aicrowd-cli",
+  "version": "0.1.18",
+  "summary": "A CLI app to interact with AIcrowd",
+  "author": "Yoogottam Khandelwal",
+  "license": "MIT",
+  "home_page": "https://gitlab.aicrowd.com/aicrowd/aicrowd-cli",
+  "download_filename": "aicrowd_cli-0.1.18-py3-none-any.whl",
+  "download_time": "2025-11-29T09:41:10.147356",
+  "package_url": "https://pypi.org/project/aicrowd-cli/"
+}

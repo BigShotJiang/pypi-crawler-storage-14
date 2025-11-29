@@ -1,8 +1,16 @@
 {
-  "download_time": "2025-11-29T09:31:38.254208",
-  "total_packages_downloaded": 72,
-  "total_size_mb": 18.86,
+  "download_time": "2025-11-29T09:41:47.843296",
+  "total_packages_downloaded": 74,
+  "total_size_mb": 11.88,
   "packages": [
+    "weconnect",
+    "langchain-qwq",
+    "pytots",
+    "spectroview",
+    "yarobot",
+    "aicrowd-cli",
+    "nonebot-plugin-templates-draw",
+    "gpack",
     "lsyiot-adapter-hub-sdk",
     "pyolive-ng",
     "starbash",
@@ -21,7 +29,6 @@
     "tabstar",
     "cr-utils",
     "volkswagencarnet",
-    "gpack",
     "odoo-addon-partner-vat-unique",
     "aiinbx",
     "reclaimor",
@@ -69,11 +76,6 @@
     "conson-xp",
     "logguru",
     "oineus",
-    "unified-file-reader",
-    "brahe",
-    "faster-hexbytes",
-    "lazy-log-formatter",
-    "openmemory-py",
-    "connectonion"
+    "unified-file-reader"
   ]
 }
