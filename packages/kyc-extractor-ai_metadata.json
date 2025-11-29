@@ -1,0 +1,11 @@
+{
+  "name": "kyc-extractor-ai",
+  "version": "0.1.0",
+  "summary": "AI-powered KYC Document Extraction using Google Gemini",
+  "author": "Arvind",
+  "license": null,
+  "home_page": "https://github.com/arvi1999/kyc-extractor-ai",
+  "download_filename": "kyc_extractor_ai-0.1.0.tar.gz",
+  "download_time": "2025-11-29T18:42:12.395607",
+  "package_url": "https://pypi.org/project/kyc-extractor-ai/"
+}

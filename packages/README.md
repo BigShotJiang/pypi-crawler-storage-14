@@ -1,17 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-29T18:14:58.309735
-- **Total Packages**: 84
-- **Total Size**: 12.19 MB
+- **Download Time**: 2025-11-29T18:42:41.037054
+- **Total Packages**: 81
+- **Total Size**: 20.14 MB
 
 ## Packages List
+- superset-chat
+- uiprotect
+- dominfo
+- cmtj
+- agentic-coder
+- x-mlps-pytorch
+- alnp
+- cortex-omega
+- lazy-bird
+- Hydro-Quebec-API-Wrapper
+- andrewphd
+- typhonbreaker
+- pytest-test-categories
+- pyreverb
+- igloo-mcp
+- reax
+- genro-tytx
+- x-evolution
+- reversible-unlearning
+- richcolorlog
+- optionsconfig
+- yoshio
+- tvi-solphit-ingialla
+- listofdicts
+- ushka
+- terraflow-agro
+- kyc-extractor-ai
+- search-vulns
+- urban-footprinter
+- ai-lls-lib
+- jararaca
+- ocrbridge-easyocr
+- ramifier
+- bioverse-ml
+- tensorwatchext
+- aiinbx
+- Sandroid
+- curriculus
+- audex
+- voc4cat
+- dioxide
+- powerlawrs
 - lazygradle
 - memorystack
 - easy-password-gen
 - contextinator
-- superset-chat
-- ushka
 - shellrecharge
 - bad-color-map
 - mackup
@@ -22,7 +62,6 @@
 - AndroidFridaManager
 - balderhub-crud
 - colorisator
-- reversible-unlearning
 - tnfr
 - sera-2
 - mknodes
@@ -48,45 +87,3 @@
 - vbai
 - syncline-mcp-server
 - pynpiv
-- rug
-- trism-cv
-- rethink-llmhub
-- nbgen-cli-amirbnsl
-- habana-pyhlml
-- habana-media-loader
-- mkdocs-mknodes
-- igloo-mcp
-- locust
-- 2025-assignment2-vaultPasswordManager
-- rtichoke
-- apsw
-- never-jscore
-- json-structure
-- ElSabio
-- aa-corphandouts
-- ai-lls-lib
-- yoshio
-- polarchart
-- agentic-graph-mem
-- simple-item-plugin
-- orka-reasoning
-- zephyr-py
-- apc-ups-security-auditor
-- pyfilemetre
-- python-roborock
-- ocrbridge-tesseract
-- Flask-Mailing
-- etekcity-esf551-ble
-- precice-config-graph
-- agentfoundry
-- geminiai-cli
-- erosolar
-- woe-credit-scoring
-- pysdm-examples
-- pysdm
-- a42-proto
-- ocrbridge-core
-- tina4-python
-- neverthrow
-- dbt-review-assistant
-- log-lens

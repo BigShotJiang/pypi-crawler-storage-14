@@ -1,11 +1,11 @@
 {
   "name": "yoshio",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "Config utility tool, replacement for things like Nix that actually solve this problem. You aren't looking for this.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yoshio-0.0.2.tar.gz",
-  "download_time": "2025-11-29T17:39:38.385086",
+  "download_filename": "yoshio-0.0.4.tar.gz",
+  "download_time": "2025-11-29T18:42:09.797648",
   "package_url": "https://pypi.org/project/yoshio/"
 }

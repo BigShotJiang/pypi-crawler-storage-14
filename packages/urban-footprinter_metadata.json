@@ -1,0 +1,11 @@
+{
+  "name": "urban-footprinter",
+  "version": "0.4.0",
+  "summary": "A convolution-based approach to detect urban extents.",
+  "author": "Martí Bosch",
+  "license": null,
+  "home_page": null,
+  "download_filename": "urban_footprinter-0.4.0.tar.gz",
+  "download_time": "2025-11-29T18:42:13.421011",
+  "package_url": "https://pypi.org/project/urban-footprinter/"
+}

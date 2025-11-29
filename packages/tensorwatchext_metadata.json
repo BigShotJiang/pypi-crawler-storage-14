@@ -1,11 +1,11 @@
 {
   "name": "tensorwatchext",
-  "version": "1.0.93",
+  "version": "1.0.94",
   "summary": "Extension for tensorwatch :Interactive Realtime Debugging and Visualization for AI",
   "author": "Konstantinos Revythis",
   "license": "MIT",
   "home_page": "https://github.com/costasrevi/tensorwatchext",
-  "download_filename": "tensorwatchext-1.0.93-py3-none-any.whl",
-  "download_time": "2025-11-29T17:30:07.364652",
+  "download_filename": "tensorwatchext-1.0.94-py3-none-any.whl",
+  "download_time": "2025-11-29T18:42:16.521788",
   "package_url": "https://pypi.org/project/tensorwatchext/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cmtj",
-  "version": "1.9.1",
+  "version": "1.10.0",
   "summary": "CMTJ - C Magnetic Tunnel Junctions.",
   "author": null,
   "license": "GPL-2.0-only",
   "home_page": null,
-  "download_filename": "cmtj-1.9.1.tar.gz",
-  "download_time": "2025-11-29T17:30:05.144239",
+  "download_filename": "cmtj-1.10.0.tar.gz",
+  "download_time": "2025-11-29T18:42:00.022392",
   "package_url": "https://pypi.org/project/cmtj/"
 }
