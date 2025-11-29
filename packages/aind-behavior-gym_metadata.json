@@ -1,0 +1,11 @@
+{
+  "name": "aind-behavior-gym",
+  "version": "0.4.4",
+  "summary": "Generated from aind-library-template",
+  "author": "Allen Institute for Neural Dynamics",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aind_behavior_gym-0.4.4.tar.gz",
+  "download_time": "2025-11-29T21:36:42.910294",
+  "package_url": "https://pypi.org/project/aind-behavior-gym/"
+}

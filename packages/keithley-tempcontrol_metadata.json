@@ -1,11 +1,11 @@
 {
   "name": "keithley-tempcontrol",
-  "version": "0.17.2",
+  "version": "0.17.3",
   "summary": "Keithley Temperature Control for CGSE",
   "author": "IvS KU Leuven",
   "license": null,
   "home_page": null,
-  "download_filename": "keithley_tempcontrol-0.17.2.tar.gz",
-  "download_time": "2025-11-29T10:34:34.583942",
+  "download_filename": "keithley_tempcontrol-0.17.3.tar.gz",
+  "download_time": "2025-11-29T21:36:34.756538",
   "package_url": "https://pypi.org/project/keithley-tempcontrol/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cgse-core",
-  "version": "0.17.2",
+  "version": "0.17.3",
   "summary": "Core services for the CGSE framework",
   "author": "IvS KU Leuven",
   "license": null,
   "home_page": null,
-  "download_filename": "cgse_core-0.17.2.tar.gz",
-  "download_time": "2025-11-29T10:34:36.140156",
+  "download_filename": "cgse_core-0.17.3.tar.gz",
+  "download_time": "2025-11-29T21:36:36.362774",
   "package_url": "https://pypi.org/project/cgse-core/"
 }

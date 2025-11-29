@@ -1,11 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-29T21:28:57.361982
+- **Download Time**: 2025-11-29T21:37:16.411934
 - **Total Packages**: 84
-- **Total Size**: 26.94 MB
+- **Total Size**: 6.66 MB
 
 ## Packages List
+- symetrie-hexapod
+- plato-spw
+- plato-hdf5
+- plato-fits
+- lakeshore-tempcontrol
+- keithley-tempcontrol
+- cgse-tools
+- cgse-gui
+- cgse-core
+- cgse-coordinates
+- cgse-common
+- cgse
+- tensorwatchext
+- ariel-tcu
+- django-unfold-markdown
+- litestar-debug-toolbar
+- webquest-mcp
+- batplot
+- ayechat
+- aind-behavior-gym
+- lasagna-ai
+- thailint
+- manifoldos
+- oddments
+- mcp-context-server
 - cma
 - sqlo
 - gconcord
@@ -18,7 +43,6 @@
 - civic-exchange-protocol
 - mesh-sync-worker-backend-client
 - designer-plugin
-- tensorwatchext
 - print-dog
 - aiinbx
 - jeremydimond.pygamesim
@@ -66,27 +90,3 @@
 - cortex-omega
 - mdformat-mkdocs
 - ha-mcp
-- code-puppy
-- malha
-- flake8-bugbear
-- pytomlpp
-- radboy
-- retrocast
-- qualibrate-runner
-- Coreform-Cubit-Mesh-Export
-- name-of-the-project
-- ucon
-- semantify3
-- pdval-pandera
-- sbase
-- basecase
-- pytest-seleniumbase
-- pytest-sbase
-- pdval
-- selenium-base
-- qualibrate-app
-- snowdown
-- latterdns
-- IServAPI
-- qualibrate-core
-- mcp-ticketer
