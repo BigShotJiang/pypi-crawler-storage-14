@@ -1,0 +1,11 @@
+{
+  "name": "refundbuddy",
+  "version": "0.1.0",
+  "summary": "Refund calculation library for ticketing apps",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "refundbuddy-0.1.0.tar.gz",
+  "download_time": "2025-11-29T23:38:09.278635",
+  "package_url": "https://pypi.org/project/refundbuddy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "annize-pidev",
+  "version": "1.0.8",
+  "summary": "a collection of Annize Features for software development tasks",
+  "author": "Josef Hahn",
+  "license": "AGPL 3",
+  "home_page": "https://pseudopolis.eu/pino/annize_pidev",
+  "download_filename": "annize_pidev-1.0.8-py3-none-any.whl",
+  "download_time": "2025-11-29T23:38:07.703558",
+  "package_url": "https://pypi.org/project/annize-pidev/"
+}

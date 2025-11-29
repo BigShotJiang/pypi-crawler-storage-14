@@ -1,0 +1,11 @@
+{
+  "name": "jaconv",
+  "version": "0.4.1",
+  "summary": "Pure-Python Japanese character interconverter for Hiragana, Katakana, Hankaku, Zenkaku and more",
+  "author": "Yukino Ikegami",
+  "license": "MIT License",
+  "home_page": "https://github.com/ikegami-yukino/jaconv",
+  "download_filename": "jaconv-0.4.1.tar.gz",
+  "download_time": "2025-11-29T23:38:15.108314",
+  "package_url": "https://pypi.org/project/jaconv/"
+}
