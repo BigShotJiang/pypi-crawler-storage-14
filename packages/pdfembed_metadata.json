@@ -1,11 +1,11 @@
 {
   "name": "pdfembed",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "CLI/TUI tool to run OCR locally and overlay a searchable text layer on PDFs.",
   "author": "harumiWeb",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "pdfembed-0.1.1.tar.gz",
-  "download_time": "2025-11-29T05:49:17.282056",
+  "download_filename": "pdfembed-0.1.5.tar.gz",
+  "download_time": "2025-11-29T06:15:04.603607",
   "package_url": "https://pypi.org/project/pdfembed/"
 }

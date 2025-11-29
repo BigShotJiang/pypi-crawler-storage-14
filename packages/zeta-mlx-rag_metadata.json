@@ -1,11 +1,11 @@
 {
   "name": "zeta-mlx-rag",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "RAG (Retrieval-Augmented Generation) for Zeta MLX",
   "author": "ZetaLab",
   "license": null,
-  "home_page": null,
-  "download_filename": "zeta_mlx_rag-0.3.1.tar.gz",
-  "download_time": "2025-11-29T05:49:13.680906",
+  "home_page": "https://github.com/zeta9044/zeta-mlx",
+  "download_filename": "zeta_mlx_rag-0.3.2.tar.gz",
+  "download_time": "2025-11-29T06:15:39.020473",
   "package_url": "https://pypi.org/project/zeta-mlx-rag/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "lingam",
+  "version": "1.12.0",
+  "summary": "LiNGAM Python Package",
+  "author": "T.Ikeuchi, G.Haraoka, M.Ide, Y.Zeng, T.N.Maeda, W.Kurebayashi, S.Shimizu",
+  "license": null,
+  "home_page": "https://github.com/cdt15/lingam",
+  "download_filename": "lingam-1.12.0.tar.gz",
+  "download_time": "2025-11-29T06:15:06.713324",
+  "package_url": "https://pypi.org/project/lingam/"
+}

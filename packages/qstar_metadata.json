@@ -1,11 +1,11 @@
 {
   "name": "qstar",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "custom neural net blocks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qstar-0.1.0.tar.gz",
-  "download_time": "2025-11-29T00:43:27.658560",
+  "download_filename": "qstar-0.1.2.tar.gz",
+  "download_time": "2025-11-29T06:15:01.402994",
   "package_url": "https://pypi.org/project/qstar/"
 }

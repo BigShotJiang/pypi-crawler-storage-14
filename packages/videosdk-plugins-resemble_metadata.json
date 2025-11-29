@@ -1,0 +1,11 @@
+{
+  "name": "videosdk-plugins-resemble",
+  "version": "0.0.47",
+  "summary": "VideoSDK Agent Framework plugin for Resemble",
+  "author": "videosdk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "videosdk_plugins_resemble-0.0.47.tar.gz",
+  "download_time": "2025-11-29T06:15:21.826751",
+  "package_url": "https://pypi.org/project/videosdk-plugins-resemble/"
+}
