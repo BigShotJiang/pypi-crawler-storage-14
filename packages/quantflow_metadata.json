@@ -1,0 +1,11 @@
+{
+  "name": "quantflow",
+  "version": "0.4.3",
+  "summary": "quantitative analysis",
+  "author": "Luca Sbardella",
+  "license": null,
+  "home_page": "https://github.com/quantmind/quantflow",
+  "download_filename": "quantflow-0.4.3.tar.gz",
+  "download_time": "2025-11-29T18:14:29.249124",
+  "package_url": "https://pypi.org/project/quantflow/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "myminecraft",
+  "version": "0.1.0",
+  "summary": "реализация майнкрафт на python",
+  "author": "MAXPLAY",
+  "license": null,
+  "home_page": null,
+  "download_filename": "myminecraft-0.1.0.tar.gz",
+  "download_time": "2025-11-29T18:14:25.587407",
+  "package_url": "https://pypi.org/project/myminecraft/"
+}

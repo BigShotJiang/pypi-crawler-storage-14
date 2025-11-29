@@ -1,11 +1,11 @@
 {
   "name": "tnfr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Resonant Fractal Nature Theory (TNFR) - Computational engine for modeling coherent patterns through resonance dynamics",
   "author": "F. F. Martinez Gamo",
   "license": null,
   "home_page": null,
-  "download_filename": "tnfr-0.0.1.tar.gz",
-  "download_time": "2025-11-29T11:26:15.134594",
+  "download_filename": "tnfr-0.0.2.tar.gz",
+  "download_time": "2025-11-29T18:14:22.932100",
   "package_url": "https://pypi.org/project/tnfr/"
 }

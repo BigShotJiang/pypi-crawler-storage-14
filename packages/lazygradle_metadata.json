@@ -1,11 +1,11 @@
 {
   "name": "lazygradle",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "summary": "A TUI for managing and running your Gradle tasks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lazygradle-1.1.4.tar.gz",
-  "download_time": "2025-11-29T15:48:26.800151",
+  "download_filename": "lazygradle-1.1.5.tar.gz",
+  "download_time": "2025-11-29T18:14:13.323784",
   "package_url": "https://pypi.org/project/lazygradle/"
 }

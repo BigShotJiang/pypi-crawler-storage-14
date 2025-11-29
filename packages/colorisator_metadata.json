@@ -1,0 +1,11 @@
+{
+  "name": "colorisator",
+  "version": "1.0.4",
+  "summary": "A powerful Python library for color manipulation and palette generation",
+  "author": "Richard Carlier",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "colorisator-1.0.4.tar.gz",
+  "download_time": "2025-11-29T18:14:21.856096",
+  "package_url": "https://pypi.org/project/colorisator/"
+}

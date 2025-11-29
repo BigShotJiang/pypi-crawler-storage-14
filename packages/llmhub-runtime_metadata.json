@@ -1,11 +1,11 @@
 {
   "name": "llmhub-runtime",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "A lightweight runtime for LLMHub that delegates to any-llm",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llmhub_runtime-1.0.2.tar.gz",
-  "download_time": "2025-11-29T17:39:36.219510",
+  "download_filename": "llmhub_runtime-1.0.3.tar.gz",
+  "download_time": "2025-11-29T18:14:30.828576",
   "package_url": "https://pypi.org/project/llmhub-runtime/"
 }
