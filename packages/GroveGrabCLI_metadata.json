@@ -1,0 +1,11 @@
+{
+  "name": "GroveGrabCLI",
+  "version": "1.0.6",
+  "summary": "CLI tool for downloading Spotify tracks, playlists, and albums with organized folders and progress tracking",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "grovegrabcli-1.0.6.tar.gz",
+  "download_time": "2025-11-29T15:48:34.032245",
+  "package_url": "https://pypi.org/project/GroveGrabCLI/"
+}

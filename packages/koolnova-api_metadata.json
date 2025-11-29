@@ -1,0 +1,11 @@
+{
+  "name": "koolnova-api",
+  "version": "1.1.4",
+  "summary": "Python client for Koolnova API.",
+  "author": "bedav31",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "koolnova_api-1.1.4-py3-none-any.whl",
+  "download_time": "2025-11-29T15:48:28.333700",
+  "package_url": "https://pypi.org/project/koolnova-api/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ginom",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Ginom: a simplified, human-friendly versioning tool",
   "author": "Norman",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ginom-0.1.1.tar.gz",
-  "download_time": "2025-11-29T14:32:15.861336",
+  "download_filename": "ginom-0.1.2.tar.gz",
+  "download_time": "2025-11-29T15:48:32.507001",
   "package_url": "https://pypi.org/project/ginom/"
 }

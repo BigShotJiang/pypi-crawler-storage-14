@@ -1,0 +1,11 @@
+{
+  "name": "inorbit-edge",
+  "version": "1.25.0",
+  "summary": "InOrbit Edge SDK for Python",
+  "author": "InOrbit, Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/inorbit-ai/edge-sdk-python",
+  "download_filename": "inorbit_edge-1.25.0.tar.gz",
+  "download_time": "2025-11-29T15:48:24.242155",
+  "package_url": "https://pypi.org/project/inorbit-edge/"
+}

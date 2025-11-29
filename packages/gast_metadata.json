@@ -1,0 +1,11 @@
+{
+  "name": "gast",
+  "version": "0.7.0",
+  "summary": "Python AST that abstracts the underlying Python version",
+  "author": "serge-sans-paille",
+  "license": "BSD 3-Clause",
+  "home_page": "https://github.com/serge-sans-paille/gast/",
+  "download_filename": "gast-0.7.0.tar.gz",
+  "download_time": "2025-11-29T15:48:31.487343",
+  "package_url": "https://pypi.org/project/gast/"
+}

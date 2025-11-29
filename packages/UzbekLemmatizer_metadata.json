@@ -1,11 +1,11 @@
 {
   "name": "UzbekLemmatizer",
-  "version": "2.4",
+  "version": "2.5",
   "summary": "Uzbek Lemmatizer for Uzbek Language.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "uzbeklemmatizer-2.4.tar.gz",
-  "download_time": "2025-11-29T14:32:19.933548",
+  "download_filename": "uzbeklemmatizer-2.5.tar.gz",
+  "download_time": "2025-11-29T15:48:30.977517",
   "package_url": "https://pypi.org/project/UzbekLemmatizer/"
 }

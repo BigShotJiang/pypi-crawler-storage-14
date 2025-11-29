@@ -1,0 +1,11 @@
+{
+  "name": "groqqy",
+  "version": "2.0.0",
+  "summary": "Clean, composable micro agentic bot - Teaching kernel for agentic AI",
+  "author": "Scott Sennewald",
+  "license": null,
+  "home_page": "https://github.com/scottsen/groqqy",
+  "download_filename": "groqqy-2.0.0.tar.gz",
+  "download_time": "2025-11-29T15:48:18.417641",
+  "package_url": "https://pypi.org/project/groqqy/"
+}

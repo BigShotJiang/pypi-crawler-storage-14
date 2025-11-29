@@ -1,0 +1,11 @@
+{
+  "name": "ts-data-generator",
+  "version": "0.2.5",
+  "summary": "A Python library for generating synthetic time series data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ts_data_generator-0.2.5.tar.gz",
+  "download_time": "2025-11-29T15:48:27.824474",
+  "package_url": "https://pypi.org/project/ts-data-generator/"
+}
