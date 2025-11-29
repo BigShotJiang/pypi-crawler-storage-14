@@ -1,38 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-29T04:00:19.872485
-- **Total Packages**: 79
-- **Total Size**: 19.55 MB
+- **Download Time**: 2025-11-29T04:21:07.582353
+- **Total Packages**: 66
+- **Total Size**: 13.11 MB
 
 ## Packages List
+- bhms
+- cohortrag-engine
+- agixtsdk
+- private-attribute
+- packetutil
+- sirs-import
+- odoo-addon-auditlog
+- telegram-slot-map
+- odoo-addon-excel-import-export
+- tirex-mirror
+- odoo-addon-base-custom-info
 - better-auth
+- mcp-skillset
+- threaded-order
+- sqlbench
+- vop-poc-nz
+- odoo11-addon-attachment-base-synchronize
+- cubething_psync
+- aquiles-rag
+- veriskgo
+- langrepl
+- imgrs
+- pysoniq
+- guide-framework
+- opensensor-enviroplus
+- otlmow-model
+- waku
+- snakemake-logger-plugin-flowo
 - odoo-addons-oca-sale-reporting
 - python-roborock
 - pulumi-hcloud
-- sqlbench
 - ai-lls-lib
 - ikabot
-- vop-poc-nz
 - mcp-server-nbotbb
 - mrender
 - odoo-addon-purchase-default-terms-conditions
 - odoo-addon-purchase-manual-delivery
 - music-assistant-frontend
 - odoo-addon-purchase-return
-- sirs-import
-- cubething_psync
-- guide-framework
 - python-ember-mug
 - pytest-test-categories
-- opensensor-enviroplus
 - python-qlv-helper
 - openubmc-bingo
 - mcpcn-video-to-gif
 - zizmor
 - masgent
 - weather-decoder
-- veriskgo
 - koder
 - odoo-addon-payroll
 - odoo-addons-oca-partner-contact
@@ -52,36 +72,3 @@
 - sparkwheel
 - pylint-cache
 - odoo-addon-mgmtsystem-nonconformity-type
-- bantam
-- airball
-- cppmake
-- cppmakelib
-- odoo14-addon-mgmtsystem-nonconformity-type
-- jinjarope
-- odoo13-addon-mgmtsystem-nonconformity-type
-- odoo12-addon-mgmtsystem-nonconformity-type
-- odoo11-addon-mgmtsystem-nonconformity-type
-- napari-piscis
-- cheetah-greb
-- mcpcn-video-concatenate-mcp
-- echograph
-- mcpcn-video-info-mcp
-- audio-slice-mcp
-- mcpcn-video-extract-frames-mcp
-- twitch-checker
-- mcpcn-video-trim-mcp
-- mcpcn-video-extract-audio-mcp
-- mcpcn-video-cover-mcp
-- mcpcn-video-silence-remover-mcp
-- mcpcn-video-speed-mcp
-- mcpcn-video-image-watermark-mcp
-- pyBLUP
-- mcpcn-video-text-watermark-mcp
-- feature-generate
-- mcpcn-video-aspect-ratio-mcp
-- mns-scheduler
-- cwsl
-- radboy
-- pyAgrum-nightly
-- proviso
-- audio-properties-mcp

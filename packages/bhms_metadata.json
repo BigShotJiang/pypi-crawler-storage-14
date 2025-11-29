@@ -1,0 +1,11 @@
+{
+  "name": "bhms",
+  "version": "1.0.0",
+  "summary": "BHMS - Boss Hiding Messaging System: Privacy-focused CLI chat tool",
+  "author": "BHMS Contributors",
+  "license": "WTFPL",
+  "home_page": "https://github.com/stealth-chat/bhms",
+  "download_filename": "bhms-1.0.0.tar.gz",
+  "download_time": "2025-11-29T04:20:27.922247",
+  "package_url": "https://pypi.org/project/bhms/"
+}

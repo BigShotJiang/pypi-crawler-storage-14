@@ -1,11 +1,11 @@
 {
   "name": "cortex-omega",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "The Epistemic Inference Engine for Python. No prompts. Just logic.",
   "author": "Ivan Lozada",
   "license": null,
   "home_page": "https://github.com/ivlozada/cortex-omega",
-  "download_filename": "cortex_omega-1.1.0.tar.gz",
-  "download_time": "2025-11-29T03:59:57.189040",
+  "download_filename": "cortex_omega-1.1.1.tar.gz",
+  "download_time": "2025-11-29T04:21:02.069575",
   "package_url": "https://pypi.org/project/cortex-omega/"
 }

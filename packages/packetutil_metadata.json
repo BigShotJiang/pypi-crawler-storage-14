@@ -1,0 +1,11 @@
+{
+  "name": "packetutil",
+  "version": "0.1.1",
+  "summary": "Utility to pack and unpack binary data into commonly used python data types.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "packetutil-0.1.1.tar.gz",
+  "download_time": "2025-11-29T04:20:30.276491",
+  "package_url": "https://pypi.org/project/packetutil/"
+}

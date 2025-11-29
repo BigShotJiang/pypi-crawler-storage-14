@@ -1,11 +1,11 @@
 {
   "name": "veriskgo",
-  "version": "22.0.1",
+  "version": "22.0.2",
   "summary": "This package helps to abstract Gen Ai applications' observability using Langfuse.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "veriskgo-22.0.1.tar.gz",
-  "download_time": "2025-11-29T03:59:51.876065",
+  "download_filename": "veriskgo-22.0.2.tar.gz",
+  "download_time": "2025-11-29T04:20:39.792390",
   "package_url": "https://pypi.org/project/veriskgo/"
 }

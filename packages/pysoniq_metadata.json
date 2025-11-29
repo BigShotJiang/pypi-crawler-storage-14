@@ -1,0 +1,11 @@
+{
+  "name": "pysoniq",
+  "version": "0.1.0",
+  "summary": "Lightweight, pure-Python cross-platform audio playback library",
+  "author": "laelume",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysoniq-0.1.0.tar.gz",
+  "download_time": "2025-11-29T04:20:41.537451",
+  "package_url": "https://pypi.org/project/pysoniq/"
+}
