@@ -1,11 +1,11 @@
 {
   "name": "specpulse",
-  "version": "2.7.1",
+  "version": "2.7.4",
   "summary": "SpecPulse v2.6.2 - AI-Enhanced Specification-Driven Development Framework with Advanced Task Monitoring and Real-time Analytics",
   "author": "SpecPulse",
   "license": "MIT",
   "home_page": "https://specpulse.xyz",
-  "download_filename": "specpulse-2.7.1.tar.gz",
-  "download_time": "2025-11-28T13:51:28.081661",
+  "download_filename": "specpulse-2.7.4.tar.gz",
+  "download_time": "2025-11-29T20:49:34.826395",
   "package_url": "https://pypi.org/project/specpulse/"
 }

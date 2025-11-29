@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-function-models",
+  "version": "0.1.11",
+  "summary": "Migrating v1 Pydantic ValidatedFunction to v2.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pydantic_function_models-0.1.11.tar.gz",
+  "download_time": "2025-11-29T20:49:45.312074",
+  "package_url": "https://pypi.org/project/pydantic-function-models/"
+}

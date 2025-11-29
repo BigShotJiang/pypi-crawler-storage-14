@@ -1,0 +1,11 @@
+{
+  "name": "tap-grib",
+  "version": "1.4.1",
+  "summary": "Singer tap for Grib, built with the Meltano Singer SDK.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tap_grib-1.4.1.tar.gz",
+  "download_time": "2025-11-29T20:49:45.838514",
+  "package_url": "https://pypi.org/project/tap-grib/"
+}

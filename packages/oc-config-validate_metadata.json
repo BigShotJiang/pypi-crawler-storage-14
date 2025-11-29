@@ -1,0 +1,11 @@
+{
+  "name": "oc-config-validate",
+  "version": "2.10.0",
+  "summary": "Validate OpenConfig-based configuration of devices.",
+  "author": "Jose Ignacio Tamayo, Xavier Contreras Acevedo",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/google/gnxi/tree/master/oc_config_validate",
+  "download_filename": "oc_config_validate-2.10.0.tar.gz",
+  "download_time": "2025-11-29T20:49:46.407485",
+  "package_url": "https://pypi.org/project/oc-config-validate/"
+}
