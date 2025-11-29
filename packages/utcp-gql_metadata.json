@@ -1,0 +1,11 @@
+{
+  "name": "utcp-gql",
+  "version": "1.0.2",
+  "summary": "UTCP communication protocol plugin for GraphQL. (Work in progress)",
+  "author": "UTCP Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "utcp_gql-1.0.2.tar.gz",
+  "download_time": "2025-11-29T15:30:19.088447",
+  "package_url": "https://pypi.org/project/utcp-gql/"
+}

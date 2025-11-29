@@ -1,0 +1,11 @@
+{
+  "name": "autowrap",
+  "version": "0.24.0",
+  "summary": "Generates Python Extension modules from commented Cython PXD files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autowrap-0.24.0.tar.gz",
+  "download_time": "2025-11-29T15:29:59.077600",
+  "package_url": "https://pypi.org/project/autowrap/"
+}

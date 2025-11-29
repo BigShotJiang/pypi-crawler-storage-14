@@ -1,11 +1,11 @@
 {
   "name": "mcp-skillset",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "summary": "Dynamic RAG-powered skills for code assistants via Model Context Protocol",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_skillset-0.6.3.tar.gz",
-  "download_time": "2025-11-29T04:20:35.134163",
+  "download_filename": "mcp_skillset-0.6.4.tar.gz",
+  "download_time": "2025-11-29T15:30:15.502441",
   "package_url": "https://pypi.org/project/mcp-skillset/"
 }

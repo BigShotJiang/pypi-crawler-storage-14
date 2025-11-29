@@ -1,0 +1,11 @@
+{
+  "name": "fluxgate",
+  "version": "0.1.0",
+  "summary": "A modern, composable circuit breaker library for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fluxgate-0.1.0.tar.gz",
+  "download_time": "2025-11-29T15:30:18.580057",
+  "package_url": "https://pypi.org/project/fluxgate/"
+}

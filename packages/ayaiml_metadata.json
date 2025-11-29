@@ -1,0 +1,11 @@
+{
+  "name": "ayaiml",
+  "version": "1.0.0",
+  "summary": "Automation-based AI model runner for Gemini, ChatGPT, Grok, Perplexity and Image models.",
+  "author": "Ayush Kumar",
+  "license": null,
+  "home_page": "https://pypi.org/project/ayaiml/",
+  "download_filename": "ayaiml-1.0.0.tar.gz",
+  "download_time": "2025-11-29T15:29:56.906295",
+  "package_url": "https://pypi.org/project/ayaiml/"
+}

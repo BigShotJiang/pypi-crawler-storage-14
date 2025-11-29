@@ -1,11 +1,11 @@
 {
   "name": "ejercicio13-jmpb",
-  "version": "0.6",
+  "version": "0.6.1",
   "summary": "Libreria de mates",
   "author": "Roberto Corona Escamilla",
   "license": "MIT",
   "home_page": "https://github.com/RobertoCoronaEscamilla/libreria_rc",
-  "download_filename": "ejercicio13_jmpb-0.6.tar.gz",
-  "download_time": "2025-11-29T15:10:12.483373",
+  "download_filename": "ejercicio13_jmpb-0.6.1.tar.gz",
+  "download_time": "2025-11-29T15:30:01.221318",
   "package_url": "https://pypi.org/project/ejercicio13-jmpb/"
 }

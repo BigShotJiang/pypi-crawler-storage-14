@@ -1,0 +1,11 @@
+{
+  "name": "pyDynamicRoutingUpdater",
+  "version": "0.0.9",
+  "summary": "A Python library to modify and alter the routing table in according to configuration passed",
+  "author": "Brage Skjønborg",
+  "license": null,
+  "home_page": "https://github.com/iktdev-no/DynamicRoutingUpdater",
+  "download_filename": "pydynamicroutingupdater-0.0.9.tar.gz",
+  "download_time": "2025-11-29T15:30:03.271305",
+  "package_url": "https://pypi.org/project/pyDynamicRoutingUpdater/"
+}
