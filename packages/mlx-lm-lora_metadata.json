@@ -1,0 +1,11 @@
+{
+  "name": "mlx-lm-lora",
+  "version": "0.9.8",
+  "summary": "Train LLMs on Apple silicon with MLX and the Hugging Face Hub",
+  "author": "Gökdeniz Gülmez",
+  "license": "MIT",
+  "home_page": "https://github.com/Goekdeniz-Guelmez/mlx-lm-lora",
+  "download_filename": "mlx_lm_lora-0.9.8.tar.gz",
+  "download_time": "2025-11-29T22:10:07.323240",
+  "package_url": "https://pypi.org/project/mlx-lm-lora/"
+}

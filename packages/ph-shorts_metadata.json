@@ -1,11 +1,11 @@
 {
   "name": "ph-shorts",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "RedLight DL - Professional adult content downloader",
   "author": "RedLight Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ph_shorts-1.0.8.tar.gz",
-  "download_time": "2025-11-29T10:34:43.457945",
+  "download_filename": "ph_shorts-1.0.9.tar.gz",
+  "download_time": "2025-11-29T22:10:04.662610",
   "package_url": "https://pypi.org/project/ph-shorts/"
 }

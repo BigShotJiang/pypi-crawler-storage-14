@@ -1,0 +1,11 @@
+{
+  "name": "mrs-scaffold",
+  "version": "1.1.2",
+  "summary": "Modular Reasoning Scaffold (MRS): a mesoscale meta-reasoning architecture.",
+  "author": "Sabouhi",
+  "license": "MIT",
+  "home_page": "https://github.com/sabouhi/mrs-scaffold",
+  "download_filename": "mrs_scaffold-1.1.2.tar.gz",
+  "download_time": "2025-11-29T22:10:05.184873",
+  "package_url": "https://pypi.org/project/mrs-scaffold/"
+}

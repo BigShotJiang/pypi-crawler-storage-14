@@ -1,11 +1,11 @@
 {
   "name": "plyrfm",
-  "version": "0.0.1a7",
+  "version": "0.0.1a8",
   "summary": "python sdk for plyr.fm - music streaming on AT Protocol",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plyrfm-0.0.1a7.tar.gz",
-  "download_time": "2025-11-29T21:28:22.976171",
+  "download_filename": "plyrfm-0.0.1a8.tar.gz",
+  "download_time": "2025-11-29T22:10:17.370118",
   "package_url": "https://pypi.org/project/plyrfm/"
 }

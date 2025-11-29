@@ -1,11 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-29T21:49:36.396348
+- **Download Time**: 2025-11-29T22:10:43.517884
 - **Total Packages**: 92
-- **Total Size**: 11.06 MB
+- **Total Size**: 19.59 MB
 
 ## Packages List
+- glitchlings
+- vision-agents-plugins-xai
+- vision-agents-plugins-aws
+- vision-agents-plugins-vogent
+- vision-agents-plugins-fast-whisper
+- pokemon-stats-reader
+- glidergun
+- task-sequencer
+- agentic-coder
+- tinyshift
+- rust-native-keyring
+- django-new
+- vision-agents-plugins-decart
+- remdb
+- shedboxai
+- chainswarm-core
+- pytrilogy
+- ph-shorts
+- mrs-scaffold
+- basicrta
+- tiddl
+- pi-zero-pytorch
+- mlx-lm-lora
+- adoaler-sdk
+- config-cli-gui
+- rebase-dashboard
+- tvi-solphit-discera-capability-image-gen
+- vision-agents-plugins-smart-turn
+- vision-agents-plugins-deepgram
+- vision-agents-plugins-moondream
+- vision-agents-plugins-wizper
+- vision-agents-plugins-ultralytics
+- icalendar
+- ssc_codegen
+- spectuel-engine-utils
+- sceneweaver
+- dependence
+- sqlo
+- telegram-bot-stack
+- threat-radar
+- plyrfm-mcp
+- plyrfm
+- cmsend
 - backmap
 - premium-lib
 - c2cwsgiutils
@@ -15,8 +58,6 @@
 - dars-framework
 - sentinel-core
 - conversation-tk
-- agentic-coder
-- cmsend
 - formalyzer
 - githerer
 - reach_commons
@@ -57,44 +98,3 @@
 - ariel-tcu
 - django-unfold-markdown
 - litestar-debug-toolbar
-- webquest-mcp
-- batplot
-- ayechat
-- aind-behavior-gym
-- lasagna-ai
-- thailint
-- manifoldos
-- oddments
-- mcp-context-server
-- cma
-- sqlo
-- gconcord
-- lazycph
-- archinstall
-- reversible-unlearning
-- manifoldsdk
-- graphql-schema-diff
-- spectuel-engine-utils
-- civic-exchange-protocol
-- mesh-sync-worker-backend-client
-- designer-plugin
-- print-dog
-- aiinbx
-- jeremydimond.pygamesim
-- matrixpythonclient
-- kuaijs-ios
-- plyrfm-mcp
-- webquest
-- plyrfm
-- kl-kernel-logic
-- ai-code-review-cli
-- worker-core-lib
-- wuzup
-- groundmeas
-- mypy-pure
-- smartmemory
-- mcp-refactoring
-- google-nest-sdm
-- emhass
-- llm-session
-- abstract-ide
