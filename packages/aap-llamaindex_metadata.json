@@ -1,0 +1,11 @@
+{
+  "name": "aap-llamaindex",
+  "version": "0.1.1.dev1",
+  "summary": "LlamaIndex integration of agent design pattern",
+  "author": "Ly Hon Quang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aap_llamaindex-0.1.1.dev1.tar.gz",
+  "download_time": "2025-11-29T07:37:30.725392",
+  "package_url": "https://pypi.org/project/aap-llamaindex/"
+}

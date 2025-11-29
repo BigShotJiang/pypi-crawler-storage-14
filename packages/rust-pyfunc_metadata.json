@@ -1,11 +1,11 @@
 {
   "name": "rust-pyfunc",
-  "version": "0.46.0",
+  "version": "0.47.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rust_pyfunc-0.46.0.tar.gz",
-  "download_time": "2025-11-25T13:06:33.802929",
+  "download_filename": "rust_pyfunc-0.47.0.tar.gz",
+  "download_time": "2025-11-29T07:37:22.840968",
   "package_url": "https://pypi.org/project/rust-pyfunc/"
 }
