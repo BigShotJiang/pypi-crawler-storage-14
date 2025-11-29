@@ -1,11 +1,14 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-29T13:42:34.221493
+- **Download Time**: 2025-11-29T13:49:42.486517
 - **Total Packages**: 80
-- **Total Size**: 2.88 MB
+- **Total Size**: 4.34 MB
 
 ## Packages List
+- webcodecs-py
+- plant-disease-lib
+- logguru
 - keaixiaojiycw-tieba-post-crawler
 - signalwire-agents
 - prisma-web3-py
@@ -41,7 +44,6 @@
 - svy-sae
 - enecoq-data-fetcher
 - brief-develop
-- plant-disease-lib
 - aubellhop
 - openfund-taker
 - openfund-maker
@@ -84,5 +86,3 @@
 - wesleysbmd
 - llmakits
 - MaaDebugger
-- frontmatter-mcp
-- openmeter

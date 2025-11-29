@@ -1,8 +1,11 @@
 {
-  "download_time": "2025-11-29T13:42:34.221493",
+  "download_time": "2025-11-29T13:49:42.486517",
   "total_packages_downloaded": 80,
-  "total_size_mb": 2.88,
+  "total_size_mb": 4.34,
   "packages": [
+    "webcodecs-py",
+    "plant-disease-lib",
+    "logguru",
     "keaixiaojiycw-tieba-post-crawler",
     "signalwire-agents",
     "prisma-web3-py",
@@ -38,7 +41,6 @@
     "svy-sae",
     "enecoq-data-fetcher",
     "brief-develop",
-    "plant-disease-lib",
     "aubellhop",
     "openfund-taker",
     "openfund-maker",
@@ -80,8 +82,6 @@
     "discordclients",
     "wesleysbmd",
     "llmakits",
-    "MaaDebugger",
-    "frontmatter-mcp",
-    "openmeter"
+    "MaaDebugger"
   ]
 }
