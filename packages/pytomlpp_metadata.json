@@ -1,0 +1,11 @@
+{
+  "name": "pytomlpp",
+  "version": "1.1.0",
+  "summary": "A python wrapper for toml++",
+  "author": "Bob Fang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytomlpp-1.1.0.tar.gz",
+  "download_time": "2025-11-29T21:10:07.570872",
+  "package_url": "https://pypi.org/project/pytomlpp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "flake8-bugbear",
+  "version": "25.11.29",
+  "summary": "A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flake8_bugbear-25.11.29.tar.gz",
+  "download_time": "2025-11-29T21:10:06.895732",
+  "package_url": "https://pypi.org/project/flake8-bugbear/"
+}

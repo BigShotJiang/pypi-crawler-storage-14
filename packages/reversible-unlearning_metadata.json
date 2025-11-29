@@ -1,11 +1,11 @@
 {
   "name": "reversible-unlearning",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "AUREON: Universal Reversible Learning",
   "author": "AUREON Labs",
   "license": null,
   "home_page": "https://github.com/aureon-labs/reversible",
-  "download_filename": "reversible_unlearning-0.2.5.tar.gz",
-  "download_time": "2025-11-29T20:33:23.144154",
+  "download_filename": "reversible_unlearning-0.2.6.tar.gz",
+  "download_time": "2025-11-29T21:09:57.669632",
   "package_url": "https://pypi.org/project/reversible-unlearning/"
 }

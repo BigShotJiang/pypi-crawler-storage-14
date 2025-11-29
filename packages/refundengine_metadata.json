@@ -1,0 +1,11 @@
+{
+  "name": "refundengine",
+  "version": "0.1.0",
+  "summary": "Refund rules + calculator for ticketing systems",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "refundengine-0.1.0.tar.gz",
+  "download_time": "2025-11-29T21:09:51.304475",
+  "package_url": "https://pypi.org/project/refundengine/"
+}
