@@ -1,0 +1,11 @@
+{
+  "name": "precice-config-graph",
+  "version": "2.0.2",
+  "summary": "A Library that builds a graph from a preCICE configuration file for validation and visualization purposes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "precice_config_graph-2.0.2.tar.gz",
+  "download_time": "2025-11-29T17:39:45.308456",
+  "package_url": "https://pypi.org/project/precice-config-graph/"
+}

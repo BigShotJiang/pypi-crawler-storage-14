@@ -1,11 +1,11 @@
 {
   "name": "json-structure",
-  "version": "0.1.13",
+  "version": "0.1.15",
   "summary": "Validators for JSON Structure schemas and instances",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "json_structure-0.1.13.tar.gz",
-  "download_time": "2025-11-29T17:29:56.244296",
+  "download_filename": "json_structure-0.1.15.tar.gz",
+  "download_time": "2025-11-29T17:39:35.627240",
   "package_url": "https://pypi.org/project/json-structure/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pyfilemetre",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "pyfilemetre is a Python CLI tool that analyzes code using AST — counting functions, classes, and missing docstrings, and generating Markdown reports.",
   "author": "Aditi Gupta",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyfilemetre-0.1.3.tar.gz",
-  "download_time": "2025-11-29T16:37:26.087388",
+  "download_filename": "pyfilemetre-0.1.4.tar.gz",
+  "download_time": "2025-11-29T17:39:42.115674",
   "package_url": "https://pypi.org/project/pyfilemetre/"
 }
