@@ -1,0 +1,11 @@
+{
+  "name": "flufl.i18n",
+  "version": "6.0.0",
+  "summary": "A high level API for internationalizing Python libraries and applications",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "flufl_i18n-6.0.0.tar.gz",
+  "download_time": "2025-11-29T03:33:52.816371",
+  "package_url": "https://pypi.org/project/flufl.i18n/"
+}

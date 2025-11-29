@@ -1,0 +1,11 @@
+{
+  "name": "velocidictate",
+  "version": "0.1.1",
+  "summary": "AI-Powered Hands-Free Technical Dictation with Whisper and Claude",
+  "author": "Scott Peterman",
+  "license": "GPLv3",
+  "home_page": "https://github.com/scottpeterman/velocidictate",
+  "download_filename": "velocidictate-0.1.1-py3-none-any.whl",
+  "download_time": "2025-11-29T03:33:40.009474",
+  "package_url": "https://pypi.org/project/velocidictate/"
+}

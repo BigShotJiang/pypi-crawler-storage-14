@@ -1,0 +1,11 @@
+{
+  "name": "pylint-cache",
+  "version": "1.0.0",
+  "summary": "A smart caching wrapper for pylint that avoids re-running checks on unchanged files",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/pylint-cache",
+  "download_filename": "pylint_cache-1.0.0.tar.gz",
+  "download_time": "2025-11-29T03:33:14.424271",
+  "package_url": "https://pypi.org/project/pylint-cache/"
+}

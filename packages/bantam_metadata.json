@@ -1,0 +1,11 @@
+{
+  "name": "bantam",
+  "version": "2.4.33",
+  "summary": "small utils to automate web interface in Python",
+  "author": "John Rusnak",
+  "license": "BSD 2-CLAUSE",
+  "home_page": "https://github.com/nak/bantam",
+  "download_filename": "bantam-2.4.33.tar.gz",
+  "download_time": "2025-11-29T03:33:15.959715",
+  "package_url": "https://pypi.org/project/bantam/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-mgmtsystem-nonconformity-type",
+  "version": "14.0.1.0.1.dev12",
+  "summary": "Add Nonconformity classification for the root context.",
+  "author": "Associazione PNLUG - Gruppo Odoo, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/management-system",
+  "download_filename": "odoo14_addon_mgmtsystem_nonconformity_type-14.0.1.0.1.dev12-py3-none-any.whl",
+  "download_time": "2025-11-29T03:33:18.014917",
+  "package_url": "https://pypi.org/project/odoo14-addon-mgmtsystem-nonconformity-type/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "guide-framework",
-  "version": "1.0.2",
-  "summary": "GUIDE Framework – Ethical AI Assessment & Explainability Tools",
+  "version": "1.0.5",
+  "summary": "GUIDE Framework – Ethical AI Governance, Explainability (XAI), Transparency & Responsible AI Auditing.",
   "author": "Kamal Master",
-  "license": "MIT",
-  "home_page": null,
-  "download_filename": "guide_framework-1.0.2-py3-none-any.whl",
-  "download_time": "2025-11-29T00:43:55.636253",
+  "license": null,
+  "home_page": "https://github.com/yourusername/guide-framework",
+  "download_filename": "guide_framework-1.0.5-py3-none-any.whl",
+  "download_time": "2025-11-29T03:33:27.833165",
   "package_url": "https://pypi.org/project/guide-framework/"
 }

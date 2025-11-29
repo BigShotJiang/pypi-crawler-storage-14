@@ -1,0 +1,11 @@
+{
+  "name": "dooit",
+  "version": "3.3.4",
+  "summary": "A TUI Todo Manager",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dooit-3.3.4.tar.gz",
+  "download_time": "2025-11-29T03:33:10.724293",
+  "package_url": "https://pypi.org/project/dooit/"
+}

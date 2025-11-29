@@ -1,0 +1,11 @@
+{
+  "name": "ha-epb",
+  "version": "1.0.5",
+  "summary": "Home Assistant integration for EPB (Electric Power Board)",
+  "author": "Aaron Sachs",
+  "license": null,
+  "home_page": "https://github.com/asachs01/ha-epb",
+  "download_filename": "ha_epb-1.0.5.tar.gz",
+  "download_time": "2025-11-29T03:33:37.273879",
+  "package_url": "https://pypi.org/project/ha-epb/"
+}

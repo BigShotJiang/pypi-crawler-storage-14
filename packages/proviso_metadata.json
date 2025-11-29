@@ -1,0 +1,11 @@
+{
+  "name": "proviso",
+  "version": "0.2.0",
+  "summary": "Proviso requirements.txt management",
+  "author": "Ross McFarland",
+  "license": "MIT",
+  "home_page": "https://github.com/octodns/proviso",
+  "download_filename": "proviso-0.2.0.tar.gz",
+  "download_time": "2025-11-29T03:33:34.205490",
+  "package_url": "https://pypi.org/project/proviso/"
+}
