@@ -1,0 +1,11 @@
+{
+  "name": "evmspec",
+  "version": "0.4.8",
+  "summary": "A collection of msgspec.Struct definitions for use with the Ethereum Virtual Machine",
+  "author": "BobTheBuidler",
+  "license": "MIT",
+  "home_page": "https://github.com/BobTheBuidler/evmspec",
+  "download_filename": "evmspec-0.4.8.tar.gz",
+  "download_time": "2025-11-29T10:34:24.648650",
+  "package_url": "https://pypi.org/project/evmspec/"
+}

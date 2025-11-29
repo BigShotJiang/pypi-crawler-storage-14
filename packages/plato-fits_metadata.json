@@ -1,0 +1,11 @@
+{
+  "name": "plato-fits",
+  "version": "0.17.2",
+  "summary": "FITS Persistence implementation for CGSE",
+  "author": "IvS KU Leuven",
+  "license": null,
+  "home_page": null,
+  "download_filename": "plato_fits-0.17.2.tar.gz",
+  "download_time": "2025-11-29T10:34:33.548178",
+  "package_url": "https://pypi.org/project/plato-fits/"
+}

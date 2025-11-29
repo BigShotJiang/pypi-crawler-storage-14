@@ -1,11 +1,11 @@
 {
   "name": "django-telegram-app",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "A Django app that integrates with Telegram to create bots.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_telegram_app-1.0.0.tar.gz",
-  "download_time": "2025-11-25T14:51:16.964938",
+  "download_filename": "django_telegram_app-1.1.0.tar.gz",
+  "download_time": "2025-11-29T10:34:45.549614",
   "package_url": "https://pypi.org/project/django-telegram-app/"
 }

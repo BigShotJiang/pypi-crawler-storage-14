@@ -1,11 +1,11 @@
 {
   "name": "bedger",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "summary": null,
   "author": "Henk van den Brink",
   "license": null,
   "home_page": null,
-  "download_filename": "bedger-0.0.12.tar.gz",
-  "download_time": "2025-11-29T09:11:00.303491",
+  "download_filename": "bedger-0.0.13.tar.gz",
+  "download_time": "2025-11-29T10:34:42.940216",
   "package_url": "https://pypi.org/project/bedger/"
 }

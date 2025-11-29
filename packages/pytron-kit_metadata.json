@@ -1,11 +1,11 @@
 {
   "name": "pytron-kit",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "An Electron-like library for Python using pywebview",
   "author": "Ghua8088",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytron_kit-0.1.6.tar.gz",
-  "download_time": "2025-11-28T09:15:24.012485",
+  "download_filename": "pytron_kit-0.1.7.tar.gz",
+  "download_time": "2025-11-29T10:34:51.305025",
   "package_url": "https://pypi.org/project/pytron-kit/"
 }

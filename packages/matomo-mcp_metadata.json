@@ -1,0 +1,11 @@
+{
+  "name": "matomo-mcp",
+  "version": "1.0.0a1",
+  "summary": "MCP server for Matomo Reporting API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "matomo_mcp-1.0.0a1.tar.gz",
+  "download_time": "2025-11-29T10:34:26.250030",
+  "package_url": "https://pypi.org/project/matomo-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "weconnect",
-  "version": "0.60.9",
+  "version": "0.60.10",
   "summary": "Python API for the Volkswagen WeConnect Services",
   "author": "Till Steinbach",
   "license": "MIT",
   "home_page": "https://github.com/tillsteinbach/WeConnect-python",
-  "download_filename": "weconnect-0.60.9.tar.gz",
-  "download_time": "2025-11-29T09:41:06.978441",
+  "download_filename": "weconnect-0.60.10.tar.gz",
+  "download_time": "2025-11-29T10:34:28.345198",
   "package_url": "https://pypi.org/project/weconnect/"
 }

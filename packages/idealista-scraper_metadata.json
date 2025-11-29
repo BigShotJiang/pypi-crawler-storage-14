@@ -1,0 +1,11 @@
+{
+  "name": "idealista-scraper",
+  "version": "1.0.0",
+  "summary": "Production web scraper for Idealista real estate listings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "idealista_scraper-1.0.0.tar.gz",
+  "download_time": "2025-11-29T10:34:42.422808",
+  "package_url": "https://pypi.org/project/idealista-scraper/"
+}

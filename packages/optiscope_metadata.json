@@ -1,0 +1,11 @@
+{
+  "name": "optiscope",
+  "version": "0.0.3",
+  "summary": "A modular library and dashboard for visualizing single- and multi-objective optimization results with MCDA support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "optiscope-0.0.3.tar.gz",
+  "download_time": "2025-11-29T10:34:28.863395",
+  "package_url": "https://pypi.org/project/optiscope/"
+}
