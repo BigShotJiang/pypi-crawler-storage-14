@@ -1,11 +1,11 @@
 {
   "name": "python-doenv",
-  "version": "2.2.6",
+  "version": "2.2.8",
   "summary": "A small example package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "python_doenv-2.2.6.tar.gz",
-  "download_time": "2025-11-29T16:37:13.968121",
+  "download_filename": "python_doenv-2.2.8.tar.gz",
+  "download_time": "2025-11-29T16:52:45.603816",
   "package_url": "https://pypi.org/project/python-doenv/"
 }

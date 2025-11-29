@@ -1,11 +1,11 @@
 {
   "name": "discord-components-v2",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "summary": "An unofficial library for discord components v2.",
   "author": "venxsa",
   "license": null,
   "home_page": "https://github.com/venxsa/discord.py-components-v2",
-  "download_filename": "discord_components_v2-3.0.0.tar.gz",
-  "download_time": "2025-11-29T16:37:27.646008",
+  "download_filename": "discord_components_v2-3.0.1.tar.gz",
+  "download_time": "2025-11-29T16:53:01.965969",
   "package_url": "https://pypi.org/project/discord-components-v2/"
 }

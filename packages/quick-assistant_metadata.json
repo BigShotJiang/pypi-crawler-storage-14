@@ -1,11 +1,11 @@
 {
   "name": "quick-assistant",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "Global CLI tool for productivity",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quick_assistant-0.1.5.tar.gz",
-  "download_time": "2025-11-29T15:48:22.320975",
+  "download_filename": "quick_assistant-0.1.7.tar.gz",
+  "download_time": "2025-11-29T16:52:39.711800",
   "package_url": "https://pypi.org/project/quick-assistant/"
 }

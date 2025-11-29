@@ -1,0 +1,11 @@
+{
+  "name": "deco_slack",
+  "version": "0.0.4",
+  "summary": "deco_slack notifies you if a method has completed successfully or not.",
+  "author": "taross-f",
+  "license": null,
+  "home_page": "https://github.com/taross-f/deco-slack",
+  "download_filename": "deco_slack-0.0.4.tar.gz",
+  "download_time": "2025-11-29T16:52:41.424301",
+  "package_url": "https://pypi.org/project/deco_slack/"
+}
