@@ -1,11 +1,11 @@
 {
   "name": "ovo-app",
-  "version": "1.0.0a2",
+  "version": "1.0.0a3",
   "summary": "OVO: an open-source ecosystem for de novo protein design",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ovo_app-1.0.0a2.tar.gz",
-  "download_time": "2025-11-28T11:09:57.810390",
+  "download_filename": "ovo_app-1.0.0a3.tar.gz",
+  "download_time": "2025-11-29T13:22:47.141062",
   "package_url": "https://pypi.org/project/ovo-app/"
 }

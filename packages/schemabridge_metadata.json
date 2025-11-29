@@ -1,11 +1,11 @@
 {
   "name": "schemabridge",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Cross-language schema converter",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "schemabridge-0.1.0.tar.gz",
-  "download_time": "2025-11-29T10:34:50.260460",
+  "download_filename": "schemabridge-0.1.1.tar.gz",
+  "download_time": "2025-11-29T13:22:59.350161",
   "package_url": "https://pypi.org/project/schemabridge/"
 }

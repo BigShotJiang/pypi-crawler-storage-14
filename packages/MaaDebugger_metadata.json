@@ -1,11 +1,11 @@
 {
   "name": "MaaDebugger",
-  "version": "1.13.4",
+  "version": "1.13.5",
   "summary": "MaaDebugger",
   "author": "MaaXYZ",
   "license": null,
   "home_page": null,
-  "download_filename": "maadebugger-1.13.4.tar.gz",
-  "download_time": "2025-11-29T08:54:01.129040",
+  "download_filename": "maadebugger-1.13.5.tar.gz",
+  "download_time": "2025-11-29T13:23:06.140049",
   "package_url": "https://pypi.org/project/MaaDebugger/"
 }
