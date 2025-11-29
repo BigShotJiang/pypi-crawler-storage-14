@@ -1,0 +1,11 @@
+{
+  "name": "STVPoll",
+  "version": "0.4.7",
+  "summary": "STV polling methods",
+  "author": "Johan Schiff & Betahaus development team",
+  "license": "GPLv3",
+  "home_page": "https://github.com/VoteIT/STVPoll",
+  "download_filename": "stvpoll-0.4.7-py3-none-any.whl",
+  "download_time": "2025-11-29T09:48:13.813843",
+  "package_url": "https://pypi.org/project/STVPoll/"
+}
