@@ -1,11 +1,11 @@
 {
   "name": "inventorize",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "summary": "inventory analytics,revenue management and cost calculations for SKUs",
   "author": "Haytham Omar",
   "license": null,
   "home_page": null,
-  "download_filename": "inventorize-1.2.5.tar.gz",
-  "download_time": "2025-11-29T19:48:21.920605",
+  "download_filename": "inventorize-1.2.6.tar.gz",
+  "download_time": "2025-11-29T20:11:45.177283",
   "package_url": "https://pypi.org/project/inventorize/"
 }

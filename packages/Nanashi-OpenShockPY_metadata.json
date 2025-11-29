@@ -1,11 +1,11 @@
 {
   "name": "Nanashi-OpenShockPY",
-  "version": "0.0.0.5",
+  "version": "0.0.0.6",
   "summary": "UNOFFICIAL Lightweight Python client for the OpenShock API",
   "author": "NanashiTheNameless",
   "license": "NNCL V1.2-MODIFIED-OpenShockPY",
   "home_page": null,
-  "download_filename": "nanashi_openshockpy-0.0.0.5.tar.gz",
-  "download_time": "2025-11-29T08:53:56.988530",
+  "download_filename": "nanashi_openshockpy-0.0.0.6.tar.gz",
+  "download_time": "2025-11-29T20:11:50.469013",
   "package_url": "https://pypi.org/project/Nanashi-OpenShockPY/"
 }

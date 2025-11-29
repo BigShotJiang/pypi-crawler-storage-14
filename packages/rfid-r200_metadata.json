@@ -1,0 +1,11 @@
+{
+  "name": "rfid-r200",
+  "version": "0.1.1",
+  "summary": "Pure Python library to work with RFID R200 devices via serial communication",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rfid_r200-0.1.1.tar.gz",
+  "download_time": "2025-11-29T20:11:54.666263",
+  "package_url": "https://pypi.org/project/rfid-r200/"
+}

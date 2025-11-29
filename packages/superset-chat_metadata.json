@@ -1,11 +1,11 @@
 {
   "name": "superset-chat",
-  "version": "0.1.0a22",
+  "version": "0.1.0a23",
   "summary": "AI Assistant plugin for Apache Superset",
   "author": "Ponder",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "superset_chat-0.1.0a22.tar.gz",
-  "download_time": "2025-11-29T19:25:37.879114",
+  "download_filename": "superset_chat-0.1.0a23.tar.gz",
+  "download_time": "2025-11-29T20:12:06.569495",
   "package_url": "https://pypi.org/project/superset-chat/"
 }
