@@ -1,9 +1,8 @@
 {
-  "download_time": "2025-11-29T19:26:06.632288",
+  "download_time": "2025-11-29T19:34:49.761250",
   "total_packages_downloaded": 72,
-  "total_size_mb": 9.24,
+  "total_size_mb": 0.11,
   "packages": [
-    "mpy-cross-v5",
     "FotoKilof",
     "reversible-unlearning",
     "miunlock",
@@ -74,6 +73,7 @@
     "cortex-omega",
     "lazy-bird",
     "Hydro-Quebec-API-Wrapper",
-    "andrewphd"
+    "andrewphd",
+    "typhonbreaker"
   ]
 }
