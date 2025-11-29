@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-profiler-rust",
+  "version": "0.3.2",
+  "summary": "Rust-powered statistics aggregator for FastAPI profiling",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_profiler_rust-0.3.2-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-11-29T11:26:15.701404",
+  "package_url": "https://pypi.org/project/fastapi-profiler-rust/"
+}

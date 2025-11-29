@@ -1,11 +1,11 @@
 {
   "name": "SHICTHRSLogCore",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "summary": "SHICTHRS LOG CORE logging system",
   "author": "SHICTHRS",
   "license": "GPL-3.0",
   "home_page": "https://github.com/JNTMTMTM/SHICTHRS_LogCore",
-  "download_filename": "shicthrslogcore-1.8.0.tar.gz",
-  "download_time": "2025-11-27T14:10:46.288069",
+  "download_filename": "shicthrslogcore-1.9.0.tar.gz",
+  "download_time": "2025-11-29T11:25:57.009042",
   "package_url": "https://pypi.org/project/SHICTHRSLogCore/"
 }

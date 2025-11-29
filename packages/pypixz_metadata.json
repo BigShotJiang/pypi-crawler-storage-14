@@ -1,0 +1,11 @@
+{
+  "name": "pypixz",
+  "version": "2.0.0",
+  "summary": "A solution for managing your Python dependencies",
+  "author": "ZKeepr - Organisation on GitHub",
+  "license": null,
+  "home_page": "https://github.com/zkeepr/pypixz",
+  "download_filename": "pypixz-2.0.0.tar.gz",
+  "download_time": "2025-11-29T11:26:13.470363",
+  "package_url": "https://pypi.org/project/pypixz/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "SHICTHRSMACE",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "summary": "SHICTHRS MACE machine identity system",
   "author": "SHICTHRS",
   "license": "GPL-3.0",
   "home_page": "https://github.com/JNTMTMTM/SHICTHRS_MACE",
-  "download_filename": "shicthrsmace-1.4.0.tar.gz",
-  "download_time": "2025-11-28T20:11:42.402147",
+  "download_filename": "shicthrsmace-1.5.0.tar.gz",
+  "download_time": "2025-11-29T11:26:00.284747",
   "package_url": "https://pypi.org/project/SHICTHRSMACE/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-profiler-lite",
+  "version": "0.3.4",
+  "summary": "Lightweight performance profiler for FastAPI applications",
+  "author": "Alexander Lind",
+  "license": "MIT",
+  "home_page": "https://github.com/al91liwo/fastapi-profiler",
+  "download_filename": "fastapi_profiler_lite-0.3.4.tar.gz",
+  "download_time": "2025-11-29T11:26:14.570896",
+  "package_url": "https://pypi.org/project/fastapi-profiler-lite/"
+}

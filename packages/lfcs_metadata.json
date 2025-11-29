@@ -1,11 +1,11 @@
 {
   "name": "lfcs",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "CLI-based LFCS Practice Environment with Docker containers",
   "author": "LFCS Practice Team",
   "license": "MIT",
   "home_page": "https://github.com/loyality7/lfcs-practice-tool",
-  "download_filename": "lfcs-1.0.4.tar.gz",
-  "download_time": "2025-11-29T05:49:25.214154",
+  "download_filename": "lfcs-1.0.5.tar.gz",
+  "download_time": "2025-11-29T11:26:31.006694",
   "package_url": "https://pypi.org/project/lfcs/"
 }

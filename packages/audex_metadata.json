@@ -1,11 +1,11 @@
 {
   "name": "audex",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": null,
   "author": "BoChenSHEN",
   "license": null,
   "home_page": null,
-  "download_filename": "audex-1.0.1.tar.gz",
-  "download_time": "2025-11-26T19:47:17.069865",
+  "download_filename": "audex-1.0.2.tar.gz",
+  "download_time": "2025-11-29T11:26:00.830402",
   "package_url": "https://pypi.org/project/audex/"
 }

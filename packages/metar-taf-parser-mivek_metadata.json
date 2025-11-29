@@ -1,0 +1,11 @@
+{
+  "name": "metar-taf-parser-mivek",
+  "version": "1.10.2",
+  "summary": "Python project parsing metar and taf message",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "metar_taf_parser_mivek-1.10.2.tar.gz",
+  "download_time": "2025-11-29T11:26:25.276836",
+  "package_url": "https://pypi.org/project/metar-taf-parser-mivek/"
+}
