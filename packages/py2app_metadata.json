@@ -1,0 +1,11 @@
+{
+  "name": "py2app",
+  "version": "0.28.9",
+  "summary": "Create standalone Mac OS X applications with Python",
+  "author": "Ronald Oussoren",
+  "license": "MIT or PSF License",
+  "home_page": "http://github.com/ronaldoussoren/py2app",
+  "download_filename": "py2app-0.28.9.tar.gz",
+  "download_time": "2025-11-29T12:17:12.092410",
+  "package_url": "https://pypi.org/project/py2app/"
+}
