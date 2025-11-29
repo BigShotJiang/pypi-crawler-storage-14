@@ -1,28 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-29T05:34:17.100721
-- **Total Packages**: 71
-- **Total Size**: 5.61 MB
+- **Download Time**: 2025-11-29T05:49:49.127825
+- **Total Packages**: 73
+- **Total Size**: 17.46 MB
 
 ## Packages List
+- pulumi-aws-apigateway
+- nemo-library-etl
+- metaflowx
+- zeta-mlx-cli
+- zeta-mlx-langchain
+- zeta-mlx-rag
+- zeta-mlx-embedding
+- zeta-mlx-inference
+- waku
+- hubble-agent0
+- zeta-mlx-core
+- pdfembed
+- kodeagent
+- vendor-connectors
+- opensensor-enviroplus
+- echograph
+- deepseek-ocr-cliv2
+- directed-inputs-class
+- tokenvault-sdk
+- ai-safety-tester
+- rmbloat
+- nell-scb-lib
+- quillmark
+- pulumi-sdwan
+- sonolus.py
+- benchmax
+- lfcs
 - n-sum
 - lifecyclelogging
 - svc-infra
 - starbash
-- lfcs
-- zeta-mlx-langchain
-- zeta-mlx-rag
 - pygcprofiler
-- zeta-mlx-cli
-- zeta-mlx-embedding
-- zeta-mlx-inference
-- zeta-mlx-core
 - edt
 - cortex-omega
 - dremioframe
 - moltres
-- opensensor-enviroplus
 - python-tm1637
 - lumera
 - openai-agents-testkit
@@ -31,7 +50,6 @@
 - codegen-2
 - tsmasterapi
 - clappia-api-tools
-- deepseek-ocr-cliv2
 - raggify-client
 - raggify
 - pulumi-aws-native
@@ -61,19 +79,3 @@
 - iamdata
 - aitril
 - holodeck-ai
-- mcpcn-video-speed-mcp
-- mcpcn-video-aspect-ratio-mcp
-- gym-examples
-- mcpcn-video-format-converter
-- mcpcn-video-silence-remover-mcp
-- bear-utils
-- mcpcn-video-extract-audio-mcp
-- mcpcn-video-text-watermark-mcp
-- guide-framework
-- mcpcn-video-image-watermark-mcp
-- karrio-veho
-- nonebot-plugin-templates-draw
-- karrio-tge
-- karrio-teleship
-- karrio-shipengine
-- geosnap

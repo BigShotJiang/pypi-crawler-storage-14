@@ -1,11 +1,11 @@
 {
   "name": "deepseek-ocr-cliv2",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "ocr识别命令行工具",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "deepseek_ocr_cliv2-0.1.2.tar.gz",
-  "download_time": "2025-11-29T05:33:53.025522",
+  "download_filename": "deepseek_ocr_cliv2-0.1.4.tar.gz",
+  "download_time": "2025-11-29T05:49:19.899552",
   "package_url": "https://pypi.org/project/deepseek-ocr-cliv2/"
 }
