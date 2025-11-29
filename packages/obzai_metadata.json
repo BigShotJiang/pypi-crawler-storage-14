@@ -1,0 +1,11 @@
+{
+  "name": "obzai",
+  "version": "0.2.2",
+  "summary": "Explainable AI, Model Monitoring, and Outlier Detection Tools for Computer Vision Systems",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "obzai-0.2.2.tar.gz",
+  "download_time": "2025-11-29T22:33:00.444883",
+  "package_url": "https://pypi.org/project/obzai/"
+}

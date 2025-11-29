@@ -1,0 +1,11 @@
+{
+  "name": "OgbujiPT",
+  "version": "0.10.0",
+  "summary": "Client-side tools for using large language models, full service (e.g. ChatGPT & Bard) or locally hosted (e.g. LLaMA derivatives)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ogbujipt-0.10.0.tar.gz",
+  "download_time": "2025-11-29T22:32:49.411511",
+  "package_url": "https://pypi.org/project/OgbujiPT/"
+}

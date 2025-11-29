@@ -1,11 +1,11 @@
 {
   "name": "licomp-oslc-handbook",
-  "version": "0.1.0",
-  "summary": "Simple command line tool to check compatibility between two licenses, given context",
+  "version": "0.1.2",
+  "summary": "Simple command line tool to check compatibility between two licenses, given context ",
   "author": "Henrik Sanklef",
   "license": null,
   "home_page": "https://github.com/hesa/licomp-oslc_handbook",
-  "download_filename": "licomp_oslc_handbook-0.1.0.tar.gz",
-  "download_time": "2025-11-29T20:49:35.350167",
+  "download_filename": "licomp_oslc_handbook-0.1.2.tar.gz",
+  "download_time": "2025-11-29T22:32:47.289007",
   "package_url": "https://pypi.org/project/licomp-oslc-handbook/"
 }

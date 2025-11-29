@@ -1,0 +1,11 @@
+{
+  "name": "openhcs",
+  "version": "0.5.0",
+  "summary": "High-Content Screening image processing engine with native GPU support",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "openhcs-0.5.0.tar.gz",
+  "download_time": "2025-11-29T22:32:46.763568",
+  "package_url": "https://pypi.org/project/openhcs/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "netsnap",
+  "version": "1.0.0",
+  "summary": "Comprehensive Linux network snapshot toolkit and python library using RTNetlink and Generic Netlink",
+  "author": "Harry Coin",
+  "license": null,
+  "home_page": "https://github.com/hcoin/netsnap",
+  "download_filename": "netsnap-1.0.0.tar.gz",
+  "download_time": "2025-11-29T22:32:49.939026",
+  "package_url": "https://pypi.org/project/netsnap/"
+}

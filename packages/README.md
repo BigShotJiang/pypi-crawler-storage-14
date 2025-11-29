@@ -1,17 +1,71 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-29T22:10:43.517884
-- **Total Packages**: 92
-- **Total Size**: 19.59 MB
+- **Download Time**: 2025-11-29T22:33:30.119065
+- **Total Packages**: 89
+- **Total Size**: 10.3 MB
 
 ## Packages List
+- extended-data-types
+- vibe-coding-mcp
+- beacon-dl
+- tumblr-backup
+- super-bario
+- semantify3
+- openhcs
+- licomp-oslc-handbook
+- lm-deluge
+- financial-calc
+- ph-shorts
+- OgbujiPT
+- netsnap
+- memdocs
+- digimat.mbio
+- quick-assistant
+- tvi-solphit-discera-capability-image-gen
+- langswarm
+- ciga
+- Nanashi-OpenShockPY
+- chat-prompt-logger
+- blazeio
+- flask-pass0
+- sqlbench
+- marsel
+- jetflow
+- mdformat-mdslw
+- cgm-format
+- vision-agents-plugins-elevenlabs
+- vision-agents-plugins-fish
+- vision-agents-plugins-kokoro
+- vision-agents-plugins-inworld
+- obzai
+- pdval
+- playlist2podcast
+- mcp-docker
+- x-mlps-pytorch
+- vision-agents-plugins-cartesia
+- vision-agents-plugins-openrouter
+- vision-agents-plugins-openai
+- vision-agents-plugins-getstream
+- vision-agents-plugins-gemini
+- vision-agents-plugins-anthropic
+- vision-agents
+- vision-agents-plugins-heygen
+- ticktools
+- django-telegram-app
+- chen-signatures
+- browser-use
+- uncms
+- typed-settings
+- lionpride
+- masgent
+- pokemon-stats-reader
+- cmsend
 - glitchlings
 - vision-agents-plugins-xai
 - vision-agents-plugins-aws
 - vision-agents-plugins-vogent
 - vision-agents-plugins-fast-whisper
-- pokemon-stats-reader
 - glidergun
 - task-sequencer
 - agentic-coder
@@ -23,7 +77,6 @@
 - shedboxai
 - chainswarm-core
 - pytrilogy
-- ph-shorts
 - mrs-scaffold
 - basicrta
 - tiddl
@@ -32,7 +85,6 @@
 - adoaler-sdk
 - config-cli-gui
 - rebase-dashboard
-- tvi-solphit-discera-capability-image-gen
 - vision-agents-plugins-smart-turn
 - vision-agents-plugins-deepgram
 - vision-agents-plugins-moondream
@@ -43,58 +95,3 @@
 - spectuel-engine-utils
 - sceneweaver
 - dependence
-- sqlo
-- telegram-bot-stack
-- threat-radar
-- plyrfm-mcp
-- plyrfm
-- cmsend
-- backmap
-- premium-lib
-- c2cwsgiutils
-- viva-datacreator
-- pyarud
-- orthoxml-tools
-- dars-framework
-- sentinel-core
-- conversation-tk
-- formalyzer
-- githerer
-- reach_commons
-- mcp-browser
-- agentmail
-- pyvegh
-- apppy-env
-- apppy-logger
-- apppy-clients
-- apppy-db
-- apppy-aws
-- depcleaner
-- apppy-fs
-- apppy-sb
-- trame-vtklocal
-- apppy-queues
-- promptsql
-- apppy-app
-- openmeter
-- apppy-generic
-- apppy-auth
-- apppy-fastql
-- tvi-solphit-discera-capability-web-search
-- mcp_mail
-- symetrie-hexapod
-- plato-spw
-- plato-hdf5
-- plato-fits
-- lakeshore-tempcontrol
-- keithley-tempcontrol
-- cgse-tools
-- cgse-gui
-- cgse-core
-- cgse-coordinates
-- cgse-common
-- cgse
-- tensorwatchext
-- ariel-tcu
-- django-unfold-markdown
-- litestar-debug-toolbar
