@@ -1,0 +1,11 @@
+{
+  "name": "annize",
+  "version": "7.0.6539",
+  "summary": "a simple framework for task automation with focus on visual guidance and low-code",
+  "author": "Josef Hahn",
+  "license": "AGPL 3",
+  "home_page": "https://pseudopolis.eu/pino/annize",
+  "download_filename": "annize-7.0.6539-py3-none-any.whl",
+  "download_time": "2025-11-29T23:48:45.216648",
+  "package_url": "https://pypi.org/project/annize/"
+}

@@ -1,11 +1,22 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-29T23:38:47.464312
+- **Download Time**: 2025-11-29T23:49:30.699026
 - **Total Packages**: 82
-- **Total Size**: 14.31 MB
+- **Total Size**: 4.9 MB
 
 ## Packages List
+- pyobjict
+- wox
+- matplobbot-shared
+- hccinfhir
+- annize
+- mcp-ticketer
+- plyrfm-mcp
+- proportions
+- plyrfm
+- sqlbench
+- formalyzer
 - korea-investment-stock
 - mcp-skillset
 - chat-prompt-logger
@@ -28,7 +39,6 @@
 - langswarm
 - libtmux
 - jaconv
-- sqlbench
 - stocksTUI
 - threat-radar
 - aiinbx
@@ -78,13 +88,3 @@
 - vibe-coding-mcp
 - apc-ups-security-auditor
 - spectuel-engine-utils
-- Nanashi-OpenShockPY
-- agent-diff
-- odoo14-addon-ssi-odoo-implementation
-- simple-trade
-- httpdiff
-- apppy-env
-- apppy-logger
-- apppy-clients
-- apppy-db
-- apppy-aws

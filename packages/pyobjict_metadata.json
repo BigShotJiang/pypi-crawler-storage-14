@@ -1,0 +1,11 @@
+{
+  "name": "pyobjict",
+  "version": "2.1.0",
+  "summary": "A Python dict that supports attribute-style access as well as hierarchical keys, JSON serialization, ZIP compression, and more.",
+  "author": "Ian Starnes",
+  "license": "MIT",
+  "home_page": "https://github.com/311labs/objict",
+  "download_filename": "pyobjict-2.1.0.tar.gz",
+  "download_time": "2025-11-29T23:48:42.597475",
+  "package_url": "https://pypi.org/project/pyobjict/"
+}

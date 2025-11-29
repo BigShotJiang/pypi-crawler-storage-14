@@ -1,8 +1,19 @@
 {
-  "download_time": "2025-11-29T23:38:47.464312",
+  "download_time": "2025-11-29T23:49:30.699026",
   "total_packages_downloaded": 82,
-  "total_size_mb": 14.31,
+  "total_size_mb": 4.9,
   "packages": [
+    "pyobjict",
+    "wox",
+    "matplobbot-shared",
+    "hccinfhir",
+    "annize",
+    "mcp-ticketer",
+    "plyrfm-mcp",
+    "proportions",
+    "plyrfm",
+    "sqlbench",
+    "formalyzer",
     "korea-investment-stock",
     "mcp-skillset",
     "chat-prompt-logger",
@@ -25,7 +36,6 @@
     "langswarm",
     "libtmux",
     "jaconv",
-    "sqlbench",
     "stocksTUI",
     "threat-radar",
     "aiinbx",
@@ -74,16 +84,6 @@
     "aioesphomeapi",
     "vibe-coding-mcp",
     "apc-ups-security-auditor",
-    "spectuel-engine-utils",
-    "Nanashi-OpenShockPY",
-    "agent-diff",
-    "odoo14-addon-ssi-odoo-implementation",
-    "simple-trade",
-    "httpdiff",
-    "apppy-env",
-    "apppy-logger",
-    "apppy-clients",
-    "apppy-db",
-    "apppy-aws"
+    "spectuel-engine-utils"
   ]
 }
