@@ -1,11 +1,11 @@
 {
   "name": "spotsweeper",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "Spatially-aware quality control for spatial transcriptomics",
   "author": "Daniel Chen",
   "license": "MIT",
   "home_page": "https://github.com/danielchen05/spotsweeper_py",
-  "download_filename": "spotsweeper-0.2.5.tar.gz",
-  "download_time": "2025-11-29T03:33:41.557404",
+  "download_filename": "spotsweeper-0.2.6.tar.gz",
+  "download_time": "2025-11-29T16:37:39.223822",
   "package_url": "https://pypi.org/project/spotsweeper/"
 }

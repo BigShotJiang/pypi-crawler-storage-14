@@ -1,11 +1,11 @@
 {
   "name": "sdnq",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "SD.Next Quantization Engine",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sdnq-0.1.0.tar.gz",
-  "download_time": "2025-11-27T22:10:02.756457",
+  "download_filename": "sdnq-0.1.1.tar.gz",
+  "download_time": "2025-11-29T16:37:15.007286",
   "package_url": "https://pypi.org/project/sdnq/"
 }

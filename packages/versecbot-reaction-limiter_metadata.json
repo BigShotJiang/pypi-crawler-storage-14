@@ -1,11 +1,11 @@
 {
   "name": "versecbot-reaction-limiter",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "VerSecBot plugin to restrict reactions based on user roles.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "versecbot_reaction_limiter-0.1.1.tar.gz",
-  "download_time": "2025-11-29T15:10:13.010707",
+  "download_filename": "versecbot_reaction_limiter-0.2.0.tar.gz",
+  "download_time": "2025-11-29T16:37:35.016369",
   "package_url": "https://pypi.org/project/versecbot-reaction-limiter/"
 }

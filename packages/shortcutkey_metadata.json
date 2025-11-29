@@ -1,0 +1,11 @@
+{
+  "name": "shortcutkey",
+  "version": "3.0.0",
+  "summary": "通过快捷键打开指定软件的工具",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/shortcutkey",
+  "download_filename": "shortcutkey-3.0.0.tar.gz",
+  "download_time": "2025-11-29T16:37:14.488201",
+  "package_url": "https://pypi.org/project/shortcutkey/"
+}

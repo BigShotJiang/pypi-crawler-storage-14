@@ -1,0 +1,11 @@
+{
+  "name": "beniget",
+  "version": "0.5.0",
+  "summary": "Extract semantic information about static Python code",
+  "author": "serge-sans-paille",
+  "license": "BSD 3-Clause",
+  "home_page": "https://github.com/serge-sans-paille/beniget/",
+  "download_filename": "beniget-0.5.0.tar.gz",
+  "download_time": "2025-11-29T16:37:33.408745",
+  "package_url": "https://pypi.org/project/beniget/"
+}

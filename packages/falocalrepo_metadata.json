@@ -1,0 +1,11 @@
+{
+  "name": "falocalrepo",
+  "version": "4.5.3",
+  "summary": "Pure Python program to download any user's gallery, scraps, favorites, and journals from FurAffinity in an easily handled database.",
+  "author": "Matteo Campinoti",
+  "license": "EUPL-1.2",
+  "home_page": "https://github.com/FurryCoders/FALocalRepo",
+  "download_filename": "falocalrepo-4.5.3.tar.gz",
+  "download_time": "2025-11-29T16:37:18.169618",
+  "package_url": "https://pypi.org/project/falocalrepo/"
+}

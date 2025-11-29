@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-datahub-shemreader",
+  "version": "1.0.1",
+  "summary": "A Model Context Protocol (MCP) server for DataHub",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_datahub_shemreader-1.0.1.tar.gz",
+  "download_time": "2025-11-29T16:37:23.384415",
+  "package_url": "https://pypi.org/project/mcp-server-datahub-shemreader/"
+}

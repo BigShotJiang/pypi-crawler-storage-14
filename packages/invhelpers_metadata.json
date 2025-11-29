@@ -1,0 +1,11 @@
+{
+  "name": "invhelpers",
+  "version": "0.1.1",
+  "summary": "Tiny helper functions for inventory views.",
+  "author": "Mohammed Hussain",
+  "license": null,
+  "home_page": null,
+  "download_filename": "invhelpers-0.1.1.tar.gz",
+  "download_time": "2025-11-29T16:37:32.846420",
+  "package_url": "https://pypi.org/project/invhelpers/"
+}

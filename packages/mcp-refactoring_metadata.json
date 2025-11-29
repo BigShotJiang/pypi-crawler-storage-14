@@ -1,0 +1,11 @@
+{
+  "name": "mcp-refactoring",
+  "version": "0.1.1",
+  "summary": "MCP server exposing Martin Fowler's refactoring catalog to LLMs",
+  "author": "Marshall Yount",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_refactoring-0.1.1.tar.gz",
+  "download_time": "2025-11-29T16:37:19.739324",
+  "package_url": "https://pypi.org/project/mcp-refactoring/"
+}

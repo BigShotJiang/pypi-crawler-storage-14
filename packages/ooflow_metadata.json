@@ -1,11 +1,11 @@
 {
   "name": "ooflow",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A lightweight Python framework for building asynchronous data processing pipelines with stateful nodes",
   "author": "fanfank",
   "license": "MIT",
   "home_page": "https://github.com/fanfank/ooflow",
-  "download_filename": "ooflow-0.2.0.tar.gz",
-  "download_time": "2025-11-26T14:36:21.366976",
+  "download_filename": "ooflow-0.2.1.tar.gz",
+  "download_time": "2025-11-29T16:37:54.447477",
   "package_url": "https://pypi.org/project/ooflow/"
 }

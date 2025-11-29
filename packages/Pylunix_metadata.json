@@ -1,0 +1,11 @@
+{
+  "name": "Pylunix",
+  "version": "1.0.0",
+  "summary": "A utility library for simplifying Linux command-line operations in Python.",
+  "author": "Dibyadip Parui",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pylunix-1.0.0.tar.gz",
+  "download_time": "2025-11-29T16:37:28.683617",
+  "package_url": "https://pypi.org/project/Pylunix/"
+}
