@@ -1,8 +1,18 @@
 {
-  "download_time": "2025-11-29T04:43:39.625446",
+  "download_time": "2025-11-29T04:52:54.908850",
   "total_packages_downloaded": 54,
-  "total_size_mb": 7.48,
+  "total_size_mb": 3.47,
   "packages": [
+    "serger",
+    "gemini-api-toolkit",
+    "pulumi-xyz",
+    "civic-exchange-protocol",
+    "n-sum",
+    "iamdata",
+    "aitril",
+    "matrix-python",
+    "holodeck-ai",
+    "mcpcn-video-speed-mcp",
     "mcpcn-video-aspect-ratio-mcp",
     "gym-examples",
     "mcpcn-video-format-converter",
@@ -46,16 +56,6 @@
     "pulumi-cloudngfwaws",
     "feature-generate",
     "jinslacker",
-    "matrix-python",
-    "keras-nlp-nightly",
-    "keras-hub-nightly",
-    "candle-api",
-    "odoo-addon-project-task-analytic-propagation",
-    "markdown-extract",
-    "jubilee",
-    "odoo-addon-storage-media-product",
-    "packetutil",
-    "django-shopify-app",
-    "hdim-opt"
+    "keras-nlp-nightly"
   ]
 }
