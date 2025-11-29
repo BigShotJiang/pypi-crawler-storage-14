@@ -1,11 +1,11 @@
 {
   "name": "ywh-program-selector",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "The YWH Program Selector project is a tool designed to help bug hunters manage and prioritize their YesWeHack (YWH) private programs",
   "author": "@_Ali4s_",
   "license": null,
   "home_page": "https://github.com/jdouliez/ywh_program_selector",
-  "download_filename": "ywh_program_selector-0.1.6.tar.gz",
-  "download_time": "2025-11-29T14:32:11.704235",
+  "download_filename": "ywh_program_selector-0.1.7.tar.gz",
+  "download_time": "2025-11-29T14:41:56.095855",
   "package_url": "https://pypi.org/project/ywh-program-selector/"
 }
