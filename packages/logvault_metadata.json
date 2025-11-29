@@ -1,11 +1,11 @@
 {
   "name": "logvault",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "Audit-Log-as-a-Service client library",
   "author": "LogVault",
-  "license": "MIT",
+  "license": null,
   "home_page": "https://github.com/Rul1an/LogVault",
-  "download_filename": "logvault-0.2.1.tar.gz",
-  "download_time": "2025-11-26T18:40:18.904777",
+  "download_filename": "logvault-0.2.3.tar.gz",
+  "download_time": "2025-11-29T10:10:53.640759",
   "package_url": "https://pypi.org/project/logvault/"
 }

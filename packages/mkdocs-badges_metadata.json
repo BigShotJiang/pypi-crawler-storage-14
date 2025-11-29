@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-badges",
+  "version": "0.5.1",
+  "summary": "Add badges to your MkDocs page",
+  "author": "six-two",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdocs_badges-0.5.1.tar.gz",
+  "download_time": "2025-11-29T10:11:07.207797",
+  "package_url": "https://pypi.org/project/mkdocs-badges/"
+}

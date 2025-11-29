@@ -1,0 +1,11 @@
+{
+  "name": "vwsfriend",
+  "version": "0.24.8",
+  "summary": null,
+  "author": "Till Steinbach",
+  "license": "MIT",
+  "home_page": "https://github.com/tillsteinbach/VWsFriend",
+  "download_filename": "vwsfriend-0.24.8.tar.gz",
+  "download_time": "2025-11-29T10:11:08.742628",
+  "package_url": "https://pypi.org/project/vwsfriend/"
+}

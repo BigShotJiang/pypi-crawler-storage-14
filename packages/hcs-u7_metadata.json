@@ -1,0 +1,11 @@
+{
+  "name": "hcs-u7",
+  "version": "0.1.0",
+  "summary": "HCS-U7 cognitive profile parser and utilities",
+  "author": "CoreHuman",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hcs_u7-0.1.0.tar.gz",
+  "download_time": "2025-11-29T10:10:53.127318",
+  "package_url": "https://pypi.org/project/hcs-u7/"
+}
