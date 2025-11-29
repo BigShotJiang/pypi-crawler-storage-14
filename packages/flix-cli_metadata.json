@@ -1,11 +1,11 @@
 {
   "name": "flix-cli",
-  "version": "1.8.1.6",
+  "version": "1.8.1.8",
   "summary": "A high efficient, powerful and fast movie scraper.",
   "author": null,
   "license": "GPLv3",
   "home_page": null,
-  "download_filename": "flix_cli-1.8.1.6-py3-none-any.whl",
-  "download_time": "2025-11-29T08:53:53.912110",
+  "download_filename": "flix_cli-1.8.1.8-py3-none-any.whl",
+  "download_time": "2025-11-29T09:10:46.385089",
   "package_url": "https://pypi.org/project/flix-cli/"
 }

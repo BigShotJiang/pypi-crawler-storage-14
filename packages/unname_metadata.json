@@ -1,0 +1,11 @@
+{
+  "name": "unname",
+  "version": "0.4.0",
+  "summary": "A simple CLI for anonymizing Python codebases for blind review.",
+  "author": "RyotaUshio",
+  "license": null,
+  "home_page": null,
+  "download_filename": "unname-0.4.0.tar.gz",
+  "download_time": "2025-11-29T09:10:59.776433",
+  "package_url": "https://pypi.org/project/unname/"
+}

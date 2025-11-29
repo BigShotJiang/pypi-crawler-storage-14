@@ -1,0 +1,11 @@
+{
+  "name": "data-detector",
+  "version": "0.0.3",
+  "summary": "A general-purpose engine that detects and masks personal information by country and information type",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "data_detector-0.0.3.tar.gz",
+  "download_time": "2025-11-29T09:10:45.838501",
+  "package_url": "https://pypi.org/project/data-detector/"
+}

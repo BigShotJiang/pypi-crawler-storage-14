@@ -1,0 +1,11 @@
+{
+  "name": "hermes-deployer",
+  "version": "0.3.2",
+  "summary": "Multi-Server, Multi-App, Multi-Service Orchestrator.",
+  "author": "Steven Mendoza",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hermes_deployer-0.3.2.tar.gz",
+  "download_time": "2025-11-29T09:10:54.974272",
+  "package_url": "https://pypi.org/project/hermes-deployer/"
+}

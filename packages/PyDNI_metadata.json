@@ -1,0 +1,11 @@
+{
+  "name": "PyDNI",
+  "version": "0.8.0",
+  "summary": "Spanish identity utilities: validation and generation of DNI, NIE, CIF, NIF, names, emails and birthdates.",
+  "author": "Alberto Gonzalez",
+  "license": "MIT",
+  "home_page": "https://github.com/agonzalezla/PyDNI",
+  "download_filename": "pydni-0.8.0.tar.gz",
+  "download_time": "2025-11-29T09:10:46.978374",
+  "package_url": "https://pypi.org/project/PyDNI/"
+}
