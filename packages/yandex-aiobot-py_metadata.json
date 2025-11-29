@@ -1,0 +1,11 @@
+{
+  "name": "yandex-aiobot-py",
+  "version": "0.1.0",
+  "summary": "Асинхронная библиотека для создания ботов в Яндекс Мессенджере",
+  "author": "demkinkv",
+  "license": "MIT",
+  "home_page": "https://github.com/your/repo",
+  "download_filename": "yandex_aiobot_py-0.1.0-py3-none-any.whl",
+  "download_time": "2025-11-29T14:47:58.969815",
+  "package_url": "https://pypi.org/project/yandex-aiobot-py/"
+}

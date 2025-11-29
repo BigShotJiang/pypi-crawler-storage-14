@@ -1,11 +1,11 @@
 {
   "name": "pysio-hermes-pupillabs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "A Pupil Labs smartglasses support module for HERMES",
   "author": "e-Media Research Lab @ KU Leuven",
   "license": null,
   "home_page": null,
-  "download_filename": "pysio_hermes_pupillabs-0.0.3.tar.gz",
-  "download_time": "2025-11-28T22:48:05.504352",
+  "download_filename": "pysio_hermes_pupillabs-0.0.4.tar.gz",
+  "download_time": "2025-11-29T14:48:11.072667",
   "package_url": "https://pypi.org/project/pysio-hermes-pupillabs/"
 }

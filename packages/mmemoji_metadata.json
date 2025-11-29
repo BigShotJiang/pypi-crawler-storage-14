@@ -1,0 +1,11 @@
+{
+  "name": "mmemoji",
+  "version": "0.7.0",
+  "summary": "Custom Emoji manager command-line for Mattermost 😎",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "mmemoji-0.7.0.tar.gz",
+  "download_time": "2025-11-29T14:48:05.793759",
+  "package_url": "https://pypi.org/project/mmemoji/"
+}

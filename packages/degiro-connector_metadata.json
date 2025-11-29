@@ -1,0 +1,11 @@
+{
+  "name": "degiro-connector",
+  "version": "3.0.35",
+  "summary": "This is yet another library to access Degiro's API.",
+  "author": "Chavithra PARANA",
+  "license": null,
+  "home_page": "https://github.com/chavithra/degiro-connector",
+  "download_filename": "degiro_connector-3.0.35.tar.gz",
+  "download_time": "2025-11-29T14:48:07.876407",
+  "package_url": "https://pypi.org/project/degiro-connector/"
+}

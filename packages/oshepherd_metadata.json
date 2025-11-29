@@ -1,0 +1,11 @@
+{
+  "name": "oshepherd",
+  "version": "0.0.19",
+  "summary": "The Oshepherd guiding the Ollama(s) inference orchestration.",
+  "author": "mnemonica.ai",
+  "license": null,
+  "home_page": null,
+  "download_filename": "oshepherd-0.0.19.tar.gz",
+  "download_time": "2025-11-29T14:48:10.552979",
+  "package_url": "https://pypi.org/project/oshepherd/"
+}
