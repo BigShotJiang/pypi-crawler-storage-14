@@ -1,11 +1,11 @@
 {
   "name": "listofdicts",
-  "version": "2.1.5",
+  "version": "2.1.6",
   "summary": "A ListOfDicts class for managing a list of dictionaries with enhanced functionality.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "listofdicts-2.1.5.tar.gz",
-  "download_time": "2025-11-29T18:42:10.852366",
+  "download_filename": "listofdicts-2.1.6.tar.gz",
+  "download_time": "2025-11-29T19:25:48.231800",
   "package_url": "https://pypi.org/project/listofdicts/"
 }

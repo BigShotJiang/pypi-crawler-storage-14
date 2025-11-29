@@ -1,11 +1,11 @@
 {
   "name": "matrixpythonclient",
-  "version": "0.0.33",
+  "version": "0.0.34",
   "summary": "Python package which provides Matrix Rest API Client",
   "author": "Robert Metcalf",
   "license": "MIT",
   "home_page": "https://github.com/rmetcalf9/MatrixPythonClient",
-  "download_filename": "matrixpythonclient-0.0.33.tar.gz",
-  "download_time": "2025-11-28T20:48:35.612886",
+  "download_filename": "matrixpythonclient-0.0.34.tar.gz",
+  "download_time": "2025-11-29T19:25:34.787642",
   "package_url": "https://pypi.org/project/matrixpythonclient/"
 }

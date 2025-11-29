@@ -1,0 +1,11 @@
+{
+  "name": "FotoKilof",
+  "version": "5.2.2",
+  "summary": "Nice gui for ImageMagick and Pillow",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fotokilof-5.2.2.tar.gz",
+  "download_time": "2025-11-29T19:25:29.080649",
+  "package_url": "https://pypi.org/project/FotoKilof/"
+}
