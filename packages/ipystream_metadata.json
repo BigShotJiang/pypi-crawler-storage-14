@@ -1,11 +1,11 @@
 {
   "name": "ipystream",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Easy interactive Jupyter dashboards, flowing top to bottom like a stream",
   "author": "Charles Dabadie",
   "license": "MIT",
   "home_page": "https://github.com/jleblanc64/ipystream",
-  "download_filename": "ipystream-0.1.2.tar.gz",
-  "download_time": "2025-11-27T17:47:23.708147",
+  "download_filename": "ipystream-0.1.3.tar.gz",
+  "download_time": "2025-11-29T23:10:27.434843",
   "package_url": "https://pypi.org/project/ipystream/"
 }

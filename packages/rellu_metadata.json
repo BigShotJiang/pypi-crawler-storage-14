@@ -1,0 +1,11 @@
+{
+  "name": "rellu",
+  "version": "1.0.0",
+  "summary": "Tooling to ease creating releases",
+  "author": "Pekka Klärck and contributors",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/robotframework/rellu",
+  "download_filename": "rellu-1.0.0.tar.gz",
+  "download_time": "2025-11-29T23:10:26.876146",
+  "package_url": "https://pypi.org/project/rellu/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cortex-omega",
-  "version": "1.8.1",
+  "version": "1.8.2",
   "summary": "The Epistemic Inference Engine for Python. No prompts. Just logic.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cortex_omega-1.8.1.tar.gz",
-  "download_time": "2025-11-29T21:10:02.674032",
+  "download_filename": "cortex_omega-1.8.2.tar.gz",
+  "download_time": "2025-11-29T23:10:18.995105",
   "package_url": "https://pypi.org/project/cortex-omega/"
 }

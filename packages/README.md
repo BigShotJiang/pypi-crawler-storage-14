@@ -1,19 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-29T22:49:06.282859
-- **Total Packages**: 91
-- **Total Size**: 8.29 MB
+- **Download Time**: 2025-11-29T23:11:02.918689
+- **Total Packages**: 83
+- **Total Size**: 36.15 MB
 
 ## Packages List
-- tensorwatchext
+- python-base-toolkit
+- gradeschoolmathsolver
+- markhor
+- tangram-ship162
+- tangram-jet1090
+- cortex-omega
+- plombery
+- tangram-core
+- flwr-nightly
 - remdb
+- threat-radar
+- sqlbench
+- pypomes-crypto
+- tangram-weather
+- tangram-airports
+- tangram-system
+- copium
+- rellu
+- ipystream
+- storyboard-cli
+- newline-iwb-converter
+- subscleaner
+- chat-prompt-logger
+- CalypSSO
+- lumo-sdk
+- soni
+- tensorwatchext
+- causal-toolkit-yanranhan
+- memdocs
+- korea-investment-stock
+- driada
+- glidergun
+- twevals
+- jetflow
+- synthetmic
+- AbuLang
 - ciscoconfparse2
 - Graphinate
 - python-jack-knife
 - aioesphomeapi
 - vibe-coding-mcp
-- causal-toolkit-yanranhan
 - apc-ups-security-auditor
 - spectuel-engine-utils
 - Nanashi-OpenShockPY
@@ -23,7 +56,6 @@
 - httpdiff
 - apppy-env
 - apppy-logger
-- jetflow
 - apppy-clients
 - apppy-db
 - apppy-aws
@@ -48,52 +80,12 @@
 - ph-shorts
 - OgbujiPT
 - netsnap
-- memdocs
 - digimat.mbio
 - quick-assistant
 - tvi-solphit-discera-capability-image-gen
 - langswarm
 - ciga
-- chat-prompt-logger
 - blazeio
 - flask-pass0
-- sqlbench
 - marsel
 - mdformat-mdslw
-- cgm-format
-- vision-agents-plugins-elevenlabs
-- vision-agents-plugins-fish
-- vision-agents-plugins-kokoro
-- vision-agents-plugins-inworld
-- obzai
-- pdval
-- playlist2podcast
-- mcp-docker
-- x-mlps-pytorch
-- vision-agents-plugins-cartesia
-- vision-agents-plugins-openrouter
-- vision-agents-plugins-openai
-- vision-agents-plugins-getstream
-- vision-agents-plugins-gemini
-- vision-agents-plugins-anthropic
-- vision-agents
-- vision-agents-plugins-heygen
-- ticktools
-- django-telegram-app
-- chen-signatures
-- browser-use
-- uncms
-- typed-settings
-- lionpride
-- masgent
-- pokemon-stats-reader
-- cmsend
-- glitchlings
-- vision-agents-plugins-xai
-- vision-agents-plugins-aws
-- vision-agents-plugins-vogent
-- vision-agents-plugins-fast-whisper
-- glidergun
-- task-sequencer
-- agentic-coder
-- tinyshift

@@ -1,0 +1,11 @@
+{
+  "name": "lumo-sdk",
+  "version": "0.2.1",
+  "summary": "A Python SDK for the Lumo API by Starlight",
+  "author": "Lumo SDK Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lumo_sdk-0.2.1.tar.gz",
+  "download_time": "2025-11-29T23:10:30.973980",
+  "package_url": "https://pypi.org/project/lumo-sdk/"
+}

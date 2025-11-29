@@ -1,11 +1,11 @@
 {
   "name": "newline-iwb-converter",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "A converter utility for handling Newline whiteboard IWB files and converting them",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "newline_iwb_converter-0.2.1.tar.gz",
-  "download_time": "2025-11-27T16:40:17.316539",
+  "download_filename": "newline_iwb_converter-0.3.0.tar.gz",
+  "download_time": "2025-11-29T23:10:28.713453",
   "package_url": "https://pypi.org/project/newline-iwb-converter/"
 }
