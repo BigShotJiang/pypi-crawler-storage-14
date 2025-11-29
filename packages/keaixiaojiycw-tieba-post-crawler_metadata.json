@@ -1,11 +1,11 @@
 {
   "name": "keaixiaojiycw-tieba-post-crawler",
-  "version": "0.4.0",
+  "version": "0.6.0",
   "summary": "贴吧一体化异步爬取与HTML/LLM数据处理工具箱",
   "author": "keaixiaojiycw",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/keaixiaojiycw-tieba-post-crawler",
-  "download_filename": "keaixiaojiycw_tieba_post_crawler-0.4.0.tar.gz",
-  "download_time": "2025-11-29T14:09:49.509233",
+  "download_filename": "keaixiaojiycw_tieba_post_crawler-0.6.0.tar.gz",
+  "download_time": "2025-11-29T14:32:14.843553",
   "package_url": "https://pypi.org/project/keaixiaojiycw-tieba-post-crawler/"
 }

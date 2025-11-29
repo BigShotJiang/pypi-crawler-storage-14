@@ -1,11 +1,11 @@
 {
   "name": "fuselock",
-  "version": "0.1.0",
-  "summary": "Encrypted bytecode loader for secure Python execution",
+  "version": "0.1.2",
+  "summary": "Encrypted bytecode loader",
   "author": "Fuselock",
   "license": "MIT",
   "home_page": "https://github.com/YOURNAME/fuselock",
-  "download_filename": "fuselock-0.1.0.tar.gz",
-  "download_time": "2025-11-29T12:58:58.971175",
+  "download_filename": "fuselock-0.1.2.tar.gz",
+  "download_time": "2025-11-29T14:32:09.158601",
   "package_url": "https://pypi.org/project/fuselock/"
 }

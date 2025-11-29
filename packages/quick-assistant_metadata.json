@@ -1,0 +1,11 @@
+{
+  "name": "quick-assistant",
+  "version": "0.0.0",
+  "summary": "Global CLI tool for productivity - quick translate, document extraction, and search operations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quick_assistant-0.0.0.tar.gz",
+  "download_time": "2025-11-29T14:32:20.442521",
+  "package_url": "https://pypi.org/project/quick-assistant/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dremioframe",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "A dataframe-like library for Dremio Cloud & Dremio Software",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dremioframe-0.3.0.tar.gz",
-  "download_time": "2025-11-29T14:09:53.160396",
+  "download_filename": "dremioframe-0.4.0.tar.gz",
+  "download_time": "2025-11-29T14:32:20.952227",
   "package_url": "https://pypi.org/project/dremioframe/"
 }

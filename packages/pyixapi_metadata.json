@@ -1,0 +1,11 @@
+{
+  "name": "pyixapi",
+  "version": "0.2.7",
+  "summary": "Python API client library for IX-API",
+  "author": "Guillaume Mazoyer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyixapi-0.2.7.tar.gz",
+  "download_time": "2025-11-29T14:32:08.134804",
+  "package_url": "https://pypi.org/project/pyixapi/"
+}
