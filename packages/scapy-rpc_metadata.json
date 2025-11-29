@@ -1,0 +1,11 @@
+{
+  "name": "scapy-rpc",
+  "version": "0.0.4",
+  "summary": "Scapy RPC definitions",
+  "author": "Gabriel POTTER",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scapy_rpc-0.0.4.tar.gz",
+  "download_time": "2025-11-29T13:42:00.446929",
+  "package_url": "https://pypi.org/project/scapy-rpc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dr14meter",
+  "version": "1.1.5",
+  "summary": "Compute the dynamic range DR14 value of the given audio files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dr14meter-1.1.5.tar.gz",
+  "download_time": "2025-11-29T13:42:03.165778",
+  "package_url": "https://pypi.org/project/dr14meter/"
+}

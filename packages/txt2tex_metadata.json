@@ -1,0 +1,11 @@
+{
+  "name": "txt2tex",
+  "version": "1.0.2",
+  "summary": "Convert whiteboard-style mathematical notation to high-quality LaTeX",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "txt2tex-1.0.2.tar.gz",
+  "download_time": "2025-11-29T13:41:59.358867",
+  "package_url": "https://pypi.org/project/txt2tex/"
+}

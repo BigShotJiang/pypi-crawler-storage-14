@@ -1,11 +1,11 @@
 {
   "name": "UtilityConsumption",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "summary": "A UtilityConsumption package",
   "author": "UtilityConsumption",
   "license": null,
-  "home_page": "https://github.com/pypa/sampleproject",
-  "download_filename": "utilityconsumption-0.1.1.tar.gz",
-  "download_time": "2025-11-25T14:10:28.917793",
+  "home_page": "https://github.com/x24281913/CPPUsageApp",
+  "download_filename": "utilityconsumption-1.0.0.tar.gz",
+  "download_time": "2025-11-29T13:41:52.833529",
   "package_url": "https://pypi.org/project/UtilityConsumption/"
 }
