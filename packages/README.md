@@ -1,16 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-29T09:11:23.682014
-- **Total Packages**: 68
-- **Total Size**: 1.01 MB
+- **Download Time**: 2025-11-29T09:31:38.254208
+- **Total Packages**: 72
+- **Total Size**: 18.86 MB
 
 ## Packages List
+- lsyiot-adapter-hub-sdk
+- pyolive-ng
+- starbash
+- dongnae
+- django-mqtt
+- verge-auth
+- family-schedulekit
+- contractme
+- easyclimate-backend
+- mlbi-bitool
+- deps-rocker
+- plonetheme.barceloneta
+- requestez
+- pyarud
+- django-minio-backend
+- tabstar
+- cr-utils
+- volkswagencarnet
+- gpack
+- odoo-addon-partner-vat-unique
+- aiinbx
+- reclaimor
+- nvfuser-cu128
+- passworder
+- nvfuser-cu130
+- napari-piscis
+- nvfuser-cu126
+- tex2typst
+- half-orm-dev
+- seclang_parser
+- lazynovel
+- flix-cli
+- pymadng
+- streamware
 - DecimalCalculator
 - data-detector
-- flix-cli
 - PyDNI
-- lazynovel
 - bool-hybrid-array
 - autogluon
 - autogluon.timeseries
@@ -19,10 +51,8 @@
 - autogluon.features
 - autogluon.core
 - autogluon.common
-- mlbi-bitool
 - hermes-deployer
 - plusml-rh56dftp
-- reclaimor
 - aitril
 - pyosintcobralib
 - AbuLang
@@ -35,7 +65,6 @@
 - fastdigest
 - my-package-raghdaaky
 - factpulse
-- contractme
 - odoo-addon-fieldservice-sale
 - nonebot-plugin-hltv
 - odoo-addon-stock-inventory-verification-request
@@ -49,28 +78,3 @@
 - lazy-log-formatter
 - openmemory-py
 - connectonion
-- selfmemory
-- agent-framework-lib
-- unixevents
-- Nanashi-OpenShockPY
-- tensorwatchext
-- jleechanorg-pr-automation
-- dewi-kadita
-- jleechanorg-orchestration
-- tex2typst
-- pyciaaw
-- MaaDebugger
-- faster-eth-abi
-- aiomoto
-- pydrime
-- waku
-- ChatRunner
-- kasal-6d
-- verge-auth
-- tpu-inference
-- weather-decoder
-- nonebot_plugin_cocdicer
-- odoo-addon-stock-move-delay-report
-- odoo-addon-product-multi-company-stock
-- contextinator
-- mcpcn-video-speed-mcp

@@ -1,11 +1,11 @@
 {
   "name": "reclaimor",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Advanced subdomain takeover reconnaissance & safe-vulnerability-detection",
   "author": "Lakshmikanthan",
   "license": "MIT",
   "home_page": "https://github.com/letchupkt/ReClaimor",
-  "download_filename": "reclaimor-0.1.1.tar.gz",
-  "download_time": "2025-11-29T09:10:56.080941",
+  "download_filename": "reclaimor-0.1.2.tar.gz",
+  "download_time": "2025-11-29T09:31:10.056968",
   "package_url": "https://pypi.org/project/reclaimor/"
 }

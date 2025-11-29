@@ -1,0 +1,11 @@
+{
+  "name": "family-schedulekit",
+  "version": "1.3.5",
+  "summary": "AI-friendly schema + utilities for co-parenting / custody schedules (ISO week based).",
+  "author": "Weekend Superhero LLC",
+  "license": "Dual License: PolyForm Noncommercial 1.0.0 OR Commercial License",
+  "home_page": null,
+  "download_filename": "family_schedulekit-1.3.5.tar.gz",
+  "download_time": "2025-11-29T09:31:01.303179",
+  "package_url": "https://pypi.org/project/family-schedulekit/"
+}

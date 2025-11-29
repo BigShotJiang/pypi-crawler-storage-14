@@ -1,0 +1,11 @@
+{
+  "name": "pymadng",
+  "version": "0.8.2",
+  "summary": "A python interface to MAD-NG running as subprocess",
+  "author": "Joshua Gray",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymadng-0.8.2.tar.gz",
+  "download_time": "2025-11-29T09:31:15.749736",
+  "package_url": "https://pypi.org/project/pymadng/"
+}

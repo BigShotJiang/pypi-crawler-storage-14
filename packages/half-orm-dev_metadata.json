@@ -1,11 +1,11 @@
 {
   "name": "half-orm-dev",
-  "version": "0.17.0a8",
+  "version": "0.17.0a10",
   "summary": "half_orm development Framework.",
   "author": "Joël Maïzi",
   "license": "GNU General Public License v3 (GPLv3)",
   "home_page": "https://github.com/collorg/halfORM_dev",
-  "download_filename": "half_orm_dev-0.17.0a8.tar.gz",
-  "download_time": "2025-11-28T14:34:24.671011",
+  "download_filename": "half_orm_dev-0.17.0a10.tar.gz",
+  "download_time": "2025-11-29T09:31:13.647234",
   "package_url": "https://pypi.org/project/half-orm-dev/"
 }
