@@ -1,0 +1,11 @@
+{
+  "name": "mft-flow-ai",
+  "version": "0.1.0",
+  "summary": "MFT-Flow AI: 借助AI，覆盖从需求分析、测试方案输出、测试数据分析到测试结论输出的一整套完整测试流程",
+  "author": "Tencent MFT Team",
+  "license": "MIT",
+  "home_page": "https://iwiki.woa.com/p/4016470628",
+  "download_filename": "mft_flow_ai-0.1.0.tar.gz",
+  "download_time": "2025-11-29T06:56:17.642775",
+  "package_url": "https://pypi.org/project/mft-flow-ai/"
+}

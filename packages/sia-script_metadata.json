@@ -1,0 +1,11 @@
+{
+  "name": "sia-script",
+  "version": "0.2.0",
+  "summary": "SIA — Simplified Integrated Architecture including SiaNTT, SiaCHI, and the ABAP Interpreter (SIA-ELS).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sia_script-0.2.0.tar.gz",
+  "download_time": "2025-11-29T06:56:22.280995",
+  "package_url": "https://pypi.org/project/sia-script/"
+}
