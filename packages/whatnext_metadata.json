@@ -1,11 +1,11 @@
 {
   "name": "whatnext",
-  "version": "0.2",
+  "version": "0.3",
   "summary": "A lister of tasks found in Markdown files",
   "author": "Mark Norman Francis",
   "license": null,
   "home_page": null,
-  "download_filename": "whatnext-0.2.tar.gz",
-  "download_time": "2025-11-28T15:33:06.925042",
+  "download_filename": "whatnext-0.3.tar.gz",
+  "download_time": "2025-11-29T06:45:19.917259",
   "package_url": "https://pypi.org/project/whatnext/"
 }

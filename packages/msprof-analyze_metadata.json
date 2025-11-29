@@ -1,0 +1,11 @@
+{
+  "name": "msprof-analyze",
+  "version": "8.2.0",
+  "summary": "MindStudio Profiler Analyze Tools",
+  "author": "MindStudio",
+  "license": "Apache License 2.0",
+  "home_page": "https://gitcode.com/Ascend/mstt/tree/master/profiler/msprof_analyze",
+  "download_filename": "msprof_analyze-8.2.0-py3-none-any.whl",
+  "download_time": "2025-11-29T06:45:50.961679",
+  "package_url": "https://pypi.org/project/msprof-analyze/"
+}
