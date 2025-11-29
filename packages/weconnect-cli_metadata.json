@@ -1,11 +1,11 @@
 {
   "name": "weconnect-cli",
-  "version": "0.38.8",
+  "version": "0.38.9",
   "summary": "Commandline Interface to interact with the Volkswagen WeConnect Services",
   "author": "Till Steinbach",
   "license": "MIT",
   "home_page": "https://github.com/tillsteinbach/WeConnect-cli",
-  "download_filename": "weconnect_cli-0.38.8.tar.gz",
-  "download_time": "2025-11-29T10:11:11.350830",
+  "download_filename": "weconnect_cli-0.38.9.tar.gz",
+  "download_time": "2025-11-29T10:50:33.682195",
   "package_url": "https://pypi.org/project/weconnect-cli/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "class-e",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Cosmological Emulation Made Simple",
   "author": "Rodrigo Calderon",
   "license": null,
   "home_page": null,
-  "download_filename": "class_e-0.0.1.tar.gz",
-  "download_time": "2025-11-29T10:34:41.902995",
+  "download_filename": "class_e-0.0.2.tar.gz",
+  "download_time": "2025-11-29T10:50:33.171618",
   "package_url": "https://pypi.org/project/class-e/"
 }
