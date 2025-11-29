@@ -1,0 +1,11 @@
+{
+  "name": "kotu",
+  "version": "0.1.1",
+  "summary": "Kotu.me — fast links, smart analytics, developer-first APIs.",
+  "author": "Kotu Admin",
+  "license": null,
+  "home_page": "https://developer.kotu.me",
+  "download_filename": "kotu-0.1.1.tar.gz",
+  "download_time": "2025-11-29T07:48:22.136844",
+  "package_url": "https://pypi.org/project/kotu/"
+}

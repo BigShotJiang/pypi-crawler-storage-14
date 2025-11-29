@@ -1,11 +1,11 @@
 {
   "name": "mcpcn-video-speed-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "MCP server for changing video playback speed with proper audio sync",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcpcn_video_speed_mcp-0.1.1.tar.gz",
-  "download_time": "2025-11-29T04:52:31.759365",
+  "download_filename": "mcpcn_video_speed_mcp-0.1.2.tar.gz",
+  "download_time": "2025-11-29T07:48:21.625699",
   "package_url": "https://pypi.org/project/mcpcn-video-speed-mcp/"
 }

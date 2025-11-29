@@ -1,26 +1,31 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-29T07:38:03.169696
-- **Total Packages**: 81
-- **Total Size**: 25.62 MB
+- **Download Time**: 2025-11-29T07:49:00.273059
+- **Total Packages**: 79
+- **Total Size**: 18.59 MB
 
 ## Packages List
-- pasarguard-node-bridge
+- vop-poc-nz
+- ellice
+- ros-is-ros2
+- uipath-langchain
+- scan2wiki
+- mcpcn-video-speed-mcp
+- kotu
+- ant-ray-cpp-nightly
 - alexwlchan-chives
+- pasarguard-node-bridge
 - Essentiax
 - issuedb
-- uipath-langchain
 - rust-pyfunc
 - NitroExpose
-- vop-poc-nz
 - ai-edge-litert-sdk-mediatek-nightly
 - ai-edge-litert-sdk-qualcomm-nightly
 - passagemath-database-cremona-ellcurve
 - passagemath-conf
 - uipath
 - wox
-- ros-is-ros2
 - weixinautox4
 - selfmemory
 - cosmol-viewer
@@ -80,10 +85,3 @@
 - rhosocial-activerecord
 - chandassu
 - medusa-security
-- metocean-stats
-- framework-mcp-client
-- jsonl-normalizer
-- velocity-python
-- epsearch
-- ossval
-- vllama
