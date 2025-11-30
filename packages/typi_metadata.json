@@ -1,11 +1,11 @@
 {
   "name": "typi",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Minimalistic package installer for Typst that installs git-based dependencies from typst.toml",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "typi-0.1.0-py3-none-any.whl",
-  "download_time": "2025-11-30T14:10:06.582524",
+  "download_filename": "typi-0.1.1-py3-none-any.whl",
+  "download_time": "2025-11-30T16:53:11.614791",
   "package_url": "https://pypi.org/project/typi/"
 }

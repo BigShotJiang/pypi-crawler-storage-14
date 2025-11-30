@@ -1,11 +1,11 @@
 {
   "name": "gp-flask",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Some flask extensions for server side storage and other things",
   "author": "Ender(Suzu)",
   "license": null,
   "home_page": null,
-  "download_filename": "gp_flask-0.0.4.tar.gz",
-  "download_time": "2025-11-30T16:38:18.426344",
+  "download_filename": "gp_flask-0.0.5.tar.gz",
+  "download_time": "2025-11-30T16:53:06.353721",
   "package_url": "https://pypi.org/project/gp-flask/"
 }

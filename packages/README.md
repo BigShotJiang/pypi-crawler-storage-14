@@ -1,20 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-30T16:38:42.282622
-- **Total Packages**: 85
-- **Total Size**: 27.32 MB
+- **Download Time**: 2025-11-30T16:53:41.071180
+- **Total Packages**: 74
+- **Total Size**: 23.33 MB
 
 ## Packages List
+- scc-firewall-manager-sdk
+- tonutils-adnlctl
+- einvoice-lens
+- easysam
+- PyNinja
+- sciveo
+- openagents
+- gp-flask
+- uiprotect
+- tmux-conf
+- synqed
+- woodelf-explainer
+- sabr-kit
+- communica
+- x-anylabeling-cvhub
+- dbtective
+- ayechat
+- typi
+- naas-abi-core
+- osism
+- chuk-mcp-physics
+- tvi-solphit-discera-capability-image-gen
+- aarya
+- testomaton
+- Navygram
 - ray-zerocopy
-- alexei-led.aws-mcp-server
+- cvsx2mvsx
+- AutoForge
+- spectuel-engine-utils
+- pearmut
+- background-remover-api
+- orca-descriptors
+- gammarers.aws-secure-bucket
+- mcp-vector-search
+- uipath-runtime
+- graphene-cruddals
+- surquest-fastapi-utils
+- haondt-charon
+- onnx-paddleocr
+- caffee
+- minimal-thread-pool
 - wresult
 - cmeta
-- pearmut
 - cvxrisk
 - pyscreeps-arena
 - zabbixci
-- tonutils-adnlctl
 - storyboard-cli
 - gdrepl
 - auto-trainer-api
@@ -24,70 +61,22 @@
 - AutoImblearn
 - mcp-context-server
 - suchana-grp7-cam
-- woodelf-explainer
 - nonebot-plugin-templates-draw
 - feedback-mcp
 - PackLab
 - devtrack-sdk
-- cvsx2mvsx
 - vuer-envcli
 - mcp-compose
 - Scriptum-Report
 - odoo-addon-product-abc-classification
-- chuk-mcp-physics
 - pylon2mqtt
-- ayechat
 - types-prexsyn-engine
 - batch-router
 - sedb
 - fluxloop-cli
 - apache-airflow-mcp-server
-- background-remover-api
 - pdval-pandera
 - PyChanLun
-- aarya
 - pyisomme
-- gp-flask
 - seisviz
-- caffee
 - dbt-col-lineage
-- lenslet
-- ccgo
-- odoo-addon-sale-order-line-note
-- matrice-streaming
-- booking-manager
-- rtichoke
-- pytonl
-- odoo-addon-product-secondary-unit
-- pwn-flashlib
-- ukr2adms
-- json-structure
-- pypolydim
-- limen-ai
-- weltschmerz
-- odoo-addon-base-repair-config
-- cloudpracticals
-- onnx-paddleocr
-- flwr
-- odoo-addon-crm-lead-vat
-- human-eval-rust
-- odoo-addon-crm-claim-code
-- datachain
-- dbt-incremental-ci
-- ai-prishtina-microsoft-graph-api
-- paytechuz
-- robbuffet
-- odoo-addon-hr-job-category
-- gtpyhop
-- faapi
-- odoo-addon-sale-advance-payment
-- langrepl
-- klaude-code
-- trading-models
-- aiobmsble
-- odoo-addon-portal-sale-accept-terms
-- rapidquery
-- language-pipes
-- protoprimer
-- xaicsv
-- odoo-addon-product-code-mandatory

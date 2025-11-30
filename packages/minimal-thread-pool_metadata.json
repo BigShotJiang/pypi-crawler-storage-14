@@ -1,0 +1,11 @@
+{
+  "name": "minimal-thread-pool",
+  "version": "0.1.0a0",
+  "summary": "A minimal Python 2+ thread pool designed for clarity, without reliance on `concurrent.futures`.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "minimal_thread_pool-0.1.0a0.tar.gz",
+  "download_time": "2025-11-30T16:53:23.653994",
+  "package_url": "https://pypi.org/project/minimal-thread-pool/"
+}

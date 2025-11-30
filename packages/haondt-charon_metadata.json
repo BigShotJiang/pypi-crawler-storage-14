@@ -1,0 +1,11 @@
+{
+  "name": "haondt-charon",
+  "version": "2.2.2",
+  "summary": "charon is a utility for backing up data from one location to another at regular intervals.",
+  "author": "haondt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "haondt_charon-2.2.2.tar.gz",
+  "download_time": "2025-11-30T16:53:22.047344",
+  "package_url": "https://pypi.org/project/haondt-charon/"
+}
