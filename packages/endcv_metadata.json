@@ -1,0 +1,11 @@
+{
+  "name": "endcv",
+  "version": "0.1.1",
+  "summary": "Python package with 7 deep learning exercises wrapped as functions get1() to get7()",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "endcv-0.1.1.tar.gz",
+  "download_time": "2025-11-30T14:41:53.048901",
+  "package_url": "https://pypi.org/project/endcv/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "editorconfig-checker",
+  "version": "3.6.0",
+  "summary": "Python wrapper around invoking editorconfig-checker (https://github.com/editorconfig-checker/editorconfig-checker)",
+  "author": "Marco M.",
+  "license": "MIT",
+  "home_page": "https://github.com/editorconfig-checker/editorconfig-checker.python",
+  "download_filename": "editorconfig_checker-3.6.0.tar.gz",
+  "download_time": "2025-11-30T14:41:55.305908",
+  "package_url": "https://pypi.org/project/editorconfig-checker/"
+}

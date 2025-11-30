@@ -1,0 +1,11 @@
+{
+  "name": "py-doubly-linked-list",
+  "version": "0.1.2",
+  "summary": "A library adding doubly linked lists to python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_doubly_linked_list-0.1.2.tar.gz",
+  "download_time": "2025-11-30T14:41:58.648057",
+  "package_url": "https://pypi.org/project/py-doubly-linked-list/"
+}

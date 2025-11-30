@@ -1,11 +1,11 @@
 {
   "name": "astraforge-toolkit",
-  "version": "0.1.0",
-  "summary": "AstraForge backend service (Django + Celery).",
+  "version": "0.1.1",
+  "summary": "HTTP client and sandbox backend for AstraForge DeepAgent.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "astraforge_toolkit-0.1.0.tar.gz",
-  "download_time": "2025-11-30T14:32:39.595809",
+  "download_filename": "astraforge_toolkit-0.1.1.tar.gz",
+  "download_time": "2025-11-30T14:41:56.383853",
   "package_url": "https://pypi.org/project/astraforge-toolkit/"
 }

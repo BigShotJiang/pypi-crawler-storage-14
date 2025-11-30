@@ -1,0 +1,11 @@
+{
+  "name": "xylent-mcp-python",
+  "version": "0.1.0",
+  "summary": "Production-ready MCP (Model Context Protocol) client and server implementation for Xylent services",
+  "author": "Santiago Blankleider",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "xylent_mcp_python-0.1.0.tar.gz",
+  "download_time": "2025-11-30T14:41:54.174502",
+  "package_url": "https://pypi.org/project/xylent-mcp-python/"
+}
