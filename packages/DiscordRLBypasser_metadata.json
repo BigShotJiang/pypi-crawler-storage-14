@@ -1,11 +1,11 @@
 {
   "name": "DiscordRLBypasser",
-  "version": "1.9.7",
+  "version": "1.9.9",
   "summary": "A library to bypass Discord rate limits by syncing with various Discord libraries.",
   "author": "Welland",
   "license": null,
   "home_page": "https://github.com/ghsgroupbots-collab/discordrlbypasser",
-  "download_filename": "discordrlbypasser-1.9.7.tar.gz",
-  "download_time": "2025-11-30T18:15:12.878442",
+  "download_filename": "discordrlbypasser-1.9.9.tar.gz",
+  "download_time": "2025-11-30T20:34:29.425777",
   "package_url": "https://pypi.org/project/DiscordRLBypasser/"
 }

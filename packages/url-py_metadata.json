@@ -1,0 +1,11 @@
+{
+  "name": "url-py",
+  "version": "0.19.0",
+  "summary": "Python bindings to Rust's url crate (from Servo)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "url_py-0.19.0.tar.gz",
+  "download_time": "2025-11-30T20:34:13.811396",
+  "package_url": "https://pypi.org/project/url-py/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zhangxin9643-mypackage",
+  "version": "0.1.0",
+  "summary": "A student project package with generators, iterators, decorators and descriptors",
+  "author": "Zhang Xin",
+  "license": null,
+  "home_page": "https://example.com",
+  "download_filename": "zhangxin9643_mypackage-0.1.0.tar.gz",
+  "download_time": "2025-11-30T20:34:30.485633",
+  "package_url": "https://pypi.org/project/zhangxin9643-mypackage/"
+}
