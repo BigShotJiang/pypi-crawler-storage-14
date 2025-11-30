@@ -1,0 +1,11 @@
+{
+  "name": "pgm-toolkit",
+  "version": "0.1.0",
+  "summary": "Probabilistic Graph Model",
+  "author": "Zhi-Hua Zhu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pgm_toolkit-0.1.0.tar.gz",
+  "download_time": "2025-11-30T07:11:01.552793",
+  "package_url": "https://pypi.org/project/pgm-toolkit/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "apppy-db",
-  "version": "0.15.1",
+  "version": "0.16.1",
   "summary": "Python database definitions for server development",
   "author": "Tim Kral",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "apppy_db-0.15.1.tar.gz",
-  "download_time": "2025-11-29T22:48:29.585321",
+  "download_filename": "apppy_db-0.16.1.tar.gz",
+  "download_time": "2025-11-30T07:10:54.433024",
   "package_url": "https://pypi.org/project/apppy-db/"
 }

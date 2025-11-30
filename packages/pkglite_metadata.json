@@ -1,0 +1,11 @@
+{
+  "name": "pkglite",
+  "version": "0.1.9",
+  "summary": "Pack and unpack source projects of any language into portable text files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pkglite-0.1.9.tar.gz",
+  "download_time": "2025-11-30T07:11:02.116213",
+  "package_url": "https://pypi.org/project/pkglite/"
+}

@@ -5,7 +5,7 @@
   "author": "Daniel Brotsky <dev@brotsky.com>",
   "license": "MIT OR Apache-2.0",
   "home_page": "https://github.com/open-source-cooperative/keyring-rs/wiki/Keyring",
-  "download_filename": "rust_native_keyring-4.0.0a3-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
-  "download_time": "2025-11-30T06:57:22.854860",
+  "download_filename": "rust_native_keyring-4.0.0a3.tar.gz",
+  "download_time": "2025-11-30T07:11:11.024214",
   "package_url": "https://pypi.org/project/rust-native-keyring/"
 }
