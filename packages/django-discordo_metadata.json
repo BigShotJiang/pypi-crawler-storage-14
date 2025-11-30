@@ -1,0 +1,11 @@
+{
+  "name": "django-discordo",
+  "version": "0.2.0",
+  "summary": "Discord webhook handler for Django logging",
+  "author": "Evan Chen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_discordo-0.2.0.tar.gz",
+  "download_time": "2025-11-30T15:48:26.360625",
+  "package_url": "https://pypi.org/project/django-discordo/"
+}

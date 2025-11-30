@@ -1,0 +1,11 @@
+{
+  "name": "responsiveimage",
+  "version": "1.8.0",
+  "summary": "Create different scaled versions of an image, in webp, jpg, png, svg,... to be used on responsive website",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "responsiveimage-1.8.0.tar.gz",
+  "download_time": "2025-11-30T15:48:18.012961",
+  "package_url": "https://pypi.org/project/responsiveimage/"
+}

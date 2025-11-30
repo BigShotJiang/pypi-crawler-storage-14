@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-purchase-supplierinfo-editable-tree",
+  "version": "16.0.1.0.1.1",
+  "summary": "Set the supplierinfo tree view as editablee",
+  "author": "Coop IT Easy SC, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/purchase-workflow",
+  "download_filename": "odoo_addon_purchase_supplierinfo_editable_tree-16.0.1.0.1.1-py3-none-any.whl",
+  "download_time": "2025-11-30T15:48:15.979780",
+  "package_url": "https://pypi.org/project/odoo-addon-purchase-supplierinfo-editable-tree/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "insurance-rating",
+  "version": "0.2.2",
+  "summary": "A simple motor insurance rating engine",
+  "author": "Gaurav Avinash Pandit",
+  "license": null,
+  "home_page": "https://github.com/gpanda98/insurance-rating.git",
+  "download_filename": "insurance_rating-0.2.2.tar.gz",
+  "download_time": "2025-11-30T15:48:18.592125",
+  "package_url": "https://pypi.org/project/insurance-rating/"
+}
