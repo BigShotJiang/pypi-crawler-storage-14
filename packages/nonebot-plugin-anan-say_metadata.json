@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-anan-say",
+  "version": "0.1.5",
+  "summary": "一个向安安的素描本上渲染文字并发送出去的插件",
+  "author": null,
+  "license": "agpl",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_anan_say-0.1.5.tar.gz",
+  "download_time": "2025-11-30T04:52:38.932302",
+  "package_url": "https://pypi.org/project/nonebot-plugin-anan-say/"
+}

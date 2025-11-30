@@ -1,11 +1,11 @@
 {
   "name": "pex",
-  "version": "2.72.0",
+  "version": "2.72.1",
   "summary": "The PEX packaging toolchain.",
   "author": "The PEX developers",
   "license": null,
   "home_page": "https://github.com/pex-tool/pex",
-  "download_filename": "pex-2.72.0.tar.gz",
-  "download_time": "2025-11-29T15:30:00.711830",
+  "download_filename": "pex-2.72.1.tar.gz",
+  "download_time": "2025-11-30T04:52:38.345160",
   "package_url": "https://pypi.org/project/pex/"
 }
