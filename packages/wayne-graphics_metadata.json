@@ -1,11 +1,11 @@
 {
   "name": "wayne-graphics",
-  "version": "2.0.1",
+  "version": "2.0.3",
   "summary": "Wayne Graphics: a Tkinter-based graphics engine with Wayne-AI code explainer and API router",
   "author": "Wayne Durbin",
   "license": null,
   "home_page": null,
-  "download_filename": "wayne_graphics-2.0.1.tar.gz",
-  "download_time": "2025-11-30T06:15:45.627442",
+  "download_filename": "wayne_graphics-2.0.3.tar.gz",
+  "download_time": "2025-11-30T06:57:22.304882",
   "package_url": "https://pypi.org/project/wayne-graphics/"
 }
