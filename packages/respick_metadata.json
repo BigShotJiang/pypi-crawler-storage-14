@@ -1,0 +1,11 @@
+{
+  "name": "respick",
+  "version": "0.1.7",
+  "summary": "Resistor divider picker for DCDC/LDO applications",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "respick-0.1.7.tar.gz",
+  "download_time": "2025-11-30T06:47:03.543240",
+  "package_url": "https://pypi.org/project/respick/"
+}

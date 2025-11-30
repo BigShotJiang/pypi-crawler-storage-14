@@ -1,11 +1,11 @@
 {
   "name": "bangla-ocr",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "summary": "Best Bangla/Bengali OCR - Transformer-based text recognition for handwritten & printed Bangla. Works on Colab, Kaggle, local. Zero dependency conflicts.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bangla_ocr-1.0.0.tar.gz",
-  "download_time": "2025-11-30T06:15:57.105785",
+  "download_filename": "bangla_ocr-1.0.3.tar.gz",
+  "download_time": "2025-11-30T06:47:00.768197",
   "package_url": "https://pypi.org/project/bangla-ocr/"
 }

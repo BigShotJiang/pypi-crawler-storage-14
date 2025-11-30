@@ -1,11 +1,11 @@
 {
   "name": "fatol-hafez",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Get a random beyt (couplet) from Hafez's ghazals.",
   "author": "MohammadReza Fatolahi",
   "license": "MIT",
   "home_page": "https://github.com/mrfatolahi1/fatol-hafez",
-  "download_filename": "fatol_hafez-0.1.2.tar.gz",
-  "download_time": "2025-11-27T09:50:18.613152",
+  "download_filename": "fatol_hafez-0.1.3.tar.gz",
+  "download_time": "2025-11-30T06:46:55.771252",
   "package_url": "https://pypi.org/project/fatol-hafez/"
 }

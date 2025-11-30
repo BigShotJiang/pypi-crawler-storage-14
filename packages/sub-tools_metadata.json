@@ -1,0 +1,11 @@
+{
+  "name": "sub-tools",
+  "version": "0.8.0",
+  "summary": "A robust Python toolkit powered by Google's Gemini API for converting video content into accurate, multilingual subtitles.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sub_tools-0.8.0.tar.gz",
+  "download_time": "2025-11-30T06:47:05.322215",
+  "package_url": "https://pypi.org/project/sub-tools/"
+}
