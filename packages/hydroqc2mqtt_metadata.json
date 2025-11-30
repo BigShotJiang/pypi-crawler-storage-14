@@ -1,0 +1,11 @@
+{
+  "name": "hydroqc2mqtt",
+  "version": "2.1.0",
+  "summary": "Daemon managing hydroqc sensors through MQTT",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": "https://hydroqc.ca",
+  "download_filename": "hydroqc2mqtt-2.1.0.tar.gz",
+  "download_time": "2025-11-30T03:54:14.530529",
+  "package_url": "https://pypi.org/project/hydroqc2mqtt/"
+}
