@@ -1,11 +1,11 @@
 {
   "name": "jupyterlab-singleton-provider",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "Example of a JupyterLab extension that provides e.g. a webcomponent singleton to other extensions",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "jupyterlab_singleton_provider-0.1.0.tar.gz",
-  "download_time": "2025-11-30T21:11:15.143315",
+  "download_filename": "jupyterlab_singleton_provider-1.0.0.tar.gz",
+  "download_time": "2025-11-30T22:10:42.226850",
   "package_url": "https://pypi.org/project/jupyterlab-singleton-provider/"
 }

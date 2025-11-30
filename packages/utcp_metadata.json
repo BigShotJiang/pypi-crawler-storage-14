@@ -1,11 +1,11 @@
 {
   "name": "utcp",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Universal Tool Calling Protocol (UTCP) client library for Python",
   "author": "UTCP Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "utcp-1.1.0.tar.gz",
-  "download_time": "2025-11-29T15:48:26.290140",
+  "download_filename": "utcp-1.1.1.tar.gz",
+  "download_time": "2025-11-30T22:10:37.506509",
   "package_url": "https://pypi.org/project/utcp/"
 }

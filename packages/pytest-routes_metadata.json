@@ -1,11 +1,11 @@
 {
   "name": "pytest-routes",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "Property-based smoke testing for ASGI application routes",
   "author": "Jacob Coffee",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytest_routes-0.3.1.tar.gz",
-  "download_time": "2025-11-30T21:48:17.885991",
+  "download_filename": "pytest_routes-0.3.3.tar.gz",
+  "download_time": "2025-11-30T22:10:36.383381",
   "package_url": "https://pypi.org/project/pytest-routes/"
 }

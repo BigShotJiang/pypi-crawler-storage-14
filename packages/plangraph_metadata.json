@@ -1,11 +1,11 @@
 {
   "name": "plangraph",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A Plan Graph for Goal Optimization (PGGO or 'pogo')",
-  "author": "alecramsay",
-  "license": "MIT",
-  "home_page": "https://github.com/alecramsay/pggo",
-  "download_filename": "plangraph-0.2.0.tar.gz",
-  "download_time": "2025-11-30T20:34:05.294642",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plangraph-0.3.0.tar.gz",
+  "download_time": "2025-11-30T22:10:46.195457",
   "package_url": "https://pypi.org/project/plangraph/"
 }

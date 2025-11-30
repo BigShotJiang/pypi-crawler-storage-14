@@ -1,0 +1,11 @@
+{
+  "name": "universeos",
+  "version": "0.1.2",
+  "summary": "High-Performance Traffic Shadowing & Experimentation Platform",
+  "author": "UniverseOS Team",
+  "license": null,
+  "home_page": "https://github.com/universeos/universeos",
+  "download_filename": "universeos-0.1.2.tar.gz",
+  "download_time": "2025-11-30T22:10:24.863722",
+  "package_url": "https://pypi.org/project/universeos/"
+}

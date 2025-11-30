@@ -1,0 +1,11 @@
+{
+  "name": "jupyterlab-singleton-consumer",
+  "version": "1.0.0",
+  "summary": "Example of a JupyterLab extension that consumes e.g. a webcomponent singleton registered by another extension",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "jupyterlab_singleton_consumer-1.0.0.tar.gz",
+  "download_time": "2025-11-30T22:10:39.155745",
+  "package_url": "https://pypi.org/project/jupyterlab-singleton-consumer/"
+}
