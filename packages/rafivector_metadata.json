@@ -1,11 +1,11 @@
 {
   "name": "rafivector",
-  "version": "0.5.0",
+  "version": "0.7.0",
   "summary": "A simple library for vector operations",
   "author": "Rafi",
   "license": null,
   "home_page": null,
-  "download_filename": "rafivector-0.5.0.tar.gz",
-  "download_time": "2025-11-30T17:40:05.440633",
+  "download_filename": "rafivector-0.7.0.tar.gz",
+  "download_time": "2025-11-30T17:48:34.930334",
   "package_url": "https://pypi.org/project/rafivector/"
 }
