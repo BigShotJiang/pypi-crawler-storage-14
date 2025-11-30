@@ -1,11 +1,11 @@
 {
   "name": "stralixsdk",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "summary": "Official Python SDK for Stralix Cloud SCNAC API",
   "author": "Stralix Cloud",
   "license": null,
   "home_page": "https://stralix.cloud",
-  "download_filename": "stralixsdk-1.1.4.tar.gz",
-  "download_time": "2025-11-30T00:52:41.243877",
+  "download_filename": "stralixsdk-1.1.5.tar.gz",
+  "download_time": "2025-11-30T09:39:22.814624",
   "package_url": "https://pypi.org/project/stralixsdk/"
 }
