@@ -1,11 +1,11 @@
 {
   "name": "cuetools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Lightweight CUE sheet toolkit for Python",
   "author": "Olezhich",
   "license": "MIT",
-  "home_page": null,
-  "download_filename": "cuetools-1.0.0.tar.gz",
-  "download_time": "2025-11-27T09:14:32.689456",
+  "home_page": "https://github.com/Olezhich/CueTools",
+  "download_filename": "cuetools-1.0.1.tar.gz",
+  "download_time": "2025-11-30T09:30:33.232189",
   "package_url": "https://pypi.org/project/cuetools/"
 }

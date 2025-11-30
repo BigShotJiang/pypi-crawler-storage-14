@@ -1,0 +1,11 @@
+{
+  "name": "pyamtb",
+  "version": "0.2.1",
+  "summary": "A tight-binding model package for altermagnets",
+  "author": "Yu Xie",
+  "license": null,
+  "home_page": "https://github.com/ooteki-teo/pyamtb",
+  "download_filename": "pyamtb-0.2.1.tar.gz",
+  "download_time": "2025-11-30T09:30:46.870993",
+  "package_url": "https://pypi.org/project/pyamtb/"
+}

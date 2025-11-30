@@ -1,0 +1,11 @@
+{
+  "name": "nlpearl",
+  "version": "2.0.0",
+  "summary": "A Python wrapper for the NLPearl API",
+  "author": "nlpearl",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/Samueleons/NLPearl-API",
+  "download_filename": "nlpearl-2.0.0.tar.gz",
+  "download_time": "2025-11-30T09:30:29.002655",
+  "package_url": "https://pypi.org/project/nlpearl/"
+}

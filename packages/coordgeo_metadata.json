@@ -1,0 +1,11 @@
+{
+  "name": "coordgeo",
+  "version": "1.0.0",
+  "summary": "A 2D coordinate geometry library (points, lines, conics, triangles).",
+  "author": "Kareem Khan",
+  "license": "MIT",
+  "home_page": "https://github.com/karimkhan171271-cpu/coordgeo",
+  "download_filename": "coordgeo-1.0.0.tar.gz",
+  "download_time": "2025-11-30T09:30:26.426112",
+  "package_url": "https://pypi.org/project/coordgeo/"
+}

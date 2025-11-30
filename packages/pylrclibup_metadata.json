@@ -1,0 +1,11 @@
+{
+  "name": "pylrclibup",
+  "version": "0.3.0",
+  "summary": "A robust Python CLI tool for uploading lyrics or instrumental tags to LRCLIB.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pylrclibup-0.3.0.tar.gz",
+  "download_time": "2025-11-30T09:30:26.944347",
+  "package_url": "https://pypi.org/project/pylrclibup/"
+}

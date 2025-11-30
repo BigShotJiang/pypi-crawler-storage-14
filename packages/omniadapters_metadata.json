@@ -1,0 +1,11 @@
+{
+  "name": "omniadapters",
+  "version": "24.0.0",
+  "summary": "A collection of code for omniadapters - unified interfaces for LLM providers.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "omniadapters-24.0.0.tar.gz",
+  "download_time": "2025-11-30T09:30:19.030159",
+  "package_url": "https://pypi.org/project/omniadapters/"
+}

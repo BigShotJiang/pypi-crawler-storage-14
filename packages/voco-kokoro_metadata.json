@@ -1,0 +1,11 @@
+{
+  "name": "voco-kokoro",
+  "version": "0.0.2",
+  "summary": "Kokoro TTS plugin for VOCO audio inference runtime",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "voco_kokoro-0.0.2.tar.gz",
+  "download_time": "2025-11-30T09:30:43.240228",
+  "package_url": "https://pypi.org/project/voco-kokoro/"
+}

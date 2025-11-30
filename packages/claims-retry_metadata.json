@@ -1,11 +1,11 @@
 {
   "name": "claims-retry",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Retry decorator for DynamoDB claim status updates",
   "author": "Shahnawaz Khan",
   "license": null,
   "home_page": null,
-  "download_filename": "claims_retry-0.1.1.tar.gz",
-  "download_time": "2025-11-30T02:52:17.857319",
+  "download_filename": "claims_retry-0.1.2.tar.gz",
+  "download_time": "2025-11-30T09:30:27.970706",
   "package_url": "https://pypi.org/project/claims-retry/"
 }
