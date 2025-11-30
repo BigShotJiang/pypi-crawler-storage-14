@@ -1,0 +1,11 @@
+{
+  "name": "qbittorrentui",
+  "version": "0.3.8",
+  "summary": "Console UI for qBittorrent v4.1+",
+  "author": "Russell Martin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qbittorrentui-0.3.8.tar.gz",
+  "download_time": "2025-11-30T19:26:41.568442",
+  "package_url": "https://pypi.org/project/qbittorrentui/"
+}

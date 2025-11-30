@@ -1,0 +1,11 @@
+{
+  "name": "svgpathtools",
+  "version": "1.7.2",
+  "summary": "A collection of tools for manipulating and analyzing SVG Path objects and Bezier curves.",
+  "author": "Andy Port",
+  "license": "MIT",
+  "home_page": "https://github.com/mathandy/svgpathtools",
+  "download_filename": "svgpathtools-1.7.2.tar.gz",
+  "download_time": "2025-11-30T19:26:36.906669",
+  "package_url": "https://pypi.org/project/svgpathtools/"
+}

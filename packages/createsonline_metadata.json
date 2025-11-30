@@ -1,11 +1,11 @@
 {
   "name": "createsonline",
-  "version": "1.38.0",
+  "version": "1.39.0",
   "summary": "A framework for creating and deploying AI-powered applications",
   "author": "meahmedh",
   "license": null,
   "home_page": "https://github.com/meahmedh/createsonline",
-  "download_filename": "createsonline-1.38.0-py3-none-any.whl",
-  "download_time": "2025-11-30T19:04:23.773858",
+  "download_filename": "createsonline-1.39.0-py3-none-any.whl",
+  "download_time": "2025-11-30T19:26:43.129820",
   "package_url": "https://pypi.org/project/createsonline/"
 }
