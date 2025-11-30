@@ -1,11 +1,11 @@
 {
   "name": "nexaclient",
-  "version": "2.3.0",
+  "version": "3.0.0",
   "summary": "Official Python client for NexaDB - The high-performance, easy-to-use database",
-  "author": "NexaDB Team",
+  "author": "Krish",
   "license": "MIT",
   "home_page": "https://github.com/krishcdbry/nexaclient-python",
-  "download_filename": "nexaclient-2.3.0.tar.gz",
-  "download_time": "2025-11-27T11:30:02.689924",
+  "download_filename": "nexaclient-3.0.0.tar.gz",
+  "download_time": "2025-11-30T02:52:06.251037",
   "package_url": "https://pypi.org/project/nexaclient/"
 }

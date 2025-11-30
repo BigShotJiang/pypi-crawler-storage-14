@@ -1,0 +1,11 @@
+{
+  "name": "lenstronomy",
+  "version": "1.13.3",
+  "summary": "Strong lens modeling package.",
+  "author": "lenstronomy developers",
+  "license": "BSD-3",
+  "home_page": "https://github.com/lenstronomy/lenstronomy",
+  "download_filename": "lenstronomy-1.13.3.tar.gz",
+  "download_time": "2025-11-30T02:52:05.736990",
+  "package_url": "https://pypi.org/project/lenstronomy/"
+}

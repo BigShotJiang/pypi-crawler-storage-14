@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy-mptt",
+  "version": "0.6.0",
+  "summary": "SQLAlchemy mixins for implementing tree-like models using Modified Pre-order Tree Traversal (MPTT) / Nested Sets",
+  "author": "Svintsov Dmitry",
+  "license": "MIT",
+  "home_page": "http://github.com/uralbash/sqlalchemy_mptt/",
+  "download_filename": "sqlalchemy_mptt-0.6.0.tar.gz",
+  "download_time": "2025-11-30T02:51:47.942606",
+  "package_url": "https://pypi.org/project/sqlalchemy-mptt/"
+}

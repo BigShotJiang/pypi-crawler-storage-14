@@ -1,0 +1,11 @@
+{
+  "name": "adapt",
+  "version": "0.4.5",
+  "summary": "Awesome Domain Adaptation Python Toolbox for Tensorflow and Scikit-learn",
+  "author": "Antoine de Mathelin",
+  "license": "BSD-2",
+  "home_page": "https://github.com/adapt-python/adapt.git",
+  "download_filename": "adapt-0.4.5.tar.gz",
+  "download_time": "2025-11-30T02:51:57.377815",
+  "package_url": "https://pypi.org/project/adapt/"
+}

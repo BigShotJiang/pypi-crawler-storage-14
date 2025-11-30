@@ -1,0 +1,11 @@
+{
+  "name": "augllm",
+  "version": "1.2",
+  "summary": "('A library for augmenting large language models',)",
+  "author": "Shun Ogawa (a.k.a. \"ToPo\")",
+  "license": "Apache License Version 2.0",
+  "home_page": "https://github.com/ToPo-ToPo-ToPo/augllm",
+  "download_filename": "augllm-1.2.tar.gz",
+  "download_time": "2025-11-30T02:51:55.300618",
+  "package_url": "https://pypi.org/project/augllm/"
+}

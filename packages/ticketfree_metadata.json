@@ -1,0 +1,11 @@
+{
+  "name": "ticketfree",
+  "version": "0.1.1",
+  "summary": "A tiny library that checks if the next ticket is free after 3 bookings.",
+  "author": "Himaja Jutur",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ticketfree-0.1.1.tar.gz",
+  "download_time": "2025-11-30T02:51:49.571074",
+  "package_url": "https://pypi.org/project/ticketfree/"
+}

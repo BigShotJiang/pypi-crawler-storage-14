@@ -1,0 +1,11 @@
+{
+  "name": "kompot",
+  "version": "0.6.2",
+  "summary": "Differential abundance and gene expression analysis using Mahalanobis distance with JAX backend",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kompot-0.6.2.tar.gz",
+  "download_time": "2025-11-30T02:51:59.467573",
+  "package_url": "https://pypi.org/project/kompot/"
+}

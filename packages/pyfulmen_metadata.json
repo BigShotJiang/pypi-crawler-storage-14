@@ -1,11 +1,11 @@
 {
   "name": "pyfulmen",
-  "version": "0.1.12",
+  "version": "0.1.14",
   "summary": "Python Fulmen libraries",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyfulmen-0.1.12.tar.gz",
-  "download_time": "2025-11-30T00:52:34.835665",
+  "download_filename": "pyfulmen-0.1.14.tar.gz",
+  "download_time": "2025-11-30T02:51:58.953611",
   "package_url": "https://pypi.org/project/pyfulmen/"
 }

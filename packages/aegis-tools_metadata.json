@@ -1,0 +1,11 @@
+{
+  "name": "aegis-tools",
+  "version": "3.0.3",
+  "summary": "Aegis is a set of battle-tested tools and tricks to help everyone make better software",
+  "author": "Michael D'Agosta",
+  "license": null,
+  "home_page": "https://github.com/mdagosta/aegis",
+  "download_filename": "aegis_tools-3.0.3.tar.gz",
+  "download_time": "2025-11-30T02:52:18.372650",
+  "package_url": "https://pypi.org/project/aegis-tools/"
+}

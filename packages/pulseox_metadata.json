@@ -1,11 +1,11 @@
 {
   "name": "pulseox",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Tools to create, update, and monitor a system pulse and dashboard.",
   "author": "PulseOx Contributors",
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "pulseox-0.1.1.tar.gz",
-  "download_time": "2025-11-25T17:40:26.449779",
+  "download_filename": "pulseox-0.1.2.tar.gz",
+  "download_time": "2025-11-30T02:51:49.056101",
   "package_url": "https://pypi.org/project/pulseox/"
 }
