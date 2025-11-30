@@ -1,0 +1,11 @@
+{
+  "name": "ezbeq",
+  "version": "2.4.2",
+  "summary": "A webapp which can send beqcatalogue filters to a DSP device",
+  "author": "3ll3d00d",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ezbeq-2.4.2.tar.gz",
+  "download_time": "2025-11-30T11:05:17.247804",
+  "package_url": "https://pypi.org/project/ezbeq/"
+}

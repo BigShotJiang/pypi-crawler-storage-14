@@ -1,11 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-30T10:49:54.600325
-- **Total Packages**: 87
-- **Total Size**: 23.55 MB
+- **Download Time**: 2025-11-30T11:05:50.262132
+- **Total Packages**: 85
+- **Total Size**: 19.09 MB
 
 ## Packages List
+- lattifai-core
+- fast-trading-simulator
+- insurance-mobile-pdfconverter
+- aimodelshare
+- bintang
+- maleo-enums
+- askandyz-mcp-server-demo
+- nucleation
+- dwd-downloader
+- dms-core
+- pydrime
+- haco
+- compass_api_sdk
+- zodchy-fastapi
+- kubesdk
+- AxiomX
+- kube-models
+- deal
+- spikard
+- robyn-config
+- atomic-agents
+- ezbeq
+- px4-configuration
+- autopahe
+- agentgatepay-sdk
+- threaded_map_reduce
+- db-model-generator
+- BloodSpiderModel
+- aframexr
 - picteus-extension-sdk
 - favro-mcp
 - MDOFModel
@@ -16,7 +45,6 @@
 - paynet-sdk
 - Alsulf
 - kubiya-control-plane-api
-- insurance-mobile-pdfconverter
 - omni-split
 - treemapper
 - trainy-policy-nightly
@@ -25,7 +53,6 @@
 - odoo-addon-stay
 - odoo-addon-stay-report-py3o
 - letta-nightly
-- nucleation
 - zon-format
 - payme-sdk
 - CLIEMAILBOT
@@ -48,7 +75,6 @@
 - nvidia-nat-mcp
 - ts-features-sculptor
 - nvidia-nat-ingestion
-- zodchy-fastapi
 - nvidia-nat-profiling
 - nvidia-nat-opentelemetry
 - nvidia-nat-mem0ai
@@ -65,31 +91,3 @@
 - pyscn
 - pyscn-mcp
 - nvidia-nat-crewai
-- nvidia-nat-redis
-- g4f
-- textbelt-py
-- nvidia-nat-langchain
-- nvidia-nat-semantic-kernel
-- sqlrooms-rag
-- nvidia-nat-zep-cloud
-- nvidia-nat-agno
-- tbp-nightly
-- nvidia-nat-vanna
-- fastgpx
-- aiqtoolkit-semantic-kernel
-- taskiq-litestar
-- wiselib
-- aiqtoolkit-crewai
-- icat-plus-client
-- aiqtoolkit-agno
-- aiqtoolkit-zep-cloud
-- aiqtoolkit-llama-index
-- aiqtoolkit
-- aiqtoolkit-test
-- aiqtoolkit-weave
-- aiqtoolkit-mem0ai
-- aiqtoolkit-langchain
-- mkdocs-roadmap
-- pydantic-ai-blocking-approval
-- aiinbx
-- google-maps-mcp-server

@@ -1,0 +1,11 @@
+{
+  "name": "agentgatepay-sdk",
+  "version": "1.1.4",
+  "summary": "Official Python SDK for AgentGatePay - Secure Payment Gateway for AI agents",
+  "author": "AgentGatePay",
+  "license": "MIT",
+  "home_page": "https://github.com/AgentGatePay/agentgatepay-sdks",
+  "download_filename": "agentgatepay_sdk-1.1.4.tar.gz",
+  "download_time": "2025-11-30T11:05:18.778748",
+  "package_url": "https://pypi.org/project/agentgatepay-sdk/"
+}
