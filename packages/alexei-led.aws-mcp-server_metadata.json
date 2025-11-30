@@ -1,0 +1,11 @@
+{
+  "name": "alexei-led.aws-mcp-server",
+  "version": "1.5.3",
+  "summary": "AWS Model Context Protocol Server",
+  "author": "Alexei Ledenev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "alexei_led_aws_mcp_server-1.5.3.tar.gz",
+  "download_time": "2025-11-30T16:37:57.730671",
+  "package_url": "https://pypi.org/project/alexei-led.aws-mcp-server/"
+}

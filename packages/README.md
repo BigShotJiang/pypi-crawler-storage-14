@@ -1,11 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-30T16:12:36.071579
-- **Total Packages**: 83
-- **Total Size**: 28.32 MB
+- **Download Time**: 2025-11-30T16:38:42.282622
+- **Total Packages**: 85
+- **Total Size**: 27.32 MB
 
 ## Packages List
+- ray-zerocopy
+- alexei-led.aws-mcp-server
+- wresult
+- cmeta
+- pearmut
+- cvxrisk
+- pyscreeps-arena
+- zabbixci
+- tonutils-adnlctl
+- storyboard-cli
+- gdrepl
+- auto-trainer-api
+- z-explorer
+- pywebtransport
+- named-arrays
+- AutoImblearn
+- mcp-context-server
+- suchana-grp7-cam
+- woodelf-explainer
+- nonebot-plugin-templates-draw
+- feedback-mcp
+- PackLab
+- devtrack-sdk
+- cvsx2mvsx
+- vuer-envcli
+- mcp-compose
+- Scriptum-Report
+- odoo-addon-product-abc-classification
+- chuk-mcp-physics
+- pylon2mqtt
+- ayechat
+- types-prexsyn-engine
+- batch-router
+- sedb
+- fluxloop-cli
+- apache-airflow-mcp-server
+- background-remover-api
+- pdval-pandera
+- PyChanLun
+- aarya
+- pyisomme
+- gp-flask
+- seisviz
+- caffee
+- dbt-col-lineage
+- lenslet
+- ccgo
+- odoo-addon-sale-order-line-note
+- matrice-streaming
+- booking-manager
 - rtichoke
 - pytonl
 - odoo-addon-product-secondary-unit
@@ -17,7 +67,6 @@
 - weltschmerz
 - odoo-addon-base-repair-config
 - cloudpracticals
-- ayechat
 - onnx-paddleocr
 - flwr
 - odoo-addon-crm-lead-vat
@@ -27,7 +76,6 @@
 - dbt-incremental-ci
 - ai-prishtina-microsoft-graph-api
 - paytechuz
-- gp-flask
 - robbuffet
 - odoo-addon-hr-job-category
 - gtpyhop
@@ -43,49 +91,3 @@
 - protoprimer
 - xaicsv
 - odoo-addon-product-code-mandatory
-- mcp-server-tapd
-- x-mlps-pytorch
-- chronos-forecasting
-- lazycph
-- cc-adapter
-- suchana-grp7-cam
-- queuerPy
-- resource-librarian
-- causaliq-core
-- odoo-addon-purchase-request
-- machine_access_control
-- spdx_checker
-- lattifai
-- aeyvision
-- RegularizedDiscriminantAnalysis
-- ccgo
-- sensei-ai
-- sigil-pipeline
-- anyenv
-- quickscale
-- quickscale-cli
-- quickscale-core
-- odoo-addon-purchase-supplierinfo-editable-tree
-- financial-calc
-- alnp
-- responsiveimage
-- insurance-rating
-- soar-locker
-- tvi-solphit-discera-capability-image-gen
-- junos-exporter
-- pearmut
-- indikator
-- hoa-tools
-- dbtective
-- biblemategui
-- dbt-altertable
-- rm95
-- agentkernel
-- liron-utils
-- django-discordo
-- jha-cli
-- rafivector
-- tla
-- mwxlib
-- zodchy-fastapi
-- babylab

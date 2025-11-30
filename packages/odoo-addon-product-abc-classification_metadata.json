@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-product-abc-classification",
+  "version": "18.0.1.0.0.2",
+  "summary": "ABC classification for sales and warehouse management",
+  "author": "ACSONE SA/NV, ForgeFlow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/product-attribute",
+  "download_filename": "odoo_addon_product_abc_classification-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-11-30T16:38:11.188259",
+  "package_url": "https://pypi.org/project/odoo-addon-product-abc-classification/"
+}

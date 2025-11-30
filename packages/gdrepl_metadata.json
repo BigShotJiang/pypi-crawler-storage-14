@@ -1,0 +1,11 @@
+{
+  "name": "gdrepl",
+  "version": "0.0.2.16",
+  "summary": "Proof of concept REPL for Godot's GDScript",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gdrepl-0.0.2.16.tar.gz",
+  "download_time": "2025-11-30T16:38:02.424125",
+  "package_url": "https://pypi.org/project/gdrepl/"
+}

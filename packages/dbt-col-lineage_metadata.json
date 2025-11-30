@@ -1,11 +1,11 @@
 {
   "name": "dbt-col-lineage",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "Impact analysis for dbt projects using column-level data lineage",
   "author": "Fszta",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dbt_col_lineage-0.7.0.tar.gz",
-  "download_time": "2025-11-28T23:29:29.201088",
+  "download_filename": "dbt_col_lineage-0.8.0.tar.gz",
+  "download_time": "2025-11-30T16:38:19.957317",
   "package_url": "https://pypi.org/project/dbt-col-lineage/"
 }

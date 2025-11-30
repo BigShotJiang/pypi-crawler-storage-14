@@ -1,0 +1,11 @@
+{
+  "name": "background-remover-api",
+  "version": "1.0.0",
+  "summary": "A FastAPI-based API for removing backgrounds from images and videos using backgroundremover",
+  "author": "sureshshanmugasundaram",
+  "license": null,
+  "home_page": "https://github.com/sureshdeveloperofficial/background-remover-model",
+  "download_filename": "background_remover_api-1.0.0.tar.gz",
+  "download_time": "2025-11-30T16:38:15.839931",
+  "package_url": "https://pypi.org/project/background-remover-api/"
+}

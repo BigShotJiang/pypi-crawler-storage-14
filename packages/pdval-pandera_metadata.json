@@ -1,11 +1,11 @@
 {
   "name": "pdval-pandera",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Pandas validation using Annotated types and decorators",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pdval_pandera-0.1.7.tar.gz",
-  "download_time": "2025-11-30T15:39:14.619856",
+  "download_filename": "pdval_pandera-0.1.8.tar.gz",
+  "download_time": "2025-11-30T16:38:16.351197",
   "package_url": "https://pypi.org/project/pdval-pandera/"
 }
