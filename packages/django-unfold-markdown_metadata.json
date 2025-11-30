@@ -1,11 +1,11 @@
 {
   "name": "django-unfold-markdown",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Markdown editor widget for Django Unfold admin",
-  "author": "Sergey Vasiliev",
+  "author": "Sergei Vasilev",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_unfold_markdown-0.1.1.tar.gz",
-  "download_time": "2025-11-29T21:36:39.836421",
+  "download_filename": "django_unfold_markdown-0.1.2.tar.gz",
+  "download_time": "2025-11-30T19:49:03.543122",
   "package_url": "https://pypi.org/project/django-unfold-markdown/"
 }

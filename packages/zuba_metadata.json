@@ -1,0 +1,11 @@
+{
+  "name": "zuba",
+  "version": "0.0.2",
+  "summary": "A lightweight Nigerian language classifier.",
+  "author": "Ibrahim Olayiwola",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zuba-0.0.2.tar.gz",
+  "download_time": "2025-11-30T19:48:57.884917",
+  "package_url": "https://pypi.org/project/zuba/"
+}
