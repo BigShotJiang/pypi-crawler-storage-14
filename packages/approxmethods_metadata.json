@@ -1,11 +1,11 @@
 {
   "name": "approxmethods",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": null,
   "author": "Jorge Borges, Eduardo Freitas, Thaina Barcellos, Josué Fonseca, Lucas Figueiredo",
   "license": null,
   "home_page": "https://github.com/JorgeLAB/approximation_methods",
-  "download_filename": "approxmethods-0.0.2.tar.gz",
-  "download_time": "2025-11-30T19:49:10.300151",
+  "download_filename": "approxmethods-0.0.4.tar.gz",
+  "download_time": "2025-11-30T20:13:07.112087",
   "package_url": "https://pypi.org/project/approxmethods/"
 }

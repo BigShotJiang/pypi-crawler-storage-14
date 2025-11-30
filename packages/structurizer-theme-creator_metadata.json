@@ -1,0 +1,11 @@
+{
+  "name": "structurizer-theme-creator",
+  "version": "0.2.0",
+  "summary": "A very stupid CLI to create themes for Structurizr",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "structurizer_theme_creator-0.2.0.tar.gz",
+  "download_time": "2025-11-30T20:13:11.362500",
+  "package_url": "https://pypi.org/project/structurizer-theme-creator/"
+}

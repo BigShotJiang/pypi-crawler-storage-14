@@ -1,11 +1,11 @@
 {
   "name": "fencio",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "summary": "Fencio SDK - Security enforcement for LangGraph agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fencio-1.2.5.tar.gz",
-  "download_time": "2025-11-30T18:42:34.167949",
+  "download_filename": "fencio-1.2.6.tar.gz",
+  "download_time": "2025-11-30T20:13:24.495965",
   "package_url": "https://pypi.org/project/fencio/"
 }

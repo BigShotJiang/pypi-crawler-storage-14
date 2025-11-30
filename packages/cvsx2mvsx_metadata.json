@@ -1,11 +1,11 @@
 {
   "name": "cvsx2mvsx",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Library for converting the CVSX file format into the MVSX file format",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "cvsx2mvsx-0.0.2.tar.gz",
-  "download_time": "2025-11-30T18:42:33.597851",
+  "download_filename": "cvsx2mvsx-0.0.3.tar.gz",
+  "download_time": "2025-11-30T20:13:06.492413",
   "package_url": "https://pypi.org/project/cvsx2mvsx/"
 }

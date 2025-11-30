@@ -1,0 +1,11 @@
+{
+  "name": "speed-analyzer",
+  "version": "5.3.8.8",
+  "summary": "A package for processing and extracting eye-tracking data.",
+  "author": "Dr. Daniele Lozzi, LabSCoC",
+  "license": null,
+  "home_page": "https://github.com/danielelozzi/SPEED",
+  "download_filename": "speed_analyzer-5.3.8.8.tar.gz",
+  "download_time": "2025-11-30T20:13:05.730953",
+  "package_url": "https://pypi.org/project/speed-analyzer/"
+}
