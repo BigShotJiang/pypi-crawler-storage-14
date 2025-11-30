@@ -1,11 +1,11 @@
 {
   "name": "kubiya-control-plane-api",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "summary": "Agent Control Plane API - Multi-tenant AI agent orchestration and management platform",
   "author": null,
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "kubiya_control_plane_api-0.6.4.tar.gz",
-  "download_time": "2025-11-30T13:02:21.050653",
+  "download_filename": "kubiya_control_plane_api-0.6.5.tar.gz",
+  "download_time": "2025-11-30T17:10:20.876221",
   "package_url": "https://pypi.org/project/kubiya-control-plane-api/"
 }

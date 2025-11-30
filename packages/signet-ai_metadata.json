@@ -1,0 +1,11 @@
+{
+  "name": "signet-ai",
+  "version": "0.1.0",
+  "summary": "Cryptographic state enforcement for AI Agents.",
+  "author": "Harish Balasubramanian",
+  "license": null,
+  "home_page": "https://github.com/harishbalasubramanian/signet",
+  "download_filename": "signet_ai-0.1.0.tar.gz",
+  "download_time": "2025-11-30T17:10:17.239157",
+  "package_url": "https://pypi.org/project/signet-ai/"
+}

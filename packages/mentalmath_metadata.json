@@ -1,11 +1,11 @@
 {
   "name": "mentalmath",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A mental math training app.",
   "author": "Kian Broderick",
   "license": null,
   "home_page": null,
-  "download_filename": "mentalmath-0.1.4.tar.gz",
-  "download_time": "2025-11-30T04:26:06.748429",
+  "download_filename": "mentalmath-0.1.5.tar.gz",
+  "download_time": "2025-11-30T17:10:18.268544",
   "package_url": "https://pypi.org/project/mentalmath/"
 }

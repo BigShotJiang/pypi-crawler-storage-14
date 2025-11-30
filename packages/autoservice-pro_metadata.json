@@ -1,0 +1,11 @@
+{
+  "name": "autoservice-pro",
+  "version": "0.1.0",
+  "summary": "Helper library for vehicle service time and price estimation.",
+  "author": "gundetisachin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "autoservice_pro-0.1.0.tar.gz",
+  "download_time": "2025-11-30T17:10:20.348019",
+  "package_url": "https://pypi.org/project/autoservice-pro/"
+}
