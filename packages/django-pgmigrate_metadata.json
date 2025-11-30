@@ -1,0 +1,11 @@
+{
+  "name": "django-pgmigrate",
+  "version": "1.6.0",
+  "summary": "Avoid costly downtime during Postgres migrations.",
+  "author": "Wes Kendall",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/AmbitionEng/django-pgmigrate",
+  "download_filename": "django_pgmigrate-1.6.0.tar.gz",
+  "download_time": "2025-11-30T23:40:03.635639",
+  "package_url": "https://pypi.org/project/django-pgmigrate/"
+}
