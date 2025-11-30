@@ -1,0 +1,11 @@
+{
+  "name": "mt5-mcp",
+  "version": "0.4.0",
+  "summary": "MCP server for MetaTrader 5 with structured inputs and full library access",
+  "author": "Cloudmeru",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mt5_mcp-0.4.0.tar.gz",
+  "download_time": "2025-11-30T11:48:19.249395",
+  "package_url": "https://pypi.org/project/mt5-mcp/"
+}

@@ -1,22 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-30T11:34:05.390924
-- **Total Packages**: 87
-- **Total Size**: 4.66 MB
+- **Download Time**: 2025-11-30T11:48:57.845606
+- **Total Packages**: 89
+- **Total Size**: 14.12 MB
 
 ## Packages List
+- silver-ai
+- greener-servermock
+- orca-descriptors
+- greener-reporter
+- sdialog
+- growi-mcp
+- cai-framework
+- klaude-code
+- ticketdiscount
+- nonebot-plugin-steam-game-status
+- video-compress
+- craftllc-api
+- agentix-core
+- sangreal-calendar
+- fastcodedog
+- mt5-mcp
+- play-launch
+- XClock
+- sangreal-db
+- agsn
+- agent-station
+- descanso
+- cppbktree
+- archipy
+- AxiomX
+- wasenderapi
+- oagi
+- oagi-core
+- vargula
+- sangreal-bt
+- langswarm
+- uniface
 - zodchy-fastapi
 - mudra-sdk-test-1
 - hallyd
 - decart
-- nonebot-plugin-steam-game-status
 - rocher
 - robot-hat
 - apache-airflow-mcp-server
 - audex
 - celestsp
-- cai-framework
 - rcrlm
 - age-mcp-server
 - aiinbx
@@ -65,31 +95,3 @@
 - ezbeq
 - px4-configuration
 - autopahe
-- agentgatepay-sdk
-- threaded_map_reduce
-- db-model-generator
-- BloodSpiderModel
-- aframexr
-- picteus-extension-sdk
-- favro-mcp
-- MDOFModel
-- bluer-sbc
-- pypublish-cli
-- konduktor-nightly
-- toon-mcp-server
-- paynet-sdk
-- Alsulf
-- kubiya-control-plane-api
-- omni-split
-- treemapper
-- trainy-policy-nightly
-- SoL
-- odoo-addon-stay
-- odoo-addon-stay-report-py3o
-- letta-nightly
-- zon-format
-- payme-sdk
-- CLIEMAILBOT
-- manim-progress-bar
-- pymodbus
-- favro-cli

@@ -1,0 +1,11 @@
+{
+  "name": "video-compress",
+  "version": "0.3.1",
+  "summary": "Compress video by 90% without losing much quality, similar to what Pied Piper achieves.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "video_compress-0.3.1.tar.gz",
+  "download_time": "2025-11-30T11:48:16.518611",
+  "package_url": "https://pypi.org/project/video-compress/"
+}

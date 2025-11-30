@@ -1,11 +1,11 @@
 {
   "name": "sangreal-calendar",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Trade day handling utilities for A-share market",
-  "author": "liubola",
-  "license": "GPL-3.0-or-later",
-  "home_page": "https://github.com/liubola/sangreal-calendar",
-  "download_filename": "sangreal_calendar-0.1.4.tar.gz",
-  "download_time": "2025-11-27T06:16:30.713692",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sangreal_calendar-0.1.5.tar.gz",
+  "download_time": "2025-11-30T11:48:18.166782",
   "package_url": "https://pypi.org/project/sangreal-calendar/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "wasenderapi",
+  "version": "0.3.5",
+  "summary": "The official Python SDK for the Wasender API, allowing you to programmatically send WhatsApp messages, manage contacts, groups, sessions, and handle webhooks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wasenderapi-0.3.5.tar.gz",
+  "download_time": "2025-11-30T11:48:24.761778",
+  "package_url": "https://pypi.org/project/wasenderapi/"
+}

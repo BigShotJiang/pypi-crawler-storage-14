@@ -1,0 +1,11 @@
+{
+  "name": "vargula",
+  "version": "2.0.0",
+  "summary": "Vargula is a lightweight Python library that makes terminal text styling effortless. With support for colors, backgrounds, text styles, and an intuitive markup format, you can create beautiful CLI applications with just a few lines of code.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vargula-2.0.0.tar.gz",
+  "download_time": "2025-11-30T11:48:26.354686",
+  "package_url": "https://pypi.org/project/vargula/"
+}

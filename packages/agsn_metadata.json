@@ -1,0 +1,11 @@
+{
+  "name": "agsn",
+  "version": "0.0.1",
+  "summary": "AGSN - Agent Station SDK",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agsn-0.0.1.tar.gz",
+  "download_time": "2025-11-30T11:48:21.548624",
+  "package_url": "https://pypi.org/project/agsn/"
+}
