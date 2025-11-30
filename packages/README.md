@@ -1,17 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-30T21:11:37.070738
-- **Total Packages**: 92
-- **Total Size**: 39.98 MB
+- **Download Time**: 2025-11-30T21:29:26.446549
+- **Total Packages**: 88
+- **Total Size**: 21.51 MB
 
 ## Packages List
-- scriptchat
+- proGenomes
+- missim-cli
+- missim-config
+- run-weeklychallenge
+- gnisdata
+- ikc
+- markdown-to-confluence
+- snowdrop-adjudicators
+- odoo-addon-sale-project-task-selection
+- pytest-bec-e2e
+- bec-server
+- bec-lib
+- bec-ipython-client
+- glucosedao-glucobench
+- biblemategui
+- meld-memory
+- haploid-installer
+- meld-mcp
+- alice-pdf
+- agentfoundry
+- python-template-project
+- plugin-adk
+- libvcs
+- liturgical-calendar
+- named-arrays
+- wisent
+- enea-outages
+- kopipasta
+- umlio
+- ayechat
+- shinzo
+- tileset-analyzer
+- mcp-memory-service
+- polars-extensions
+- odoo-addon-web-phone-field-whatsapp
+- mijnbib
 - tvi-solphit-discera-capability-image-detect
+- chuk-mcp-physics
+- fastpy-cli
+- PyWaves-CE
+- scriptchat
 - livpylib
 - superset-engine-d1
 - tvi-solphit-ingialla
-- circuit-breaker-labs
 - sqlalchemy-d1
 - Photo-Composition-Designer
 - stockcharts
@@ -28,7 +66,6 @@
 - odoo-addon-product-code-unique
 - report-maker
 - mugen-python
-- fastpy-cli
 - netlist-carpentry
 - batplot
 - aws-mcp
@@ -42,7 +79,6 @@
 - umlshapes
 - musicdl
 - bluer-objects
-- glucosedao-glucobench
 - pretalx-vimeo
 - coverage
 - pretalx-venueless
@@ -56,45 +92,5 @@
 - combicode
 - pretalx-public-voting
 - music-assistant-frontend
-- alice-pdf
 - jupyterlab-singleton-provider
 - pyrates
-- mol2lewis
-- meld-memory
-- meld-mcp
-- tileset-analyzer
-- xbl3auth
-- agentcore-sdk
-- deeppliv
-- mcp-ticketer
-- smartmemory
-- structurizr-theme-creator
-- patchbatch
-- dony
-- iq-sdk
-- dt31
-- biblemategui
-- timber-common
-- soni
-- getfactormodels
-- pycauset
-- bowtie-json-schema
-- guiguts
-- energyutils
-- sphinxcontrib-confluencebuilder
-- pysisense
-- sirs-import
-- libvcs
-- woodelf-explainer
-- conson-xp
-- vulcan-api-client
-- mkdocstrings-matlab
-- firecrawl
-- firecrawl-py
-- oncapintada
-- diffqcp
-- pytest-bec-e2e
-- bec-server
-- bec-lib
-- pianosdk
-- bec-ipython-client

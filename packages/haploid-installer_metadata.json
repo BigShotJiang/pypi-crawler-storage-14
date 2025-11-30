@@ -1,0 +1,11 @@
+{
+  "name": "haploid-installer",
+  "version": "0.0.0",
+  "summary": "Temporary placeholder package to hold the haploid name",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "haploid_installer-0.0.0.tar.gz",
+  "download_time": "2025-11-30T21:28:47.963695",
+  "package_url": "https://pypi.org/project/haploid-installer/"
+}

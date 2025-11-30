@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-project-task-selection",
+  "version": "18.0.1.0.0.3",
+  "summary": "Manually select the Task or Project for a Sale Order Line",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/project",
+  "download_filename": "odoo_addon_sale_project_task_selection-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-11-30T21:28:43.186606",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-project-task-selection/"
+}
