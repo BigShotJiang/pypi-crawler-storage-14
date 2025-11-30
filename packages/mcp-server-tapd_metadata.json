@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-tapd",
-  "version": "8.0.72",
+  "version": "8.0.73",
   "summary": "TAPD MCP Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_server_tapd-8.0.72.tar.gz",
-  "download_time": "2025-11-26T04:02:31.155863",
+  "download_filename": "mcp_server_tapd-8.0.73.tar.gz",
+  "download_time": "2025-11-30T16:12:10.364869",
   "package_url": "https://pypi.org/project/mcp-server-tapd/"
 }

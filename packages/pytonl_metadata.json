@@ -1,0 +1,11 @@
+{
+  "name": "pytonl",
+  "version": "1.0.0",
+  "summary": "Token-Optimized Notation Language - A compact serialization format for LLM contexts",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytonl-1.0.0.tar.gz",
+  "download_time": "2025-11-30T16:11:49.201022",
+  "package_url": "https://pypi.org/project/pytonl/"
+}

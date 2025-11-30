@@ -1,0 +1,11 @@
+{
+  "name": "rapidquery",
+  "version": "0.1.0a5",
+  "summary": "RapidQuery is the fastest, full-feature, and easy-to-use Python SQL query builder written in Rust.",
+  "author": null,
+  "license": "GNU GPLv3",
+  "home_page": "https://github.com/awolverp/rapidquery",
+  "download_filename": "rapidquery-0.1.0a5.tar.gz",
+  "download_time": "2025-11-30T16:12:06.600436",
+  "package_url": "https://pypi.org/project/rapidquery/"
+}

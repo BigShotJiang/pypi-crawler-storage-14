@@ -1,11 +1,11 @@
 {
   "name": "gtpyhop",
-  "version": "1.5.1",
+  "version": "1.6.0",
   "summary": "A Goal-Task-Network planning package written in Python",
   "author": null,
   "license": "Clear BSD License",
   "home_page": null,
-  "download_filename": "gtpyhop-1.5.1.tar.gz",
-  "download_time": "2025-11-27T14:34:47.591676",
+  "download_filename": "gtpyhop-1.6.0.tar.gz",
+  "download_time": "2025-11-30T16:12:02.256700",
   "package_url": "https://pypi.org/project/gtpyhop/"
 }

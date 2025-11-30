@@ -1,11 +1,11 @@
 {
   "name": "sensei-ai",
-  "version": "0.1.2",
+  "version": "1.0.1",
   "summary": "Intelligent documentation agent for AI coding assistants",
   "author": "alizain",
   "license": null,
   "home_page": null,
-  "download_filename": "sensei_ai-0.1.2.tar.gz",
-  "download_time": "2025-11-30T15:39:13.083880",
+  "download_filename": "sensei_ai-1.0.1.tar.gz",
+  "download_time": "2025-11-30T16:12:19.644000",
   "package_url": "https://pypi.org/project/sensei-ai/"
 }
