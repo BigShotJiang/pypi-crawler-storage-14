@@ -1,0 +1,11 @@
+{
+  "name": "kulchur",
+  "version": "1.0.0",
+  "summary": "Pull publicly available Goodreads data on books, authors and users",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kulchur-1.0.0.tar.gz",
+  "download_time": "2025-11-30T22:49:16.306226",
+  "package_url": "https://pypi.org/project/kulchur/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "turboloader",
+  "version": "1.8.0",
+  "summary": "Production-ready ML data loading library with distributed training support, SIMD-accelerated transforms, and custom binary format. Built with C++20 for maximum performance, with seamless Python integration for PyTorch, TensorFlow, and JAX workflows.",
+  "author": "TurboLoader Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "turboloader-1.8.0.tar.gz",
+  "download_time": "2025-11-30T22:49:21.502718",
+  "package_url": "https://pypi.org/project/turboloader/"
+}
