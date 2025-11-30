@@ -1,11 +1,11 @@
 {
   "name": "suchana-grp7-cam",
-  "version": "1.2.2",
+  "version": "2.2.2",
   "summary": "Advanced Drone Camera AI System for Real-time Object Detection, Tracking & Live Video Streaming. Designed by Suchana SpaceExpo in collaboration with Anu Electronics, Chennai.",
   "author": null,
   "license": "Proprietary - All Rights Reserved",
   "home_page": null,
-  "download_filename": "suchana_grp7_cam-1.2.2.tar.gz",
-  "download_time": "2025-11-30T17:30:50.789857",
+  "download_filename": "suchana_grp7_cam-2.2.2-py3-none-any.whl",
+  "download_time": "2025-11-30T18:14:45.668965",
   "package_url": "https://pypi.org/project/suchana-grp7-cam/"
 }

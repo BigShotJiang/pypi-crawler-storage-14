@@ -1,0 +1,11 @@
+{
+  "name": "search1688api",
+  "version": "2.0.0",
+  "summary": "Python library for searching products on 1688.com by image",
+  "author": "netkaruma",
+  "license": null,
+  "home_page": null,
+  "download_filename": "search1688api-2.0.0.tar.gz",
+  "download_time": "2025-11-30T18:15:15.030805",
+  "package_url": "https://pypi.org/project/search1688api/"
+}

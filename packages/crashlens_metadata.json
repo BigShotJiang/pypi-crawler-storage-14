@@ -1,0 +1,11 @@
+{
+  "name": "crashlens",
+  "version": "2.20.0",
+  "summary": "CLI to detect GPT token waste from Langfuse logs with automated CI/CD setup and Prometheus observability",
+  "author": "Aditya Singh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "crashlens-2.20.0.tar.gz",
+  "download_time": "2025-11-30T18:14:53.935737",
+  "package_url": "https://pypi.org/project/crashlens/"
+}

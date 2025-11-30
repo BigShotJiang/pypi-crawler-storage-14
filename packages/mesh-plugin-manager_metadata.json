@@ -1,11 +1,11 @@
 {
   "name": "mesh-plugin-manager",
-  "version": "0.1.0",
-  "summary": "Mesh Plugin Manager - A lightweight package manager for Meshtastic plugins",
-  "author": "benallfree",
+  "version": "1.0.0",
+  "summary": null,
+  "author": "Ben Allfree",
   "license": null,
   "home_page": null,
-  "download_filename": "mesh_plugin_manager-0.1.0.tar.gz",
-  "download_time": "2025-11-30T13:28:15.785540",
+  "download_filename": "mesh_plugin_manager-1.0.0.tar.gz",
+  "download_time": "2025-11-30T18:15:08.564931",
   "package_url": "https://pypi.org/project/mesh-plugin-manager/"
 }

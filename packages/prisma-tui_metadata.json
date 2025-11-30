@@ -1,0 +1,11 @@
+{
+  "name": "prisma-tui",
+  "version": "0.2.1",
+  "summary": "A TUI framework based on the idea of \"multi-layered transparency\" composition.",
+  "author": "DiegoBarMor",
+  "license": "MIT",
+  "home_page": "https://github.com/diegobarmor/prisma-tui",
+  "download_filename": "prisma_tui-0.2.1.tar.gz",
+  "download_time": "2025-11-30T18:15:14.487417",
+  "package_url": "https://pypi.org/project/prisma-tui/"
+}

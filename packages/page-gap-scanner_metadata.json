@@ -1,0 +1,11 @@
+{
+  "name": "page-gap-scanner",
+  "version": "0.1.3",
+  "summary": "CLI tool to compare two URLs and generate a topic & internal linking gap report as CSV.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "page_gap_scanner-0.1.3.tar.gz",
+  "download_time": "2025-11-30T18:15:04.188319",
+  "package_url": "https://pypi.org/project/page-gap-scanner/"
+}
