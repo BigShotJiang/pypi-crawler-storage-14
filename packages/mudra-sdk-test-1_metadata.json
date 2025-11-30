@@ -1,11 +1,11 @@
 {
   "name": "mudra-sdk-test-1",
-  "version": "0.1.12",
+  "version": "0.1.14",
   "summary": "Mudra SDK",
   "author": "Foad Khoury",
   "license": null,
   "home_page": null,
-  "download_filename": "mudra_sdk_test_1-0.1.12.tar.gz",
-  "download_time": "2025-11-30T10:34:24.503260",
+  "download_filename": "mudra_sdk_test_1-0.1.14.tar.gz",
+  "download_time": "2025-11-30T10:49:16.887124",
   "package_url": "https://pypi.org/project/mudra-sdk-test-1/"
 }

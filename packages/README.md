@@ -1,21 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-30T10:34:39.074348
-- **Total Packages**: 90
-- **Total Size**: 14.53 MB
+- **Download Time**: 2025-11-30T10:49:54.600325
+- **Total Packages**: 87
+- **Total Size**: 23.55 MB
 
 ## Packages List
+- picteus-extension-sdk
+- favro-mcp
+- MDOFModel
+- bluer-sbc
+- pypublish-cli
+- konduktor-nightly
+- toon-mcp-server
+- paynet-sdk
+- Alsulf
+- kubiya-control-plane-api
+- insurance-mobile-pdfconverter
+- omni-split
+- treemapper
+- trainy-policy-nightly
+- SoL
+- mudra-sdk-test-1
+- odoo-addon-stay
+- odoo-addon-stay-report-py3o
+- letta-nightly
+- nucleation
+- zon-format
+- payme-sdk
+- CLIEMAILBOT
+- manim-progress-bar
+- pymodbus
+- favro-cli
+- foundrytools-cli
+- avalon-stdlib
+- wagtail-reusable-blocks
+- pydantic-ai-filesystem-sandbox
 - ocrbridge-ocrmac
 - nvidia-nat-adk
-- insurance-mobile-pdfconverter
-- treemapper
 - nvidia-nat-llama-index
 - pytest-chronicle
 - nvidia-nat-ragaai
 - drun
 - nvidia-nat-test
-- CLIEMAILBOT
 - nvidia-nat-strands
 - nvidia-nat-phoenix
 - nvidia-nat-mcp
@@ -24,7 +51,6 @@
 - zodchy-fastapi
 - nvidia-nat-profiling
 - nvidia-nat-opentelemetry
-- toon-mcp-server
 - nvidia-nat-mem0ai
 - nvidia-nat
 - pycauset
@@ -64,35 +90,6 @@
 - aiqtoolkit-mem0ai
 - aiqtoolkit-langchain
 - mkdocs-roadmap
-- pydantic-ai-filesystem-sandbox
 - pydantic-ai-blocking-approval
 - aiinbx
 - google-maps-mcp-server
-- oarepo-model
-- mudra-sdk-test-1
-- aframexr
-- ai-edge-torch-nightly
-- chen-signatures
-- dsn-sync
-- telegram-bot-stack
-- rag-tokenizer
-- pyrade
-- click-sdk
-- ezMM
-- alphaquant
-- masterpiece
-- indexly
-- kinora
-- linux-ssh-mcp
-- gcp-route-optimizer
-- kubiya-control-plane-api
-- posebusters
-- cyvest
-- torchax
-- dfm-python
-- pytemplify
-- openfund-taker
-- hexlab
-- openfund-maker
-- pytapo
-- foundrytools

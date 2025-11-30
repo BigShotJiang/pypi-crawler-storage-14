@@ -1,0 +1,11 @@
+{
+  "name": "foundrytools-cli",
+  "version": "2.0.4",
+  "summary": "A set of command line tools to inspect, manipulate and convert font files",
+  "author": "Cesare Gilento",
+  "license": null,
+  "home_page": null,
+  "download_filename": "foundrytools_cli-2.0.4.tar.gz",
+  "download_time": "2025-11-30T10:49:22.561210",
+  "package_url": "https://pypi.org/project/foundrytools-cli/"
+}

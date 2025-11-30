@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stay-report-py3o",
+  "version": "16.0.2.0.0",
+  "summary": "Replace Qweb report by Py3o report on stay module",
+  "author": "Barroux Abbey, Akretion, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/vertical-abbey",
+  "download_filename": "odoo_addon_stay_report_py3o-16.0.2.0.0-py3-none-any.whl",
+  "download_time": "2025-11-30T10:49:17.908913",
+  "package_url": "https://pypi.org/project/odoo-addon-stay-report-py3o/"
+}
