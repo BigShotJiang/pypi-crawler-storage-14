@@ -1,0 +1,11 @@
+{
+  "name": "actuonix-lac",
+  "version": "0.1.0",
+  "summary": "Python controller for Actuonix Linear Actuator Control Board",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "actuonix_lac-0.1.0.tar.gz",
+  "download_time": "2025-11-30T23:49:48.731755",
+  "package_url": "https://pypi.org/project/actuonix-lac/"
+}

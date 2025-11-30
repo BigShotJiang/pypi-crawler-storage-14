@@ -1,0 +1,11 @@
+{
+  "name": "starccato-jax",
+  "version": "0.1.17",
+  "summary": "JAX-VAE stellar core collapse waveform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "starccato_jax-0.1.17-py3-none-any.whl",
+  "download_time": "2025-11-30T23:49:45.519197",
+  "package_url": "https://pypi.org/project/starccato-jax/"
+}

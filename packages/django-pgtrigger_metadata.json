@@ -1,0 +1,11 @@
+{
+  "name": "django-pgtrigger",
+  "version": "4.16.0",
+  "summary": "Postgres trigger support integrated with Django models.",
+  "author": "Wes Kendall",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/AmbitionEng/django-pgtrigger",
+  "download_filename": "django_pgtrigger-4.16.0.tar.gz",
+  "download_time": "2025-11-30T23:49:44.483572",
+  "package_url": "https://pypi.org/project/django-pgtrigger/"
+}

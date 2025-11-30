@@ -1,0 +1,11 @@
+{
+  "name": "django-pgbulk",
+  "version": "3.3.0",
+  "summary": "Native Postgres update, upsert, and copy operations.",
+  "author": "Wes Kendall",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/AmbitionEng/django-pgbulk",
+  "download_filename": "django_pgbulk-3.3.0.tar.gz",
+  "download_time": "2025-11-30T23:49:54.494326",
+  "package_url": "https://pypi.org/project/django-pgbulk/"
+}
