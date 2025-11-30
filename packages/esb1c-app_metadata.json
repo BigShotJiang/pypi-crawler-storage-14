@@ -1,0 +1,11 @@
+{
+  "name": "esb1c-app",
+  "version": "0.1.6",
+  "summary": "Builder AMQP connection to 1C:ESB application",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "esb1c_app-0.1.6.tar.gz",
+  "download_time": "2025-11-30T13:49:19.847912",
+  "package_url": "https://pypi.org/project/esb1c-app/"
+}

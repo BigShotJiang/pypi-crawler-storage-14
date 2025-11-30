@@ -1,0 +1,11 @@
+{
+  "name": "pydomain-checker",
+  "version": "0.1.0",
+  "summary": "Check domain availability using DNS and WHOIS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydomain_checker-0.1.0-py3-none-any.whl",
+  "download_time": "2025-11-30T13:49:40.850681",
+  "package_url": "https://pypi.org/project/pydomain-checker/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fastlifeweb",
-  "version": "0.33.0",
+  "version": "0.33.1",
   "summary": "High-level web framework",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastlifeweb-0.33.0.tar.gz",
-  "download_time": "2025-11-25T20:34:12.143818",
+  "download_filename": "fastlifeweb-0.33.1.tar.gz",
+  "download_time": "2025-11-30T13:49:33.051452",
   "package_url": "https://pypi.org/project/fastlifeweb/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "qspec",
+  "version": "0.4.3",
+  "summary": "Physics toolbox for laser spectroscopy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qspec-0.4.3.tar.gz",
+  "download_time": "2025-11-30T13:49:40.342820",
+  "package_url": "https://pypi.org/project/qspec/"
+}

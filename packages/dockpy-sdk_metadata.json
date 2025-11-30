@@ -1,11 +1,11 @@
 {
   "name": "dockpy-sdk",
-  "version": "0.0.1rc2",
+  "version": "0.0.1rc3",
   "summary": "dockpy-sdk - Docker SDK with async operations",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "dockpy_sdk-0.0.1rc2.tar.gz",
-  "download_time": "2025-11-27T10:11:52.803429",
+  "download_filename": "dockpy_sdk-0.0.1rc3.tar.gz",
+  "download_time": "2025-11-30T13:49:26.344813",
   "package_url": "https://pypi.org/project/dockpy-sdk/"
 }
