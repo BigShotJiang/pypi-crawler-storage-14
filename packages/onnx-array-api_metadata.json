@@ -1,0 +1,11 @@
+{
+  "name": "onnx-array-api",
+  "version": "0.3.3",
+  "summary": "Array (and numpy) API for ONNX",
+  "author": "Xavier Dupré",
+  "license": null,
+  "home_page": "https://github.com/sdpython/onnx-array-api",
+  "download_filename": "onnx_array_api-0.3.3-py3-none-any.whl",
+  "download_time": "2025-11-30T12:17:43.702365",
+  "package_url": "https://pypi.org/project/onnx-array-api/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "adventofcode",
-  "version": "25.0",
+  "version": "25.2",
   "summary": "Helper utilities for solving Advent of Code puzzles",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "adventofcode-25.0.tar.gz",
-  "download_time": "2025-11-29T16:37:24.432812",
+  "download_filename": "adventofcode-25.2.tar.gz",
+  "download_time": "2025-11-30T12:17:41.272110",
   "package_url": "https://pypi.org/project/adventofcode/"
 }

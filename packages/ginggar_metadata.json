@@ -1,0 +1,11 @@
+{
+  "name": "ginggar",
+  "version": "3.0.1562",
+  "summary": "web feed reader",
+  "author": "Josef Hahn",
+  "license": "AGPL 3",
+  "home_page": "https://pseudopolis.eu/pino/ginggar",
+  "download_filename": "ginggar-3.0.1562-py3-none-any.whl",
+  "download_time": "2025-11-30T12:18:04.306885",
+  "package_url": "https://pypi.org/project/ginggar/"
+}

@@ -1,21 +1,68 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-30T11:48:57.845606
-- **Total Packages**: 89
-- **Total Size**: 14.12 MB
+- **Download Time**: 2025-11-30T12:18:29.881036
+- **Total Packages**: 84
+- **Total Size**: 20.69 MB
 
 ## Packages List
+- biomedical-data-generator
+- adventofcode
 - silver-ai
+- fieldview
+- keboola-query-service
+- onnx-array-api
+- aimodelshare
+- ryn-data
+- enea-outages
+- mudra-sdk-test-1
+- egrobots-sa-client
+- fastapi
+- cai-framework
+- backend.ai-test
+- fastapi-slim
+- backend.ai-storage-proxy
+- backend.ai-plugin
+- backend.ai-manager
+- backend.ai-logging
+- backend.ai-kernel-helper
+- backend.ai-kernel
+- backend.ai-install
+- backend.ai-common
+- backend.ai-client
+- backend.ai-cli
+- backend.ai-appproxy-worker
+- backend.ai-appproxy-coordinator
+- backend.ai-appproxy-common
+- backend.ai-account-manager
+- backend.ai-accelerator-mock
+- backend.ai-accelerator-cuda-open
+- anyenv
+- edbb
+- helpr
+- matrixpythonclient
+- ph-shorts
+- apias
+- pydrime
+- ginggar
+- nonebot-plugin-steam-game-status
+- firstock
+- specfact-cli
+- pytest-greener
+- telegram-bot-stack
+- dank-mids
+- OntoLearner
+- cribl-control-plane
+- acl-access-control
+- pySmartHashtag
+- sfln
 - greener-servermock
 - orca-descriptors
 - greener-reporter
 - sdialog
 - growi-mcp
-- cai-framework
 - klaude-code
 - ticketdiscount
-- nonebot-plugin-steam-game-status
 - video-compress
 - craftllc-api
 - agentix-core
@@ -39,59 +86,7 @@
 - langswarm
 - uniface
 - zodchy-fastapi
-- mudra-sdk-test-1
 - hallyd
 - decart
 - rocher
 - robot-hat
-- apache-airflow-mcp-server
-- audex
-- celestsp
-- rcrlm
-- age-mcp-server
-- aiinbx
-- actingweb
-- keboola-query-service
-- diffusionx
-- makeparallel
-- tf-keras-nightly
-- ekogram
-- agefreighter
-- chuk-mcp-physics
-- chinamindata
-- insurance-mobile-pdfconverter
-- opengemini-client-python-application
-- print-dog
-- kopi-docka
-- krn-harmony-adapter
-- nexo-soma
-- music-assistant-frontend
-- amniotic
-- sangreal-wind
-- maleo-metadata
-- uipath-llamaindex
-- easyrip
-- alpine-sdk
-- alnp
-- nexo-middlewares
-- lattifai-core
-- fast-trading-simulator
-- aimodelshare
-- bintang
-- maleo-enums
-- askandyz-mcp-server-demo
-- nucleation
-- dwd-downloader
-- dms-core
-- pydrime
-- haco
-- compass_api_sdk
-- kubesdk
-- kube-models
-- deal
-- spikard
-- robyn-config
-- atomic-agents
-- ezbeq
-- px4-configuration
-- autopahe

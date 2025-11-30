@@ -1,11 +1,11 @@
 {
   "name": "cai-framework",
-  "version": "0.5.7",
+  "version": "0.5.9",
   "summary": "Cybersecurity AI Framework",
   "author": null,
   "license": "Dual-licensed MIT and Proprietary",
   "home_page": null,
-  "download_filename": "cai_framework-0.5.7.tar.gz",
-  "download_time": "2025-11-30T11:48:14.406359",
+  "download_filename": "cai_framework-0.5.9.tar.gz",
+  "download_time": "2025-11-30T12:17:47.842233",
   "package_url": "https://pypi.org/project/cai-framework/"
 }
