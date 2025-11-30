@@ -1,0 +1,11 @@
+{
+  "name": "mosaicmpi",
+  "version": "2.8.7",
+  "summary": "mosaicMPI: Mosaic Multi-resolution Program Integration",
+  "author": "Ted Verhey",
+  "license": "\"MIT\"",
+  "home_page": "https://github.com/MorrissyLab/mosaicMPI",
+  "download_filename": "mosaicmpi-2.8.7.tar.gz",
+  "download_time": "2025-11-30T05:11:46.293118",
+  "package_url": "https://pypi.org/project/mosaicmpi/"
+}

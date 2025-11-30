@@ -1,0 +1,11 @@
+{
+  "name": "bosch-alarm-mode2",
+  "version": "0.4.10",
+  "summary": "An async Python library for interacting with Bosch Alarm Panels supporting the 'Mode 2' API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bosch_alarm_mode2-0.4.10.tar.gz",
+  "download_time": "2025-11-30T05:11:38.739933",
+  "package_url": "https://pypi.org/project/bosch-alarm-mode2/"
+}

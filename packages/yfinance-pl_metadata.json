@@ -1,11 +1,11 @@
 {
   "name": "yfinance-pl",
-  "version": "0.7.2.0",
+  "version": "0.7.2.2",
   "summary": "Python wrapper for yfinance-rs using PyO3 and Polars",
   "author": "rmc8",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "yfinance_pl-0.7.2.0.tar.gz",
-  "download_time": "2025-11-30T02:52:17.342948",
+  "download_filename": "yfinance_pl-0.7.2.2.tar.gz",
+  "download_time": "2025-11-30T05:11:46.807386",
   "package_url": "https://pypi.org/project/yfinance-pl/"
 }
