@@ -1,0 +1,11 @@
+{
+  "name": "src-backtester",
+  "version": "0.1.0",
+  "summary": "Una librería de backtesting cuantitativo para estrategias financieras utilizando pandas-ta y yfinance.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "src_backtester-0.1.0.tar.gz",
+  "download_time": "2025-11-30T08:15:25.955518",
+  "package_url": "https://pypi.org/project/src-backtester/"
+}

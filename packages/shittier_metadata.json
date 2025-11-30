@@ -1,0 +1,11 @@
+{
+  "name": "shittier",
+  "version": "0.1.0",
+  "summary": "A multi-language code obfuscation tool that makes code intentionally unreadable",
+  "author": "Shittier Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/jaywyawhare/Shittier",
+  "download_filename": "shittier-0.1.0.tar.gz",
+  "download_time": "2025-11-30T08:15:32.060299",
+  "package_url": "https://pypi.org/project/shittier/"
+}

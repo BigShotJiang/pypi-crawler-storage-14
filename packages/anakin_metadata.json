@@ -1,0 +1,11 @@
+{
+  "name": "anakin",
+  "version": "1.1.1",
+  "summary": "A free and unlimited python tool.",
+  "author": "z10mx7",
+  "license": "MIT",
+  "home_page": "https://github.com/z10mx7/anakin",
+  "download_filename": "anakin-1.1.1.tar.gz",
+  "download_time": "2025-11-30T08:15:21.537187",
+  "package_url": "https://pypi.org/project/anakin/"
+}
