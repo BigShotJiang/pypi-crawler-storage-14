@@ -1,0 +1,11 @@
+{
+  "name": "coding-agent-harness",
+  "version": "0.1.0",
+  "summary": "Lightweight long-running harness for coding agents",
+  "author": "Learn2Solve",
+  "license": null,
+  "home_page": null,
+  "download_filename": "coding_agent_harness-0.1.0.tar.gz",
+  "download_time": "2025-11-30T17:40:13.314308",
+  "package_url": "https://pypi.org/project/coding-agent-harness/"
+}

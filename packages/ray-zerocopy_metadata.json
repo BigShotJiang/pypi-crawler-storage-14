@@ -1,11 +1,11 @@
 {
   "name": "ray-zerocopy",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "Zero-copy model sharing for PyTorch inference in Ray",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ray_zerocopy-0.1.2.tar.gz",
-  "download_time": "2025-11-30T16:53:15.788487",
+  "download_filename": "ray_zerocopy-0.1.5.tar.gz",
+  "download_time": "2025-11-30T17:40:06.508961",
   "package_url": "https://pypi.org/project/ray-zerocopy/"
 }

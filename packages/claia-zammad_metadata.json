@@ -1,0 +1,11 @@
+{
+  "name": "claia-zammad",
+  "version": "0.0.1",
+  "summary": "CLAIA Zammad Extensions",
+  "author": "Lloyd Bower, ExoFox, LLC",
+  "license": null,
+  "home_page": null,
+  "download_filename": "claia_zammad-0.0.1.tar.gz",
+  "download_time": "2025-11-30T17:40:07.553992",
+  "package_url": "https://pypi.org/project/claia-zammad/"
+}

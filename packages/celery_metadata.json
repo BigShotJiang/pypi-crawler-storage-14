@@ -1,0 +1,11 @@
+{
+  "name": "celery",
+  "version": "5.6.0",
+  "summary": "Distributed Task Queue.",
+  "author": "Ask Solem",
+  "license": "BSD-3-Clause",
+  "home_page": "https://docs.celeryq.dev/",
+  "download_filename": "celery-5.6.0.tar.gz",
+  "download_time": "2025-11-30T17:40:04.920686",
+  "package_url": "https://pypi.org/project/celery/"
+}
