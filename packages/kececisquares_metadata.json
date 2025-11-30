@@ -1,0 +1,11 @@
+{
+  "name": "kececisquares",
+  "version": "0.1.2",
+  "summary": "Keçeci Binomial Squares (Keçeci Binom Kareleri): The Keçeci Binomial Square is a series of binomial coefficients forming a square region within Khayyam (مثلث خیام), Pascal, Binomial Triangle, selected from a specified starting row with defined size and alignment.",
+  "author": "Mehmet Keçeci",
+  "license": "MIT",
+  "home_page": "https://github.com/WhiteSymmetry/kececisquares",
+  "download_filename": "kececisquares-0.1.2.tar.gz",
+  "download_time": "2025-11-30T14:09:59.578118",
+  "package_url": "https://pypi.org/project/kececisquares/"
+}

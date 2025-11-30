@@ -1,0 +1,11 @@
+{
+  "name": "nolds",
+  "version": "0.6.3",
+  "summary": "Nonlinear measures for dynamical systems (based on one-dimensional time series)",
+  "author": "Christopher Schölzel",
+  "license": "MIT",
+  "home_page": "https://github.com/CSchoel/nolds",
+  "download_filename": "nolds-0.6.3-py2.py3-none-any.whl",
+  "download_time": "2025-11-30T14:10:14.937452",
+  "package_url": "https://pypi.org/project/nolds/"
+}

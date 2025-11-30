@@ -1,0 +1,11 @@
+{
+  "name": "mac-vendor-lookup",
+  "version": "0.1.15",
+  "summary": "Find the vendor for a given MAC address",
+  "author": "Johann Bauer",
+  "license": null,
+  "home_page": "https://github.com/bauerj/mac_vendor_lookup",
+  "download_filename": "mac_vendor_lookup-0.1.15-py3-none-any.whl",
+  "download_time": "2025-11-30T14:10:09.383138",
+  "package_url": "https://pypi.org/project/mac-vendor-lookup/"
+}

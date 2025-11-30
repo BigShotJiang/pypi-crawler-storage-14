@@ -1,0 +1,11 @@
+{
+  "name": "pagesage",
+  "version": "0.2.0",
+  "summary": "pagesage - Serve markdown pages and files as static website.",
+  "author": "Predrag Mandic",
+  "license": "BSD",
+  "home_page": "https://gitlab.com/nul.one/pagesage",
+  "download_filename": "pagesage-0.2.0.tar.gz",
+  "download_time": "2025-11-30T14:09:55.644082",
+  "package_url": "https://pypi.org/project/pagesage/"
+}
