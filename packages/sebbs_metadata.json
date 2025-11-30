@@ -1,0 +1,11 @@
+{
+  "name": "sebbs",
+  "version": "1.0.1",
+  "summary": "Sound Event Bounding Boxes",
+  "author": "Mitsubishi Electric Research Laboratories",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/merlresearch/sound_event_bounding_boxes",
+  "download_filename": "sebbs-1.0.1.tar.gz",
+  "download_time": "2025-11-30T05:50:18.933994",
+  "package_url": "https://pypi.org/project/sebbs/"
+}

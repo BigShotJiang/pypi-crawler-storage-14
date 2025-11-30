@@ -1,11 +1,11 @@
 {
   "name": "plexus-python-common",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plexus_python_common-1.0.19.tar.gz",
-  "download_time": "2025-11-27T06:48:45.514048",
+  "download_filename": "plexus_python_common-1.0.20.tar.gz",
+  "download_time": "2025-11-30T05:50:19.959454",
   "package_url": "https://pypi.org/project/plexus-python-common/"
 }

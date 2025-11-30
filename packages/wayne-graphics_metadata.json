@@ -1,11 +1,11 @@
 {
   "name": "wayne-graphics",
-  "version": "1.3.1",
-  "summary": "CMU-style graphics wrapper using tkinter",
+  "version": "2.0.0",
+  "summary": "Wayne Graphics: a Tkinter-based graphics engine with Wayne-AI code explainer and API router",
   "author": "Wayne Durbin",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "wayne_graphics-1.3.1-py3-none-any.whl",
-  "download_time": "2025-11-28T20:48:34.533327",
+  "download_filename": "wayne_graphics-2.0.0.tar.gz",
+  "download_time": "2025-11-30T05:50:18.374474",
   "package_url": "https://pypi.org/project/wayne-graphics/"
 }
