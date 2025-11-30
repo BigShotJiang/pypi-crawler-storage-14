@@ -1,11 +1,11 @@
 {
   "name": "vulcan-api-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Full-featured Vulcan API",
   "author": "Jake",
   "license": null,
   "home_page": null,
-  "download_filename": "vulcan_api_client-1.0.0.tar.gz",
-  "download_time": "2025-11-30T20:50:03.995410",
+  "download_filename": "vulcan_api_client-1.0.1.tar.gz",
+  "download_time": "2025-11-30T21:48:21.365676",
   "package_url": "https://pypi.org/project/vulcan-api-client/"
 }
