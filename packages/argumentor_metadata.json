@@ -1,0 +1,11 @@
+{
+  "name": "argumentor",
+  "version": "2.0.0",
+  "summary": "lightweight & copylefted library to work with command-line arguments",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "argumentor-2.0.0.tar.gz",
+  "download_time": "2025-11-30T18:42:37.122990",
+  "package_url": "https://pypi.org/project/argumentor/"
+}

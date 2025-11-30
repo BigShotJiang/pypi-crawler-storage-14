@@ -1,0 +1,11 @@
+{
+  "name": "nostr-tools",
+  "version": "1.4.1",
+  "summary": "A comprehensive Python library for Nostr protocol interactions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nostr_tools-1.4.1.tar.gz",
+  "download_time": "2025-11-30T18:42:49.378574",
+  "package_url": "https://pypi.org/project/nostr-tools/"
+}

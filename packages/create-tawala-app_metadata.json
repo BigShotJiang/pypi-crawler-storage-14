@@ -1,0 +1,11 @@
+{
+  "name": "create-tawala-app",
+  "version": "0.1.0",
+  "summary": "Initialize / create a new tawala app.",
+  "author": "Kevin Wasike Wakhisi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "create_tawala_app-0.1.0.tar.gz",
+  "download_time": "2025-11-30T18:42:31.267159",
+  "package_url": "https://pypi.org/project/create-tawala-app/"
+}

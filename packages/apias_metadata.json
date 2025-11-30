@@ -1,11 +1,11 @@
 {
   "name": "apias",
-  "version": "0.1.19",
+  "version": "0.1.20",
   "summary": "AI powered API documentation scraper and converter",
   "author": "Emanuele Sabetta",
   "license": null,
   "home_page": "https://github.com/Emasoft/apias",
-  "download_filename": "apias-0.1.19.tar.gz",
-  "download_time": "2025-11-30T17:10:16.118287",
+  "download_filename": "apias-0.1.20.tar.gz",
+  "download_time": "2025-11-30T18:42:50.509554",
   "package_url": "https://pypi.org/project/apias/"
 }

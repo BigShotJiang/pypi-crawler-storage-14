@@ -1,0 +1,11 @@
+{
+  "name": "sql-metadata",
+  "version": "2.19.0",
+  "summary": "Uses tokenized query returned by python-sqlparse and generates query metadata",
+  "author": "Maciej Brencz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sql_metadata-2.19.0.tar.gz",
+  "download_time": "2025-11-30T18:42:51.044631",
+  "package_url": "https://pypi.org/project/sql-metadata/"
+}

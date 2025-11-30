@@ -1,0 +1,11 @@
+{
+  "name": "pLAST",
+  "version": "1.0.0",
+  "summary": "plasmid Language Analysis and Search Tool",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "plast-1.0.0.tar.gz",
+  "download_time": "2025-11-30T18:42:41.519302",
+  "package_url": "https://pypi.org/project/pLAST/"
+}

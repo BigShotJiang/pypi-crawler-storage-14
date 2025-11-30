@@ -1,15 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-30T18:15:30.679984
-- **Total Packages**: 85
-- **Total Size**: 15.84 MB
+- **Download Time**: 2025-11-30T18:43:14.648908
+- **Total Packages**: 77
+- **Total Size**: 54.33 MB
 
 ## Packages List
+- helpr
+- terma-ai
+- mcp-skillset
+- meld-memory
+- create-tawala-app
+- meld-mcp
+- pyRedNoise
+- purb
+- cvsx2mvsx
+- fencio
+- vellum-workflow-server
+- linkarchivetools
+- sag-reader
+- nextpy-framework
+- argumentor
+- smfsb
+- datamancers-etl-toolbox
+- epic2
+- poly-bus
+- onnx-paddleocr
+- pLAST
+- simba-uw-tf-dev
+- matrice-streaming
+- claritycore
+- org-analyze
+- odoo-addon-project-task-code-portal
+- dashcam-telemetry
+- recce-nightly
+- dsd-seenode
+- suchana-grp7-cam
+- recce-cloud-nightly
+- storyboard-cli
+- timber-common
+- nostr-tools
+- mcp-ticketer
+- apias
+- sql-metadata
+- sleipnirgroup-jormungandr
+- x-mlps-pytorch
+- verge-auth-sdk
+- aws-mcp
+- langmiddle
+- hv-utils
+- mcp-vector-search
+- atlas-asset-websocket-client
+- ytmusicapi
+- simplebench
+- nsi-designer
+- cgm-format
+- drush-hello
+- myimagetools
 - stollen
 - corelp
-- suchana-grp7-cam
-- verge-auth-sdk
 - geminiai-cli
 - distributed-state-network
 - cb-events
@@ -17,7 +66,6 @@
 - avatar-gen
 - zarrnii
 - zxp2boriel
-- matrice-streaming
 - color-contrast-linter
 - tasky-cli
 - communica
@@ -35,59 +83,3 @@
 - pdf4llm
 - kreuzberg
 - django-simple-dms
-- approvaltests-minimal
-- approvaltests
-- approval-utilities
-- mechanicsdsl-core
-- Geode-Hybrid
-- cppython
-- page-gap-scanner
-- wmill-pg
-- wmill
-- windmill-api
-- Geode-Explicit
-- x-evolution
-- Geode-Hybrid-Geosciences
-- chuk-mcp-physics
-- mesh-plugin-manager
-- jbqt
-- meatpy
-- rafivector
-- Geode-Background
-- maptasker
-- logmagix-yuge
-- timber-common
-- DiscordRLBypasser
-- kaalin
-- kubiya-control-plane-api
-- prisma-tui
-- search1688api
-- rusted-chain
-- pywiim
-- minicc
-- vibehdf5
-- llmservice
-- kalameet
-- qutebrowser
-- celery
-- spikard
-- ray-zerocopy
-- mkdocstrings-github
-- claia-zammad
-- pyevalai
-- jfjoch-client
-- uipath
-- odk-core
-- cwsl
-- Qwael
-- threaded-order
-- background-remover-model
-- gammarers.aws-secure-log-bucket
-- coding-agent-harness
-- upathtools
-- davext
-- muc
-- db-auto-interface
-- wyn360-cli
-- python-backoff
-- orca-descriptors

@@ -1,0 +1,11 @@
+{
+  "name": "datamancers-etl-toolbox",
+  "version": "0.1.1",
+  "summary": "ETL toolkit for data processing and transformation",
+  "author": "vitmrnavek",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "datamancers_etl_toolbox-0.1.1.tar.gz",
+  "download_time": "2025-11-30T18:42:38.380440",
+  "package_url": "https://pypi.org/project/datamancers-etl-toolbox/"
+}

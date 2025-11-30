@@ -1,0 +1,11 @@
+{
+  "name": "dashcam-telemetry",
+  "version": "0.1.0",
+  "summary": "Extract GPS and sensor telemetry from dashcam videos",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dashcam_telemetry-0.1.0.tar.gz",
+  "download_time": "2025-11-30T18:42:45.442461",
+  "package_url": "https://pypi.org/project/dashcam-telemetry/"
+}

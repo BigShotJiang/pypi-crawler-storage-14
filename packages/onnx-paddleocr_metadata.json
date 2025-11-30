@@ -1,11 +1,11 @@
 {
   "name": "onnx-paddleocr",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "ONNX PaddleOCR",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "onnx_paddleocr-0.1.7.tar.gz",
-  "download_time": "2025-11-30T16:53:22.612117",
+  "download_filename": "onnx_paddleocr-0.1.8.tar.gz",
+  "download_time": "2025-11-30T18:42:40.960416",
   "package_url": "https://pypi.org/project/onnx-paddleocr/"
 }

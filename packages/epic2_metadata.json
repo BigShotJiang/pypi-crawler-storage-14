@@ -1,0 +1,11 @@
+{
+  "name": "epic2",
+  "version": "0.0.53",
+  "summary": "Ultraperformant ChIP-Seq broad peak/domain finder.",
+  "author": "Endre Bakken Stovner",
+  "license": "MIT",
+  "home_page": "http://github.com/endrebak/epic2",
+  "download_filename": "epic2-0.0.53.tar.gz",
+  "download_time": "2025-11-30T18:42:39.514792",
+  "package_url": "https://pypi.org/project/epic2/"
+}
