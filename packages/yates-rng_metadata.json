@@ -1,11 +1,11 @@
 {
   "name": "yates-rng",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Random search, shuffle, and pick using a custom RanBit RNG and fisher-yates algorithm",
   "author": "Shiv Shankar N",
   "license": null,
   "home_page": "https://github.com/Shivxr/yates_rng",
-  "download_filename": "yates_rng-0.1.4.tar.gz",
-  "download_time": "2025-11-30T14:09:56.753444",
+  "download_filename": "yates_rng-0.1.6.tar.gz",
+  "download_time": "2025-11-30T15:10:07.164792",
   "package_url": "https://pypi.org/project/yates-rng/"
 }

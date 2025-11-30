@@ -1,0 +1,11 @@
+{
+  "name": "plmbr",
+  "version": "0.5.0",
+  "summary": "create data processing pipelines",
+  "author": "Deekshant Yadav",
+  "license": null,
+  "home_page": null,
+  "download_filename": "plmbr-0.5.0.tar.gz",
+  "download_time": "2025-11-30T15:10:08.823935",
+  "package_url": "https://pypi.org/project/plmbr/"
+}

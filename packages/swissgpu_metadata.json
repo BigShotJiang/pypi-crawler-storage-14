@@ -1,0 +1,11 @@
+{
+  "name": "swissgpu",
+  "version": "0.0.0",
+  "summary": "SwissGPU SDK",
+  "author": "Sau1707",
+  "license": null,
+  "home_page": "https://github.com/XLongLink/swissgpu-sdk",
+  "download_filename": "swissgpu-0.0.0.tar.gz",
+  "download_time": "2025-11-30T15:10:23.480541",
+  "package_url": "https://pypi.org/project/swissgpu/"
+}

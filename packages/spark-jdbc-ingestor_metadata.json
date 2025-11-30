@@ -1,0 +1,11 @@
+{
+  "name": "spark-jdbc-ingestor",
+  "version": "1.0.2",
+  "summary": "A library to handle JDBC ingestion from a SQL database in a simple and efficient way.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spark_jdbc_ingestor-1.0.2.tar.gz",
+  "download_time": "2025-11-30T15:10:25.056920",
+  "package_url": "https://pypi.org/project/spark-jdbc-ingestor/"
+}

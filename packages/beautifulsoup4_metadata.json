@@ -1,0 +1,11 @@
+{
+  "name": "beautifulsoup4",
+  "version": "4.14.3",
+  "summary": "Screen-scraping library",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "beautifulsoup4-4.14.3.tar.gz",
+  "download_time": "2025-11-30T15:10:00.214901",
+  "package_url": "https://pypi.org/project/beautifulsoup4/"
+}
