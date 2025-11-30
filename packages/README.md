@@ -1,14 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-30T11:05:50.262132
-- **Total Packages**: 85
-- **Total Size**: 19.09 MB
+- **Download Time**: 2025-11-30T11:28:12.345669
+- **Total Packages**: 87
+- **Total Size**: 16.79 MB
 
 ## Packages List
+- robot-hat
+- apache-airflow-mcp-server
+- audex
+- celestsp
+- cai-framework
+- rcrlm
+- age-mcp-server
+- aiinbx
+- actingweb
+- keboola-query-service
+- diffusionx
+- makeparallel
+- tf-keras-nightly
+- ekogram
+- agefreighter
+- chuk-mcp-physics
+- chinamindata
+- insurance-mobile-pdfconverter
+- opengemini-client-python-application
+- zodchy-fastapi
+- print-dog
+- kopi-docka
+- krn-harmony-adapter
+- nexo-soma
+- music-assistant-frontend
+- amniotic
+- sangreal-wind
+- maleo-metadata
+- uipath-llamaindex
+- easyrip
+- alpine-sdk
+- alnp
+- nexo-middlewares
 - lattifai-core
 - fast-trading-simulator
-- insurance-mobile-pdfconverter
 - aimodelshare
 - bintang
 - maleo-enums
@@ -19,9 +51,7 @@
 - pydrime
 - haco
 - compass_api_sdk
-- zodchy-fastapi
 - kubesdk
-- AxiomX
 - kube-models
 - deal
 - spikard
@@ -63,31 +93,3 @@
 - avalon-stdlib
 - wagtail-reusable-blocks
 - pydantic-ai-filesystem-sandbox
-- ocrbridge-ocrmac
-- nvidia-nat-adk
-- nvidia-nat-llama-index
-- pytest-chronicle
-- nvidia-nat-ragaai
-- drun
-- nvidia-nat-test
-- nvidia-nat-strands
-- nvidia-nat-phoenix
-- nvidia-nat-mcp
-- ts-features-sculptor
-- nvidia-nat-ingestion
-- nvidia-nat-profiling
-- nvidia-nat-opentelemetry
-- nvidia-nat-mem0ai
-- nvidia-nat
-- pycauset
-- pychpp
-- nvidia-nat-mysql
-- mlx-image
-- nvidia-nat-data-flywheel
-- lmnr
-- nvidia-nat-all
-- nvidia-nat-weave
-- nvidia-nat-s3
-- pyscn
-- pyscn-mcp
-- nvidia-nat-crewai

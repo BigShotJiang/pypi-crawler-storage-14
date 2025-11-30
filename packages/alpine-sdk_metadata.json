@@ -1,11 +1,11 @@
 {
   "name": "alpine-sdk",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "High-level ALPINE Python SDK depending on the protocol layer.",
   "author": "alpine-core",
   "license": null,
   "home_page": null,
-  "download_filename": "alpine_sdk-0.1.5.tar.gz",
-  "download_time": "2025-11-29T20:12:04.990469",
+  "download_filename": "alpine_sdk-0.1.6.tar.gz",
+  "download_time": "2025-11-30T11:27:42.983006",
   "package_url": "https://pypi.org/project/alpine-sdk/"
 }
