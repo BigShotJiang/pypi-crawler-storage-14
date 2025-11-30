@@ -1,0 +1,11 @@
+{
+  "name": "troml-dev-status",
+  "version": "0.6.0",
+  "summary": "Objectively infer PyPI Development Status classifiers from code and release artifacts.",
+  "author": "Gemini, ChatGPT",
+  "license": null,
+  "home_page": null,
+  "download_filename": "troml_dev_status-0.6.0.tar.gz",
+  "download_time": "2025-11-30T00:52:33.222683",
+  "package_url": "https://pypi.org/project/troml-dev-status/"
+}

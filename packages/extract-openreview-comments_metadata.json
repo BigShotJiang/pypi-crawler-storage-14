@@ -1,0 +1,11 @@
+{
+  "name": "extract-openreview-comments",
+  "version": "0.1.2",
+  "summary": "A python script to extract the open-review comments for a paper into a markdown file for easy copy/pasting during rebuttals",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "extract_openreview_comments-0.1.2.tar.gz",
+  "download_time": "2025-11-30T00:52:40.195204",
+  "package_url": "https://pypi.org/project/extract-openreview-comments/"
+}

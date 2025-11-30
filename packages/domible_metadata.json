@@ -1,0 +1,11 @@
+{
+  "name": "domible",
+  "version": "0.1.20",
+  "summary": "python classes to create accessible HTML elements and documents ",
+  "author": "Joel Dodson",
+  "license": "MIT",
+  "home_page": "https://joeldodson.github.io/domible",
+  "download_filename": "domible-0.1.20.tar.gz",
+  "download_time": "2025-11-30T00:52:23.548789",
+  "package_url": "https://pypi.org/project/domible/"
+}

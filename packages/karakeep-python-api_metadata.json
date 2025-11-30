@@ -1,0 +1,11 @@
+{
+  "name": "karakeep-python-api",
+  "version": "1.5.0",
+  "summary": "Community python client for the Karakeep API.",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": "https://github.com/thiswillbeyourgithub/karakeep_python_api/",
+  "download_filename": "karakeep_python_api-1.5.0.tar.gz",
+  "download_time": "2025-11-30T00:52:19.745125",
+  "package_url": "https://pypi.org/project/karakeep-python-api/"
+}

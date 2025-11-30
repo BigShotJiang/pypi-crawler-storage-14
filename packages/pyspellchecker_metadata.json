@@ -1,0 +1,11 @@
+{
+  "name": "pyspellchecker",
+  "version": "0.8.4",
+  "summary": "Pure python spell checker based on work by Peter Norvig",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyspellchecker-0.8.4.tar.gz",
+  "download_time": "2025-11-30T00:52:45.521832",
+  "package_url": "https://pypi.org/project/pyspellchecker/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "shedboxai",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "A lightweight framework for building AI-powered applications through configuration",
   "author": "ShedBoxAI",
   "license": null,
   "home_page": "https://github.com/shedboxai/shedboxai",
-  "download_filename": "shedboxai-1.0.2.tar.gz",
-  "download_time": "2025-11-29T22:10:03.088906",
+  "download_filename": "shedboxai-1.0.3.tar.gz",
+  "download_time": "2025-11-30T00:52:35.360582",
   "package_url": "https://pypi.org/project/shedboxai/"
 }

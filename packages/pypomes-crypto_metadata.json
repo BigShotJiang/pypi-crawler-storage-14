@@ -1,11 +1,11 @@
 {
   "name": "pypomes-crypto",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "A collection of Python pomes, penyeach (cryptography modules)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypomes_crypto-0.7.0.tar.gz",
-  "download_time": "2025-11-29T23:10:24.101200",
+  "download_filename": "pypomes_crypto-0.7.1.tar.gz",
+  "download_time": "2025-11-30T00:52:39.656751",
   "package_url": "https://pypi.org/project/pypomes-crypto/"
 }

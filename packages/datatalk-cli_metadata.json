@@ -1,11 +1,11 @@
 {
   "name": "datatalk-cli",
-  "version": "0.1.25",
+  "version": "0.1.27",
   "summary": "Ask questions about your CSV, Excel or Parquet data in natural language.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "datatalk_cli-0.1.25.tar.gz",
-  "download_time": "2025-11-25T14:35:08.752392",
+  "download_filename": "datatalk_cli-0.1.27.tar.gz",
+  "download_time": "2025-11-30T00:52:56.238301",
   "package_url": "https://pypi.org/project/datatalk-cli/"
 }

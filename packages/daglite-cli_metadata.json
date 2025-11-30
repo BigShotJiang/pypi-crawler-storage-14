@@ -1,0 +1,11 @@
+{
+  "name": "daglite-cli",
+  "version": "0.3.0",
+  "summary": "CLI application for Daglite.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "daglite_cli-0.3.0.tar.gz",
+  "download_time": "2025-11-30T00:52:29.430735",
+  "package_url": "https://pypi.org/project/daglite-cli/"
+}
