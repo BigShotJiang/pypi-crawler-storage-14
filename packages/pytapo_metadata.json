@@ -1,11 +1,11 @@
 {
   "name": "pytapo",
-  "version": "3.3.53",
+  "version": "3.3.54",
   "summary": "Python library for communication with Tapo Cameras",
   "author": "Juraj Nyíri",
   "license": "MIT",
   "home_page": "https://github.com/JurajNyiri/pytapo",
-  "download_filename": "pytapo-3.3.53.tar.gz",
-  "download_time": "2025-11-28T16:53:05.861587",
+  "download_filename": "pytapo-3.3.54.tar.gz",
+  "download_time": "2025-11-30T10:11:14.454102",
   "package_url": "https://pypi.org/project/pytapo/"
 }

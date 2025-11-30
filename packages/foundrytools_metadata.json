@@ -1,0 +1,11 @@
+{
+  "name": "foundrytools",
+  "version": "0.1.5",
+  "summary": "A library for working with fonts in Python.",
+  "author": "Cesare Gilento",
+  "license": null,
+  "home_page": "https://github.com/ftCLI/FoundryTools",
+  "download_filename": "foundrytools-0.1.5.tar.gz",
+  "download_time": "2025-11-30T10:11:14.972638",
+  "package_url": "https://pypi.org/project/foundrytools/"
+}

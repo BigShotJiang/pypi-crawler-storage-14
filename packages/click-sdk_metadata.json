@@ -1,0 +1,11 @@
+{
+  "name": "click-sdk",
+  "version": "0.1.2",
+  "summary": "Python package for Click payment gateway integration",
+  "author": "Jahongir Hakimjonov",
+  "license": "MIT",
+  "home_page": "https://github.com/JahongirHakimjonov/click-sdk",
+  "download_filename": "click_sdk-0.1.2.tar.gz",
+  "download_time": "2025-11-30T10:11:05.005103",
+  "package_url": "https://pypi.org/project/click-sdk/"
+}
