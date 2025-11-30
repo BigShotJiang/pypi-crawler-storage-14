@@ -1,11 +1,11 @@
 {
   "name": "pearmut",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "A tool for evaluation of model outputs, primarily MT.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pearmut-0.0.3.tar.gz",
-  "download_time": "2025-11-30T16:53:17.872992",
+  "download_filename": "pearmut-0.0.4.tar.gz",
+  "download_time": "2025-11-30T17:30:45.339452",
   "package_url": "https://pypi.org/project/pearmut/"
 }

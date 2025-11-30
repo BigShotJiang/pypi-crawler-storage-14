@@ -1,0 +1,11 @@
+{
+  "name": "fritz-exporter",
+  "version": "2.6.1",
+  "summary": "Prometheus exporter for AVM Fritz! Devices",
+  "author": "Patrick Dreker",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/pdreker/fritz_exporter",
+  "download_filename": "fritz_exporter-2.6.1.tar.gz",
+  "download_time": "2025-11-30T17:30:28.908804",
+  "package_url": "https://pypi.org/project/fritz-exporter/"
+}

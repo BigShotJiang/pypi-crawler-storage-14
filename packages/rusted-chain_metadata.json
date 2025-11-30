@@ -1,0 +1,11 @@
+{
+  "name": "rusted-chain",
+  "version": "0.1.1",
+  "summary": "LangChain like python library written in rust",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rusted_chain-0.1.1.tar.gz",
+  "download_time": "2025-11-30T17:30:20.760011",
+  "package_url": "https://pypi.org/project/rusted-chain/"
+}

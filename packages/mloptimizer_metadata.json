@@ -1,11 +1,11 @@
 {
   "name": "mloptimizer",
-  "version": "0.9.1.1",
+  "version": "0.9.2",
   "summary": "mloptimizer is a Python library for optimizing hyperparameters of machine learning algorithms using genetic algorithms.",
   "author": "Antonio Caparrini López, Javier Arroyo Gallardo",
   "license": null,
   "home_page": "https://github.com/Caparrini/mloptimizer",
-  "download_filename": "mloptimizer-0.9.1.1.tar.gz",
-  "download_time": "2025-11-26T22:48:05.252734",
+  "download_filename": "mloptimizer-0.9.2.tar.gz",
+  "download_time": "2025-11-30T17:30:35.495364",
   "package_url": "https://pypi.org/project/mloptimizer/"
 }

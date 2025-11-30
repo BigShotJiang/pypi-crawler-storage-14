@@ -1,11 +1,11 @@
 {
   "name": "pyevalai",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "summary": "Automated python exercise evaluations with AI.",
   "author": "Nils Wandel",
   "license": null,
   "home_page": null,
-  "download_filename": "pyevalai-0.0.9.tar.gz",
-  "download_time": "2025-11-30T17:10:11.394653",
+  "download_filename": "pyevalai-0.0.10.tar.gz",
+  "download_time": "2025-11-30T17:30:45.876641",
   "package_url": "https://pypi.org/project/pyevalai/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "clawpy",
+  "version": "0.2",
+  "summary": "ClawPy v0.2 — A high-performance scientific, mathematical, AI, and computational toolkit.",
+  "author": "ISD NightNova",
+  "license": "MIT",
+  "home_page": "https://github.com/NightNovaNN/Clawpy",
+  "download_filename": "clawpy-0.2.tar.gz",
+  "download_time": "2025-11-30T17:30:31.093728",
+  "package_url": "https://pypi.org/project/clawpy/"
+}

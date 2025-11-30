@@ -1,11 +1,11 @@
 {
   "name": "jbutils",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": null,
   "author": "Joseph Bochinski",
   "license": null,
   "home_page": null,
-  "download_filename": "jbutils-0.2.1.tar.gz",
-  "download_time": "2025-11-29T15:39:38.393440",
+  "download_filename": "jbutils-0.2.2.tar.gz",
+  "download_time": "2025-11-30T17:30:37.129806",
   "package_url": "https://pypi.org/project/jbutils/"
 }

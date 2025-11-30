@@ -1,0 +1,11 @@
+{
+  "name": "pykilobeatrt",
+  "version": "1.5.0",
+  "summary": "Real-time bytebeat engine using numpy + sounddevice",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pykilobeatrt-1.5.0.tar.gz",
+  "download_time": "2025-11-30T17:30:21.831466",
+  "package_url": "https://pypi.org/project/pykilobeatrt/"
+}
