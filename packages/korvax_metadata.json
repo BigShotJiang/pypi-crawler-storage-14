@@ -1,0 +1,11 @@
+{
+  "name": "korvax",
+  "version": "0.3.0",
+  "summary": "JAX utilities for Audio DSP and ML",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "korvax-0.3.0.tar.gz",
+  "download_time": "2025-11-30T21:37:05.667153",
+  "package_url": "https://pypi.org/project/korvax/"
+}
