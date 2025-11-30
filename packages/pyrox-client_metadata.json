@@ -1,11 +1,11 @@
 {
   "name": "pyrox-client",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "HYROX race data client – retrieve full race results via Python",
   "author": "Vlad Matei",
   "license": null,
   "home_page": null,
-  "download_filename": "pyrox_client-0.2.0.tar.gz",
-  "download_time": "2025-11-30T13:27:54.471471",
+  "download_filename": "pyrox_client-0.2.1.tar.gz",
+  "download_time": "2025-11-30T14:32:40.621794",
   "package_url": "https://pypi.org/project/pyrox-client/"
 }

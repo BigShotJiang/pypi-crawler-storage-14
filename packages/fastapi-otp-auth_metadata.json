@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-otp-auth",
+  "version": "0.1.4",
+  "summary": "A simple and robust OTP (One-Time Password) authentication library for FastAPI, backed by Redis and Email.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_otp_auth-0.1.4.tar.gz",
+  "download_time": "2025-11-30T14:32:25.961804",
+  "package_url": "https://pypi.org/project/fastapi-otp-auth/"
+}

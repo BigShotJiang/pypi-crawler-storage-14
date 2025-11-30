@@ -1,11 +1,11 @@
 {
   "name": "bake-forecast-cicd",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "A simple program that predicts the number of cookies necessary to bake.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bake_forecast_cicd-1.1.0.tar.gz",
-  "download_time": "2025-11-30T13:27:58.566769",
+  "download_filename": "bake_forecast_cicd-1.2.0.tar.gz",
+  "download_time": "2025-11-30T14:32:23.372362",
   "package_url": "https://pypi.org/project/bake-forecast-cicd/"
 }

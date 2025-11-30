@@ -1,0 +1,11 @@
+{
+  "name": "resource-librarian",
+  "version": "0.1.0",
+  "summary": "A library to help create, maintain and index a digital library of electronic book, youtube transcripts and summaries of them",
+  "author": "Kenny Wilson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "resource_librarian-0.1.0.tar.gz",
+  "download_time": "2025-11-30T14:32:32.298894",
+  "package_url": "https://pypi.org/project/resource-librarian/"
+}

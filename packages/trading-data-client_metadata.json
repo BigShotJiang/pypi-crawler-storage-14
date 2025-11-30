@@ -1,0 +1,11 @@
+{
+  "name": "trading-data-client",
+  "version": "0.2.0",
+  "summary": "Python client library for Trading Data Server - fetch historical and real-time market data",
+  "author": "Benjamin Cham",
+  "license": "MIT",
+  "home_page": "https://github.com/benjamincham/moonbase_Datahub",
+  "download_filename": "trading_data_client-0.2.0.tar.gz",
+  "download_time": "2025-11-30T14:32:38.068749",
+  "package_url": "https://pypi.org/project/trading-data-client/"
+}

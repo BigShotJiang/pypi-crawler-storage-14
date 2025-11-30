@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-partner-address-format-domestic",
+  "version": "16.0.1.0.0.2",
+  "summary": "Partner Address Format Domestic",
+  "author": "Quartile, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/partner-contact",
+  "download_filename": "odoo_addon_partner_address_format_domestic-16.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-11-30T14:32:42.731073",
+  "package_url": "https://pypi.org/project/odoo-addon-partner-address-format-domestic/"
+}
