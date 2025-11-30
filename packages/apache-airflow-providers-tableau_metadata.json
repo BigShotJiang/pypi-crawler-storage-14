@@ -1,11 +1,11 @@
 {
   "name": "apache-airflow-providers-tableau",
-  "version": "5.2.2",
+  "version": "5.3.0",
   "summary": "Provider package apache-airflow-providers-tableau for Apache Airflow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apache_airflow_providers_tableau-5.2.2.tar.gz",
-  "download_time": "2025-11-27T21:36:14.060366",
+  "download_filename": "apache_airflow_providers_tableau-5.3.0.tar.gz",
+  "download_time": "2025-11-30T22:33:44.617592",
   "package_url": "https://pypi.org/project/apache-airflow-providers-tableau/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "apache-airflow-providers-sftp",
-  "version": "5.4.2",
+  "version": "5.5.0",
   "summary": "Provider package apache-airflow-providers-sftp for Apache Airflow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apache_airflow_providers_sftp-5.4.2.tar.gz",
-  "download_time": "2025-11-27T21:36:18.259500",
+  "download_filename": "apache_airflow_providers_sftp-5.5.0.tar.gz",
+  "download_time": "2025-11-30T22:33:47.369659",
   "package_url": "https://pypi.org/project/apache-airflow-providers-sftp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "apache-airflow-providers-opensearch",
-  "version": "1.7.5",
+  "version": "1.8.0",
   "summary": "Provider package apache-airflow-providers-opensearch for Apache Airflow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apache_airflow_providers_opensearch-1.7.5.tar.gz",
-  "download_time": "2025-11-27T21:36:26.089762",
+  "download_filename": "apache_airflow_providers_opensearch-1.8.0.tar.gz",
+  "download_time": "2025-11-30T22:33:55.145949",
   "package_url": "https://pypi.org/project/apache-airflow-providers-opensearch/"
 }
