@@ -1,0 +1,11 @@
+{
+  "name": "Shady",
+  "version": "1.17.2",
+  "summary": "An engine for real-time manipulation of visual stimuli for neuroscience, implemented via GPU shaders",
+  "author": "Jeremy Hill, Scott Mooney",
+  "license": "GPL v3+",
+  "home_page": "https://shady.readthedocs.io",
+  "download_filename": "shady-1.17.2-py2.py3-none-any.whl",
+  "download_time": "2025-11-30T19:04:25.893777",
+  "package_url": "https://pypi.org/project/Shady/"
+}

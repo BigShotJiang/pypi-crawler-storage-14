@@ -1,11 +1,11 @@
 {
   "name": "novabrawlstars",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Unofficial Python wrapper for the Brawl Stars API.",
   "author": "NovaFenice",
   "license": "MIT",
   "home_page": "https://github.com/NovaFenice/NovaBrawlStarsAPI",
-  "download_filename": "novabrawlstars-0.1.3.tar.gz",
-  "download_time": "2025-11-30T18:14:52.829376",
+  "download_filename": "novabrawlstars-0.1.4.tar.gz",
+  "download_time": "2025-11-30T19:04:20.688822",
   "package_url": "https://pypi.org/project/novabrawlstars/"
 }

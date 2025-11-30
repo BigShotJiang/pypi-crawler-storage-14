@@ -1,11 +1,11 @@
 {
   "name": "biliup",
-  "version": "1.1.26",
+  "version": "1.1.27",
   "summary": "stream download and upload",
   "author": "ForgQi",
   "license": null,
   "home_page": null,
-  "download_filename": "biliup-1.1.26.tar.gz",
-  "download_time": "2025-11-29T16:37:48.202613",
+  "download_filename": "biliup-1.1.27.tar.gz",
+  "download_time": "2025-11-30T19:04:15.004513",
   "package_url": "https://pypi.org/project/biliup/"
 }

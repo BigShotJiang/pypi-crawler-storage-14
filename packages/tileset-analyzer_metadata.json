@@ -1,0 +1,11 @@
+{
+  "name": "tileset-analyzer",
+  "version": "0.1.0",
+  "summary": "Analyze vector Tileset",
+  "author": "Yogesh Dhanapal",
+  "license": "MIT",
+  "home_page": "https://github.com/geoyogesh/tileset_analyzer",
+  "download_filename": "tileset_analyzer-0.1.0.tar.gz",
+  "download_time": "2025-11-30T19:04:16.595202",
+  "package_url": "https://pypi.org/project/tileset-analyzer/"
+}

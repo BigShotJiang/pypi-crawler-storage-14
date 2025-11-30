@@ -1,11 +1,11 @@
 {
   "name": "trivialai",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "A trivial set of API bindings for AI models, because I'd like them to be easy to use.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trivialai-0.5.2.tar.gz",
-  "download_time": "2025-11-30T06:15:52.977757",
+  "download_filename": "trivialai-0.5.3.tar.gz",
+  "download_time": "2025-11-30T19:04:17.111006",
   "package_url": "https://pypi.org/project/trivialai/"
 }
