@@ -1,11 +1,11 @@
 {
   "name": "fastapi-websocket-stabilizer",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "summary": "A production-ready WebSocket stabilization layer for FastAPI applications",
   "author": "FastAPI WebSocket Stabilizer Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "fastapi_websocket_stabilizer-0.1.1.tar.gz",
-  "download_time": "2025-11-27T23:38:02.535366",
+  "download_filename": "fastapi_websocket_stabilizer-1.0.0.tar.gz",
+  "download_time": "2025-11-30T15:30:48.062519",
   "package_url": "https://pypi.org/project/fastapi-websocket-stabilizer/"
 }

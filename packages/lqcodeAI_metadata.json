@@ -1,0 +1,11 @@
+{
+  "name": "lqcodeAI",
+  "version": "1.2.17",
+  "summary": "绿旗编程AI课程SDK",
+  "author": "TivonFeng",
+  "license": null,
+  "home_page": "https://github.com/TivonFeng/lqcode",
+  "download_filename": "lqcodeai-1.2.17.tar.gz",
+  "download_time": "2025-11-30T15:30:30.899576",
+  "package_url": "https://pypi.org/project/lqcodeAI/"
+}

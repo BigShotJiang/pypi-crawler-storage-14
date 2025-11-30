@@ -1,0 +1,11 @@
+{
+  "name": "xpress9",
+  "version": "0.3.8",
+  "summary": "Python bindings for the Xpress9 compression library",
+  "author": "Igor Cotruta",
+  "license": "MIT",
+  "home_page": "https://github.com/Hugoberry/xpress9-python",
+  "download_filename": "xpress9-0.3.8.tar.gz",
+  "download_time": "2025-11-30T15:30:46.947886",
+  "package_url": "https://pypi.org/project/xpress9/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "manim-progress-bar",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "A customizable progress bar component for Manim animations",
   "author": "Zhiku Zhang",
   "license": null,
   "home_page": "https://github.com/zhangzk-code/manim-progress-bar",
-  "download_filename": "manim_progress_bar-0.1.1.tar.gz",
-  "download_time": "2025-11-30T10:49:21.029861",
+  "download_filename": "manim_progress_bar-0.2.0.tar.gz",
+  "download_time": "2025-11-30T15:30:34.596659",
   "package_url": "https://pypi.org/project/manim-progress-bar/"
 }
