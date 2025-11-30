@@ -1,11 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-30T09:40:04.081659
-- **Total Packages**: 81
-- **Total Size**: 0.98 MB
+- **Download Time**: 2025-11-30T09:48:58.621119
+- **Total Packages**: 83
+- **Total Size**: 24.01 MB
 
 ## Packages List
+- cortex-omega
+- rwkv-ops
+- sws-api-client
+- sqlstream
+- nexo-client
+- tfp-nightly
+- mudra-sdk-test-1
+- pymimir-rgnn
+- nonebot-plugin-templates-draw
+- scipy-stubs
+- midas-civil
+- ez-a-sync
+- fastdb4py
+- SpatialEx
+- spkrepo
+- vayuayan
+- nucleation
 - aitril
 - skill-seekers
 - log-interceptor
@@ -13,10 +30,8 @@
 - pyfilemetre
 - stralixsdk
 - nexo-google
-- midas-civil
 - keaixiaojiycw-tieba-post-crawler
 - oarepo-runtime
-- cortex-omega
 - nexo-infra
 - wiselib
 - snowflake-id-toolkit
@@ -74,16 +89,3 @@
 - voco-neutts
 - voco-kokoro
 - voco-fishspeech
-- voco
-- twidgets
-- gffutilsai
-- powa-web
-- kleinkram
-- pyamtb
-- agricalc-24323551
-- nexo-utils
-- perpetua
-- nexo-logging
-- nexo-crypto
-- vpsinfo
-- aiobs

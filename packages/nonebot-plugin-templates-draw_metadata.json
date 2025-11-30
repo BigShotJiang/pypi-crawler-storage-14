@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-templates-draw",
-  "version": "1.4.5",
+  "version": "1.4.6",
   "summary": "NoneBot2 一个模板绘图插件",
   "author": "padoru233",
   "license": null,
   "home_page": null,
-  "download_filename": "nonebot_plugin_templates_draw-1.4.5.tar.gz",
-  "download_time": "2025-11-30T07:48:23.142512",
+  "download_filename": "nonebot_plugin_templates_draw-1.4.6.tar.gz",
+  "download_time": "2025-11-30T09:48:16.752361",
   "package_url": "https://pypi.org/project/nonebot-plugin-templates-draw/"
 }

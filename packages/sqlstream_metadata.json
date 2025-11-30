@@ -1,11 +1,11 @@
 {
   "name": "sqlstream",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A lightweight SQL query engine for data exploration with lazy evaluation and intelligent optimizations",
   "author": "SQLStream Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sqlstream-0.1.0.tar.gz",
-  "download_time": "2025-11-29T19:48:14.369102",
+  "download_filename": "sqlstream-0.2.0.tar.gz",
+  "download_time": "2025-11-30T09:48:13.614312",
   "package_url": "https://pypi.org/project/sqlstream/"
 }

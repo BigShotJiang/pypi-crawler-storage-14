@@ -1,0 +1,11 @@
+{
+  "name": "SpatialEx",
+  "version": "0.1.7",
+  "summary": "computational frameworks that leverage histology as a universal anchor to integrate spatial molecular data across tissue sections",
+  "author": "Yonghao Liu and Chuyao Wang",
+  "license": "MIT",
+  "home_page": "https://github.com/KEAML-JLU/SpatialEx",
+  "download_filename": "spatialex-0.1.7.tar.gz",
+  "download_time": "2025-11-30T09:48:19.652139",
+  "package_url": "https://pypi.org/project/SpatialEx/"
+}

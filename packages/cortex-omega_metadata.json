@@ -1,11 +1,11 @@
 {
   "name": "cortex-omega",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "summary": "A Neuro-Symbolic AI Kernel for logical induction and rule learning. No prompts. Just logic.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cortex_omega-2.1.1.tar.gz",
-  "download_time": "2025-11-30T09:39:25.876824",
+  "download_filename": "cortex_omega-2.1.2.tar.gz",
+  "download_time": "2025-11-30T09:48:12.013256",
   "package_url": "https://pypi.org/project/cortex-omega/"
 }
