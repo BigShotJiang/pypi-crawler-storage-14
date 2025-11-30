@@ -1,0 +1,11 @@
+{
+  "name": "agrivisor",
+  "version": "1.0.4",
+  "summary": "Agriculture advisory engine for OpenWeather API methods wrapper",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agrivisor-1.0.4.tar.gz",
+  "download_time": "2025-11-30T08:52:54.475416",
+  "package_url": "https://pypi.org/project/agrivisor/"
+}

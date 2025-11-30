@@ -1,0 +1,11 @@
+{
+  "name": "odooquickrun",
+  "version": "1.0.3",
+  "summary": "Runner tool to run Odoo project using pew virtualenvs",
+  "author": "Phuc (Tran Thanh)",
+  "license": "MIT",
+  "home_page": "https://github.com/phuctranfxvn/odooquickrun",
+  "download_filename": "odooquickrun-1.0.3.tar.gz",
+  "download_time": "2025-11-30T08:52:45.280182",
+  "package_url": "https://pypi.org/project/odooquickrun/"
+}

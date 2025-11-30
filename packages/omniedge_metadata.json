@@ -1,11 +1,11 @@
 {
   "name": "omniedge",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "The official Python library for the OmniEdge API",
   "author": "edgefn",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "omniedge-0.2.1.tar.gz",
-  "download_time": "2025-11-30T08:15:16.435253",
+  "download_filename": "omniedge-0.2.3.tar.gz",
+  "download_time": "2025-11-30T08:52:31.755514",
   "package_url": "https://pypi.org/project/omniedge/"
 }
