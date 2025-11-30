@@ -1,11 +1,11 @@
 {
   "name": "kalameet",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "Automatic Tools Cyber Security Framework",
   "author": "rhkapota",
   "license": "GNU General Public License v3 (GPLv3)",
   "home_page": "https://kalameet.web.id",
-  "download_filename": "kalameet-1.0.6.tar.gz",
-  "download_time": "2025-11-30T19:26:33.794673",
+  "download_filename": "kalameet-1.0.7.tar.gz",
+  "download_time": "2025-11-30T19:33:55.296502",
   "package_url": "https://pypi.org/project/kalameet/"
 }

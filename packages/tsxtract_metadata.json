@@ -1,0 +1,11 @@
+{
+  "name": "tsxtract",
+  "version": "0.1.0",
+  "summary": "Hardware-accelerated time series feature extraction using JAX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tsxtract-0.1.0-py3-none-any.whl",
+  "download_time": "2025-11-30T19:33:51.103113",
+  "package_url": "https://pypi.org/project/tsxtract/"
+}

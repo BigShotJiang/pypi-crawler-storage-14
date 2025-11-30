@@ -1,0 +1,11 @@
+{
+  "name": "zodbbrowser",
+  "version": "0.19.0",
+  "summary": "ZODB browser",
+  "author": "Marius Gedminas",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/mgedmin/zodbbrowser",
+  "download_filename": "zodbbrowser-0.19.0.tar.gz",
+  "download_time": "2025-11-30T19:33:56.860937",
+  "package_url": "https://pypi.org/project/zodbbrowser/"
+}
