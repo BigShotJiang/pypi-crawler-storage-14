@@ -1,11 +1,11 @@
 {
   "name": "ikon-acl",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "summary": "Extensible ACL (Access Control List) and permission evaluation library for FastAPI / SQLAlchemy",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ikon_acl-0.0.16.tar.gz",
-  "download_time": "2025-11-30T14:41:54.739815",
+  "download_filename": "ikon_acl-0.0.17.tar.gz",
+  "download_time": "2025-11-30T14:48:43.707179",
   "package_url": "https://pypi.org/project/ikon-acl/"
 }

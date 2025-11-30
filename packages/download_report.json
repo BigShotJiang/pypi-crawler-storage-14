@@ -1,8 +1,11 @@
 {
-  "download_time": "2025-11-30T14:42:38.129546",
-  "total_packages_downloaded": 83,
-  "total_size_mb": 2.16,
+  "download_time": "2025-11-30T14:49:27.521540",
+  "total_packages_downloaded": 82,
+  "total_size_mb": 1.42,
   "packages": [
+    "pylenza",
+    "atomicshop",
+    "reality-stone",
     "pycmd2",
     "Essentiax",
     "endcv",
@@ -75,16 +78,12 @@
     "kececisquares",
     "pypomes-sob",
     "pydantic-ai-blocking-approval",
-    "pylenza",
     "sdialog",
     "kleinkram",
     "scptui",
     "nlbone",
     "crossvector",
     "minicc",
-    "typi",
-    "copicat",
-    "gaskit",
-    "x-mlps-pytorch"
+    "typi"
   ]
 }

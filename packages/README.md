@@ -1,11 +1,14 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-30T14:42:38.129546
-- **Total Packages**: 83
-- **Total Size**: 2.16 MB
+- **Download Time**: 2025-11-30T14:49:27.521540
+- **Total Packages**: 82
+- **Total Size**: 1.42 MB
 
 ## Packages List
+- pylenza
+- atomicshop
+- reality-stone
 - pycmd2
 - Essentiax
 - endcv
@@ -78,7 +81,6 @@
 - kececisquares
 - pypomes-sob
 - pydantic-ai-blocking-approval
-- pylenza
 - sdialog
 - kleinkram
 - scptui
@@ -86,6 +88,3 @@
 - crossvector
 - minicc
 - typi
-- copicat
-- gaskit
-- x-mlps-pytorch
