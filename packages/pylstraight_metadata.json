@@ -1,0 +1,11 @@
+{
+  "name": "pylstraight",
+  "version": "0.1.1",
+  "summary": "An unofficial Python reimplementation of the legacy-STRAIGHT",
+  "author": "Takenori Yoshimura",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "pylstraight-0.1.1.tar.gz",
+  "download_time": "2025-11-30T06:15:55.030907",
+  "package_url": "https://pypi.org/project/pylstraight/"
+}

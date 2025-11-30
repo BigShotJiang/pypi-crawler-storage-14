@@ -1,11 +1,11 @@
 {
   "name": "storyboard-cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Storyboard scene generation CLI tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "storyboard_cli-0.1.0.tar.gz",
-  "download_time": "2025-11-29T23:10:28.166387",
+  "download_filename": "storyboard_cli-0.2.0.tar.gz",
+  "download_time": "2025-11-30T06:15:57.657431",
   "package_url": "https://pypi.org/project/storyboard-cli/"
 }

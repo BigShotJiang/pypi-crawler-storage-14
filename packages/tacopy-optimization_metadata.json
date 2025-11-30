@@ -1,0 +1,11 @@
+{
+  "name": "tacopy-optimization",
+  "version": "0.1.0",
+  "summary": "Tail-call optimization decorator for Python - eliminates recursion limits by transforming tail-recursive functions into iterative loops",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "tacopy_optimization-0.1.0.tar.gz",
+  "download_time": "2025-11-30T06:15:56.594172",
+  "package_url": "https://pypi.org/project/tacopy-optimization/"
+}
