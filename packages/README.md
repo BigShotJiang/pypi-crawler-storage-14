@@ -1,21 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-30T08:15:56.979351
+- **Download Time**: 2025-11-30T08:37:29.344706
 - **Total Packages**: 74
-- **Total Size**: 15.82 MB
+- **Total Size**: 0.9 MB
 
 ## Packages List
-- ciit-checkin
-- maid-runner
-- mudra-sdk-test-1
-- pyglove
-- fm-prime
-- omniedge
-- scruby
-- tespy
-- toot-tooi
-- miunlock
 - napari-piscis
 - protokolo
 - tinycwrap
@@ -36,6 +26,7 @@
 - wisent
 - optiscope
 - shittier
+- mudra-sdk-test-1
 - py-open-news
 - evolib
 - SRTfu
@@ -48,6 +39,7 @@
 - django-headless
 - HOS-M2F
 - langchain-dev-utils
+- omniedge
 - hello-hrishi
 - manim-progress-bar
 - nonebot-plugin-templates-draw
@@ -80,3 +72,11 @@
 - klaude-code
 - pep723-loader
 - mail-pigeon
+- symfc
+- ai-edge-litert-nightly
+- perpetua
+- python-woc
+- freqtrade-client
+- freqtrade
+- mcp-audit
+- quickql

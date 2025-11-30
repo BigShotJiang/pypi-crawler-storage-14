@@ -1,11 +1,11 @@
 {
   "name": "mcp-audit",
-  "version": "0.3.9",
+  "version": "0.3.10",
   "summary": "MCP efficiency analyzer for tracking token usage and costs across AI coding sessions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_audit-0.3.9.tar.gz",
-  "download_time": "2025-11-30T07:29:25.161803",
+  "download_filename": "mcp_audit-0.3.10.tar.gz",
+  "download_time": "2025-11-30T08:37:28.273244",
   "package_url": "https://pypi.org/project/mcp-audit/"
 }
