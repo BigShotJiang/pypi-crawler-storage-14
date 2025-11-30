@@ -1,0 +1,11 @@
+{
+  "name": "questo",
+  "version": "0.4.2",
+  "summary": "A library of extensible and modular CLI prompt elements",
+  "author": "Peter Vyboch",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "questo-0.4.2.tar.gz",
+  "download_time": "2025-11-30T13:28:08.492491",
+  "package_url": "https://pypi.org/project/questo/"
+}

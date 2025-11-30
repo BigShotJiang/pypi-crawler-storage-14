@@ -1,0 +1,11 @@
+{
+  "name": "QEasyWidgets",
+  "version": "0.8.0",
+  "summary": "A simple widget library based on PySide6",
+  "author": "Spr_Aachen",
+  "license": "GPLv3",
+  "home_page": "https://github.com/Spr-Aachen/QEasyWidgets",
+  "download_filename": "qeasywidgets-0.8.0.tar.gz",
+  "download_time": "2025-11-30T13:27:52.226428",
+  "package_url": "https://pypi.org/project/QEasyWidgets/"
+}
