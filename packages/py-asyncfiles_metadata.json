@@ -1,11 +1,11 @@
 {
   "name": "py-asyncfiles",
-  "version": "1.1.3",
+  "version": "1.2.0",
   "summary": "High-performance async file I/O library built on libuv",
   "author": "bastian garcia",
   "license": "MIT",
   "home_page": "https://github.com/cve-zh00/asyncfiles",
-  "download_filename": "py_asyncfiles-1.1.3.tar.gz",
-  "download_time": "2025-11-30T03:54:12.782617",
+  "download_filename": "py_asyncfiles-1.2.0.tar.gz",
+  "download_time": "2025-11-30T04:26:06.235136",
   "package_url": "https://pypi.org/project/py-asyncfiles/"
 }

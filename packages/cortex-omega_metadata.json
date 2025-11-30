@@ -1,11 +1,11 @@
 {
   "name": "cortex-omega",
-  "version": "1.9.0",
-  "summary": "The Epistemic Inference Engine for Python. No prompts. Just logic.",
+  "version": "2.0.0",
+  "summary": "A Neuro-Symbolic AI Kernel for logical induction and rule learning. No prompts. Just logic.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cortex_omega-1.9.0.tar.gz",
-  "download_time": "2025-11-30T02:52:19.430945",
+  "download_filename": "cortex_omega-2.0.0.tar.gz",
+  "download_time": "2025-11-30T04:25:57.783913",
   "package_url": "https://pypi.org/project/cortex-omega/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mdformat-slw",
+  "version": "0.2.0",
+  "summary": "An mdformat plugin for slw",
+  "author": "kyleking",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mdformat_slw-0.2.0.tar.gz",
+  "download_time": "2025-11-30T04:26:08.845499",
+  "package_url": "https://pypi.org/project/mdformat-slw/"
+}
