@@ -1,0 +1,11 @@
+{
+  "name": "cp2kbrew",
+  "version": "0.2.6",
+  "summary": "CP2K Dealing Programs",
+  "author": "Minwoo Kim",
+  "license": null,
+  "home_page": "https://github.com/minu928/cp2kbrew",
+  "download_filename": "cp2kbrew-0.2.6.tar.gz",
+  "download_time": "2025-11-30T13:02:33.541593",
+  "package_url": "https://pypi.org/project/cp2kbrew/"
+}

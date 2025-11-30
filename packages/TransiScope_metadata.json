@@ -1,0 +1,11 @@
+{
+  "name": "TransiScope",
+  "version": "1.0.0",
+  "summary": "A user-friendly tool for automated detection and analysis of transient events in time-lapse microscopy.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "transiscope-1.0.0.tar.gz",
+  "download_time": "2025-11-30T13:01:57.771393",
+  "package_url": "https://pypi.org/project/TransiScope/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "icw-index",
+  "version": "0.1.0",
+  "summary": "An implementation of Anderson (2008) inverse covariance weighted index for Python, validated against STATA's Swindex package.",
+  "author": "Joshua Ashkinaze",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "icw_index-0.1.0.tar.gz",
+  "download_time": "2025-11-30T13:02:11.420879",
+  "package_url": "https://pypi.org/project/icw-index/"
+}

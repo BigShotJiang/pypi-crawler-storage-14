@@ -1,0 +1,11 @@
+{
+  "name": "clams-python",
+  "version": "1.4.0",
+  "summary": "A collection of APIs to develop CLAMS app for python",
+  "author": "Brandeis Lab for Linguistics and Computation",
+  "license": "Apache-2.0",
+  "home_page": "https://clams.ai",
+  "download_filename": "clams_python-1.4.0.tar.gz",
+  "download_time": "2025-11-30T13:02:08.107544",
+  "package_url": "https://pypi.org/project/clams-python/"
+}

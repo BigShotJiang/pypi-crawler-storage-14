@@ -1,0 +1,11 @@
+{
+  "name": "zabbixci",
+  "version": "0.3.11",
+  "summary": "Source control for Zabbix templates in Git",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zabbixci-0.3.11.tar.gz",
+  "download_time": "2025-11-30T13:02:05.269587",
+  "package_url": "https://pypi.org/project/zabbixci/"
+}

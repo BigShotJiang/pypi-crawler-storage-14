@@ -1,0 +1,11 @@
+{
+  "name": "wwpdb.apps.releasemodule",
+  "version": "0.32.5",
+  "summary": "wwPDB sequence module",
+  "author": "Ezra Peisach",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/rcsb/py-wwpdb_apps_releasemodule",
+  "download_filename": "wwpdb_apps_releasemodule-0.32.5.tar.gz",
+  "download_time": "2025-11-30T13:02:04.694353",
+  "package_url": "https://pypi.org/project/wwpdb.apps.releasemodule/"
+}

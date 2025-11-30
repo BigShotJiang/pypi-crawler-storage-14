@@ -1,0 +1,11 @@
+{
+  "name": "carrier-api",
+  "version": "2.10.0",
+  "summary": "Carrier Api Wrapper",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "carrier_api-2.10.0.tar.gz",
+  "download_time": "2025-11-30T13:02:09.204347",
+  "package_url": "https://pypi.org/project/carrier-api/"
+}
