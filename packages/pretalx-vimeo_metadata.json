@@ -1,0 +1,11 @@
+{
+  "name": "pretalx-vimeo",
+  "version": "2.6.0",
+  "summary": "Static vimeo for pretalx, e.g. information, venue listings, a Code of Conduct, etc.",
+  "author": null,
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "pretalx_vimeo-2.6.0.tar.gz",
+  "download_time": "2025-11-30T21:11:07.613213",
+  "package_url": "https://pypi.org/project/pretalx-vimeo/"
+}

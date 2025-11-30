@@ -1,0 +1,11 @@
+{
+  "name": "project-euler-helper",
+  "version": "1.0.0",
+  "summary": "A collection of helper functions for solving Project Euler problems",
+  "author": "Leomaran Senthan",
+  "license": null,
+  "home_page": "https://github.com/LeoSenthan/ProjectEulerHelper",
+  "download_filename": "project_euler_helper-1.0.0.tar.gz",
+  "download_time": "2025-11-30T21:10:56.485307",
+  "package_url": "https://pypi.org/project/project-euler-helper/"
+}

@@ -1,11 +1,68 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-30T20:50:40.538456
-- **Total Packages**: 93
-- **Total Size**: 22.51 MB
+- **Download Time**: 2025-11-30T21:11:37.070738
+- **Total Packages**: 92
+- **Total Size**: 39.98 MB
 
 ## Packages List
+- scriptchat
+- tvi-solphit-discera-capability-image-detect
+- livpylib
+- superset-engine-d1
+- tvi-solphit-ingialla
+- circuit-breaker-labs
+- sqlalchemy-d1
+- Photo-Composition-Designer
+- stockcharts
+- langrepl
+- dakora-instrumentation
+- dakora-client
+- dbapi-d1
+- sqlstream
+- bluer-ugv
+- python-pydit
+- project-euler-helper
+- zrb
+- spanum
+- odoo-addon-product-code-unique
+- report-maker
+- mugen-python
+- fastpy-cli
+- netlist-carpentry
+- batplot
+- aws-mcp
+- driada
+- cicada-mcp
+- odoo-addon-product-category-code
+- Otter-Autograder
+- jsonschema-rs
+- mrs-scaffold
+- pretalx-youtube
+- umlshapes
+- musicdl
+- bluer-objects
+- glucosedao-glucobench
+- pretalx-vimeo
+- coverage
+- pretalx-venueless
+- calgebra
+- dsd-seenode
+- codecarbon
+- litestar-debug-toolbar
+- pretalx-salesforce
+- cwsl
+- pytest-routes
+- combicode
+- pretalx-public-voting
+- music-assistant-frontend
+- alice-pdf
+- jupyterlab-singleton-provider
+- pyrates
+- mol2lewis
+- meld-memory
+- meld-mcp
+- tileset-analyzer
 - xbl3auth
 - agentcore-sdk
 - deeppliv
@@ -16,7 +73,6 @@
 - dony
 - iq-sdk
 - dt31
-- report-maker
 - biblemategui
 - timber-common
 - soni
@@ -27,7 +83,6 @@
 - energyutils
 - sphinxcontrib-confluencebuilder
 - pysisense
-- glucosedao-glucobench
 - sirs-import
 - libvcs
 - woodelf-explainer
@@ -43,59 +98,3 @@
 - bec-lib
 - pianosdk
 - bec-ipython-client
-- tvi-solphit-discera-capability-image-detect
-- plangraph
-- scc-firewall-manager-sdk
-- geo-activity-playground
-- pretalx-pages
-- fastpy-cli
-- rusted-chain
-- pretalx-media-ccc-de
-- django-polars-tools
-- devgraph-client
-- worlds-py
-- tembo-sdk-python
-- pretalx-friendlycaptcha
-- Genshi
-- url-py
-- avatar-gen
-- fast-depends
-- softverse
-- OpenImageIO
-- wem2ogg
-- user-scanner
-- kalameet
-- mogu-sdk
-- lenslet
-- hybridoma
-- chanina
-- rsfc
-- kiarina-utils-file
-- kiarina-utils-common
-- kiarina-llm
-- kiarina-lib-redisearch
-- kiarina-lib-redis
-- kiarina-lib-google-cloud-storage
-- stream-translator-gpt
-- kiarina-lib-google-auth
-- kiarina-lib-falkordb
-- kiarina-lib-cloudflare-d1
-- kiarina-lib-cloudflare-auth
-- kiarina
-- rpds-py
-- empowernow-common
-- pypomes-crypto
-- DiscordRLBypasser
-- audex
-- zhangxin9643-mypackage
-- mcp-monumenten
-- unitysvc-services
-- dremioframe
-- statevectorsim
-- jaclang
-- pretty-json-loguru
-- iatoolkit-enterprise
-- kl-kernel-logic
-- diapyr
-- langrepl
-- reddit-market-research

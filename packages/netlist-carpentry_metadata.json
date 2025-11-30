@@ -1,0 +1,11 @@
+{
+  "name": "netlist-carpentry",
+  "version": "0.2.0",
+  "summary": "A library for netlist modification and analysis",
+  "author": "Manuel Jirsak",
+  "license": null,
+  "home_page": null,
+  "download_filename": "netlist_carpentry-0.2.0.tar.gz",
+  "download_time": "2025-11-30T21:11:00.213246",
+  "package_url": "https://pypi.org/project/netlist-carpentry/"
+}

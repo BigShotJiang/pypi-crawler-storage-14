@@ -1,11 +1,11 @@
 {
   "name": "glucosedao-glucobench",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "GlucoseDao's fork of GlucoBench by IrinaStatsLab",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "glucosedao_glucobench-0.1.0.tar.gz",
-  "download_time": "2025-11-30T20:50:01.396495",
+  "download_filename": "glucosedao_glucobench-0.2.0.tar.gz",
+  "download_time": "2025-11-30T21:11:07.099686",
   "package_url": "https://pypi.org/project/glucosedao-glucobench/"
 }
