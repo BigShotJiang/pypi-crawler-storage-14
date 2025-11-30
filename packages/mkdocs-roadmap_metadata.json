@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-roadmap",
+  "version": "1.3.1",
+  "summary": "MkDocs plugin for rendering roadmap.yml files to roadmap.md files",
+  "author": "SierraSoftworks",
+  "license": null,
+  "home_page": "https://github.com/SierraSoftworks/roadmap",
+  "download_filename": "mkdocs_roadmap-1.3.1.tar.gz",
+  "download_time": "2025-11-30T10:34:21.072338",
+  "package_url": "https://pypi.org/project/mkdocs-roadmap/"
+}

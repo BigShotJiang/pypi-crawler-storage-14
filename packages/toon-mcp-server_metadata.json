@@ -1,0 +1,11 @@
+{
+  "name": "toon-mcp-server",
+  "version": "0.1.2",
+  "summary": "An MCP server and utilities for converting JSON and system prompts to TOON format and back.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "toon_mcp_server-0.1.2.tar.gz",
+  "download_time": "2025-11-30T10:33:58.749989",
+  "package_url": "https://pypi.org/project/toon-mcp-server/"
+}

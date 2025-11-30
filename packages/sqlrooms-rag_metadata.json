@@ -1,11 +1,11 @@
 {
   "name": "sqlrooms-rag",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Prepare and query vector embeddings for RAG applications using DuckDB",
   "author": "SQLRooms Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sqlrooms_rag-0.1.1.tar.gz",
-  "download_time": "2025-11-30T10:11:05.516027",
+  "download_filename": "sqlrooms_rag-0.1.2.tar.gz",
+  "download_time": "2025-11-30T10:34:10.166081",
   "package_url": "https://pypi.org/project/sqlrooms-rag/"
 }

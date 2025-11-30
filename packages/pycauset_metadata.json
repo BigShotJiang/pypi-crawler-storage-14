@@ -1,0 +1,11 @@
+{
+  "name": "pycauset",
+  "version": "0.1.0",
+  "summary": "High-performance Causal Set matrix operations using memory-mapped files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pycauset-0.1.0.tar.gz",
+  "download_time": "2025-11-30T10:34:00.359711",
+  "package_url": "https://pypi.org/project/pycauset/"
+}
