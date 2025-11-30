@@ -1,0 +1,11 @@
+{
+  "name": "energyutils",
+  "version": "1.0.0",
+  "summary": "Utility package for energy calculations and carbon analysis",
+  "author": "Meenakshi",
+  "license": null,
+  "home_page": "https://github.com/Meenakshi-NCI/energyutils_library.git",
+  "download_filename": "energyutils-1.0.0.tar.gz",
+  "download_time": "2025-11-30T20:49:59.796626",
+  "package_url": "https://pypi.org/project/energyutils/"
+}

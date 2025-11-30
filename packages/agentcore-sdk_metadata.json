@@ -1,0 +1,11 @@
+{
+  "name": "agentcore-sdk",
+  "version": "0.1.0",
+  "summary": "Open-source orchestration framework for agentic AI systems with multi-agent coordination, tool integration, and workflow management",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentcore_sdk-0.1.0-py3-none-any.whl",
+  "download_time": "2025-11-30T20:49:50.217585",
+  "package_url": "https://pypi.org/project/agentcore-sdk/"
+}

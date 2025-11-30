@@ -1,0 +1,11 @@
+{
+  "name": "report-maker",
+  "version": "0.2.1",
+  "summary": "A tool to convert Markdown documents into a single .docx report with proper formatting",
+  "author": "Peter Zaitcev",
+  "license": "BSD 2-clause license",
+  "home_page": "https://gitlab.com/Hares-Lab/report-maker/report-maker",
+  "download_filename": "report_maker-0.2.1.tar.gz",
+  "download_time": "2025-11-30T20:49:55.418822",
+  "package_url": "https://pypi.org/project/report-maker/"
+}

@@ -1,11 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-30T20:34:55.079748
-- **Total Packages**: 88
-- **Total Size**: 29.7 MB
+- **Download Time**: 2025-11-30T20:50:40.538456
+- **Total Packages**: 93
+- **Total Size**: 22.51 MB
 
 ## Packages List
+- xbl3auth
+- agentcore-sdk
+- deeppliv
+- mcp-ticketer
+- smartmemory
+- structurizr-theme-creator
+- patchbatch
+- dony
+- iq-sdk
+- dt31
+- report-maker
+- biblemategui
+- timber-common
+- soni
+- getfactormodels
+- pycauset
+- bowtie-json-schema
+- guiguts
+- energyutils
+- sphinxcontrib-confluencebuilder
+- pysisense
+- glucosedao-glucobench
+- sirs-import
+- libvcs
+- woodelf-explainer
+- conson-xp
+- vulcan-api-client
+- mkdocstrings-matlab
+- firecrawl
+- firecrawl-py
+- oncapintada
+- diffqcp
+- pytest-bec-e2e
+- bec-server
+- bec-lib
+- pianosdk
+- bec-ipython-client
 - tvi-solphit-discera-capability-image-detect
 - plangraph
 - scc-firewall-manager-sdk
@@ -62,35 +99,3 @@
 - diapyr
 - langrepl
 - reddit-market-research
-- pullbug
-- fastapi-topaz
-- seymourlib
-- kevinbotlib-theme
-- adventurestay-u
-- gtaz
-- agentfoundry
-- zuba
-- chuk-mcp-server
-- dsptoolbox
-- tries
-- bluer-algo
-- patchbatch
-- blindscrambler
-- gemprf
-- pycap-dss
-- combicode
-- csh256
-- wisent
-- sumup
-- oarepo
-- dhruv
-- pymergetic-os-builder
-- linkarchivetools
-- laserbeamsize
-- speed-analyzer
-- cvsx2mvsx
-- approxmethods
-- gdptools-pygeoapi-plugin
-- mloda
-- poly-bus
-- signalwire-agents

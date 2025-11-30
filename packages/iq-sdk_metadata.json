@@ -1,0 +1,11 @@
+{
+  "name": "iq-sdk",
+  "version": "0.1.0",
+  "summary": "SDK for creating and managing distributed workers and tools with socket.io connectivity",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iq_sdk-0.1.0.tar.gz",
+  "download_time": "2025-11-30T20:49:54.376316",
+  "package_url": "https://pypi.org/project/iq-sdk/"
+}
