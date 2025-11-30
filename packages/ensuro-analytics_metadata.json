@@ -1,0 +1,11 @@
+{
+  "name": "ensuro-analytics",
+  "version": "0.1.13",
+  "summary": "Ensuro analytics library",
+  "author": "Ensuro",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/ensuro/ensuro_analytics",
+  "download_filename": "ensuro_analytics-0.1.13.tar.gz",
+  "download_time": "2025-11-30T23:11:23.263771",
+  "package_url": "https://pypi.org/project/ensuro-analytics/"
+}

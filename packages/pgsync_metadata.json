@@ -1,0 +1,11 @@
+{
+  "name": "pgsync",
+  "version": "6.1.1",
+  "summary": "Postgres/MySQL/MariaDB to Elasticsearch/OpenSearch sync",
+  "author": "Tolu Aina",
+  "license": "MIT",
+  "home_page": "https://github.com/toluaina/pgsync",
+  "download_filename": "pgsync-6.1.1.tar.gz",
+  "download_time": "2025-11-30T23:11:24.800707",
+  "package_url": "https://pypi.org/project/pgsync/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "llm-session",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A zero-configuration tool to automate web-based LLM interactions.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_session-0.1.4.tar.gz",
-  "download_time": "2025-11-29T21:28:29.340548",
+  "download_filename": "llm_session-0.1.5.tar.gz",
+  "download_time": "2025-11-30T23:11:13.402051",
   "package_url": "https://pypi.org/project/llm-session/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "veildata",
+  "version": "0.1.2",
+  "summary": "Framework for masking and unmasking PII.",
+  "author": "Eric",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "veildata-0.1.2.tar.gz",
+  "download_time": "2025-11-30T23:11:26.403146",
+  "package_url": "https://pypi.org/project/veildata/"
+}
