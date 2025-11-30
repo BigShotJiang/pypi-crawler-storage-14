@@ -1,11 +1,11 @@
 {
   "name": "spectuel-engine-utils",
-  "version": "0.0.31",
+  "version": "0.0.32",
   "summary": "Engine utils",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spectuel_engine_utils-0.0.31.tar.gz",
-  "download_time": "2025-11-30T16:53:17.351947",
+  "download_filename": "spectuel_engine_utils-0.0.32.tar.gz",
+  "download_time": "2025-11-30T23:30:41.086654",
   "package_url": "https://pypi.org/project/spectuel-engine-utils/"
 }

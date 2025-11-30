@@ -1,0 +1,11 @@
+{
+  "name": "django-pglock",
+  "version": "1.8.0",
+  "summary": "Postgres locking routines and lock table access.",
+  "author": "Wes Kendall",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/AmbitionEng/django-pglock",
+  "download_filename": "django_pglock-1.8.0.tar.gz",
+  "download_time": "2025-11-30T23:30:17.420906",
+  "package_url": "https://pypi.org/project/django-pglock/"
+}

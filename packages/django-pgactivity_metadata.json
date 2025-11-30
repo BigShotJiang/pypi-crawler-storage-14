@@ -1,0 +1,11 @@
+{
+  "name": "django-pgactivity",
+  "version": "1.8.0",
+  "summary": "Monitor, kill, and analyze Postgres queries.",
+  "author": "Wes Kendall",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/AmbitionEng/django-pgactivity",
+  "download_filename": "django_pgactivity-1.8.0.tar.gz",
+  "download_time": "2025-11-30T23:30:20.047783",
+  "package_url": "https://pypi.org/project/django-pgactivity/"
+}

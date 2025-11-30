@@ -1,0 +1,11 @@
+{
+  "name": "jac-streamlit",
+  "version": "0.0.5",
+  "summary": "Streamlit integration plugin for Jac programming language - enables running and visualizing Jac applications in Streamlit",
+  "author": "Jason Mars",
+  "license": "MIT",
+  "home_page": "https://jac-lang.org",
+  "download_filename": "jac_streamlit-0.0.5.tar.gz",
+  "download_time": "2025-11-30T23:30:21.812282",
+  "package_url": "https://pypi.org/project/jac-streamlit/"
+}

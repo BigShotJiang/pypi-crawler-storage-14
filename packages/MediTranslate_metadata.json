@@ -1,0 +1,11 @@
+{
+  "name": "MediTranslate",
+  "version": "1.0.0",
+  "summary": "A simple, private, and offline medical translation tool.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "meditranslate-1.0.0.tar.gz",
+  "download_time": "2025-11-30T23:30:36.291620",
+  "package_url": "https://pypi.org/project/MediTranslate/"
+}

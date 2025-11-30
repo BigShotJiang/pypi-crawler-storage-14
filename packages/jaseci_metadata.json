@@ -1,0 +1,11 @@
+{
+  "name": "jaseci",
+  "version": "2.2.1",
+  "summary": "Jaseci - A complete AI-native programming ecosystem with Jac language, LLM integration, full-stack web apps, and Streamlit visualization",
+  "author": "Jason Mars",
+  "license": "MIT",
+  "home_page": "https://jaseci.org",
+  "download_filename": "jaseci-2.2.1.tar.gz",
+  "download_time": "2025-11-30T23:30:19.527297",
+  "package_url": "https://pypi.org/project/jaseci/"
+}
