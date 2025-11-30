@@ -1,11 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-30T11:28:12.345669
+- **Download Time**: 2025-11-30T11:34:05.390924
 - **Total Packages**: 87
-- **Total Size**: 16.79 MB
+- **Total Size**: 4.66 MB
 
 ## Packages List
+- zodchy-fastapi
+- mudra-sdk-test-1
+- hallyd
+- decart
+- nonebot-plugin-steam-game-status
+- rocher
 - robot-hat
 - apache-airflow-mcp-server
 - audex
@@ -25,7 +31,6 @@
 - chinamindata
 - insurance-mobile-pdfconverter
 - opengemini-client-python-application
-- zodchy-fastapi
 - print-dog
 - kopi-docka
 - krn-harmony-adapter
@@ -79,7 +84,6 @@
 - treemapper
 - trainy-policy-nightly
 - SoL
-- mudra-sdk-test-1
 - odoo-addon-stay
 - odoo-addon-stay-report-py3o
 - letta-nightly
@@ -89,7 +93,3 @@
 - manim-progress-bar
 - pymodbus
 - favro-cli
-- foundrytools-cli
-- avalon-stdlib
-- wagtail-reusable-blocks
-- pydantic-ai-filesystem-sandbox
