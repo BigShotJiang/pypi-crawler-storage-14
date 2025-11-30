@@ -1,0 +1,11 @@
+{
+  "name": "valori",
+  "version": "0.1.4",
+  "summary": "A high-performance vector database library for Python",
+  "author": "Varshith",
+  "license": "MIT",
+  "home_page": "https://github.com/varshith-Git/valori",
+  "download_filename": "valori-0.1.4.tar.gz",
+  "download_time": "2025-11-30T15:39:20.315883",
+  "package_url": "https://pypi.org/project/valori/"
+}

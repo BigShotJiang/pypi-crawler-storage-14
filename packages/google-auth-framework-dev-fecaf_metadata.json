@@ -1,0 +1,11 @@
+{
+  "name": "google-auth-framework-dev-fecaf",
+  "version": "0.1.0",
+  "summary": "Um framework para simplificar a autenticação com APIs do Google via console.",
+  "author": "dev-fecaf",
+  "license": null,
+  "home_page": "https://github.com/dev-fecaf/google-auth-framework",
+  "download_filename": "google_auth_framework_dev_fecaf-0.1.0.tar.gz",
+  "download_time": "2025-11-30T15:39:14.108573",
+  "package_url": "https://pypi.org/project/google-auth-framework-dev-fecaf/"
+}

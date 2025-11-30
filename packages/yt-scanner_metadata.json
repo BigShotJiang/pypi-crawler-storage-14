@@ -1,11 +1,11 @@
 {
   "name": "yt-scanner",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Python script to scan YouTube channel playlists and detect unlisted videos",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yt_scanner-0.1.1.tar.gz",
-  "download_time": "2025-11-30T14:09:59.042082",
+  "download_filename": "yt_scanner-0.1.2.tar.gz",
+  "download_time": "2025-11-30T15:39:16.712561",
   "package_url": "https://pypi.org/project/yt-scanner/"
 }
