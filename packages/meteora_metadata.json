@@ -1,11 +1,11 @@
 {
   "name": "meteora",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "summary": "Pythonic interface to access data from meteorological stations",
   "author": "Martí Bosch",
   "license": null,
   "home_page": null,
-  "download_filename": "meteora-0.9.0.tar.gz",
-  "download_time": "2025-12-01T09:48:34.245511",
+  "download_filename": "meteora-0.10.0.tar.gz",
+  "download_time": "2025-12-01T12:21:55.903137",
   "package_url": "https://pypi.org/project/meteora/"
 }

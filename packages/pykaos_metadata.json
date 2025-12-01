@@ -1,11 +1,11 @@
 {
   "name": "pykaos",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pykaos-0.1.0.tar.gz",
-  "download_time": "2025-12-01T10:44:57.366736",
+  "download_filename": "pykaos-0.2.0.tar.gz",
+  "download_time": "2025-12-01T12:22:09.568284",
   "package_url": "https://pypi.org/project/pykaos/"
 }

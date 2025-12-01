@@ -1,0 +1,11 @@
+{
+  "name": "metomi-rose",
+  "version": "2.6.2",
+  "summary": "Rose, a framework for meteorological suites.",
+  "author": null,
+  "license": "GPL",
+  "home_page": null,
+  "download_filename": "metomi_rose-2.6.2.tar.gz",
+  "download_time": "2025-12-01T12:22:21.979608",
+  "package_url": "https://pypi.org/project/metomi-rose/"
+}

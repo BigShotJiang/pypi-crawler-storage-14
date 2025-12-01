@@ -1,0 +1,11 @@
+{
+  "name": "livecaption",
+  "version": "1.0.0",
+  "summary": "Real-time audio transcription for video streaming with Firefox browser integration",
+  "author": "b-tok",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "livecaption-1.0.0.tar.gz",
+  "download_time": "2025-12-01T12:22:27.606816",
+  "package_url": "https://pypi.org/project/livecaption/"
+}

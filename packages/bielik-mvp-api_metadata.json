@@ -1,0 +1,11 @@
+{
+  "name": "bielik-mvp-api",
+  "version": "0.1.0",
+  "summary": "Bielik MVP API - FastAPI backend (RAG) for Polish entrepreneurs",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "bielik_mvp_api-0.1.0.tar.gz",
+  "download_time": "2025-12-01T12:21:48.465179",
+  "package_url": "https://pypi.org/project/bielik-mvp-api/"
+}
