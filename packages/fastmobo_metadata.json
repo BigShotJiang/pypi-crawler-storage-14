@@ -1,0 +1,11 @@
+{
+  "name": "fastmobo",
+  "version": "0.1.6",
+  "summary": "Multi-objective Bayesian optimization Framework (Botorch Wrapper)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastmobo-0.1.6.tar.gz",
+  "download_time": "2025-12-01T17:48:05.178772",
+  "package_url": "https://pypi.org/project/fastmobo/"
+}

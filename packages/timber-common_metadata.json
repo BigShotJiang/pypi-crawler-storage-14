@@ -1,11 +1,11 @@
 {
   "name": "timber-common",
-  "version": "0.2.35",
+  "version": "0.2.36",
   "summary": "Configuration-driven persistence library with ml tools (finance related) config driven db model registration, llm model choice, automatic encryption, caching, vector search, and GDPR compliance for Python applications",
   "author": "Pumulo Sikaneta",
   "license": "MIT",
   "home_page": "https://github.com/pumulo/timber-common",
-  "download_filename": "timber_common-0.2.35.tar.gz",
-  "download_time": "2025-12-01T16:16:03.537816",
+  "download_filename": "timber_common-0.2.36.tar.gz",
+  "download_time": "2025-12-01T17:48:07.296195",
   "package_url": "https://pypi.org/project/timber-common/"
 }

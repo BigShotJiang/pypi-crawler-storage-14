@@ -1,0 +1,11 @@
+{
+  "name": "Karboni",
+  "version": "0.1.0a0",
+  "summary": "Mirror a Zotero library into a SQL database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "karboni-0.1.0a0.tar.gz",
+  "download_time": "2025-12-01T17:48:26.266364",
+  "package_url": "https://pypi.org/project/Karboni/"
+}

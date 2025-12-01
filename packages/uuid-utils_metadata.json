@@ -1,0 +1,11 @@
+{
+  "name": "uuid-utils",
+  "version": "0.12.0",
+  "summary": "Drop-in replacement for Python UUID with bindings in Rust",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uuid_utils-0.12.0.tar.gz",
+  "download_time": "2025-12-01T17:48:29.370915",
+  "package_url": "https://pypi.org/project/uuid-utils/"
+}

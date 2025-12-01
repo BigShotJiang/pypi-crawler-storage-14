@@ -1,0 +1,11 @@
+{
+  "name": "tap-pulumi-cloud",
+  "version": "0.3.4",
+  "summary": "Singer tap for Pulumi Cloud, built with the Meltano SDK for Singer Taps.",
+  "author": "Edgar Ramírez-Mondragón",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tap_pulumi_cloud-0.3.4.tar.gz",
+  "download_time": "2025-12-01T17:48:06.249572",
+  "package_url": "https://pypi.org/project/tap-pulumi-cloud/"
+}
