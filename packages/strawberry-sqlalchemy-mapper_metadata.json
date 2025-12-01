@@ -1,0 +1,11 @@
+{
+  "name": "strawberry-sqlalchemy-mapper",
+  "version": "0.8.0",
+  "summary": "A library for autogenerating Strawberry GraphQL types from SQLAlchemy models.",
+  "author": "Tim Dumol",
+  "license": "MIT",
+  "home_page": "https://strawberry.rocks/",
+  "download_filename": "strawberry_sqlalchemy_mapper-0.8.0.tar.gz",
+  "download_time": "2025-12-01T19:36:27.937589",
+  "package_url": "https://pypi.org/project/strawberry-sqlalchemy-mapper/"
+}

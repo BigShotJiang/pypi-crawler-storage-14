@@ -1,0 +1,11 @@
+{
+  "name": "procaaso-eip",
+  "version": "0.1.8",
+  "summary": "EtherNet/IP (EIP) communication driver for industrial automation controllers",
+  "author": "Brandon Smith",
+  "license": "MIT",
+  "home_page": "https://github.com/ConSynSys-Automation/procaaso-eip",
+  "download_filename": "procaaso_eip-0.1.8.tar.gz",
+  "download_time": "2025-12-01T19:36:02.683231",
+  "package_url": "https://pypi.org/project/procaaso-eip/"
+}

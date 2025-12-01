@@ -1,0 +1,11 @@
+{
+  "name": "aws-fsx-lifecycle-status-monitor",
+  "version": "0.0.37",
+  "summary": "aws-fsx-lifecycle-status-monitor",
+  "author": "Stefan Freitag<stefan.freitag@udo.edu>",
+  "license": "Apache-2.0",
+  "home_page": "https://stefanfreitag.github.io/AWS-FSx-Lifecycle-Status-Monitor",
+  "download_filename": "aws_fsx_lifecycle_status_monitor-0.0.37.tar.gz",
+  "download_time": "2025-12-01T19:36:25.365426",
+  "package_url": "https://pypi.org/project/aws-fsx-lifecycle-status-monitor/"
+}
