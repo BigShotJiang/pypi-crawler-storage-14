@@ -1,11 +1,11 @@
 {
   "name": "haiku.rag-slim",
-  "version": "0.19.4",
-  "summary": "Agentic Retrieval Augmented Generation (RAG) with LanceDB - Minimal dependencies",
+  "version": "0.19.5",
+  "summary": "Opinionated agentic RAG powered by LanceDB, Pydantic AI, and Docling - Minimal dependencies",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "haiku_rag_slim-0.19.4.tar.gz",
-  "download_time": "2025-11-28T08:59:08.873146",
+  "download_filename": "haiku_rag_slim-0.19.5.tar.gz",
+  "download_time": "2025-12-01T16:16:43.261270",
   "package_url": "https://pypi.org/project/haiku.rag-slim/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dlt-source-personio",
+  "version": "0.0.4",
+  "summary": "A DLT source for personio",
+  "author": "Planet A Ventures",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dlt_source_personio-0.0.4.tar.gz",
+  "download_time": "2025-12-01T16:16:47.975875",
+  "package_url": "https://pypi.org/project/dlt-source-personio/"
+}

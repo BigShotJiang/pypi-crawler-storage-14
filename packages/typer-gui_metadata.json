@@ -1,11 +1,11 @@
 {
   "name": "typer-gui",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Automatically generate desktop GUIs for Typer CLI applications using Flet",
   "author": "Typer-GUI Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "typer_gui-0.1.0.tar.gz",
-  "download_time": "2025-12-01T08:52:51.802032",
+  "download_filename": "typer_gui-0.2.0.tar.gz",
+  "download_time": "2025-12-01T16:15:59.298650",
   "package_url": "https://pypi.org/project/typer-gui/"
 }

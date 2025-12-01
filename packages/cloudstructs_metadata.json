@@ -1,11 +1,11 @@
 {
   "name": "cloudstructs",
-  "version": "0.9.44",
+  "version": "0.9.45",
   "summary": "High-level constructs for AWS CDK",
   "author": "Jonathan Goldwasser<jonathan.goldwasser@gmail.com>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/jogold/cloudstructs.git",
-  "download_filename": "cloudstructs-0.9.44.tar.gz",
-  "download_time": "2025-12-01T15:55:21.206208",
+  "download_filename": "cloudstructs-0.9.45.tar.gz",
+  "download_time": "2025-12-01T16:16:38.389043",
   "package_url": "https://pypi.org/project/cloudstructs/"
 }

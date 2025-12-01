@@ -1,11 +1,11 @@
 {
   "name": "termseparator",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A simple, lightweight function to print a stylized, colored separator line in the terminal.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "termseparator-0.1.1.tar.gz",
-  "download_time": "2025-12-01T15:55:01.162865",
+  "download_filename": "termseparator-0.1.2.tar.gz",
+  "download_time": "2025-12-01T16:16:42.216403",
   "package_url": "https://pypi.org/project/termseparator/"
 }
