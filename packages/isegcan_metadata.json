@@ -1,0 +1,11 @@
+{
+  "name": "isegcan",
+  "version": "0.7.0",
+  "summary": "Simple library to control older ISEG HV supplies over CAN interface.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "isegcan-0.7.0.tar.gz",
+  "download_time": "2025-12-01T10:14:36.660407",
+  "package_url": "https://pypi.org/project/isegcan/"
+}

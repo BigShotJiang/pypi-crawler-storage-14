@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_openapi-mcp-proxy",
+  "version": "0.1.0",
+  "summary": "MCP Server for OpenAPI Schema Exploration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_openapi_mcp_proxy-0.1.0.tar.gz",
+  "download_time": "2025-12-01T10:14:28.299020",
+  "package_url": "https://pypi.org/project/iflow-mcp_openapi-mcp-proxy/"
+}

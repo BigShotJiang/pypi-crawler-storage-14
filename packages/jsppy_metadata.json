@@ -1,11 +1,11 @@
 {
   "name": "jsppy",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "summary": "jsppy数据接口",
   "author": "jsppy数据接口",
   "license": null,
   "home_page": null,
-  "download_filename": "jsppy-1.2.7-py3-none-any.whl",
-  "download_time": "2025-12-01T04:20:23.102499",
+  "download_filename": "jsppy-1.2.8-py3-none-any.whl",
+  "download_time": "2025-12-01T10:14:35.106063",
   "package_url": "https://pypi.org/project/jsppy/"
 }

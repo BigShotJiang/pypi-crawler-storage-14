@@ -1,0 +1,11 @@
+{
+  "name": "simpleccx",
+  "version": "0.0.12",
+  "summary": "A simple package to perform FE analysis of extruded sections using the CalculiX solver",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simpleccx-0.0.12.tar.gz",
+  "download_time": "2025-12-01T10:14:24.642674",
+  "package_url": "https://pypi.org/project/simpleccx/"
+}

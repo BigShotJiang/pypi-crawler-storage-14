@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_sauce-api-mcp",
+  "version": "1.0.3",
+  "summary": "MCP server for Sauce Labs API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_sauce_api_mcp-1.0.3.tar.gz",
+  "download_time": "2025-12-01T10:14:28.809697",
+  "package_url": "https://pypi.org/project/iflow-mcp_sauce-api-mcp/"
+}

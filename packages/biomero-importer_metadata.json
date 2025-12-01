@@ -1,0 +1,11 @@
+{
+  "name": "biomero-importer",
+  "version": "1.0.0",
+  "summary": "BIOMERO.importer - Automated Data Import System (formerly OMERO ADI)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "biomero_importer-1.0.0.tar.gz",
+  "download_time": "2025-12-01T10:14:31.948400",
+  "package_url": "https://pypi.org/project/biomero-importer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "whatsease-mcp",
+  "version": "0.1.0",
+  "summary": "CLI tool to run Whatsease MCP server from OpenAPI spec",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "whatsease_mcp-0.1.0.tar.gz",
+  "download_time": "2025-12-01T10:14:33.013097",
+  "package_url": "https://pypi.org/project/whatsease-mcp/"
+}

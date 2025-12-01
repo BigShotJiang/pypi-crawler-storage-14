@@ -1,11 +1,11 @@
 {
   "name": "krrood",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "summary": "A python package for Knowledge Representation and Reasoning systems based on Object Oriented Design.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "krrood-2.0.4.tar.gz",
-  "download_time": "2025-11-27T14:10:41.686723",
+  "download_filename": "krrood-2.0.5.tar.gz",
+  "download_time": "2025-12-01T10:14:18.683155",
   "package_url": "https://pypi.org/project/krrood/"
 }

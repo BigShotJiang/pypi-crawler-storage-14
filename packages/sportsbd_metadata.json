@@ -1,0 +1,11 @@
+{
+  "name": "sportsbd",
+  "version": "0.1.0",
+  "summary": "sportsbd: a 4-class 3D CNN-based shot boundary detection toolkit for sports videos.",
+  "author": "sportsbd contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sportsbd-0.1.0.tar.gz",
+  "download_time": "2025-12-01T10:14:50.226143",
+  "package_url": "https://pypi.org/project/sportsbd/"
+}
