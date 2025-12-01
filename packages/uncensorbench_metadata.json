@@ -1,11 +1,11 @@
 {
   "name": "uncensorbench",
-  "version": "0.3.2",
+  "version": "0.3.4",
   "summary": "A benchmark for measuring LLM censorship removal effectiveness",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "uncensorbench-0.3.2.tar.gz",
-  "download_time": "2025-12-01T19:16:21.577471",
+  "download_filename": "uncensorbench-0.3.4.tar.gz",
+  "download_time": "2025-12-01T20:12:30.513892",
   "package_url": "https://pypi.org/project/uncensorbench/"
 }

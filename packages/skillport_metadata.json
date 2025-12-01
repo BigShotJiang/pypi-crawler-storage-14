@@ -1,0 +1,11 @@
+{
+  "name": "skillport",
+  "version": "0.1.0",
+  "summary": "Bring Agent Skills to Cursor / Copilot / Codex & more — via CLI or MCP. Manage once, serve anywhere.",
+  "author": "Gota",
+  "license": null,
+  "home_page": null,
+  "download_filename": "skillport-0.1.0.tar.gz",
+  "download_time": "2025-12-01T20:12:19.577999",
+  "package_url": "https://pypi.org/project/skillport/"
+}

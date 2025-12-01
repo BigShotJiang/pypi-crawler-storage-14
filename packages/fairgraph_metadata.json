@@ -1,0 +1,11 @@
+{
+  "name": "fairgraph",
+  "version": "0.13.0",
+  "summary": "Python API for the EBRAINS Knowledge Graph",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fairgraph-0.13.0.tar.gz",
+  "download_time": "2025-12-01T20:11:51.732610",
+  "package_url": "https://pypi.org/project/fairgraph/"
+}

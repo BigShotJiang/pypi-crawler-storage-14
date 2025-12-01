@@ -1,11 +1,11 @@
 {
   "name": "athenah-ai",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "summary": null,
   "author": "Denis Angell",
   "license": null,
   "home_page": null,
-  "download_filename": "athenah_ai-3.0.0.tar.gz",
-  "download_time": "2025-12-01T19:36:14.043589",
+  "download_filename": "athenah_ai-3.0.1.tar.gz",
+  "download_time": "2025-12-01T20:12:06.963956",
   "package_url": "https://pypi.org/project/athenah-ai/"
 }
