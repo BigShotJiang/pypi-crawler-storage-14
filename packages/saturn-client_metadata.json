@@ -1,0 +1,11 @@
+{
+  "name": "saturn-client",
+  "version": "2025.12.1",
+  "summary": "Python library for interacting with Saturn Cloud API",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": "https://saturncloud.io/",
+  "download_filename": "saturn_client-2025.12.1.tar.gz",
+  "download_time": "2025-12-01T17:03:43.190850",
+  "package_url": "https://pypi.org/project/saturn-client/"
+}

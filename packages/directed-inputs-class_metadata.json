@@ -1,11 +1,11 @@
 {
   "name": "directed-inputs-class",
-  "version": "202511.7.0",
+  "version": "202511.9.0",
   "summary": "Directed inputs class consumes and processes inputs from sources beyond args and kwargs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "directed_inputs_class-202511.7.0.tar.gz",
-  "download_time": "2025-11-30T00:52:51.454004",
+  "download_filename": "directed_inputs_class-202511.9.0.tar.gz",
+  "download_time": "2025-12-01T17:03:48.670202",
   "package_url": "https://pypi.org/project/directed-inputs-class/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ae-console",
+  "version": "0.3.92",
+  "summary": "ae namespace module portion console: console application environment",
+  "author": "AndiEcker",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://gitlab.com/ae-group/ae_console",
+  "download_filename": "ae_console-0.3.92.tar.gz",
+  "download_time": "2025-12-01T17:03:49.181385",
+  "package_url": "https://pypi.org/project/ae-console/"
+}

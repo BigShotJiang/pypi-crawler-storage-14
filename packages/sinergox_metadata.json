@@ -1,11 +1,11 @@
 {
   "name": "sinergox",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A Python client for the Sinergox API (Colombian energy market data).",
   "author": "pablete",
   "license": null,
   "home_page": null,
-  "download_filename": "sinergox-0.2.0.tar.gz",
-  "download_time": "2025-12-01T16:48:03.467687",
+  "download_filename": "sinergox-0.3.0.tar.gz",
+  "download_time": "2025-12-01T17:03:44.288804",
   "package_url": "https://pypi.org/project/sinergox/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "nsj-rest-lib",
-  "version": "5.1.6",
+  "version": "5.1.7",
   "summary": "Biblioteca para construção de APIs Rest Python, de acordo com o guidelines interno, e com paradigma declarativo.",
   "author": "Nasajon Sistemas",
   "license": null,
   "home_page": "https://github.com/Nasajon/nsj_rest_lib",
-  "download_filename": "nsj_rest_lib-5.1.6.tar.gz",
-  "download_time": "2025-11-28T21:28:31.746244",
+  "download_filename": "nsj_rest_lib-5.1.7.tar.gz",
+  "download_time": "2025-12-01T17:03:43.778634",
   "package_url": "https://pypi.org/project/nsj-rest-lib/"
 }
