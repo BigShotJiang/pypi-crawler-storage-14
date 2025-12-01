@@ -1,0 +1,11 @@
+{
+  "name": "sap-ai-sdk-core",
+  "version": "3.1.0",
+  "summary": "SAP Cloud SDK for AI (Python): Core SDK",
+  "author": "SAP SE",
+  "license": "SAP DEVELOPER LICENSE AGREEMENT",
+  "home_page": "https://www.sap.com/",
+  "download_filename": "sap_ai_sdk_core-3.1.0-py3-none-any.whl",
+  "download_time": "2025-12-01T14:57:25.302540",
+  "package_url": "https://pypi.org/project/sap-ai-sdk-core/"
+}

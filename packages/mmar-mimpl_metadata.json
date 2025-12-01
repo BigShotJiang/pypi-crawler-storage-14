@@ -1,11 +1,11 @@
 {
   "name": "mmar-mimpl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "MMAR Maestro Implementation",
   "author": "tagin",
   "license": null,
   "home_page": null,
-  "download_filename": "mmar_mimpl-1.0.0.tar.gz",
-  "download_time": "2025-12-01T14:14:15.245030",
+  "download_filename": "mmar_mimpl-1.0.1.tar.gz",
+  "download_time": "2025-12-01T14:57:31.724662",
   "package_url": "https://pypi.org/project/mmar-mimpl/"
 }

@@ -1,36 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-01T14:40:41.597581
-- **Total Packages**: 86
-- **Total Size**: 47.19 MB
+- **Download Time**: 2025-12-01T14:57:37.821082
+- **Total Packages**: 84
+- **Total Size**: 1.45 MB
 
 ## Packages List
-- Pixseal
-- django-clickhouse-backend
-- rubix-py
-- w2t-bkin
-- linkmerce
-- aikido-zen
-- your-docs-mcp
-- k7sfunc
-- FanFicFare
-- kronicle-sdk
-- judge0-client
-- sinergox
-- flowmatching-tabular
-- objectstore-client
-- jentic-openapi-validator-spectral
-- jentic-openapi-validator-redocly
-- jentic-openapi-validator
-- jentic-openapi-traverse
-- jentic-openapi-transformer-redocly
-- jentic-openapi-transformer
-- jentic-openapi-tools
-- jentic-openapi-parser
-- jentic-openapi-datamodels
-- jentic-openapi-common
-- winidjango
 - treeline-money
 - smartg
 - wagtail-treemodeladmin
@@ -59,6 +34,7 @@
 - nell-scb-lib
 - snakemake-executor-plugin-slurm
 - SWENG25-ObjectPatternRecognizer-GrpA
+- kronicle-sdk
 - pingintel-api
 - odoo-addon-purchase-triple-discount
 - scubas
@@ -74,6 +50,7 @@
 - cleaner-multi
 - tollbit-python-sdk
 - neops_graphql
+- Pixseal
 - FERS
 - chemexon
 - mmar-llm
@@ -92,3 +69,24 @@
 - breez-sdk-liquid
 - ghga-event-schemas
 - openshift-python-wrapper
+- sap-ai-sdk-core
+- langbot-plugin
+- cybrid-api-bank-python
+- openfund-maker
+- cybrid-api-organization-python
+- openfund-taker
+- microdf-python
+- gps-building-blocks
+- cybrid-api-id-python
+- promptv
+- mmar-mimpl
+- crawlee
+- opexcore
+- aioshelly
+- worker-automate-hub
+- neuroglia-python
+- gleans
+- openfund-core
+- scriptworker
+- compreffor
+- mmar-mapi
