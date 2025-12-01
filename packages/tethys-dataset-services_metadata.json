@@ -1,0 +1,11 @@
+{
+  "name": "tethys-dataset-services",
+  "version": "2.4.2",
+  "summary": "A generic Python interface for dataset services such as GeoServer, CKAN, and HydroShare",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tethys_dataset_services-2.4.2.tar.gz",
+  "download_time": "2025-12-01T15:37:14.171970",
+  "package_url": "https://pypi.org/project/tethys-dataset-services/"
+}

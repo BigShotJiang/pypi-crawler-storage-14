@@ -1,0 +1,11 @@
+{
+  "name": "spl-core",
+  "version": "7.13.0",
+  "summary": "Software Product Line Support for CMake",
+  "author": "Avengineers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spl_core-7.13.0.tar.gz",
+  "download_time": "2025-12-01T15:37:21.003165",
+  "package_url": "https://pypi.org/project/spl-core/"
+}

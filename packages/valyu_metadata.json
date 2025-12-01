@@ -1,11 +1,11 @@
 {
   "name": "valyu",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "summary": "Deepsearch API for AI.",
   "author": "Valyu",
   "license": null,
   "home_page": "https://valyu.ai",
-  "download_filename": "valyu-2.3.1.tar.gz",
-  "download_time": "2025-11-28T17:33:27.489491",
+  "download_filename": "valyu-2.3.2.tar.gz",
+  "download_time": "2025-12-01T15:37:32.669795",
   "package_url": "https://pypi.org/project/valyu/"
 }

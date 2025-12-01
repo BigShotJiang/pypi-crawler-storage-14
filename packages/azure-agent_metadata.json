@@ -1,0 +1,11 @@
+{
+  "name": "azure-agent",
+  "version": "0.2.0",
+  "summary": "Azure MCP Agent for resource management and deployment",
+  "author": "Anjali Sharma",
+  "license": null,
+  "home_page": null,
+  "download_filename": "azure_agent-0.2.0.tar.gz",
+  "download_time": "2025-12-01T15:38:04.439813",
+  "package_url": "https://pypi.org/project/azure-agent/"
+}

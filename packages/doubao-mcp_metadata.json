@@ -1,0 +1,11 @@
+{
+  "name": "doubao-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server that wraps the Doubao generation API.",
+  "author": "shici",
+  "license": null,
+  "home_page": null,
+  "download_filename": "doubao_mcp-0.1.0.tar.gz",
+  "download_time": "2025-12-01T15:37:26.275299",
+  "package_url": "https://pypi.org/project/doubao-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "filesafe-sanitization",
+  "version": "0.1.0",
+  "summary": "Tiny filename sanitizer for uploads",
+  "author": "Mohammed Hussain",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "filesafe_sanitization-0.1.0.tar.gz",
+  "download_time": "2025-12-01T15:37:31.537546",
+  "package_url": "https://pypi.org/project/filesafe-sanitization/"
+}

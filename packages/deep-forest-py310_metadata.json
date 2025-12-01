@@ -1,0 +1,11 @@
+{
+  "name": "deep-forest-py310",
+  "version": "0.1.9",
+  "summary": "Deep Forest (community-maintained fork with Python 3.10+ support)",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/simonprovost/deep_forest_py310",
+  "download_filename": "deep_forest_py310-0.1.9.tar.gz",
+  "download_time": "2025-12-01T15:37:15.836050",
+  "package_url": "https://pypi.org/project/deep-forest-py310/"
+}
