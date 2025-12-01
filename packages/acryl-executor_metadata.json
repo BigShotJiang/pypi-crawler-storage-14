@@ -1,11 +1,11 @@
 {
   "name": "acryl-executor",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "An library used within Acryl Agents to execute tasks",
   "author": null,
   "license": "Apache License 2.0",
   "home_page": "https://datahubproject.io/",
-  "download_filename": "acryl_executor-0.3.3.tar.gz",
-  "download_time": "2025-12-01T12:22:10.078691",
+  "download_filename": "acryl_executor-0.3.4.tar.gz",
+  "download_time": "2025-12-01T18:18:53.379876",
   "package_url": "https://pypi.org/project/acryl-executor/"
 }

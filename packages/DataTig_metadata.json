@@ -1,0 +1,11 @@
+{
+  "name": "DataTig",
+  "version": "0.9.0",
+  "summary": "DataTig helps you crowdsource and use data stored in files in a git repository.",
+  "author": "Open Data Services",
+  "license": "MIT",
+  "home_page": "https://github.com/DataTig/DataTig",
+  "download_filename": "datatig-0.9.0.tar.gz",
+  "download_time": "2025-12-01T18:18:48.899410",
+  "package_url": "https://pypi.org/project/DataTig/"
+}

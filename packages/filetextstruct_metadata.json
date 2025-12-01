@@ -1,0 +1,11 @@
+{
+  "name": "filetextstruct",
+  "version": "1.0.0",
+  "summary": "A tiny utility for generating directory trees and files from a Python dictionary structure.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "filetextstruct-1.0.0.tar.gz",
+  "download_time": "2025-12-01T18:18:48.248428",
+  "package_url": "https://pypi.org/project/filetextstruct/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "a7",
+  "version": "0.2.0",
+  "summary": "A simple, synchronous Python SDK for the A7 Analytics Platform by Deutsche Börse",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "a7-0.2.0.tar.gz",
+  "download_time": "2025-12-01T18:18:51.460893",
+  "package_url": "https://pypi.org/project/a7/"
+}

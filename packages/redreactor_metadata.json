@@ -1,0 +1,11 @@
+{
+  "name": "redreactor",
+  "version": "0.1.4",
+  "summary": "Red Reactor Battery Monitoring service with MQTT, and Home Assistant support",
+  "author": "MrEditor97",
+  "license": null,
+  "home_page": null,
+  "download_filename": "redreactor-0.1.4.tar.gz",
+  "download_time": "2025-12-01T18:18:56.489129",
+  "package_url": "https://pypi.org/project/redreactor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "linkml-term-validator",
+  "version": "0.1.0",
+  "summary": "Validating external terms",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "linkml_term_validator-0.1.0.tar.gz",
+  "download_time": "2025-12-01T18:19:01.141177",
+  "package_url": "https://pypi.org/project/linkml-term-validator/"
+}
