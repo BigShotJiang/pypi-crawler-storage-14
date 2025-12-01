@@ -1,0 +1,11 @@
+{
+  "name": "naampy",
+  "version": "0.7.0",
+  "summary": "Infer Gender from Indian Names",
+  "author": "Gaurav Sood, Suriyan Laohaprapanon, Rajashekar Chintalapati",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "naampy-0.7.0.tar.gz",
+  "download_time": "2025-12-01T18:57:46.332681",
+  "package_url": "https://pypi.org/project/naampy/"
+}

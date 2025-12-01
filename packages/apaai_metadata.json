@@ -1,0 +1,11 @@
+{
+  "name": "apaai",
+  "version": "0.1.2",
+  "summary": "APAAI Protocol Python SDK — Action → Policy → Evidence",
+  "author": "apaAI Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "apaai-0.1.2.tar.gz",
+  "download_time": "2025-12-01T18:57:58.117635",
+  "package_url": "https://pypi.org/project/apaai/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pysquareblob",
+  "version": "3.0.0",
+  "summary": "This project is just a simple way to interact with Square Cloud Blob service",
+  "author": "Jhonatan Jeferson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysquareblob-3.0.0.tar.gz",
+  "download_time": "2025-12-01T18:57:37.049979",
+  "package_url": "https://pypi.org/project/pysquareblob/"
+}

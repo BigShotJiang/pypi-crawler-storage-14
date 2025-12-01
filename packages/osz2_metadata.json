@@ -1,0 +1,11 @@
+{
+  "name": "osz2",
+  "version": "1.1.1",
+  "summary": "A python library for reading osz2 files",
+  "author": "ascenttree",
+  "license": null,
+  "home_page": null,
+  "download_filename": "osz2-1.1.1.tar.gz",
+  "download_time": "2025-12-01T18:58:18.369812",
+  "package_url": "https://pypi.org/project/osz2/"
+}

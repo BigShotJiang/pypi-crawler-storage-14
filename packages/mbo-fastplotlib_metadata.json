@@ -1,0 +1,11 @@
+{
+  "name": "mbo-fastplotlib",
+  "version": "0.7.0",
+  "summary": "Next-gen fast plotting library running on WGPU using the Pygfx rendering engine ",
+  "author": "Kushal Kolar, Caitlin Lewis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mbo_fastplotlib-0.7.0.tar.gz",
+  "download_time": "2025-12-01T18:57:34.318027",
+  "package_url": "https://pypi.org/project/mbo-fastplotlib/"
+}
