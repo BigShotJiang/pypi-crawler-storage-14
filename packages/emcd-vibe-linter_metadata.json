@@ -1,0 +1,11 @@
+{
+  "name": "emcd-vibe-linter",
+  "version": "1.0a0",
+  "summary": "LibCST-based Python linter. (Vibe-coded.)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "emcd_vibe_linter-1.0a0.tar.gz",
+  "download_time": "2025-12-01T03:05:14.689741",
+  "package_url": "https://pypi.org/project/emcd-vibe-linter/"
+}

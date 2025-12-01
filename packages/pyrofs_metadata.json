@@ -1,0 +1,11 @@
+{
+  "name": "pyrofs",
+  "version": "0.1.0",
+  "summary": "Mount Python-owned memory as an ephemeral FUSE filesystem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyrofs-0.1.0.tar.gz",
+  "download_time": "2025-12-01T03:05:26.116119",
+  "package_url": "https://pypi.org/project/pyrofs/"
+}

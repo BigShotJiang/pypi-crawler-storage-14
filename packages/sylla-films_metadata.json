@@ -1,0 +1,11 @@
+{
+  "name": "sylla-films",
+  "version": "0.0.1",
+  "summary": "SDK Python pour accéder à l’API MovieLens (compatible Data Analysts/Data Scientists)",
+  "author": "Oumarou Sylla",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sylla_films-0.0.1.tar.gz",
+  "download_time": "2025-12-01T03:05:07.520680",
+  "package_url": "https://pypi.org/project/sylla-films/"
+}
