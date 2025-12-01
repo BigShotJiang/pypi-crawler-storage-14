@@ -1,0 +1,11 @@
+{
+  "name": "cronrepo",
+  "version": "0.4",
+  "summary": "Maintain a set of cron jobs in your code repository",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cronrepo-0.4.tar.gz",
+  "download_time": "2025-12-01T09:19:46.603956",
+  "package_url": "https://pypi.org/project/cronrepo/"
+}

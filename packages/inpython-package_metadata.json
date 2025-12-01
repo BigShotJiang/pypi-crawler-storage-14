@@ -1,0 +1,11 @@
+{
+  "name": "inpython-package",
+  "version": "1.1.8",
+  "summary": "# Infodata's IN-Tools U2Python Package",
+  "author": "infodata",
+  "license": "MIT",
+  "home_page": "https://bitbucket.org/infodata-dev/inpython",
+  "download_filename": "inpython_package-1.1.8-py3-none-any.whl",
+  "download_time": "2025-12-01T09:19:21.935021",
+  "package_url": "https://pypi.org/project/inpython-package/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "localrun",
-  "version": "1.1.5",
+  "version": "1.1.8",
   "summary": "A simple local HTTP server similar to php -S",
   "author": "Fidal PalamParambil",
   "license": "MIT",
-  "home_page": "https://github.com/ByteBreach/localrun",
-  "download_filename": "localrun-1.1.5.tar.gz",
-  "download_time": "2025-12-01T08:52:43.094468",
+  "home_page": "https://github.com/yourusername/localrun",
+  "download_filename": "localrun-1.1.8.tar.gz",
+  "download_time": "2025-12-01T09:19:42.454656",
   "package_url": "https://pypi.org/project/localrun/"
 }

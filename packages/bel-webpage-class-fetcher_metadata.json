@@ -1,0 +1,11 @@
+{
+  "name": "bel-webpage-class-fetcher",
+  "version": "0.0.1",
+  "summary": "A simple Selenium-based webpage fetcher for fully rendered HTML",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bel_webpage_class_fetcher-0.0.1.tar.gz",
+  "download_time": "2025-12-01T09:19:17.451723",
+  "package_url": "https://pypi.org/project/bel-webpage-class-fetcher/"
+}
