@@ -1,0 +1,11 @@
+{
+  "name": "scrapy-algova",
+  "version": "0.3.6",
+  "summary": "A small extension to Scrapy that provides a WaitRequest for delayed/polling requests.",
+  "author": "Alonso Valdiva",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scrapy_algova-0.3.6.tar.gz",
+  "download_time": "2025-12-01T14:40:11.163063",
+  "package_url": "https://pypi.org/project/scrapy-algova/"
+}

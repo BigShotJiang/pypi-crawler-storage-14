@@ -1,0 +1,11 @@
+{
+  "name": "tollbit-python-sdk",
+  "version": "0.2.1",
+  "summary": "Tollbit SDK for interacting tollbit services, including retrieving content and connecting to the API",
+  "author": "Tollbit",
+  "license": "MIT",
+  "home_page": "https://tollbit.com",
+  "download_filename": "tollbit_python_sdk-0.2.1.tar.gz",
+  "download_time": "2025-12-01T14:40:30.962224",
+  "package_url": "https://pypi.org/project/tollbit-python-sdk/"
+}

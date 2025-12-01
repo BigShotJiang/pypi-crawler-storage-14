@@ -1,11 +1,11 @@
 {
   "name": "collagraph",
-  "version": "0.8.7",
+  "version": "0.8.8",
   "summary": "Reactive user interfaces",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "collagraph-0.8.7.tar.gz",
-  "download_time": "2025-11-28T08:58:39.427744",
+  "download_filename": "collagraph-0.8.8.tar.gz",
+  "download_time": "2025-12-01T14:40:27.373135",
   "package_url": "https://pypi.org/project/collagraph/"
 }

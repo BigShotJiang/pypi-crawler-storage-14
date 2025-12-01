@@ -1,11 +1,11 @@
 {
   "name": "jentic-openapi-parser",
-  "version": "1.0.0a28",
+  "version": "1.0.0a29",
   "summary": "Jentic OpenAPI Parser",
   "author": "Jentic",
   "license": null,
   "home_page": null,
-  "download_filename": "jentic_openapi_parser-1.0.0a28.tar.gz",
-  "download_time": "2025-12-01T12:22:18.906009",
+  "download_filename": "jentic_openapi_parser-1.0.0a29.tar.gz",
+  "download_time": "2025-12-01T14:40:06.271490",
   "package_url": "https://pypi.org/project/jentic-openapi-parser/"
 }

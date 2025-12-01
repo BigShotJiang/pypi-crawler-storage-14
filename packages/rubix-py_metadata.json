@@ -1,11 +1,11 @@
 {
   "name": "rubix-py",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "Rubix Client SDK for Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rubix_py-0.6.0.tar.gz",
-  "download_time": "2025-11-26T19:24:05.919478",
+  "download_filename": "rubix_py-0.7.0.tar.gz",
+  "download_time": "2025-12-01T14:39:55.465524",
   "package_url": "https://pypi.org/project/rubix-py/"
 }

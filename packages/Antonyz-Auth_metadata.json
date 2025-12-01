@@ -1,0 +1,11 @@
+{
+  "name": "Antonyz-Auth",
+  "version": "0.1.0",
+  "summary": "Authentication client for Antonyz Auth System",
+  "author": "Antonyz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "antonyz_auth-0.1.0.tar.gz",
+  "download_time": "2025-12-01T14:40:17.968213",
+  "package_url": "https://pypi.org/project/Antonyz-Auth/"
+}

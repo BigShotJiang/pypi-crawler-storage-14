@@ -1,0 +1,11 @@
+{
+  "name": "proweb",
+  "version": "0.1.0",
+  "summary": "O'zbekcha to'liq asinxron web framework - FastAPI + Tortoise ORM + Flask-style",
+  "author": "ProWeb Team",
+  "license": null,
+  "home_page": "https://github.com/proweb/proweb",
+  "download_filename": "proweb-0.1.0.tar.gz",
+  "download_time": "2025-12-01T14:40:12.693861",
+  "package_url": "https://pypi.org/project/proweb/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "image-mcp-server",
+  "version": "0.3.1",
+  "summary": "一个完整的 MCP 服务器，支持图片分析和生成。支持本地文件、HTTP URL 和剪贴板图片的分析，以及基于 qwen-image-plus 模型的图片生成功能",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "image_mcp_server-0.3.1.tar.gz",
+  "download_time": "2025-12-01T14:40:14.856771",
+  "package_url": "https://pypi.org/project/image-mcp-server/"
+}
