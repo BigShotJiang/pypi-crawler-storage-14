@@ -1,13 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-01T10:56:45.477371
-- **Total Packages**: 87
-- **Total Size**: 15.13 MB
+- **Download Time**: 2025-12-01T11:04:53.524617
+- **Total Packages**: 83
+- **Total Size**: 4.7 MB
 
 ## Packages List
-- PyAFBFdb
 - extract-load-s3
+- submitit-ada
+- vnqr
+- biomero
+- odoo-addon-delivery-price-method
+- libvirt-python
+- cybrid-api-bank-python
+- gabse
+- matrixone-python-sdk
+- cybrid-api-organization-python
+- FastRAMQPI
+- cybrid-api-id-python
+- anki-kanji-deck-generator
+- md2ghost
+- devflux-aider-code
+- navfitx
+- primus-lens-wandb-exporter
+- rds-ops-kit
+- foodspec
+- findsylls
+- steinwurf-tasker
+- hestia-earth-models
+- swh.storage
+- pluggedinkit
+- PyAFBFdb
 - comfyui-workflow-templates
 - simplipy
 - midas-civil
@@ -36,7 +59,6 @@
 - orca-descriptors
 - AstrBot
 - undine
-- devflux-aider-code
 - unnclang
 - django-ai-validator
 - kabardian-translator
@@ -67,29 +89,3 @@
 - dnora-destine
 - dendrotweaks
 - py-soap
-- deepeval
-- karrio-zoom2u
-- karrio-veho
-- karrio-usps-international
-- karrio-usps
-- karrio-ups
-- karrio-tnt
-- dragon-ml-toolbox
-- karrio-tge
-- karrio-teleship
-- karrio-shipengine
-- karrio-server-proxy
-- karrio-server-pricing
-- karrio-server-orders
-- karrio-server-manager
-- karrio-server-graph
-- karrio-server-events
-- karrio-server-documents
-- karrio-server-data
-- karrio-server-core
-- karrio-server
-- karrio-sendle
-- karrio-seko
-- karrio-sapient
-- karrio-royalmail
-- karrio-roadie
