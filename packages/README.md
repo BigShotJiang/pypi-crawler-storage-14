@@ -1,11 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-01T10:45:13.802078
-- **Total Packages**: 96
-- **Total Size**: 16.21 MB
+- **Download Time**: 2025-12-01T10:56:45.477371
+- **Total Packages**: 87
+- **Total Size**: 15.13 MB
 
 ## Packages List
+- PyAFBFdb
+- extract-load-s3
+- comfyui-workflow-templates
+- simplipy
+- midas-civil
+- pytket-quantinuum
+- scruby
+- spx-sdk
+- orto
+- unifiedaiservices
+- konduktor-nightly
+- viadot2
+- glaip-sdk
+- openchain-telco-sbom-validator
+- biblemategui
+- trainy-policy-nightly
+- icd-att-tools
+- guacenc-py
+- chuk-mcp-stage
+- ahlbatross
+- zyndai-agent
+- optrabot
+- amniotic
+- arxivql
+- buckpy
+- cartoblobpy
+- letta-nightly
+- orca-descriptors
+- AstrBot
 - undine
 - devflux-aider-code
 - unnclang
@@ -19,7 +48,6 @@
 - xsuite
 - scio-pypi
 - snakemake-interface-storage-plugins
-- unifiedaiservices
 - scc-firewall-manager-sdk
 - wlibrary
 - akoma2md
@@ -65,40 +93,3 @@
 - karrio-sapient
 - karrio-royalmail
 - karrio-roadie
-- karrio-purolator
-- karrio-nationex
-- karrio-mydhl
-- karrio-locate2u
-- karrio-laposte
-- pykaos
-- karrio-landmark
-- karrio-hay-post
-- karrio-geodis
-- karrio-generic
-- karrio-freightcom
-- karrio-fedex
-- karrio-eshipper
-- karrio-easyship
-- karrio-easypost
-- karrio-dpd
-- karrio-dicom
-- karrio-dhl-universal
-- karrio-dhl-poland
-- freekassa-client
-- karrio-dhl-parcel-de
-- karrio-dhl-express
-- AI-Jarvis-DA
-- karrio-colissimo
-- karrio-cli
-- karrio-chronopost
-- karrio-canpar
-- karrio-canadapost
-- karrio-bpost
-- vital
-- karrio-boxknight
-- karrio-australiapost
-- karrio-asendia-us
-- karrio-aramex
-- karrio-amazon-shipping
-- karrio-allied-express-local
-- karrio-allied-express

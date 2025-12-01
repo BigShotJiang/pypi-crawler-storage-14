@@ -1,0 +1,11 @@
+{
+  "name": "openchain-telco-sbom-validator",
+  "version": "0.3.3",
+  "summary": "Validator against versions 1.0 and 1.1 of the OpenChain Telco SBOM Guide",
+  "author": "Gergely Csatari, Marc-Etienne Vargenau",
+  "license": null,
+  "home_page": "https://github.com/OpenChain-Project/Telco-WG/tree/main/tools/openchain_telco_sbom_validator",
+  "download_filename": "openchain_telco_sbom_validator-0.3.3.tar.gz",
+  "download_time": "2025-12-01T10:56:05.819178",
+  "package_url": "https://pypi.org/project/openchain-telco-sbom-validator/"
+}

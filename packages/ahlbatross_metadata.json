@@ -1,0 +1,11 @@
+{
+  "name": "ahlbatross",
+  "version": "0.2.1",
+  "summary": "Tool for comparing and visualizing changes between AHB documents across different format version releases.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ahlbatross-0.2.1.tar.gz",
+  "download_time": "2025-12-01T10:56:09.744972",
+  "package_url": "https://pypi.org/project/ahlbatross/"
+}
