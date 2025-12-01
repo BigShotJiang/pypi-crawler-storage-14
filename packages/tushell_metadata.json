@@ -1,0 +1,11 @@
+{
+  "name": "tushell",
+  "version": "0.2.22",
+  "summary": "The Data Diver's best Intelligent and Narrative Command-Line Tooling you will have ever had",
+  "author": "JGWill",
+  "license": null,
+  "home_page": "https://github.com/jgwill/tushell",
+  "download_filename": "tushell-0.2.22.tar.gz",
+  "download_time": "2025-12-01T06:55:40.406663",
+  "package_url": "https://pypi.org/project/tushell/"
+}

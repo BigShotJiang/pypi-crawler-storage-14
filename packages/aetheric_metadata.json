@@ -1,0 +1,11 @@
+{
+  "name": "aetheric",
+  "version": "1.0.0",
+  "summary": "Cryptographic governance primitive — 4-of-5 quorum, Ed25519 seats, immutable ledger",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aetheric-1.0.0.tar.gz",
+  "download_time": "2025-12-01T06:56:11.161146",
+  "package_url": "https://pypi.org/project/aetheric/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "visier-platform-sdk",
-  "version": "22222222.99201.2392",
+  "version": "22222222.99201.2398",
   "summary": "API Reference",
   "author": "Visier",
   "license": "Apache License, Version 2.0",
   "home_page": "https://github.com/visier/python-sdk",
-  "download_filename": "visier_platform_sdk-22222222.99201.2392.tar.gz",
-  "download_time": "2025-11-28T10:37:26.121764",
+  "download_filename": "visier_platform_sdk-22222222.99201.2398.tar.gz",
+  "download_time": "2025-12-01T06:55:51.792959",
   "package_url": "https://pypi.org/project/visier-platform-sdk/"
 }

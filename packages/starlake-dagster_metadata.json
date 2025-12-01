@@ -1,0 +1,11 @@
+{
+  "name": "starlake-dagster",
+  "version": "0.4.3.2",
+  "summary": "Starlake Python Distribution For Dagster",
+  "author": "Stéphane Manciot",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "starlake_dagster-0.4.3.2.tar.gz",
+  "download_time": "2025-12-01T06:56:01.125995",
+  "package_url": "https://pypi.org/project/starlake-dagster/"
+}

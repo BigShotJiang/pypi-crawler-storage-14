@@ -1,0 +1,11 @@
+{
+  "name": "yapyrg",
+  "version": "0.1.0",
+  "summary": "A blazingly fast recursive file searcher powered by Ripgrep engines.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yapyrg-0.1.0.tar.gz",
+  "download_time": "2025-12-01T06:55:56.981421",
+  "package_url": "https://pypi.org/project/yapyrg/"
+}
