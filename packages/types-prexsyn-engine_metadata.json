@@ -1,11 +1,11 @@
 {
   "name": "types-prexsyn-engine",
-  "version": "0.1.1.dev1",
+  "version": "0.1.1.dev2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "types_prexsyn_engine-0.1.1.dev1.tar.gz",
-  "download_time": "2025-11-30T22:10:50.572775",
+  "download_filename": "types_prexsyn_engine-0.1.1.dev2.tar.gz",
+  "download_time": "2025-12-01T15:55:11.985653",
   "package_url": "https://pypi.org/project/types-prexsyn-engine/"
 }

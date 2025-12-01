@@ -1,11 +1,11 @@
 {
   "name": "flask-api-starter",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "A scalable Flask API starter with authentication, blueprints, DB setup, and full project generator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flask_api_starter-1.1.1.tar.gz",
-  "download_time": "2025-11-30T07:11:09.447605",
+  "download_filename": "flask_api_starter-1.1.2.tar.gz",
+  "download_time": "2025-12-01T15:54:59.610441",
   "package_url": "https://pypi.org/project/flask-api-starter/"
 }

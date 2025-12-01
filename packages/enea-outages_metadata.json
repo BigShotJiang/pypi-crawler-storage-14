@@ -1,11 +1,11 @@
 {
   "name": "enea-outages",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Python library to get information about power outages from Enea Operator.",
   "author": "TheUndefined",
   "license": null,
   "home_page": null,
-  "download_filename": "enea_outages-0.2.0.tar.gz",
-  "download_time": "2025-12-01T14:14:46.978907",
+  "download_filename": "enea_outages-0.2.1.tar.gz",
+  "download_time": "2025-12-01T15:55:08.050332",
   "package_url": "https://pypi.org/project/enea-outages/"
 }

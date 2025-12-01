@@ -1,0 +1,11 @@
+{
+  "name": "pybammsolvers",
+  "version": "0.3.3",
+  "summary": "Python interface for the IDAKLU solver",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybammsolvers-0.3.3.tar.gz",
+  "download_time": "2025-12-01T15:55:23.502408",
+  "package_url": "https://pypi.org/project/pybammsolvers/"
+}

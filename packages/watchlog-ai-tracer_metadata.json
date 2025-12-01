@@ -1,0 +1,11 @@
+{
+  "name": "watchlog-ai-tracer",
+  "version": "1.0.0",
+  "summary": "Lightweight Python tracer for Watchlog AI monitoring",
+  "author": "Mohammadreza",
+  "license": "MIT",
+  "home_page": "https://github.com/Watchlog-monitoring/python-ai-tracer",
+  "download_filename": "watchlog_ai_tracer-1.0.0.tar.gz",
+  "download_time": "2025-12-01T15:55:17.713384",
+  "package_url": "https://pypi.org/project/watchlog-ai-tracer/"
+}

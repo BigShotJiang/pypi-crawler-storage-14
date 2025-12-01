@@ -1,11 +1,11 @@
 {
   "name": "emcd-agents",
-  "version": "1.0a6",
+  "version": "1.0a7",
   "summary": "Common collection of AI agents configuration and data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "emcd_agents-1.0a6.tar.gz",
-  "download_time": "2025-11-30T00:52:55.716260",
+  "download_filename": "emcd_agents-1.0a7.tar.gz",
+  "download_time": "2025-12-01T15:55:14.698282",
   "package_url": "https://pypi.org/project/emcd-agents/"
 }

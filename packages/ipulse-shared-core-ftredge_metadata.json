@@ -1,0 +1,11 @@
+{
+  "name": "ipulse-shared-core-ftredge",
+  "version": "27.6.12",
+  "summary": "Shared Core models and Logger util for the Pulse platform project. Using AI for financial advisory and investment management.",
+  "author": "Russlan Ramdowar",
+  "license": null,
+  "home_page": "https://github.com/TheFutureEdge/ipulse_shared_core",
+  "download_filename": "ipulse_shared_core_ftredge-27.6.12.tar.gz",
+  "download_time": "2025-12-01T15:55:05.838180",
+  "package_url": "https://pypi.org/project/ipulse-shared-core-ftredge/"
+}

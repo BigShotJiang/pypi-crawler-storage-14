@@ -1,11 +1,11 @@
 {
   "name": "brliant-calc",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "summary": "A advanced calculator for complicated mathematics.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "brliant_calc-2.1.1.tar.gz",
-  "download_time": "2025-11-30T13:01:56.591667",
+  "download_filename": "brliant_calc-2.1.2.tar.gz",
+  "download_time": "2025-12-01T15:55:22.917728",
   "package_url": "https://pypi.org/project/brliant-calc/"
 }

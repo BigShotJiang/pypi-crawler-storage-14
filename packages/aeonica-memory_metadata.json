@@ -1,0 +1,11 @@
+{
+  "name": "aeonica-memory",
+  "version": "0.1.0",
+  "summary": "Governed AI memory for LLM agents and RAG systems - audit trails, Merkle proofs, GDPR-compliant deletion, temporal decay",
+  "author": "VELORA Development Team",
+  "license": null,
+  "home_page": "https://github.com/VELORA/velora-meta",
+  "download_filename": "aeonica_memory-0.1.0.tar.gz",
+  "download_time": "2025-12-01T15:54:57.009457",
+  "package_url": "https://pypi.org/project/aeonica-memory/"
+}
