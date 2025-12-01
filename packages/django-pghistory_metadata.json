@@ -1,0 +1,11 @@
+{
+  "name": "django-pghistory",
+  "version": "3.9.0",
+  "summary": "History tracking for Django and Postgres",
+  "author": "Wes Kendall",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/AmbitionEng/django-pghistory",
+  "download_filename": "django_pghistory-3.9.0.tar.gz",
+  "download_time": "2025-12-01T00:57:45.261281",
+  "package_url": "https://pypi.org/project/django-pghistory/"
+}

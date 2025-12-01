@@ -1,11 +1,11 @@
 {
   "name": "mesh-plugin-manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": null,
   "author": "Ben Allfree",
   "license": null,
   "home_page": null,
-  "download_filename": "mesh_plugin_manager-1.0.0.tar.gz",
-  "download_time": "2025-11-30T18:15:08.564931",
+  "download_filename": "mesh_plugin_manager-1.0.1.tar.gz",
+  "download_time": "2025-12-01T00:57:16.369879",
   "package_url": "https://pypi.org/project/mesh-plugin-manager/"
 }

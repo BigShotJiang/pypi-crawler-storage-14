@@ -1,11 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-11-30T23:50:28.466825
-- **Total Packages**: 83
-- **Total Size**: 13.09 MB
+- **Download Time**: 2025-12-01T00:58:07.851980
+- **Total Packages**: 86
+- **Total Size**: 25.41 MB
 
 ## Packages List
+- aiinbx
+- mesh-plugin-manager
+- ai-edge-quantizer-nightly
+- cdk-events-notify
+- agex
+- Ele-Product-compare-chaitali
+- tiddl
+- aria-testing
+- amazon-scrapper-pipeline
+- pyrig
+- bouquin
+- ocrbridge-core
+- veildata
+- sotodlib
+- pyoe2-craftpath
+- scrollstats
+- chuk-mcp-physics
+- typing-graph
+- timem-ai
+- ipyslides
+- fake.py
+- agent-diff
+- dra
+- vultr-python
+- chuk-mcp-server
+- apitally
+- plex-api-client
+- peircean-abduction
+- igor331
+- agentarch-search-tools
+- GameSentenceMiner
+- trame-dockview
+- napari-piscis
+- homecom-alt
+- overleaf-fs
+- caffee
+- xl-network
+- regional-observer-workbook
+- latlng-to-state
+- moai-adk
+- PyChanLun
+- mrs-scaffold
+- MediTranslate
+- statezero
+- safehouse
+- vodesfunc
+- viur-core
+- django-pghistory
 - audex
 - django-pgtrigger
 - quizy
@@ -18,8 +66,6 @@
 - schemdraw
 - oncapintada
 - hv-utils
-- caffee
-- safehouse
 - baloot
 - spectuel-engine-utils
 - django-pgclone
@@ -45,47 +91,4 @@
 - super-bario
 - jaseci
 - django-pgactivity
-- moai-adk
 - jac-streamlit
-- reality-stone
-- binmod
-- bias-amplification
-- specfact-cli
-- byllm
-- genro-tytx
-- rename-academic-pdf
-- instagram-monitor
-- django-pgstats
-- sec2md
-- meld-memory
-- meld-mcp
-- kivy-chess-board
-- composennent
-- psr-factory
-- madevent7
-- wisdem
-- logvault
-- jac-client
-- aiinbx
-- cfn-lint
-- hccinfhir
-- x-evolution
-- indikator
-- yamling
-- rxlm
-- MediTranslate
-- pdval-pandera
-- console-window
-- uncensorbench
-- csyshodan
-- overleaf-fs
-- dars-framework
-- pypolydim
-- daily-dashboard
-- mkdocs2notion
-- aipatch
-- lmnr-claude-code-proxy
-- mcp-ticketer
-- flwr-nightly
-- wistx-mcp
-- x-mlps-pytorch

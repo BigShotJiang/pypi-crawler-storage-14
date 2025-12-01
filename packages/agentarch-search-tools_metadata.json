@@ -1,0 +1,11 @@
+{
+  "name": "agentarch-search-tools",
+  "version": "1.0.2",
+  "summary": "Web search tools with Google and DuckDuckGo support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentarch_search_tools-1.0.2.tar.gz",
+  "download_time": "2025-12-01T00:57:33.277547",
+  "package_url": "https://pypi.org/project/agentarch-search-tools/"
+}

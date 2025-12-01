@@ -1,0 +1,11 @@
+{
+  "name": "sotodlib",
+  "version": "0.6.14",
+  "summary": "Simons Observatory TOD Simulation and Processing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sotodlib-0.6.14.tar.gz",
+  "download_time": "2025-12-01T00:57:23.490181",
+  "package_url": "https://pypi.org/project/sotodlib/"
+}
