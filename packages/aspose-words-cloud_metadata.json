@@ -1,0 +1,11 @@
+{
+  "name": "aspose-words-cloud",
+  "version": "25.11.0",
+  "summary": "Python Cloud SDK wraps Aspose.Words Cloud API so you could seamlessly integrate Microsoft Word file generation, manipulation, conversion & inspection features into your own python applications.",
+  "author": "Aspose",
+  "license": null,
+  "home_page": "https://github.com/aspose-words-cloud/aspose-words-cloud-python",
+  "download_filename": "aspose_words_cloud-25.11.0.tar.gz",
+  "download_time": "2025-12-01T05:47:06.559395",
+  "package_url": "https://pypi.org/project/aspose-words-cloud/"
+}

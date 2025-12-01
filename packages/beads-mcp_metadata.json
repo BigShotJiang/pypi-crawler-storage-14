@@ -1,11 +1,11 @@
 {
   "name": "beads-mcp",
-  "version": "0.27.0",
+  "version": "0.27.2",
   "summary": "MCP server for beads issue tracker.",
   "author": "Beads Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "beads_mcp-0.27.0.tar.gz",
-  "download_time": "2025-11-30T07:48:17.328505",
+  "download_filename": "beads_mcp-0.27.2.tar.gz",
+  "download_time": "2025-12-01T05:46:45.371568",
   "package_url": "https://pypi.org/project/beads-mcp/"
 }

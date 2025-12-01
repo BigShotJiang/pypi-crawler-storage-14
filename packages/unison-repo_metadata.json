@@ -1,0 +1,11 @@
+{
+  "name": "unison-repo",
+  "version": "0.1.0",
+  "summary": "Cliente de Python para descargar datasets desde AEVI por ID",
+  "author": "Adrian Vazquez",
+  "license": "MIT",
+  "home_page": "https://github.com/tuusuario/unison_repo",
+  "download_filename": "unison_repo-0.1.0.tar.gz",
+  "download_time": "2025-12-01T05:46:54.329309",
+  "package_url": "https://pypi.org/project/unison-repo/"
+}

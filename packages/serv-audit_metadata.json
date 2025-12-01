@@ -1,0 +1,11 @@
+{
+  "name": "serv-audit",
+  "version": "1.1.5",
+  "summary": "Cross-platform security auditing framework for automated security assessments",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "serv_audit-1.1.5.tar.gz",
+  "download_time": "2025-12-01T05:46:44.303585",
+  "package_url": "https://pypi.org/project/serv-audit/"
+}

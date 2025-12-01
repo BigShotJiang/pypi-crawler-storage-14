@@ -1,0 +1,11 @@
+{
+  "name": "rentclc",
+  "version": "1.0.0",
+  "summary": "A generic rent calculation library for Python projects.",
+  "author": "Aatmaja Karbhari",
+  "license": null,
+  "home_page": "https://github.com/yourusername/rentcalc",
+  "download_filename": "rentclc-1.0.0.tar.gz",
+  "download_time": "2025-12-01T05:46:50.640089",
+  "package_url": "https://pypi.org/project/rentclc/"
+}
