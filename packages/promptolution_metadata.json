@@ -1,0 +1,11 @@
+{
+  "name": "promptolution",
+  "version": "2.2.0",
+  "summary": "A framework for prompt optimization and a zoo of prompt optimization algorithms.",
+  "author": "Tom Zehle, Moritz Schlager, Timo Heiß",
+  "license": null,
+  "home_page": null,
+  "download_filename": "promptolution-2.2.0-py3-none-any.whl",
+  "download_time": "2025-12-01T13:49:43.016430",
+  "package_url": "https://pypi.org/project/promptolution/"
+}

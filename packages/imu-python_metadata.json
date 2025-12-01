@@ -1,0 +1,11 @@
+{
+  "name": "imu-python",
+  "version": "0.0.3",
+  "summary": "IMU sensor codes in Python for the exosuit",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "imu_python-0.0.3.tar.gz",
+  "download_time": "2025-12-01T13:49:41.995668",
+  "package_url": "https://pypi.org/project/imu-python/"
+}
