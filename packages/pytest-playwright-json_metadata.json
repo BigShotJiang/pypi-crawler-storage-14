@@ -1,0 +1,11 @@
+{
+  "name": "pytest-playwright-json",
+  "version": "0.1.0",
+  "summary": "Generate Playwright-compatible JSON reports from pytest-playwright test runs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytest_playwright_json-0.1.0.tar.gz",
+  "download_time": "2025-12-01T11:40:41.274159",
+  "package_url": "https://pypi.org/project/pytest-playwright-json/"
+}

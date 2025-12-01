@@ -1,0 +1,11 @@
+{
+  "name": "langevals-huggingface",
+  "version": "0.1.15",
+  "summary": "Evaluators based on models available on huggingface.",
+  "author": "Rogerio Chaves",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langevals_huggingface-0.1.15.tar.gz",
+  "download_time": "2025-12-01T11:40:57.888909",
+  "package_url": "https://pypi.org/project/langevals-huggingface/"
+}

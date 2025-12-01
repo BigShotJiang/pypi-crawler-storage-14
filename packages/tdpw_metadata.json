@@ -1,0 +1,11 @@
+{
+  "name": "tdpw",
+  "version": "1.0.22",
+  "summary": "CLI tool for uploading Playwright test reports to TestDino platform with TestDino storage support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tdpw-1.0.22.tar.gz",
+  "download_time": "2025-12-01T11:40:40.732910",
+  "package_url": "https://pypi.org/project/tdpw/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "psycopg-pool",
+  "version": "3.3.0",
+  "summary": "Connection Pool for Psycopg",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "psycopg_pool-3.3.0.tar.gz",
+  "download_time": "2025-12-01T11:40:43.502642",
+  "package_url": "https://pypi.org/project/psycopg-pool/"
+}

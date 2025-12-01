@@ -1,11 +1,11 @@
 {
   "name": "rds-ops-kit",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "summary": "CLI toolkit for RDS/Aurora PostgreSQL planning, parameter group presets, and Oracle-to-PostgreSQL readiness analysis.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rds_ops_kit-2.0.0.tar.gz",
-  "download_time": "2025-12-01T11:04:17.879645",
+  "download_filename": "rds_ops_kit-2.1.0.tar.gz",
+  "download_time": "2025-12-01T11:40:36.789268",
   "package_url": "https://pypi.org/project/rds-ops-kit/"
 }

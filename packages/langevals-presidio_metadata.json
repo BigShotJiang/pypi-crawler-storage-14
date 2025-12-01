@@ -1,0 +1,11 @@
+{
+  "name": "langevals-presidio",
+  "version": "0.1.10",
+  "summary": "LangEvals integration for Presidio",
+  "author": "Rogerio Chaves",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langevals_presidio-0.1.10.tar.gz",
+  "download_time": "2025-12-01T11:40:53.552162",
+  "package_url": "https://pypi.org/project/langevals-presidio/"
+}
