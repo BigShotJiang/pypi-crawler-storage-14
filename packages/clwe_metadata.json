@@ -1,0 +1,11 @@
+{
+  "name": "clwe",
+  "version": "1.1.2",
+  "summary": "CLWE - Revolutionary Post-Quantum Cryptography with Color Transformations",
+  "author": "Cryptopix Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/cryptopix-dev/clwe",
+  "download_filename": "clwe-1.1.2.tar.gz",
+  "download_time": "2025-12-01T05:31:36.916726",
+  "package_url": "https://pypi.org/project/clwe/"
+}

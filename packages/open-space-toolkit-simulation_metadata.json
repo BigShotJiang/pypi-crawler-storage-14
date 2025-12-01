@@ -1,0 +1,11 @@
+{
+  "name": "open-space-toolkit-simulation",
+  "version": "4.1.2",
+  "summary": "Spacecraft simulation.",
+  "author": "Open Space Collective",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "open_space_toolkit_simulation-4.1.2-py310-none-manylinux2014_aarch64.whl",
+  "download_time": "2025-12-01T05:31:40.985426",
+  "package_url": "https://pypi.org/project/open-space-toolkit-simulation/"
+}

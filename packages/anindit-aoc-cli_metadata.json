@@ -1,0 +1,11 @@
+{
+  "name": "anindit-aoc-cli",
+  "version": "1.0.4",
+  "summary": "Advent of Code CLI with leaderboard integration and code quality grading",
+  "author": "Anindit Gopalakrishnan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "anindit_aoc_cli-1.0.4.tar.gz",
+  "download_time": "2025-12-01T05:31:42.684954",
+  "package_url": "https://pypi.org/project/anindit-aoc-cli/"
+}

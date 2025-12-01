@@ -1,11 +1,11 @@
 {
   "name": "pyimagecuda",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "GPU-accelerated image processing library for Python",
   "author": "Beltrán Offerrall",
   "license": null,
   "home_page": null,
-  "download_filename": "pyimagecuda-0.0.3-cp310-cp310-win_amd64.whl",
-  "download_time": "2025-11-28T10:18:13.051658",
+  "download_filename": "pyimagecuda-0.0.4-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-12-01T05:31:35.180169",
   "package_url": "https://pypi.org/project/pyimagecuda/"
 }

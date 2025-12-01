@@ -1,11 +1,11 @@
 {
   "name": "sxs",
-  "version": "2025.0.20",
+  "version": "2025.0.21",
   "summary": "Interface to data produced by the Simulating eXtreme Spacetimes collaboration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sxs-2025.0.20.tar.gz",
-  "download_time": "2025-11-25T20:11:04.666134",
+  "download_filename": "sxs-2025.0.21.tar.gz",
+  "download_time": "2025-12-01T05:31:46.221316",
   "package_url": "https://pypi.org/project/sxs/"
 }

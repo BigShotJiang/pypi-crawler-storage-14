@@ -1,11 +1,11 @@
 {
   "name": "vietlott-data",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "summary": "crawl & store vietlott data",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vietlott_data-0.2.3.tar.gz",
-  "download_time": "2025-11-30T04:26:10.909020",
+  "download_filename": "vietlott_data-0.2.5.tar.gz",
+  "download_time": "2025-12-01T05:31:43.839127",
   "package_url": "https://pypi.org/project/vietlott-data/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "turboloader",
-  "version": "1.8.1",
-  "summary": "Production-ready ML data loading library with distributed training support, SIMD-accelerated transforms, and custom binary format. Built with C++20 for maximum performance, with seamless Python integration for PyTorch, TensorFlow, and JAX workflows.",
+  "version": "2.1.0",
+  "summary": "Production-ready ML data loading library with distributed training support, SIMD-accelerated transforms, pipe operator composition, HDF5/TFRecord/Zarr support, and GPU transforms. Built with C++20 for maximum performance.",
   "author": "TurboLoader Contributors",
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "turboloader-1.8.1.tar.gz",
-  "download_time": "2025-11-30T23:11:11.861079",
+  "download_filename": "turboloader-2.1.0-cp313-cp313-macosx_10_15_universal2.whl",
+  "download_time": "2025-12-01T05:32:13.124415",
   "package_url": "https://pypi.org/project/turboloader/"
 }

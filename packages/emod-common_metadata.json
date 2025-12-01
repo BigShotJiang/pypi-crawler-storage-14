@@ -1,0 +1,11 @@
+{
+  "name": "emod-common",
+  "version": "2.29.7",
+  "summary": "PyPI distribution of EMOD files for testing common to all sim types",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "emod_common-2.29.7.tar.gz",
+  "download_time": "2025-12-01T05:31:34.599228",
+  "package_url": "https://pypi.org/project/emod-common/"
+}
