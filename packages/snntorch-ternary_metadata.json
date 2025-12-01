@@ -1,11 +1,11 @@
 {
   "name": "snntorch-ternary",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Ternary spiking neuron extensions for snnTorch",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "snntorch_ternary-0.1.2.tar.gz",
-  "download_time": "2025-11-25T20:10:44.888301",
+  "download_filename": "snntorch_ternary-0.1.3.tar.gz",
+  "download_time": "2025-12-01T19:15:47.061873",
   "package_url": "https://pypi.org/project/snntorch-ternary/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "lambdautil",
-  "version": "0.4.6",
+  "version": "0.4.7",
   "summary": "Python Lambda Utility",
   "author": "Duke P. Takle",
   "license": null,
   "home_page": "https://github.com/muckamuck/LambdaUtil",
-  "download_filename": "lambdautil-0.4.6.tar.gz",
-  "download_time": "2025-12-01T15:54:56.498318",
+  "download_filename": "lambdautil-0.4.7.tar.gz",
+  "download_time": "2025-12-01T19:16:20.016450",
   "package_url": "https://pypi.org/project/lambdautil/"
 }

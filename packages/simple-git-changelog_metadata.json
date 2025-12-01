@@ -1,0 +1,11 @@
+{
+  "name": "simple-git-changelog",
+  "version": "1.1.5",
+  "summary": "Simple git changelog file generator",
+  "author": "Craig A. Hobbs",
+  "license": "MIT",
+  "home_page": "https://github.com/craigahobbs/simple-git-changelog",
+  "download_filename": "simple_git_changelog-1.1.5.tar.gz",
+  "download_time": "2025-12-01T19:16:14.365403",
+  "package_url": "https://pypi.org/project/simple-git-changelog/"
+}

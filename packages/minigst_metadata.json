@@ -1,0 +1,11 @@
+{
+  "name": "minigst",
+  "version": "0.1.0",
+  "summary": "Wrapper package for gstlearn - Python version",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "minigst-0.1.0-py3-none-any.whl",
+  "download_time": "2025-12-01T19:15:38.296905",
+  "package_url": "https://pypi.org/project/minigst/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "karrio-zoom2u",
-  "version": "2025.5",
+  "version": "2025.5.1",
   "summary": "Karrio - Zoom2u Shipping Extension",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "karrio_zoom2u-2025.5-py3-none-any.whl",
-  "download_time": "2025-12-01T10:44:41.447217",
+  "download_filename": "karrio_zoom2u-2025.5.1-py3-none-any.whl",
+  "download_time": "2025-12-01T19:15:39.320786",
   "package_url": "https://pypi.org/project/karrio-zoom2u/"
 }
