@@ -1,0 +1,11 @@
+{
+  "name": "topsisx",
+  "version": "0.2.4",
+  "summary": "A Python library for Multi-Criteria Decision Making (TOPSIS, AHP, VIKOR, Entropy) with Web Interface",
+  "author": "Suvit Kumar",
+  "license": null,
+  "home_page": "https://github.com/SuvitKumar003/ranklib",
+  "download_filename": "topsisx-0.2.4.tar.gz",
+  "download_time": "2025-12-01T07:16:04.701774",
+  "package_url": "https://pypi.org/project/topsisx/"
+}

@@ -1,14 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-01T06:56:15.800737
-- **Total Packages**: 75
-- **Total Size**: 29.18 MB
+- **Download Time**: 2025-12-01T07:16:34.838060
+- **Total Packages**: 79
+- **Total Size**: 24.82 MB
 
 ## Packages List
+- godjigame-event-schemas
+- miunlock
+- datasourcelib
+- video-frame-extractor-cv
+- nercone-modern
+- bluer-ugv
+- bluer-objects
+- sqlstream
+- Photo-Composition-Designer
+- oxapay-python
+- certbot-dns-technitium
+- cppmake
+- cppmakelib
+- turboloader
+- sayou-document
+- pymeshtool
+- vyomcloudbridge
+- pyjuice
+- cvm-simple
+- pocket-joe
+- defeatbeta-api
+- streamlit-nightly
+- topsisx
+- qaultralytics
+- pykoppu
+- odoo-addon-l10n-ro-stock-report
+- fastflowtransform
+- kosong
+- groupdocs-parser-cloud
+- pythonic-fp
+- ocrbridge-easyocr
+- facets-module-mcp
+- ccxt-ir
+- veriskgo
+- turbine-lib
 - odoo-addon-l10n-ro-account-report-invoice
 - langchain-dev-utils
-- pykoppu
 - expressmoney
 - aimodelshare
 - edge-mdt-tpc
@@ -51,33 +85,3 @@
 - wisent
 - anchorbrowser
 - zood
-- turboloader
-- ccxt-ir
-- starlake-dagster
-- starlake-airflow
-- feedback-mcp
-- ispider
-- logmagix-yuge
-- dragon-ml-toolbox
-- etcher
-- AutoInspection
-- kingsoftcloud-sdk-python
-- flatcode
-- pythonic-fp-numpy
-- chromadb-mcp-ollama
-- jha-cli
-- ldc-lender-datalayer
-- turbine-lib
-- geminiai-cli
-- CMGDB
-- myliu-ragflow-mcp-server-continue
-- edu-rdm-integration
-- aetheric
-- anchorpy-fork
-- qrpa
-- Coreform-Cubit-Mesh-Export
-- mdtlocalchat
-- AbuLang
-- localstack-core
-- pytest-splunk-addon
-- cdk8s

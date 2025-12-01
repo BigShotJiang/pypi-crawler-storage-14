@@ -1,0 +1,11 @@
+{
+  "name": "video-frame-extractor-cv",
+  "version": "0.1.2",
+  "summary": "A Python library for downloading videos and extracting frames at specified intervals",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "video_frame_extractor_cv-0.1.2.tar.gz",
+  "download_time": "2025-12-01T07:15:53.234094",
+  "package_url": "https://pypi.org/project/video-frame-extractor-cv/"
+}
