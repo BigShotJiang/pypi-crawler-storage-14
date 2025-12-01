@@ -1,11 +1,11 @@
 {
   "name": "j-perm",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "jsom permutation library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "j_perm-0.1.2.tar.gz",
-  "download_time": "2025-11-26T09:51:27.874665",
+  "download_filename": "j_perm-0.1.3.tar.gz",
+  "download_time": "2025-12-01T09:49:13.824734",
   "package_url": "https://pypi.org/project/j-perm/"
 }

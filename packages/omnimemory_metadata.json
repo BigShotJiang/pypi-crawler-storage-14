@@ -1,0 +1,11 @@
+{
+  "name": "omnimemory",
+  "version": "0.0.1",
+  "summary": "Advanced LLM-native memory orchestration with dual-agent synthesis, conflict-aware evolution, multi-tenant vector DB backends, and async SDK/API tooling.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "omnimemory-0.0.1.tar.gz",
+  "download_time": "2025-12-01T09:49:01.275287",
+  "package_url": "https://pypi.org/project/omnimemory/"
+}
