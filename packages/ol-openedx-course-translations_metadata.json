@@ -1,0 +1,11 @@
+{
+  "name": "ol-openedx-course-translations",
+  "version": "0.1.0",
+  "summary": "An Open edX plugin to translate courses",
+  "author": "MIT Office of Digital Learning",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ol_openedx_course_translations-0.1.0.tar.gz",
+  "download_time": "2025-12-01T16:48:34.370684",
+  "package_url": "https://pypi.org/project/ol-openedx-course-translations/"
+}

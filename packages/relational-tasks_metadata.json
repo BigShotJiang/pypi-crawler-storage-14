@@ -1,11 +1,11 @@
 {
   "name": "relational-tasks",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Relational Reasoning Tasks for Artificial Neural Networks",
-  "author": "Jakub Dotlacil",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "relational_tasks-0.0.1.tar.gz",
-  "download_time": "2025-12-01T16:16:00.362443",
+  "download_filename": "relational_tasks-0.0.2.tar.gz",
+  "download_time": "2025-12-01T16:48:28.089820",
   "package_url": "https://pypi.org/project/relational-tasks/"
 }

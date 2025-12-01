@@ -1,11 +1,11 @@
 {
   "name": "toper",
-  "version": "1.0",
+  "version": "1.0.1",
   "summary": "A Python package for graph processing and feature extraction",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "toper-1.0.tar.gz",
-  "download_time": "2025-12-01T15:37:22.728075",
+  "download_filename": "toper-1.0.1.tar.gz",
+  "download_time": "2025-12-01T16:48:07.148518",
   "package_url": "https://pypi.org/project/toper/"
 }

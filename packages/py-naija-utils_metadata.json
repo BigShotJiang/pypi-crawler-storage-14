@@ -1,0 +1,11 @@
+{
+  "name": "py-naija-utils",
+  "version": "0.1.0",
+  "summary": "Lightweight Nigerian utility functions (phone numbers, NIN, currency, date).",
+  "author": null,
+  "license": "MIT License\r\n        \r\n        Copyright (c) 2025 Ibrahim\r\n        Permission is hereby granted..",
+  "home_page": null,
+  "download_filename": "py_naija_utils-0.1.0.tar.gz",
+  "download_time": "2025-12-01T16:48:23.379665",
+  "package_url": "https://pypi.org/project/py-naija-utils/"
+}

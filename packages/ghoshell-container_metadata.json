@@ -1,0 +1,11 @@
+{
+  "name": "ghoshell-container",
+  "version": "0.3.0",
+  "summary": "the ioc container useful for Interface oriented programming",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ghoshell_container-0.3.0.tar.gz",
+  "download_time": "2025-12-01T16:47:50.339585",
+  "package_url": "https://pypi.org/project/ghoshell-container/"
+}
