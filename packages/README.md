@@ -1,28 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-01T20:12:32.585028
-- **Total Packages**: 84
-- **Total Size**: 46.39 MB
+- **Download Time**: 2025-12-01T20:35:13.561184
+- **Total Packages**: 88
+- **Total Size**: 5.09 MB
 
 ## Packages List
-- gamspy-dicopt
-- gamspy-knitro
-- gamspy-xpress
-- structural-starterkit
-- optec-metadata-sdk
-- clue-api
-- gamsapi
-- crucible-ai-sdk
-- ai-infra
-- fairgraph
-- sinapsis-time-series
-- sinapsis-darts-forecasting
-- napari-ome-arrow
-- pyLodStorage
-- comlrl
-- napari-czitools
-- spicelab
 - anydi
 - django-vtasks
 - slate-md
@@ -31,6 +14,7 @@
 - wandelbots-api-client
 - honcho-crewai
 - opspilot
+- crucible-ai-sdk
 - pySPFM
 - pulumi-provider-boilerplate
 - methodwebscan
@@ -48,6 +32,7 @@
 - pipen
 - mapply
 - ezmq
+- clue-api
 - crispr-millipede
 - ha-mcp
 - water-column-sonar-processing
@@ -58,6 +43,7 @@
 - superagent-ai
 - pycheck-tool
 - pulumi-aws
+- napari-ome-arrow
 - arcade-mcp-server
 - biosero-data-services-sdk
 - mystmd
@@ -90,3 +76,21 @@
 - data-repo-client
 - config-inspector
 - komodo
+- pytest_time
+- ztest-tools
+- pulumi-django-azure
+- ebm-schemas
+- game-ai-client
+- cohere-compass-sdk
+- langswarm-memory
+- toon-parse
+- dbt-oracle
+- mc-shell
+- nominal-api-protos
+- nominal-api
+- private-attribute
+- gammarers.aws-waf-ip-rate-limit-rule
+- nemophoto
+- virtualitics-sdk
+- rapids-streams
+- cc-liquid

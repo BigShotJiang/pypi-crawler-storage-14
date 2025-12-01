@@ -1,11 +1,11 @@
 {
   "name": "toon-parse",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "summary": "A lightweight library to convert between TOON (Token-Oriented Object Notation) and popular data formats (JSON, YAML, XML, CSV).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "toon_parse-1.0.3.tar.gz",
-  "download_time": "2025-11-26T21:28:39.214063",
+  "download_filename": "toon_parse-1.1.0.tar.gz",
+  "download_time": "2025-12-01T20:35:07.032855",
   "package_url": "https://pypi.org/project/toon-parse/"
 }
