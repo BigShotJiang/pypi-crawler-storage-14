@@ -1,29 +1,15 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-01T05:47:16.976682
-- **Total Packages**: 79
-- **Total Size**: 33.96 MB
+- **Download Time**: 2025-12-01T05:56:33.767927
+- **Total Packages**: 78
+- **Total Size**: 0.03 MB
 
 ## Packages List
-- xlm-models
-- unifyai
-- cvm-simple
-- atlas-asset-client
-- act-bin
-- veriskgo
-- qrpa
-- optimum-rbln
-- cognite-toolkit
-- pykoppu
-- abstract-block-dumper
-- turboloader
-- secrets-sync
-- huayi-mcp
-- ncuhep
 - pulumi-aws-apigateway
 - ali-ops
 - fluxgate
+- veriskgo
 - highlighter-sdk
 - fabric-lakehouse-mcp
 - serv-audit
@@ -38,10 +24,12 @@
 - django-ai-validator
 - map2loop
 - agentcore-sdk
+- turboloader
 - rentclc
 - moxn-types
 - wztools
 - AbuLang
+- cvm-simple
 - axmp-openapi-mcp-server
 - mcputil
 - jupyterlab-expand-selection
@@ -65,6 +53,7 @@
 - tdrpa.tdworker
 - xts-api-client
 - gac
+- pykoppu
 - linux-terminal
 - aspose-words-cloud
 - mrgrain.cdk-esbuild
@@ -85,3 +74,13 @@
 - nell-scb-lib
 - emod-common
 - pyimagecuda
+- whop-sdk
+- coordinate-system
+- clwe
+- bruhcolor
+- telepact-cli
+- telepact
+- mercuto-client
+- open-space-toolkit-simulation
+- jrjModelRegistry
+- nb-ai-context
