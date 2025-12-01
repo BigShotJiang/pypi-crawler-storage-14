@@ -1,11 +1,11 @@
 {
   "name": "aipatch",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "CLI tool for gathering file context and applying LLM patches",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aipatch-0.1.13.tar.gz",
-  "download_time": "2025-11-30T23:11:08.118000",
+  "download_filename": "aipatch-0.1.14.tar.gz",
+  "download_time": "2025-12-01T08:52:47.629975",
   "package_url": "https://pypi.org/project/aipatch/"
 }

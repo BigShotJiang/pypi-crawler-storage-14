@@ -1,0 +1,11 @@
+{
+  "name": "lunixDirectoryTools",
+  "version": "1.0.0",
+  "summary": "A utility library for simplifying Linux command-line operations in Python.",
+  "author": "Dibyadip Parui",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lunixdirectorytools-1.0.0.tar.gz",
+  "download_time": "2025-12-01T08:52:48.139783",
+  "package_url": "https://pypi.org/project/lunixDirectoryTools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "brainfog",
+  "version": "0.1.2",
+  "summary": "A custom high level language to make writing Brainfuck better",
+  "author": "ShackledMars261",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "brainfog-0.1.2.tar.gz",
+  "download_time": "2025-12-01T08:53:19.566364",
+  "package_url": "https://pypi.org/project/brainfog/"
+}

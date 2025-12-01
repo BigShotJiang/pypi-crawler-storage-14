@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcp_cube_server",
+  "version": "0.0.2",
+  "summary": "MCP server for interfacing with Cube.dev REST API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcp_cube_server-0.0.2.tar.gz",
+  "download_time": "2025-12-01T08:52:54.359908",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcp_cube_server/"
+}

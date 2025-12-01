@@ -1,11 +1,11 @@
 {
   "name": "amochka",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Библиотека для работы с API amoCRM",
   "author": "Timurka",
   "license": null,
   "home_page": null,
-  "download_filename": "amochka-0.1.7.tar.gz",
-  "download_time": "2025-12-01T08:18:08.444912",
+  "download_filename": "amochka-0.1.8.tar.gz",
+  "download_time": "2025-12-01T08:53:10.691317",
   "package_url": "https://pypi.org/project/amochka/"
 }

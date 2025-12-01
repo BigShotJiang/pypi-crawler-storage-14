@@ -1,0 +1,11 @@
+{
+  "name": "tinyaes",
+  "version": "1.1.2",
+  "summary": "tiny-AES-c wrapper in Cython",
+  "author": "Matteo Bertini",
+  "license": "MIT",
+  "home_page": "https://github.com/naufraghi/tinyaes-py",
+  "download_filename": "tinyaes-1.1.2.tar.gz",
+  "download_time": "2025-12-01T08:52:46.077436",
+  "package_url": "https://pypi.org/project/tinyaes/"
+}

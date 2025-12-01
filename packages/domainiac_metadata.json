@@ -1,11 +1,11 @@
 {
   "name": "domainiac",
-  "version": "8.0.10",
+  "version": "9.0.0",
   "summary": "Package for working with Energinet data, but with specialized functions used for Enigma.",
   "author": "Team Enigma",
   "license": null,
   "home_page": null,
-  "download_filename": "domainiac-8.0.10.tar.gz",
-  "download_time": "2025-12-01T07:51:15.884313",
+  "download_filename": "domainiac-9.0.0.tar.gz",
+  "download_time": "2025-12-01T08:52:47.119027",
   "package_url": "https://pypi.org/project/domainiac/"
 }

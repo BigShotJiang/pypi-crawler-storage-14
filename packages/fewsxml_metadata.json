@@ -1,0 +1,11 @@
+{
+  "name": "fewsxml",
+  "version": "0.1.4",
+  "summary": "A library for reading and writing XML files to interact with Delft-FEWS.",
+  "author": "Farid Alavi",
+  "license": null,
+  "home_page": "https://gitlab.com/FaridAlavi/fewsxml",
+  "download_filename": "fewsxml-0.1.4.tar.gz",
+  "download_time": "2025-12-01T08:53:16.414406",
+  "package_url": "https://pypi.org/project/fewsxml/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pybioos",
+  "version": "0.0.20",
+  "summary": "BioOS SDK for Python",
+  "author": "Jilong Liu",
+  "license": "MIT Licence",
+  "home_page": "https://github.com/GBA-BI/pybioos",
+  "download_filename": "pybioos-0.0.20-py3-none-any.whl",
+  "download_time": "2025-12-01T08:52:49.167387",
+  "package_url": "https://pypi.org/project/pybioos/"
+}

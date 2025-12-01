@@ -1,11 +1,11 @@
 {
   "name": "doforme",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A CLI tool that converts natural language to CLI commands using LLMs",
   "author": "DoForMe Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "doforme-0.1.2.tar.gz",
-  "download_time": "2025-12-01T04:20:27.798764",
+  "download_filename": "doforme-0.1.3.tar.gz",
+  "download_time": "2025-12-01T08:53:12.730481",
   "package_url": "https://pypi.org/project/doforme/"
 }
