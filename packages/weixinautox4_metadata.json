@@ -1,11 +1,11 @@
 {
   "name": "weixinautox4",
-  "version": "2.2.1.4",
+  "version": "2.2.1.5",
   "summary": "WeChat automation SDK with license management.",
   "author": "agentaibot",
   "license": null,
   "home_page": null,
-  "download_filename": "weixinautox4-2.2.1.4.tar.gz",
-  "download_time": "2025-12-01T14:14:30.224959",
+  "download_filename": "weixinautox4-2.2.1.5.tar.gz",
+  "download_time": "2025-12-01T15:13:24.157991",
   "package_url": "https://pypi.org/project/weixinautox4/"
 }

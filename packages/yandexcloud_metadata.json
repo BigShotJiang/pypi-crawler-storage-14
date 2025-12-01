@@ -1,0 +1,11 @@
+{
+  "name": "yandexcloud",
+  "version": "0.370.0",
+  "summary": "The Yandex Cloud official SDK",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yandexcloud-0.370.0.tar.gz",
+  "download_time": "2025-12-01T15:13:05.959221",
+  "package_url": "https://pypi.org/project/yandexcloud/"
+}

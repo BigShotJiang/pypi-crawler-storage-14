@@ -1,0 +1,11 @@
+{
+  "name": "ncdata",
+  "version": "0.3.2",
+  "summary": "Abstract NetCDF data objects, providing fast data transfer between analysis packages.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "ncdata-0.3.2.tar.gz",
+  "download_time": "2025-12-01T15:13:15.546762",
+  "package_url": "https://pypi.org/project/ncdata/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "airflow-provider-notion",
-  "version": "2.11.0.post8",
+  "version": "2.11.0.post9",
   "summary": "Apache Airflow provider for Notion API integration",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "airflow_provider_notion-2.11.0.post8.tar.gz",
-  "download_time": "2025-11-30T03:53:51.119866",
+  "download_filename": "airflow_provider_notion-2.11.0.post9.tar.gz",
+  "download_time": "2025-12-01T15:13:08.846026",
   "package_url": "https://pypi.org/project/airflow-provider-notion/"
 }

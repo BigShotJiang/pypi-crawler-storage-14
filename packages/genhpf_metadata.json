@@ -1,0 +1,11 @@
+{
+  "name": "genhpf",
+  "version": "1.0.12",
+  "summary": "GenHPF: General Healthcare Predictive Framework with Multi-task Multi-source Learning",
+  "author": null,
+  "license": "MIT license",
+  "home_page": null,
+  "download_filename": "genhpf-1.0.12.tar.gz",
+  "download_time": "2025-12-01T15:13:26.936301",
+  "package_url": "https://pypi.org/project/genhpf/"
+}

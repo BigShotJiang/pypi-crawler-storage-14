@@ -1,11 +1,11 @@
 {
   "name": "match-predicting-pub-api",
-  "version": "4.26",
+  "version": "5.0",
   "summary": "Match Predicting Application Public API",
   "author": "István Mag",
   "license": null,
   "home_page": "https://github.com/magistvan/match-predicting-ann-server-client",
-  "download_filename": "match_predicting_pub_api-4.26.tar.gz",
-  "download_time": "2025-12-01T07:51:14.846277",
+  "download_filename": "match_predicting_pub_api-5.0.tar.gz",
+  "download_time": "2025-12-01T15:13:14.418618",
   "package_url": "https://pypi.org/project/match-predicting-pub-api/"
 }
