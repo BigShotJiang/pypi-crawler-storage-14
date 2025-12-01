@@ -1,11 +1,11 @@
 {
   "name": "moxn-types",
-  "version": "0.0.0.30",
+  "version": "0.0.0.31",
   "summary": "Shared DTOs for the Moxn SDK and API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "moxn_types-0.0.0.30.tar.gz",
-  "download_time": "2025-12-01T05:46:51.172305",
+  "download_filename": "moxn_types-0.0.0.31.tar.gz",
+  "download_time": "2025-12-01T06:19:05.807323",
   "package_url": "https://pypi.org/project/moxn-types/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "gmsofttest",
+  "version": "0.0.76",
+  "summary": "大家软件内部测试技术线支撑工具",
+  "author": "gmsoft1997",
+  "license": null,
+  "home_page": "https://www.gec123.com",
+  "download_filename": "gmsofttest-0.0.76.tar.gz",
+  "download_time": "2025-12-01T06:19:02.675041",
+  "package_url": "https://pypi.org/project/gmsofttest/"
+}

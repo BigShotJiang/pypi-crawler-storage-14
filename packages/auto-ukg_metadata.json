@@ -1,0 +1,11 @@
+{
+  "name": "auto-ukg",
+  "version": "0.1.0",
+  "summary": "Automated tool for interacting with UKG Dimensions",
+  "author": "Chris",
+  "license": null,
+  "home_page": null,
+  "download_filename": "auto_ukg-0.1.0.tar.gz",
+  "download_time": "2025-12-01T06:18:55.327419",
+  "package_url": "https://pypi.org/project/auto-ukg/"
+}

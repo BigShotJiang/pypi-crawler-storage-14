@@ -1,0 +1,11 @@
+{
+  "name": "tja",
+  "version": "0.4.1",
+  "summary": "TJA file parser written in Rust, working in Rust, Python, and WebAssembly.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/JacobLinCool/tja-rs",
+  "download_filename": "tja-0.4.1.tar.gz",
+  "download_time": "2025-12-01T06:19:13.084028",
+  "package_url": "https://pypi.org/project/tja/"
+}

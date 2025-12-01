@@ -1,11 +1,11 @@
 {
   "name": "bellows",
-  "version": "0.48.0",
+  "version": "0.48.1",
   "summary": "Library implementing EZSP",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "bellows-0.48.0.tar.gz",
-  "download_time": "2025-11-26T00:43:39.511657",
+  "download_filename": "bellows-0.48.1.tar.gz",
+  "download_time": "2025-12-01T06:19:15.681220",
   "package_url": "https://pypi.org/project/bellows/"
 }

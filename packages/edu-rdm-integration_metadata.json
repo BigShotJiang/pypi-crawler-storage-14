@@ -1,11 +1,11 @@
 {
   "name": "edu-rdm-integration",
-  "version": "3.27.2",
+  "version": "3.27.3",
   "summary": "Интеграция с Региональной витриной данных",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "edu_rdm_integration-3.27.2.tar.gz",
-  "download_time": "2025-11-27T07:12:57.175471",
+  "download_filename": "edu_rdm_integration-3.27.3.tar.gz",
+  "download_time": "2025-12-01T06:18:49.605821",
   "package_url": "https://pypi.org/project/edu-rdm-integration/"
 }
