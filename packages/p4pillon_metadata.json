@@ -1,0 +1,11 @@
+{
+  "name": "p4pillon",
+  "version": "0.1.2",
+  "summary": "Extensions to the p4p Server API, to aid in creation and managment of pvAccess servers.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "p4pillon-0.1.2.tar.gz",
+  "download_time": "2025-12-01T14:14:49.599280",
+  "package_url": "https://pypi.org/project/p4pillon/"
+}

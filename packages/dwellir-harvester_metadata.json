@@ -1,11 +1,11 @@
 {
   "name": "dwellir-harvester",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "summary": "Collector framework to collect data from running Dwellir server nodes.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dwellir_harvester-0.0.1.tar.gz",
-  "download_time": "2025-11-25T14:10:56.153805",
+  "download_filename": "dwellir_harvester-0.0.5.tar.gz",
+  "download_time": "2025-12-01T14:14:42.023191",
   "package_url": "https://pypi.org/project/dwellir-harvester/"
 }

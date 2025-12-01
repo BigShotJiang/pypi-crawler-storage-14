@@ -1,11 +1,11 @@
 {
   "name": "schubladendenken",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": null,
   "author": "Patrick Greß",
   "license": null,
   "home_page": null,
-  "download_filename": "schubladendenken-0.1.0.tar.gz",
-  "download_time": "2025-12-01T12:22:29.136984",
+  "download_filename": "schubladendenken-0.1.1.tar.gz",
+  "download_time": "2025-12-01T14:14:53.199591",
   "package_url": "https://pypi.org/project/schubladendenken/"
 }
