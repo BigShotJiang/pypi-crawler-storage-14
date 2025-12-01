@@ -1,0 +1,11 @@
+{
+  "name": "spring-ready-python",
+  "version": "1.1.0",
+  "summary": "Make Python FastAPI apps work with Spring Boot ecosystem (Eureka, Config Server, Actuator)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spring_ready_python-1.1.0.tar.gz",
+  "download_time": "2025-12-01T13:11:42.711991",
+  "package_url": "https://pypi.org/project/spring-ready-python/"
+}

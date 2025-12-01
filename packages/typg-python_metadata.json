@@ -1,0 +1,11 @@
+{
+  "name": "typg-python",
+  "version": "0.0.0",
+  "summary": "PyO3 bindings for typg-core (made by FontLab https://www.fontlab.com/)",
+  "author": "FontLab",
+  "license": null,
+  "home_page": "https://www.fontlab.com/",
+  "download_filename": "typg_python-0.0.0-cp310-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-01T13:11:32.454216",
+  "package_url": "https://pypi.org/project/typg-python/"
+}

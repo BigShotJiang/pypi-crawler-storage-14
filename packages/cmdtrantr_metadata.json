@@ -1,11 +1,11 @@
 {
   "name": "cmdtrantr",
-  "version": "1.0",
-  "summary": "CMD Çeviri CLI Paketi (API Yok)",
-  "author": "YusufStudio18",
+  "version": "1.2",
+  "summary": "CLI tabanlı rehber + çeviri + kelime quiz uygulaması",
+  "author": "Muhammed Yusuf Özkaya",
   "license": null,
   "home_page": null,
-  "download_filename": "cmdtrantr-1.0.tar.gz",
-  "download_time": "2025-11-29T12:17:02.856601",
+  "download_filename": "cmdtrantr-1.2.tar.gz",
+  "download_time": "2025-12-01T13:11:04.464244",
   "package_url": "https://pypi.org/project/cmdtrantr/"
 }

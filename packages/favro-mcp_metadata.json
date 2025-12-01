@@ -1,11 +1,11 @@
 {
   "name": "favro-mcp",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "MCP server for Favro project management",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "favro_mcp-0.1.0.tar.gz",
-  "download_time": "2025-11-30T10:49:09.310900",
+  "download_filename": "favro_mcp-0.2.1.tar.gz",
+  "download_time": "2025-12-01T13:11:08.578657",
   "package_url": "https://pypi.org/project/favro-mcp/"
 }

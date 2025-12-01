@@ -1,0 +1,11 @@
+{
+  "name": "autoclean-dataframe",
+  "version": "1.0.0",
+  "summary": "Automatic, configurable data cleansing for pandas DataFrames",
+  "author": "autoclean-dataframe contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "autoclean_dataframe-1.0.0.tar.gz",
+  "download_time": "2025-12-01T13:11:25.783539",
+  "package_url": "https://pypi.org/project/autoclean-dataframe/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "devflux-aider-code",
-  "version": "0.86.2.post9",
+  "version": "0.86.2.post10",
   "summary": "Devflux Aider is AI pair programming in your terminal",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "devflux_aider_code-0.86.2.post9-py3-none-any.whl",
-  "download_time": "2025-12-01T11:04:15.835952",
+  "download_filename": "devflux_aider_code-0.86.2.post10-py3-none-any.whl",
+  "download_time": "2025-12-01T13:11:35.008273",
   "package_url": "https://pypi.org/project/devflux-aider-code/"
 }

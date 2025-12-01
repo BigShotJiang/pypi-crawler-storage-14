@@ -1,0 +1,11 @@
+{
+  "name": "django-leaflet",
+  "version": "0.33.0",
+  "summary": "A Django map widget using Leaflet",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_leaflet-0.33.0.tar.gz",
+  "download_time": "2025-12-01T13:11:19.080209",
+  "package_url": "https://pypi.org/project/django-leaflet/"
+}

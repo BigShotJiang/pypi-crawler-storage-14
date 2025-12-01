@@ -1,11 +1,11 @@
 {
   "name": "pywinding",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A tool for rapidly prototyping wound induction microcoils using Finite Element Method Magnetics (FEMM).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pywinding-0.0.2.tar.gz",
-  "download_time": "2025-11-28T15:47:58.078846",
+  "download_filename": "pywinding-0.0.3.tar.gz",
+  "download_time": "2025-12-01T13:11:18.565389",
   "package_url": "https://pypi.org/project/pywinding/"
 }

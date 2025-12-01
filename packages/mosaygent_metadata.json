@@ -1,0 +1,11 @@
+{
+  "name": "mosaygent",
+  "version": "0.1.3",
+  "summary": "A locally running API for powering the Mosayic tool",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mosaygent-0.1.3.tar.gz",
+  "download_time": "2025-12-01T13:11:14.742823",
+  "package_url": "https://pypi.org/project/mosaygent/"
+}

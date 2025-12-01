@@ -1,0 +1,11 @@
+{
+  "name": "bridgic",
+  "version": "0.1.3.post2",
+  "summary": "Bridgic is a project that enables developers to develop agents/workflows in a more natural and flexible way, consisting of several Python packages.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bridgic-0.1.3.post2.tar.gz",
+  "download_time": "2025-12-01T13:11:37.566733",
+  "package_url": "https://pypi.org/project/bridgic/"
+}

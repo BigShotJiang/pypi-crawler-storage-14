@@ -1,11 +1,11 @@
 {
   "name": "fastdb4py",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "FastCarto database bindings",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastdb4py-0.1.1.tar.gz",
-  "download_time": "2025-12-01T09:48:41.424426",
+  "download_filename": "fastdb4py-0.1.2.tar.gz",
+  "download_time": "2025-12-01T13:11:17.539886",
   "package_url": "https://pypi.org/project/fastdb4py/"
 }

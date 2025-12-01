@@ -1,0 +1,11 @@
+{
+  "name": "dataprep-ml",
+  "version": "0.0.26",
+  "summary": "Automated dataframe analysis for Machine Learning pipelines.",
+  "author": "MindsDB Inc.",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "dataprep_ml-0.0.26.tar.gz",
+  "download_time": "2025-12-01T13:11:03.953425",
+  "package_url": "https://pypi.org/project/dataprep-ml/"
+}

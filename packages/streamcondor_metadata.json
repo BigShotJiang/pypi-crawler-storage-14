@@ -1,11 +1,11 @@
 {
   "name": "streamcondor",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "A system tray application for monitoring livestreams status",
   "author": "Tarzasai",
   "license": null,
   "home_page": null,
-  "download_filename": "streamcondor-1.0.0.tar.gz",
-  "download_time": "2025-11-30T22:33:36.291777",
+  "download_filename": "streamcondor-1.0.2.tar.gz",
+  "download_time": "2025-12-01T13:10:56.650632",
   "package_url": "https://pypi.org/project/streamcondor/"
 }

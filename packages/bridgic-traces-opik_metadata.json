@@ -1,0 +1,11 @@
+{
+  "name": "bridgic-traces-opik",
+  "version": "0.1.2",
+  "summary": "Opik observability integration for Bridgic.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bridgic_traces_opik-0.1.2.tar.gz",
+  "download_time": "2025-12-01T13:11:38.078765",
+  "package_url": "https://pypi.org/project/bridgic-traces-opik/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nano-banana-gio-mcp",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "MCP server pour génération d'images avec Gemini",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nano_banana_gio_mcp-1.0.3.tar.gz",
-  "download_time": "2025-11-30T23:40:01.499333",
+  "download_filename": "nano_banana_gio_mcp-1.0.4.tar.gz",
+  "download_time": "2025-12-01T13:11:29.891981",
   "package_url": "https://pypi.org/project/nano-banana-gio-mcp/"
 }
