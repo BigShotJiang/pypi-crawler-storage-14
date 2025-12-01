@@ -1,11 +1,11 @@
 {
   "name": "unifiedaiservices",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "Unified Python package for AI models",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "unifiedaiservices-0.1.2.tar.gz",
-  "download_time": "2025-12-01T10:14:32.481588",
+  "download_filename": "unifiedaiservices-0.1.5.tar.gz",
+  "download_time": "2025-12-01T10:44:30.394331",
   "package_url": "https://pypi.org/project/unifiedaiservices/"
 }

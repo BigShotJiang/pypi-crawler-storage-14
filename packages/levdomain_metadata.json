@@ -1,0 +1,11 @@
+{
+  "name": "levdomain",
+  "version": "1.1.7",
+  "summary": "A simple FastAPI app",
+  "author": "somx",
+  "license": null,
+  "home_page": null,
+  "download_filename": "levdomain-1.1.7.tar.gz",
+  "download_time": "2025-12-01T10:44:26.192527",
+  "package_url": "https://pypi.org/project/levdomain/"
+}

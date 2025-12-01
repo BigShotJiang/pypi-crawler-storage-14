@@ -1,0 +1,11 @@
+{
+  "name": "malariagen_data",
+  "version": "15.5.0",
+  "summary": "A package for accessing and analysing MalariaGEN data.",
+  "author": "Alistair Miles",
+  "license": "MIT",
+  "home_page": "https://github.com/malariagen/malariagen-data-python",
+  "download_filename": "malariagen_data-15.5.0.tar.gz",
+  "download_time": "2025-12-01T10:44:27.802603",
+  "package_url": "https://pypi.org/project/malariagen_data/"
+}

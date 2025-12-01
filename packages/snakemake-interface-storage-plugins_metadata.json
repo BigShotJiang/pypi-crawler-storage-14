@@ -1,0 +1,11 @@
+{
+  "name": "snakemake-interface-storage-plugins",
+  "version": "4.3.1",
+  "summary": "This package provides a stable interface for interactions between Snakemake and its storage plugins.",
+  "author": "Johannes Koester",
+  "license": null,
+  "home_page": null,
+  "download_filename": "snakemake_interface_storage_plugins-4.3.1.tar.gz",
+  "download_time": "2025-12-01T10:44:29.883436",
+  "package_url": "https://pypi.org/project/snakemake-interface-storage-plugins/"
+}

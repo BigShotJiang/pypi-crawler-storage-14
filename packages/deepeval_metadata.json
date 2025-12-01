@@ -1,0 +1,11 @@
+{
+  "name": "deepeval",
+  "version": "3.7.3",
+  "summary": "The LLM Evaluation Framework",
+  "author": "Jeffrey Ip",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/confident-ai/deepeval",
+  "download_filename": "deepeval-3.7.3.tar.gz",
+  "download_time": "2025-12-01T10:44:40.936868",
+  "package_url": "https://pypi.org/project/deepeval/"
+}
