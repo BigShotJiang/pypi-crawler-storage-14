@@ -1,11 +1,11 @@
 {
   "name": "python-tm1637",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "summary": "Modern, gpiod-based library for TM1637-based LED display modules",
   "author": "Asadullah Shaikh",
   "license": null,
   "home_page": null,
-  "download_filename": "python_tm1637-1.1.2.tar.gz",
-  "download_time": "2025-11-29T05:33:48.701958",
+  "download_filename": "python_tm1637-1.1.3.tar.gz",
+  "download_time": "2025-12-01T04:20:29.343826",
   "package_url": "https://pypi.org/project/python-tm1637/"
 }

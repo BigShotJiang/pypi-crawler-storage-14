@@ -1,11 +1,11 @@
 {
   "name": "AbuLang",
-  "version": "4.2.2",
+  "version": "4.4.0",
   "summary": "Complete AbuLang integration for Python IDLE - All commands work natively",
   "author": "Abu",
   "license": null,
   "home_page": null,
-  "download_filename": "abulang-4.2.2.tar.gz",
-  "download_time": "2025-11-30T04:52:37.698591",
+  "download_filename": "abulang-4.4.0.tar.gz",
+  "download_time": "2025-12-01T04:19:58.179941",
   "package_url": "https://pypi.org/project/AbuLang/"
 }

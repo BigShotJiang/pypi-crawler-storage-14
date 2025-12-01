@@ -1,11 +1,11 @@
 {
   "name": "agentexec",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Production-ready orchestration for OpenAI Agents with Redis-backed coordination, activity tracking, and workflow management",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentexec-0.1.1.tar.gz",
-  "download_time": "2025-11-28T22:47:53.145945",
+  "download_filename": "agentexec-0.1.2.tar.gz",
+  "download_time": "2025-12-01T04:20:14.594722",
   "package_url": "https://pypi.org/project/agentexec/"
 }

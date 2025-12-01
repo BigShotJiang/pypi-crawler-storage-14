@@ -1,0 +1,11 @@
+{
+  "name": "loro",
+  "version": "1.10.0",
+  "summary": "Python bindings for [Loro](https://loro.dev)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "loro-1.10.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-12-01T04:20:00.860859",
+  "package_url": "https://pypi.org/project/loro/"
+}

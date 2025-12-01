@@ -1,0 +1,11 @@
+{
+  "name": "system-hotkey",
+  "version": "1.0.4",
+  "summary": "System wide hotkeys",
+  "author": "timothy eichler",
+  "license": "BSD3",
+  "home_page": "https://github.com/timeyyy/system_hotkey",
+  "download_filename": "system_hotkey-1.0.4.tar.gz",
+  "download_time": "2025-12-01T04:20:07.793600",
+  "package_url": "https://pypi.org/project/system-hotkey/"
+}

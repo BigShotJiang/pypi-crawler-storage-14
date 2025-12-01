@@ -1,0 +1,11 @@
+{
+  "name": "coordinate-system",
+  "version": "5.2.0",
+  "summary": "High-performance 3D coordinate system with C2-continuous curve interpolation, Fourier frames with operator overloading, and advanced 3D visualization",
+  "author": "PanGuoJun",
+  "license": "MIT",
+  "home_page": "https://github.com/panguojun/Coordinate-System",
+  "download_filename": "coordinate_system-5.2.0.tar.gz",
+  "download_time": "2025-12-01T04:19:59.758163",
+  "package_url": "https://pypi.org/project/coordinate-system/"
+}

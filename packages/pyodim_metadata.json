@@ -1,0 +1,11 @@
+{
+  "name": "pyodim",
+  "version": "0.5.9",
+  "summary": "An Odim hdf5 file reader.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyodim-0.5.9.tar.gz",
+  "download_time": "2025-12-01T04:20:19.902083",
+  "package_url": "https://pypi.org/project/pyodim/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nautobot-app-vpn",
+  "version": "2.0.0",
+  "summary": "VPN APP",
+  "author": "ISS World Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nautobot_app_vpn-2.0.0.tar.gz",
+  "download_time": "2025-12-01T04:20:04.596118",
+  "package_url": "https://pypi.org/project/nautobot-app-vpn/"
+}

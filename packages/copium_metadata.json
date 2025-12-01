@@ -1,11 +1,11 @@
 {
   "name": "copium",
-  "version": "0.1.0a1.dev74",
+  "version": "0.1.0a1.dev77",
   "summary": "Fast drop-in replacement for copy.deepcopy()",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "copium-0.1.0a1.dev74-cp310-cp310-macosx_10_9_x86_64.whl",
-  "download_time": "2025-11-30T00:52:52.536189",
+  "download_filename": "copium-0.1.0a1.dev77-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-12-01T04:20:10.404021",
   "package_url": "https://pypi.org/project/copium/"
 }
