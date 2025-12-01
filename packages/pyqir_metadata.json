@@ -1,0 +1,11 @@
+{
+  "name": "pyqir",
+  "version": "0.12.0",
+  "summary": "PyQIR parses, generates and evaluates the Quantum Intermediate Representation.",
+  "author": "Microsoft",
+  "license": "MIT",
+  "home_page": "https://github.com/qir-alliance/pyqir",
+  "download_filename": "pyqir-0.12.0-cp39-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-01T17:23:39.744000",
+  "package_url": "https://pypi.org/project/pyqir/"
+}

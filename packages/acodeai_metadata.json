@@ -1,0 +1,11 @@
+{
+  "name": "acodeai",
+  "version": "1.0.0",
+  "summary": "A-CodeAI SDK - Korean Medicine Intelligence & Self-Evolving Memory API",
+  "author": "MKM Lab",
+  "license": null,
+  "home_page": "https://github.com/mkmlab-hq/acodeai-python",
+  "download_filename": "acodeai-1.0.0.tar.gz",
+  "download_time": "2025-12-01T17:23:38.661332",
+  "package_url": "https://pypi.org/project/acodeai/"
+}

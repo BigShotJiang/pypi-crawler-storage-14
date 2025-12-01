@@ -1,11 +1,11 @@
 {
   "name": "lazynovel",
-  "version": "0.1.62",
+  "version": "0.1.63",
   "summary": "小说平台接口封包",
   "author": "ZeroSeeker",
   "license": null,
   "home_page": "https://gitee.com/ZeroSeeker/lazynovel",
-  "download_filename": "lazynovel-0.1.62.tar.gz",
-  "download_time": "2025-12-01T16:48:33.324483",
+  "download_filename": "lazynovel-0.1.63.tar.gz",
+  "download_time": "2025-12-01T17:23:48.730566",
   "package_url": "https://pypi.org/project/lazynovel/"
 }

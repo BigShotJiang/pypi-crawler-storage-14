@@ -1,11 +1,11 @@
 {
   "name": "wayneGL",
-  "version": "2.0.6",
-  "summary": "Custom CMU-style graphics engine with own renderer",
+  "version": "2.0.7.1",
+  "summary": "Wayne Graphics: a custom graphics library based off cmu-graphics but simpler",
   "author": "Wayne Durbin",
-  "license": "MIT",
+  "license": null,
   "home_page": "https://github.com/yourusername/wayneGL",
-  "download_filename": "waynegl-2.0.6.tar.gz",
-  "download_time": "2025-12-01T17:03:34.696791",
+  "download_filename": "waynegl-2.0.7.1.tar.gz",
+  "download_time": "2025-12-01T17:23:31.308113",
   "package_url": "https://pypi.org/project/wayneGL/"
 }

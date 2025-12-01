@@ -1,0 +1,11 @@
+{
+  "name": "pyKVFinder",
+  "version": "0.8.4",
+  "summary": "Python package to detect and characterize cavities in biomolecular structures",
+  "author": "Helder V. Ribeiro-Filho, Luiz F. G. Alves, Pablo W. A. Silva, Gabriel E. Jara, Leandro O. Bortot, José G. C. Pereira, Paulo S. Lopes-de-Oliveira",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pykvfinder-0.8.4.tar.gz",
+  "download_time": "2025-12-01T17:23:53.436489",
+  "package_url": "https://pypi.org/project/pyKVFinder/"
+}
