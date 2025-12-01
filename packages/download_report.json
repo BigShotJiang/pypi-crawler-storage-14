@@ -1,10 +1,8 @@
 {
-  "download_time": "2025-12-01T19:36:46.234477",
-  "total_packages_downloaded": 92,
-  "total_size_mb": 16.44,
+  "download_time": "2025-12-01T19:51:18.970111",
+  "total_packages_downloaded": 93,
+  "total_size_mb": 0.04,
   "packages": [
-    "ebm-schemas",
-    "kinemotion",
     "nemoview",
     "approvaltests-minimal",
     "approvaltests",
@@ -23,6 +21,7 @@
     "pulumi-xyz",
     "langchain-trigger-server",
     "dhnx",
+    "kinemotion",
     "lmnr-claude-code-proxy",
     "orca-descriptors",
     "locoformer",
@@ -94,6 +93,8 @@
     "snntorch-ternary",
     "karrio-server-events",
     "karrio-server-documents",
-    "karrio-server-data"
+    "karrio-server-data",
+    "ewoksdata",
+    "karrio-server-core"
   ]
 }

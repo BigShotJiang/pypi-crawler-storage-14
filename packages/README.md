@@ -1,13 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-01T19:36:46.234477
-- **Total Packages**: 92
-- **Total Size**: 16.44 MB
+- **Download Time**: 2025-12-01T19:51:18.970111
+- **Total Packages**: 93
+- **Total Size**: 0.04 MB
 
 ## Packages List
-- ebm-schemas
-- kinemotion
 - nemoview
 - approvaltests-minimal
 - approvaltests
@@ -26,6 +24,7 @@
 - pulumi-xyz
 - langchain-trigger-server
 - dhnx
+- kinemotion
 - lmnr-claude-code-proxy
 - orca-descriptors
 - locoformer
@@ -98,3 +97,5 @@
 - karrio-server-events
 - karrio-server-documents
 - karrio-server-data
+- ewoksdata
+- karrio-server-core
