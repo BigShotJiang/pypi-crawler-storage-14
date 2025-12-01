@@ -1,11 +1,11 @@
 {
   "name": "ypricemagic",
-  "version": "4.10.11",
+  "version": "4.10.13",
   "summary": "Use this tool to extract historical on-chain price data from an archive node. Shoutout to @bantg and @nymmrx for their awesome work on yearn-exporter that made this library possible.",
   "author": "BobTheBuidler",
   "license": "MIT",
   "home_page": "https://github.com/BobTheBuidler/ypricemagic",
-  "download_filename": "ypricemagic-4.10.11.tar.gz",
-  "download_time": "2025-11-29T03:33:38.985918",
+  "download_filename": "ypricemagic-4.10.13-cp310-cp310-manylinux1_i686.manylinux_2_28_i686.manylinux_2_5_i686.whl",
+  "download_time": "2025-12-01T07:50:58.887657",
   "package_url": "https://pypi.org/project/ypricemagic/"
 }

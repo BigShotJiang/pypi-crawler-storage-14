@@ -1,11 +1,11 @@
 {
   "name": "yomitoku",
-  "version": "0.10.1",
-  "summary": "Yomitoku is an AI-powered document image analysis package designed specifically for the Japanese language.",
+  "version": "0.10.2",
+  "summary": "YomiToku is an AI-powered document image analysis package designed specifically for the Japanese language.",
   "author": null,
   "license": "CC BY-NC-SA 4.0",
   "home_page": null,
-  "download_filename": "yomitoku-0.10.1-py3-none-any.whl",
-  "download_time": "2025-12-01T07:36:24.961385",
+  "download_filename": "yomitoku-0.10.2-py3-none-any.whl",
+  "download_time": "2025-12-01T07:51:23.748594",
   "package_url": "https://pypi.org/project/yomitoku/"
 }

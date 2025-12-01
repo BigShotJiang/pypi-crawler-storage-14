@@ -1,11 +1,11 @@
 {
   "name": "qaultralytics",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "My custom build of Ultralytics YOLO",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qaultralytics-1.0.0.tar.gz",
-  "download_time": "2025-12-01T07:16:05.230611",
+  "download_filename": "qaultralytics-1.0.2.tar.gz",
+  "download_time": "2025-12-01T07:50:58.282439",
   "package_url": "https://pypi.org/project/qaultralytics/"
 }

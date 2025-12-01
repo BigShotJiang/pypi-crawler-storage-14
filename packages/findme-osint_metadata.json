@@ -1,11 +1,11 @@
 {
   "name": "findme-osint",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "summary": "Hunt down social media accounts by username across 400+ social networks",
   "author": "Sakil Hasan Saikat (0xSaikat)",
   "license": null,
   "home_page": "https://github.com/0xSaikat/findme",
-  "download_filename": "findme_osint-1.0.5.tar.gz",
-  "download_time": "2025-12-01T07:36:47.937267",
+  "download_filename": "findme_osint-1.0.7.tar.gz",
+  "download_time": "2025-12-01T07:51:10.099012",
   "package_url": "https://pypi.org/project/findme-osint/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pypci-ng",
+  "version": "0.3.2",
+  "summary": "pypci, a pciutils-like library for fetching system PCI/PCI-E information but written mostly in python.",
+  "author": "Xiao Ran",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypci_ng-0.3.2.tar.gz",
+  "download_time": "2025-12-01T07:51:06.964916",
+  "package_url": "https://pypi.org/project/pypci-ng/"
+}
