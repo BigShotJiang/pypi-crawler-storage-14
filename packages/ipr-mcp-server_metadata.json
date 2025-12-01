@@ -1,0 +1,11 @@
+{
+  "name": "ipr-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP server integrating with Unitrust ipr.tsa.cn copyright solidification APIs.",
+  "author": "Codex Automation",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ipr_mcp_server-0.1.0.tar.gz",
+  "download_time": "2025-12-01T07:36:40.111242",
+  "package_url": "https://pypi.org/project/ipr-mcp-server/"
+}

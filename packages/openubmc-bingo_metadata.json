@@ -1,11 +1,11 @@
 {
   "name": "openubmc-bingo",
-  "version": "0.6.99",
+  "version": "0.6.103",
   "summary": "Tools provided by openubmc",
   "author": null,
   "license": null,
   "home_page": "https://openubmc.cn",
-  "download_filename": "openubmc_bingo-0.6.99-py3-none-any.whl",
-  "download_time": "2025-11-29T03:59:48.746781",
+  "download_filename": "openubmc_bingo-0.6.103-py3-none-any.whl",
+  "download_time": "2025-12-01T07:36:28.619770",
   "package_url": "https://pypi.org/project/openubmc-bingo/"
 }

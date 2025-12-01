@@ -1,11 +1,11 @@
 {
   "name": "ddb_single",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Python DynamoDB interface, specialized in single-table design.",
   "author": "medaka0213",
   "license": "MIT",
   "home_page": "https://medaka0213.github.io/DynamoDB-SingleTable/",
-  "download_filename": "ddb_single-0.6.0.tar.gz",
-  "download_time": "2025-11-28T11:27:49.646988",
+  "download_filename": "ddb_single-0.6.1.tar.gz",
+  "download_time": "2025-12-01T07:36:35.954517",
   "package_url": "https://pypi.org/project/ddb_single/"
 }
