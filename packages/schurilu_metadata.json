@@ -1,0 +1,11 @@
+{
+  "name": "schurilu",
+  "version": "0.1.0",
+  "summary": "NumPy/SciPy ILU and Schur-complement preconditioners for fair, reproducible Krylov baselines.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "schurilu-0.1.0.tar.gz",
+  "download_time": "2025-12-01T08:18:17.160363",
+  "package_url": "https://pypi.org/project/schurilu/"
+}

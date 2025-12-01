@@ -1,11 +1,11 @@
 {
   "name": "uipath-langchain",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "UiPath Langchain",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uipath_langchain-0.1.5.tar.gz",
-  "download_time": "2025-11-29T14:09:38.467564",
+  "download_filename": "uipath_langchain-0.1.6.tar.gz",
+  "download_time": "2025-12-01T08:18:40.645640",
   "package_url": "https://pypi.org/project/uipath-langchain/"
 }

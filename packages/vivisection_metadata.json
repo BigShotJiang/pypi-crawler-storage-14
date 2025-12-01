@@ -1,0 +1,11 @@
+{
+  "name": "vivisection",
+  "version": "1.1.0",
+  "summary": "Cross-section of GUI Reversing, Emulation and Debugging, with an emphasis on using Emulation and other powerful Vivisect toys to aid in Reverse Engineering and Vulnerability Research.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vivisection-1.1.0.tar.gz",
+  "download_time": "2025-12-01T08:18:46.728399",
+  "package_url": "https://pypi.org/project/vivisection/"
+}

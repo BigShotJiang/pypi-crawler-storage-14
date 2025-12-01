@@ -1,0 +1,11 @@
+{
+  "name": "spinepy",
+  "version": "0.0.3",
+  "summary": "Spine animation library Python bindings",
+  "author": "GuYeying",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spinepy-0.0.3.tar.gz",
+  "download_time": "2025-12-01T08:18:16.090152",
+  "package_url": "https://pypi.org/project/spinepy/"
+}

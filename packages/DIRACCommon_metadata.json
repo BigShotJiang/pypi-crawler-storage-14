@@ -1,0 +1,11 @@
+{
+  "name": "DIRACCommon",
+  "version": "9.0.11",
+  "summary": "Stateless utilities extracted from DIRAC for use by DiracX and other projects",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "diraccommon-9.0.11.tar.gz",
+  "download_time": "2025-12-01T08:18:32.301518",
+  "package_url": "https://pypi.org/project/DIRACCommon/"
+}

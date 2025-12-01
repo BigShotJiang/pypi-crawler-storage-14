@@ -1,11 +1,11 @@
 {
   "name": "bias-amplification",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "A library for measuring bias amplification in machine learning models",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bias_amplification-0.1.2.tar.gz",
-  "download_time": "2025-11-30T23:30:23.401046",
+  "download_filename": "bias_amplification-0.2.0.tar.gz",
+  "download_time": "2025-12-01T08:18:39.500112",
   "package_url": "https://pypi.org/project/bias-amplification/"
 }

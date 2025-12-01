@@ -1,11 +1,11 @@
 {
   "name": "ios-backup-browser",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Browser and exporter for iOS backups",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ios_backup_browser-0.1.1.tar.gz",
-  "download_time": "2025-11-26T11:37:51.392389",
+  "download_filename": "ios_backup_browser-0.1.2.tar.gz",
+  "download_time": "2025-12-01T08:18:37.239961",
   "package_url": "https://pypi.org/project/ios-backup-browser/"
 }

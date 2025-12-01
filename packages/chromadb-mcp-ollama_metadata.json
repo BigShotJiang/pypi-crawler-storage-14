@@ -1,11 +1,11 @@
 {
   "name": "chromadb-mcp-ollama",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Chroma MCP server with Ollama embedding configuration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chromadb_mcp_ollama-0.1.0.tar.gz",
-  "download_time": "2025-12-01T06:56:06.765998",
+  "download_filename": "chromadb_mcp_ollama-0.1.1.tar.gz",
+  "download_time": "2025-12-01T08:18:31.195841",
   "package_url": "https://pypi.org/project/chromadb-mcp-ollama/"
 }
