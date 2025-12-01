@@ -1,0 +1,11 @@
+{
+  "name": "ashlib",
+  "version": "1.0.0",
+  "summary": "Asheer's personal Python library - reusable utility functions to avoid repetitive code",
+  "author": "Asheer",
+  "license": null,
+  "home_page": "https://github.com/ItsAsheer/ashlib",
+  "download_filename": "ashlib-1.0.0.tar.gz",
+  "download_time": "2025-12-01T11:53:46.187089",
+  "package_url": "https://pypi.org/project/ashlib/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pygcprofiler",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "summary": "See Python's garbage collector in action without getting in its way. Zero-overhead GC monitoring for production applications.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pygcprofiler-0.3.5.tar.gz",
-  "download_time": "2025-11-30T05:11:36.078710",
+  "download_filename": "pygcprofiler-0.3.6.tar.gz",
+  "download_time": "2025-12-01T11:53:39.312018",
   "package_url": "https://pypi.org/project/pygcprofiler/"
 }

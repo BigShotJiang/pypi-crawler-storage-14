@@ -1,0 +1,11 @@
+{
+  "name": "fluffyrocket",
+  "version": "0.1.0",
+  "summary": "PyTorch implementation of MiniRocket with soft PPV",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fluffyrocket-0.1.0.tar.gz",
+  "download_time": "2025-12-01T11:53:45.676212",
+  "package_url": "https://pypi.org/project/fluffyrocket/"
+}

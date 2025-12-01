@@ -1,0 +1,11 @@
+{
+  "name": "accurpy",
+  "version": "0.2.3",
+  "summary": "Ultra-accurate and fast FM function evaluator with <4.5e-16 relative error",
+  "author": "AccurPy Authors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "accurpy-0.2.3.tar.gz",
+  "download_time": "2025-12-01T11:53:51.826818",
+  "package_url": "https://pypi.org/project/accurpy/"
+}

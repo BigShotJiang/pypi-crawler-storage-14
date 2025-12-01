@@ -1,20 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-01T11:41:07.765028
+- **Download Time**: 2025-12-01T11:54:09.881013
 - **Total Packages**: 64
-- **Total Size**: 44.35 MB
+- **Total Size**: 17.85 MB
 
 ## Packages List
+- chellow
+- ISPyPSA
+- cwl2nx
+- whenami
+- odoo-addon-stock-return-request
+- kuaijs-ios
+- pytron-kit
+- pygcprofiler
+- type_infer
+- dara-core
+- dara-components
+- create-dara-app
+- craft-parts
+- tencent-wedata-auto-ml
+- opensr-srgan
+- vgs-ita
+- spotoptim
+- goad-py
+- pyrig
+- fluffyrocket
+- ashlib
+- empathy-framework
+- arsc
+- unifiedaiservices
+- pycmd2
+- orca-descriptors
+- wowicache
+- frago-cli
+- sirs-import
+- sapiens-cpu
+- accurpy
+- wigglystuff
+- judge0-client
+- bluer-ugv
+- dataiku-api-client
+- aimodelshare
+- qmake2cmake
+- comfyui-workflow-templates
+- perfact-zodbsync
 - json-structure
 - eL-tfgen
 - biblemategui
 - zeroquant-sdk
 - di-flask
 - pipelex
-- dara-core
-- dara-components
-- create-dara-app
 - rds-ops-kit
 - uncertainty-engine-types
 - x123pan
@@ -31,42 +67,6 @@
 - eida-statistics-aggregator
 - async-decorator
 - fliser
-- judge0-client
 - science-ocr
 - c2cgeoportal-admin
 - c2cgeoportal-geoportal
-- c2cgeoportal-commons
-- everycure-datasets
-- mmar-utils
-- edwh-migrate
-- sentineltoolbox
-- aimodelshare
-- langevals-ragas
-- tianshou
-- ionix
-- langevals-presidio
-- mcli-framework
-- langevals-openai
-- langevals-lingua
-- langevals-legacy
-- pyrig
-- langevals-langevals
-- hugr-qir
-- langevals-huggingface
-- langevals-example
-- langevals-azure
-- langevals-core
-- InsarViz
-- pytemporal
-- chellow
-- safenax
-- drf-spectacular-sidecar
-- fundamend
-- investing-algorithm-framework
-- onchaindb
-- autowsgr
-- textual-golden
-- lussac
-- rose-pine-jupyterlab
-- unifiedbooster
-- muffin-admin

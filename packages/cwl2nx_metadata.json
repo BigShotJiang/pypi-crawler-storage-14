@@ -1,11 +1,11 @@
 {
   "name": "cwl2nx",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "summary": "Lightweight python module to load, validate and visualize CWL (Common Workflow Language) files through networkx graphs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cwl2nx-0.0.12.tar.gz",
-  "download_time": "2025-11-27T13:42:47.005980",
+  "download_filename": "cwl2nx-0.0.13.tar.gz",
+  "download_time": "2025-12-01T11:53:36.478418",
   "package_url": "https://pypi.org/project/cwl2nx/"
 }

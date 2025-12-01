@@ -1,11 +1,11 @@
 {
   "name": "judge0-client",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Simple Judge0 client for Python",
   "author": "Pavel Roslovets",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "judge0_client-0.1.0.tar.gz",
-  "download_time": "2025-12-01T11:40:46.245359",
+  "download_filename": "judge0_client-0.1.1.tar.gz",
+  "download_time": "2025-12-01T11:53:52.855771",
   "package_url": "https://pypi.org/project/judge0-client/"
 }
